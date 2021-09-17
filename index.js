@@ -1,10 +1,15 @@
 const os = require("os");
 const express = require("express");
+const { Deta } = require("deta");
 
 require("dotenv").config();
+
 const catchup = require("./catchup");
 
 const app = express();
+
+const deta = Deta(process.env.DETA_PROJECT_KEY);
+const db = deta.Base(process.env.DATABASE_NAME);
 
 // Static files
 app.use("/public", express.static(__dirname + "/public"));
@@ -26,16 +31,13 @@ app.get("/robots.txt", (req, res) => {
 	res.sendFile(__dirname + "/public/robots.txt");
 });
 
-app.get("/api/catchUpLink", (req, res) => {
-	let config = catchup.loadConfig();
-	res.send({
-		catchUpLink: config.catchUpLink,
-		lastUpdated: config.lastUpdated
-	});
+app.get("/api/catchUpLink", async (req, res) => {
+	const config = await db.get(process.env.DATABASE_OBJ_KEY);
+	res.send(config.value);
 });
 
 function auth(req, res) {
-	let authHeader = req.headers.authorization;
+	const authHeader = req.headers.authorization;
 
 	if (!authHeader) {
 		res.status(401);
@@ -64,31 +66,33 @@ function auth(req, res) {
 	}
 }
 
-app.post("/api/catchUpLink", (req, res) => {
+app.post("/api/catchUpLink", async (req, res) => {
 	if (!auth(req, res)) return;
 
-	let config = catchup.loadConfig();
-	let link = req.body.catchUpLink;
+	const link = req.body.catchUpLink;
 
 	try {
-		let url = new URL(link);
+		const url = new URL(link);
 	} catch (e) {
 		res.status(400).send({
 			error: `Error: Could not set CatchUp link ${link}: ${e.message}`
 		});
 		return;
 	}
-
+	let config = {};
 	config.catchUpLink = link;
 	config.lastUpdated = new Date().toISOString();
+	config = JSON.stringify(config);
 
-	catchup.saveConfig(config);
+	await db.put(config, process.env.DATABASE_OBJ_KEY);
 
 	res.send(`Meet link changed to ${link}.`);
 });
 
-app.get("/attend", (req, res) => {
-	let config = catchup.loadConfig();
+app.get("/attend", async (req, res) => {
+	let config = await db.get(process.env.DATABASE_OBJ_KEY);
+	config = JSON.parse(config.value);
+
 	res.redirect(config.catchUpLink);
 });
 
