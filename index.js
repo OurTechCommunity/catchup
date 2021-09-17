@@ -4,8 +4,6 @@ const { Deta } = require("deta");
 
 require("dotenv").config();
 
-const catchup = require("./catchup");
-
 const app = express();
 
 const deta = Deta(process.env.DETA_PROJECT_KEY);
