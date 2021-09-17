@@ -1,3 +1,5 @@
-# catchup-back-end
+# catchup
 
-OTC CatchUp back end.
+The OTC CatchUp web site.
+
+Hosted at [catchup.ourtech.community](https://catchup.ourtech.community).
