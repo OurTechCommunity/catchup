@@ -1,7 +1,7 @@
 # Welcome, Contributors! 😃
 
 -   Please check the [issues tab](https://github.com/OurTechCommunity/catchup/issues) for things to work on.
--   Please raise an issue for adding add new features or for reporting bugs, if it has not already been raised.
+-   Please raise an [issue](https://github.com/OurTechCommunity/catchup/issues) for adding a new feature or for reporting a bug, if it has not already been raised.
 
 ## Tech Stack
 
@@ -28,4 +28,4 @@
 
 ## Further Help
 
-If any further help is needed, do not hesitate to contact the owner (Harsh Kapadia) via [OTC](https://ourtech.community), [Twitter](https://twitter.com/harshgkapadia), [LinkedIn](https://www.linkedin.com/in/harshgkapadia/) or e-mail (harshgkapadia@gmail.com). An [issue](https://github.com/OurTechCommunity/catchup/issues) can be raised as well.
+If any further help is needed, do not hesitate to contact the organiser (Harsh Kapadia) via [OTC's Telegram](https://t.me/OurTechComm), [Twitter @harshgkapadia](https://twitter.com/harshgkapadia), [LinkedIn](https://www.linkedin.com/in/harshgkapadia/) or e-mail ([harshgkapadia@gmail.com](mailto:harshgkapadia@gmail.com)). An [issue](https://github.com/OurTechCommunity/web-site/issues) can be raised as well.
