@@ -88,10 +88,20 @@ app.post("/api/catchUpLink", async (req, res) => {
 });
 
 app.get("/attend", async (req, res) => {
-	let config = await db.get(process.env.DATABASE_OBJ_KEY);
-	config = JSON.parse(config.value);
+	let date = new Date(
+		new Date().toLocaleString("en-US", { timeZone: "Asia/Kolkata" })
+	);
+	let day = date.getDay();
 
-	res.redirect(config.catchUpLink);
+	let redirectUrl = process.env.DEFAULT_REDIRECT_URL || "/";
+	// 6 is Saturday, 0 is Sunday
+	if (day == 6 || day == 0) {
+		let config = await db.get(process.env.DATABASE_OBJ_KEY);
+		config = JSON.parse(config.value);
+		redirectUrl = config.catchUpLink;
+	}
+
+	res.redirect(redirectUrl);
 });
 
 module.exports = app;
