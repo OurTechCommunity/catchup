@@ -93,9 +93,9 @@ app.get("/attend", async (req, res) => {
 	);
 	let day = date.getDay();
 
-	let redirectUrl = process.env.DEFAULT_REDIRECT_URL ?? "/";
+	let redirectUrl = process.env.DEFAULT_REDIRECT_URL || "/";
 	// 6 is Saturday, 0 is Sunday
-	if (day == 1 || day == 0) {
+	if (day == 6 || day == 0) {
 		let config = await db.get(process.env.DATABASE_OBJ_KEY);
 		config = JSON.parse(config.value);
 		redirectUrl = config.catchUpLink;
