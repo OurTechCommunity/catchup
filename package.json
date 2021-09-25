@@ -1,5 +1,5 @@
 {
-  "name": "catchup-back-end",
+  "name": "catchup",
   "version": "1.0.0",
   "description": "OTC CatchUp back end.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OurTechCommunity/catchup-back-end.git"
+    "url": "git+https://github.com/OurTechCommunity/catchup.git"
   },
   "keywords": [
     "OTC",
@@ -17,9 +17,9 @@
   "author": "Harsh Kapadia <harshgkapadia@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OurTechCommunity/catchup-back-end/issues"
+    "url": "https://github.com/OurTechCommunity/catchup/issues"
   },
-  "homepage": "https://github.com/OurTechCommunity/catchup-back-end#readme",
+  "homepage": "https://github.com/OurTechCommunity/catchup#readme",
   "dependencies": {
     "deta": "^1.0.0",
     "dotenv": "^10.0.0",
