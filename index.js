@@ -91,11 +91,12 @@ app.get("/attend", async (req, res) => {
 	let date = new Date(
 		new Date().toLocaleString("en-US", { timeZone: "Asia/Kolkata" })
 	);
-	let day = date.getDay();
 
+	let day = date.getDay(); // 6 is Saturday, 0 is Sunday
 	let redirectUrl = process.env.DEFAULT_REDIRECT_URL || "/";
-	// 6 is Saturday, 0 is Sunday
-	if (day == 6 || day == 0) {
+
+	if (day === 6 || day === 0) {
+		// 6 is Saturday, 0 is Sunday
 		let config = await db.get(process.env.DATABASE_OBJ_KEY);
 		config = JSON.parse(config.value);
 		redirectUrl = config.catchUpLink;
@@ -108,7 +109,7 @@ module.exports = app;
 
 // Listening port
 if (!process.env.DETA_RUNTIME) {
-	const PORT = process.env.PORT ?? 5000;
+	const PORT = process.env.PORT || 5000;
 	app.listen(PORT, (err) => {
 		if (err) console.log(err);
 		else console.log(`Server started on port ${PORT}...`);
