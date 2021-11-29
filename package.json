@@ -1,31 +1,31 @@
 {
-  "name": "catchup",
-  "version": "1.0.0",
-  "description": "OTC CatchUp back end.",
-  "main": "index.js",
-  "scripts": {
-    "test": "nodemon index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/OurTechCommunity/catchup.git"
-  },
-  "keywords": [
-    "OTC",
-    "CatchUp"
-  ],
-  "author": "Harsh Kapadia <harshgkapadia@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/OurTechCommunity/catchup/issues"
-  },
-  "homepage": "https://github.com/OurTechCommunity/catchup#readme",
-  "dependencies": {
-    "deta": "^1.0.0",
-    "dotenv": "^10.0.0",
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.12"
-  }
+	"name": "catchup",
+	"version": "1.0.0",
+	"description": "OTC CatchUp back end.",
+	"main": "index.js",
+	"scripts": {
+		"test": "sh summary/build.sh && nodemon index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/OurTechCommunity/catchup.git"
+	},
+	"keywords": [
+		"OTC",
+		"CatchUp"
+	],
+	"author": "Harsh Kapadia <harshgkapadia@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/OurTechCommunity/catchup/issues"
+	},
+	"homepage": "https://github.com/OurTechCommunity/catchup#readme",
+	"dependencies": {
+		"deta": "^1.0.0",
+		"dotenv": "^10.0.0",
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.12"
+	}
 }

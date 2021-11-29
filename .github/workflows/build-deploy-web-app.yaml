@@ -1,4 +1,4 @@
-name: Deploy to Deta
+name: Build and deploy web app
 on:
     push:
         branches:
@@ -6,6 +6,7 @@ on:
         paths:
             - ".github/workflows/**"
             - "public/**"
+            - "summary/**"
             - "index.js"
             - "package-lock.json"
             - "package.json"
@@ -15,6 +16,7 @@ on:
         paths:
             - ".github/workflows/**"
             - "public/**"
+            - "summary/**"
             - "index.js"
             - "package-lock.json"
             - "package.json"
@@ -24,15 +26,21 @@ jobs:
     deploy:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v2
+            - name: Checkout code
+              uses: actions/checkout@v2
 
-            - name: Remove unnecessary files
+            - name: Only keep relevant files
               run: |
                   # Delete all old files
                   rm -rf ./*
 
                   # Get latest files
-                  git restore -s main public index.js package-lock.json package.json
+                  git restore -s main public summary index.js package-lock.json package.json
+
+            - name: Build Asciidoctor site
+              run: |
+                  sh summary/build.sh
+                  rm -rf summary
 
             - name: Deploy to Deta
               uses: BogDAAAMN/deta-deploy-action@v1.0.1

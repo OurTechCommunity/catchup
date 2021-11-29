@@ -34,6 +34,10 @@ app.get("/api/catchUpLink", async (req, res) => {
 	res.send(config.value);
 });
 
+app.get("/summary", (req, res) => {
+	res.sendFile(__dirname + "/public/html/summary.html");
+});
+
 function auth(req, res) {
 	const authHeader = req.headers.authorization;
 

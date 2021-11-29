@@ -5,7 +5,7 @@
 
 ## Tech Stack
 
--   Front end: HTML, CSS (vanilla)
+-   Front end: HTML, CSS, JS, Asciidoctor
 -   Back end: Express.js, [Deta Micro](https://docs.deta.sh/docs/home/#deta-micros), [Deta Base](https://docs.deta.sh/docs/home/#deta-base)
 
 ## Local Setup
@@ -13,8 +13,11 @@
 -   Fork this repo. (Top right corner.)
 -   Clone the forked repo using the [`git clone`](https://harshkapadia2.github.io/git_basics/#_git_clone) command.
 -   `cd` into the cloned repo directory.
--   Run `npm install` to install all dependencies.
--   Use the command `npm run test` to start a hot reload server and the web app should be accessible on `localhost:<port>`. (The port will appear in the server console.)
+-   Run `npm install` in the root directory of the project to install all dependencies.
+-   Run `npm run test` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary) and start a hot reload server. The web app should be accessible on `localhost:<port>`. (The port will appear in the server console.)
+-   The summary site uses a Static Site Generator called [Asciidoctor](https://asciidoctor.org).
+    -   Run `sh summary/build.sh` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary).
+    -   The site should be accessible at `localhost:<port>/summary` after running `npm run test` in the root directory of the project. (The port will appear in the server console.)
 -   Make contribution(s)
 
     -   Write meaningful commit messages and include the number (`#`) of the issue being resolved (if any) at the end of the commit message.
@@ -28,4 +31,4 @@
 
 ## Further Help
 
-If any further help is needed, do not hesitate to contact the organiser (Harsh Kapadia) via [OTC's Telegram](https://t.me/OurTechComm), [Twitter @harshgkapadia](https://twitter.com/harshgkapadia), [LinkedIn](https://www.linkedin.com/in/harshgkapadia/) or e-mail ([harshgkapadia@gmail.com](mailto:harshgkapadia@gmail.com)). An [issue](https://github.com/OurTechCommunity/web-site/issues) can be raised as well.
+If any further help is needed, do not hesitate to contact the organiser ([Harsh Kapadia](https://harshkapadia.me)) via [OTC's Telegram](https://t.me/OurTechComm), [Twitter @harshgkapadia](https://twitter.com/harshgkapadia), [LinkedIn](https://www.linkedin.com/in/harshgkapadia) or e-mail ([harsh@ourtech.community](mailto:harsh@ourtech.community)). An [issue](https://github.com/OurTechCommunity/web-site/issues) can be raised as well.

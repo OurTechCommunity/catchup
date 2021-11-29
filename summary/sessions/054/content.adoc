@@ -1,0 +1,30 @@
+Date: 20-11-2021
+
+Duration: 6 hrs 30 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked for blog template suggestions.
+	** link:https://twitter.com/omtalk[Omkar Khair^] suggested link:https://jekyllrb.com[Jekyll^].
+	** link:https://twitter.com/skxrxn[Sreekaran Srinath^] suggested link:https://gohugo.io[Hugo^].
+	** link:https://twitter.com/fabcodingzest[Fabeha Rizvi^] suggested link:https://www.gatsbyjs.com[Gatsby^].
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] suggested moving away from link:https://disqus.com[Disqus^] for handling comments under a blog and using link:https://commento.io[Commento^]. link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested link:https://fogine.dev/blog/using-github-issues-for-blog-comments[using GitHub Issues as a blog's comment section^].
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] asked why link:https://twitter.com/harshgkapadia[Harsh Kapadia^] was not using Hashnode's blog service for his blog and Harsh and link:https://twitter.com/omtalk[Omkar Khair^] talked about owning one's content and being able to experiment with it. Omkar also shared link:https://www.hanselman.com/blog/your-words-are-wasted[a good article on this^].
+* link:https://twitter.com/omtalk[Omkar Khair^] shared a blog that is run on a computer that is powered by solar energy. (link:https://solar.lowtechmagazine.com[The blog^])
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how Cloudflare launched a full stack service using which users can build and deploy full stack web apps using Cloudflare Pages. (link:https://blog.cloudflare.com/cloudflare-pages-goes-full-stack[Cloudflare's blog on going full stack.^])
+* link:https://twitter.com/omtalk[Omkar Khair^] explained how DNS Amplification DDoS attacks don't affect Cloudflare as much. (link:https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack[Cloudflare's blog on it.^])
+* There was a discussion about Apple starting Self Service Repair. (link:https://twitter.com/MKBHD/status/1460976089933787140[More on it.^])
+* link:https://twitter.com/omtalk[Omkar Khair^] explained how huge organisations take a lot of time to implement ideas and the numerous steps involved in getting something in production.
+* A paper on link:https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms[Bypassing XSS Detection Mechanisms^] was shared.
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] talked about his work at link:https://www.gupshup.io[Gupshup^] involving the implementation of link:https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/about-change-data-capture-sql-server?view=sql-server-ver15[Change Data Capture (CDC)^] and cross-joining of data from different sources in an Apache Kafka topic.
+* We also talked about PCB design, Blinky circuit and link:https://en.wikipedia.org/wiki/Electronic_design_automation[EDA tools^].
+* link:https://twitter.com/kaku_jay[Jay Kaku^] asked which FPGA should a beginner buy and link:https://twitter.com/omtalk[Omkar Khair^] suggested buying the cheapest one, as there are high chances of it getting burnt while experimenting with it.
+* There was a discussion about link:https://gizmodo.com/google-suggests-stadia-will-somehow-achieve-negative-la-1838928452[Stadia aiming to achieve 'Negative Latency'^] and that lead to talking about link:https://www.techopedia.com/definition/18062/branch-prediction[Branch Prediction^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://twitter.com/_syadav[Sudhanshu Yadav^]'s link:https://www.youtube.com/channel/UCbZKTtt6Pt5xPoc5-D2di3w[The Internals^] YouTube channel where he goes into the internals of various Web technologies. He is hosting another link:https://twitter.com/_syadav/status/1461970405569171457['The Internals' meetup on December 11^]. Do attend!
+* An amazing link:https://twitter.com/_syadav/status/1425116387362570256[thread on Cookies by Sudhanshu Yadav^] was shared.
+
+==== Projects Showcased
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his portfolio. (link:https://harshkapadia.me[Web site^] | link:https://github.com/HarshKapadia2/portfolio-v2[GitHub^])
+* link:https://twitter.com/tanay_texplorer[Tanay Kamath^] showcased _KBlock_, a call blocker Android app he built in Kotlin. (link:https://github.com/2tanayk/KBlock[GitHub^])
