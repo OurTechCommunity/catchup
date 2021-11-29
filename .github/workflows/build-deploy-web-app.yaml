@@ -25,6 +25,7 @@ on:
 jobs:
     deploy:
         runs-on: ubuntu-latest
+        container: "docker://asciidoctor/docker-asciidoctor:latest"
         steps:
             - name: Checkout code
               uses: actions/checkout@v2
