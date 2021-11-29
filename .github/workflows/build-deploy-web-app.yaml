@@ -1,0 +1,43 @@
+name: Deploy to Deta
+on:
+    push:
+        branches:
+            - main
+        paths:
+            - ".github/workflows/**"
+            - "public/**"
+            - "index.js"
+            - "package-lock.json"
+            - "package.json"
+    pull_request:
+        branches:
+            - main
+        paths:
+            - ".github/workflows/**"
+            - "public/**"
+            - "index.js"
+            - "package-lock.json"
+            - "package.json"
+    workflow_dispatch:
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+
+            - name: Remove unnecessary files
+              run: |
+                  # Delete all old files
+                  rm -rf ./*
+
+                  # Get latest files
+                  git restore -s main public index.js package-lock.json package.json
+
+            - name: Deploy to Deta
+              uses: BogDAAAMN/deta-deploy-action@v1.0.1
+              with:
+                  deta-access-token: ${{ secrets.DETA_TOKEN }}
+                  deta-name: catchup
+                  deta-project: otc
+                  deta-project-dir: "."
