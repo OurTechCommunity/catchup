@@ -21,6 +21,7 @@ link:https://catchup.ourtech.community[OTC CatchUps^] are weekly informal sessio
 
 == Summaries
 
+[#55]
 === OTC CatchUp #55
 
 include::sessions/055/content.adoc[]
@@ -33,6 +34,7 @@ image::055.jpg[alt="Meet screenshot", 600, 600]
 
 '''
 
+[#54]
 === OTC CatchUp #54
 
 include::sessions/054/content.adoc[]
