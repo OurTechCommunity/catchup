@@ -14,7 +14,7 @@ Duration: 13 hrs 38 mins
 	** An example project: link:https://www.youtube.com/watch?v=mN5JWQUfrxY[8x8x8 LED Cube^]
 * link:https://twitter.com/skxrxn[Sreekaran Srinath^] had issues hosting his blog that link:https://twitter.com/harshgkapadia[Harsh Kapadia^] solved. It was due to a GitHub Pages misconfiguration. Sreekaran eventually moved on to Netlify after Vercel and GitHub Pages did not work out smoothly for him.
 * link:https://twitter.com/ishandeveloper[Ishan Sharma^] demonstrated link:https://snapcamera.snapchat.com[Snap Camera by Snapchat^].
-* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked for opinions on some changes made to his portfolio by link:https://twitter.com/tusharnankanii[Tushar Nankani^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked for opinions on link:https://github.com/HarshKapadia2/portfolio-v2/pull/4[some changes^] made to his portfolio by link:https://twitter.com/tusharnankanii[Tushar Nankani^].
 * link:https://www.thoughtco.com/kirchhoffs-laws-for-current-and-voltage-2698910[Kirchoff's Current and Voltage Laws^] were talked about, various rules (link:https://www.teachoo.com/10707/3113/Right-Hand--Left-Hand--Thumb-Rule---Compared/category/Concepts[Fleming's Right and Left Hand Rules, Maxwell's Right Hand Thumb Rule^], etc) were discussed and link:https://en.wikipedia.org/wiki/P%E2%80%93n_junction[P-N Junctions^] were also talked about.
 * We went off on a tangent and talked about City Planning for quite some time. Surprisingly, it was an interesting conversation!
 * link:https://twitter.com/omtalk[Omkar Khair^] and link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] reminisced about old technology that they used to use.
