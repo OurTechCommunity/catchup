@@ -15,10 +15,11 @@
 -   `cd` into the cloned repo directory.
 -   Run `npm install` in the root directory of the project to install all dependencies.
 -   [Install Asciidoctor.](https://asciidoctor.org/#installation)
--   Run `npm run test` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary) and start a hot reload server. The web app should be accessible on `localhost:<port>`. (The port will appear in the server console.)
+-   Run `npm run test` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary) once and start a hot reload server. The web app should be accessible on `http://localhost:<port>`. (The port will appear in the server console.)
 -   The summary site uses a Static Site Generator called [Asciidoctor](https://asciidoctor.org).
     -   Run `sh summary/build.sh` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary).
-    -   The site should be accessible at `localhost:<port>/summary` after running `npm run test` in the root directory of the project. (The port will appear in the server console.)
+    -   The site should be accessible at `http://localhost:<port>/summary` or `http://localhost:<port>/summary/<summary_number>` after running `npm run test` in the root directory of the project. (The port will appear in the server console.)
+        -   The `npm run test` builds the summary site just once, so for further Asciidoctor changes to reflect, the command will have to be run again.
 -   Make contribution(s)
 
     -   Write meaningful commit messages and include the number (`#`) of the issue being resolved (if any) at the end of the commit message.
