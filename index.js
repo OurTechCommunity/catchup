@@ -1,4 +1,5 @@
 const os = require("os");
+const fs = require("fs");
 const express = require("express");
 const { Deta } = require("deta");
 
@@ -35,7 +36,24 @@ app.get("/api/catchUpLink", async (req, res) => {
 });
 
 app.get("/summary", (req, res) => {
-	res.sendFile(__dirname + "/public/html/summary.html");
+	res.sendFile(__dirname + "/public/html/summary/combined-summary.html");
+});
+
+app.get("/summary/:catchupNumber", (req, res) => {
+	let catchupNumber = req.params.catchupNumber;
+
+	if (isNaN(parseInt(catchupNumber))) {
+		res.end("Invalid CatchUp Number");
+		return;
+	}
+
+	if (catchupNumber.length === 1) catchupNumber = "00" + catchupNumber;
+	if (catchupNumber.length === 2) catchupNumber = "0" + catchupNumber;
+
+	const path = __dirname + `/public/html/summary/${catchupNumber}.html`;
+
+	if (fs.existsSync(path)) res.sendFile(path);
+	else res.end("Invalid CatchUp Number");
 });
 
 function auth(req, res) {
@@ -116,6 +134,9 @@ if (!process.env.DETA_RUNTIME) {
 	const PORT = process.env.PORT || 5000;
 	app.listen(PORT, (err) => {
 		if (err) console.log(err);
-		else console.log(`Server started on port ${PORT}...`);
+		else
+			console.log(
+				`Server started on port ${PORT}...\nAccess the web app at http://localhost:${PORT}`
+			);
 	});
 }

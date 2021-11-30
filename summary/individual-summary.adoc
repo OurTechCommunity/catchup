@@ -1,0 +1,50 @@
+= OTC CatchUp Summary
+Our Tech Community
+v1
+:favicon:					https://raw.githubusercontent.com/OurTechCommunity/web-site/main/static/img/favicon.ico
+:imagesdir: 				../public/img/summary
+:icons:     				image
+:iconsdir:					../public/img/summary/admonition_icons
+:sectanchors:
+:docinfo: 					private-head
+:catchup_number:			000
+:catchup_display_number:	0
+
+NOTE: For all summaries, please visit link:https://catchup.ourtech.community/summary[catchup.ourtech.community/summary].
+
+'''
+
+== OTC CatchUp
+
+link:https://catchup.ourtech.community[OTC CatchUps^] are weekly informal sessions involving project showcases and technical discussions. They are held every Saturday from 10:30 PM IST via Google Meet. link:https://catchup.ourtech.community/attend[Join in!^]
+
+'''
+
+=== OTC CatchUp #{catchup_display_number} Summary
+
+include::sessions/{catchup_number}/content.adoc[]
+
+include::sessions/{catchup_number}/attendees.adoc[]
+
+image::{catchup_number}.jpg[alt="Meet screenshot", 600, 600]
+
+'''
+
+NOTE: For all summaries, please visit link:https://catchup.ourtech.community/summary[catchup.ourtech.community/summary].
+
+'''
+
+[quote, Robert Ingersoll]
+We rise by lifting others.
+
+[quote, Selena Gomez]
+Kindness always wins.
+
+[quote, Helen Keller]
+Alone we can do so little; together we can do so much.
+
+'''
+
+++++
+<button class="btn hidden back-to-top-btn" aria-label="Scroll to top"><img src="../public/img/summary/up-arrow.svg" alt="Top"></button>
+++++

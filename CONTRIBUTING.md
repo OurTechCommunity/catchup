@@ -14,6 +14,7 @@
 -   Clone the forked repo using the [`git clone`](https://harshkapadia2.github.io/git_basics/#_git_clone) command.
 -   `cd` into the cloned repo directory.
 -   Run `npm install` in the root directory of the project to install all dependencies.
+-   [Install Asciidoctor.](https://asciidoctor.org/#installation)
 -   Run `npm run test` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary) and start a hot reload server. The web app should be accessible on `localhost:<port>`. (The port will appear in the server console.)
 -   The summary site uses a Static Site Generator called [Asciidoctor](https://asciidoctor.org).
     -   Run `sh summary/build.sh` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary).
