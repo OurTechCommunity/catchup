@@ -40,7 +40,7 @@ jobs:
 
             - name: Build Asciidoctor site
               run: |
-                  sh summary/build.sh
+                  summary/build.sh
                   rm -rf summary
 
             - name: Deploy to Deta
