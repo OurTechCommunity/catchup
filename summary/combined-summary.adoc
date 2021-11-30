@@ -11,23 +11,41 @@ v1
 
 '''
 
+NOTE: For older summaries, please visit link:https://twitter.com/OurTechComm[our Twitter account (@OurTechComm)^].
+
+'''
+
 == OTC CatchUp
 
 link:https://catchup.ourtech.community[OTC CatchUps^] are weekly informal sessions involving project showcases and technical discussions. They are held every Saturday from 10:30 PM IST via Google Meet. link:https://catchup.ourtech.community/attend[Join in!^]
 
 == Summaries
 
-=== #54
+=== OTC CatchUp #55
+
+include::sessions/055/content.adoc[]
+
+include::sessions/055/attendees.adoc[]
+
+==== Meet Screenshot
+
+image::055.jpg[alt="Meet screenshot", 600, 600]
+
+'''
+
+=== OTC CatchUp #54
 
 include::sessions/054/content.adoc[]
 
 include::sessions/054/attendees.adoc[]
 
+==== Meet Screenshot
+
 image::054.jpg[alt="Meet screenshot", 600, 600]
 
 '''
 
-For older summaries, please visit link:https://twitter.com/OurTechComm[our Twitter account (@OurTechComm)^].
+NOTE: For older summaries, please visit link:https://twitter.com/OurTechComm[our Twitter account (@OurTechComm)^].
 
 '''
 

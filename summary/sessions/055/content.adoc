@@ -1,0 +1,41 @@
+Date: 27-11-2021
+
+Duration: 13 hrs 38 mins
+
+==== Topics Discussed
+
+* General introductions.
+* We had a long discussion on NFTs and their usecase in the Art world. Most people were of the opinion that they are more for bragging rights than anything else.
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] and link:https://twitter.com/omtalk[Omkar Khair^] explained a few things about LEDs.
+	** Addressable LEDs.
+	** Different types of pins in LEDs. (Three and four pin LEDs.)
+	** link:https://www.arrow.com/en/research-and-events/articles/protocol-for-the-ws2812b-programmable-led[Protocols for programmable LEDs.^]
+	** The use of link:https://learn.sparkfun.com/tutorials/pulse-width-modulation/all[Pulse Width Modulation^] to regulate the colour of the LEDs and when to switch them on and off.
+	** An example project: link:https://www.youtube.com/watch?v=mN5JWQUfrxY[8x8x8 LED Cube^]
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] had issues hosting his blog that link:https://twitter.com/harshgkapadia[Harsh Kapadia^] solved. It was due to a GitHub Pages misconfiguration. Sreekaran eventually moved on to Netlify after Vercel and GitHub Pages did not work out smoothly for him.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] demonstrated link:https://snapcamera.snapchat.com[Snap Camera by Snapchat^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked for opinions on some changes made to his portfolio by link:https://twitter.com/tusharnankanii[Tushar Nankani^].
+* link:https://www.thoughtco.com/kirchhoffs-laws-for-current-and-voltage-2698910[Kirchoff's Current and Voltage Laws^] were talked about, various rules (link:https://www.teachoo.com/10707/3113/Right-Hand--Left-Hand--Thumb-Rule---Compared/category/Concepts[Fleming's Right and Left Hand Rules, Maxwell's Right Hand Thumb Rule^], etc) were discussed and link:https://en.wikipedia.org/wiki/P%E2%80%93n_junction[P-N Junctions^] were also talked about.
+* We went off on a tangent and talked about City Planning for quite some time. Surprisingly, it was an interesting conversation!
+* link:https://twitter.com/omtalk[Omkar Khair^] and link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] reminisced about old technology that they used to use.
+	** Old authentication protocols such as link:https://ldap.com[LDAP^] and link:https://www.cloudflare.com/learning/access-management/what-is-saml[SAML^] have been been replaced by link:https://www.oauth.com[OAuth^] for link:https://www.cloudflare.com/learning/access-management/what-is-sso[SSO^].
+	** link:https://www.networkworld.com/article/2256641/microsoft-groove-jumps-onto-sharepoint-bandwagon.html[Groove was renamed as Microsoft SharePoint and was bundled as a part of Office 2010.^]
+		*** Omkar told us about times when he had seen Microsoft employees come in to customer's offices to replace link:https://dllfile.net/#:~:text=about%20DLL%20files%20%2D-,What%20is%20a%20DLL%20file%3F,-A%20DLL%20file[DLLs^] in the software to make it work past its limitations.
+	** Omkar showcased his link:https://www.forcepoint.com/cyber-edu/thin-client[Thin Client^]: link:https://www.minidis.com/ebox3300[eBox 3310^].
+	** link:https://en.wikipedia.org/wiki/Xrdp[XRDP^] was also discussed.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] asked for advice on his future plans, job, work hours and slight Imposter Syndrome feeling.
+* link:https://twitter.com/omtalk[Omkar Khair^] and link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] gave us a lot of extremely helpful philosophical advice. Some of the resources shared in the course of that chat:
+	** How to take constructive criticism and not let your ego come in the way.
+	** How to not let one's love for something let oneself become delusional about it or too attached to it, because it will eventually lead to failure.
+	** link:https://www.youtube.com/watch?v=Vhh_GeBPOhs[Steve Ballmer chanting "Developers, Developers, Developers"^]
+	** link:https://www.youtube.com/watch?v=v9d3wp2sGPI[Steve Ballmer on His Biggest Regret^]
+	** link:https://www.youtube.com/watch?v=eywi0h_Y5_U[Ballmer Laughs at iPhone^]
+	** link:https://www.youtube.com/watch?v=9-F139UX94A[Steve Ballmer and Guy Kawasaki interview^]
+	** Books suggested
+		*** link:https://staffeng.com/book[Staff Engineer by Will Larson^]
+		*** link:https://www.amazon.in/Managers-Path-Leaders-Navigating-Growth/dp/9352135474[The Managers Path by Camille Fournier^]
+		*** link:https://news.microsoft.com/hitrefresh[Hit Refresh by Satya Nadella^]
+
+==== Projects Showcased
+
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] showcased his hardware project using which he had made two games (Car Racer and Frog). He had used a link:https://www.raspberrypi.org[Raspberry Pi^] with a link:https://www.raspberrypi.com/products/sense-hat[Sense HAT^] mounted on it.
