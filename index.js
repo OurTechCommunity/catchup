@@ -115,7 +115,7 @@ app.get("/attend", async (req, res) => {
 	);
 
 	let day = date.getDay(); // 6 is Saturday, 0 is Sunday
-	let redirectUrl = process.env.DEFAULT_REDIRECT_URL || "/";
+	let redirectUrl = "/?isCatchUpOn=false";
 
 	if (day === 6 || day === 0) {
 		// 6 is Saturday, 0 is Sunday

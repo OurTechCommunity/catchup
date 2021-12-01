@@ -36,6 +36,25 @@ h2 {
 	font-size: clamp(20px, 2vw, 25px);
 }
 
+.hidden {
+	display: none;
+}
+
+a {
+	text-decoration-thickness: 1px;
+	text-underline-offset: 4px;
+}
+
+.error-msg {
+	color: yellow;
+	margin: 2em 0.5em 0 0.5em;
+	text-align: center;
+}
+
+.error-msg a {
+	color: yellow;
+}
+
 #cta-wrapper {
 	margin: 10em 0 5em 0;
 }
