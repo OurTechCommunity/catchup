@@ -60,7 +60,7 @@ app.get("/img", (req, res) => {
 	const fileBuffer = fs.readFileSync(
 		__dirname + `/public/img/summary/054.jpg`
 	);
-	res.setHeader("Content-Type", "image/jpg");
+	// res.setHeader("Content-Type", "image/jpg");
 	res.send(Buffer.from(fileBuffer));
 });
 
