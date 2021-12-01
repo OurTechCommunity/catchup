@@ -41,6 +41,7 @@ app.get("/summary", (req, res) => {
 
 app.get("/summary/:catchupNumber", (req, res) => {
 	let catchupNumber = req.params.catchupNumber;
+	const originalCatchUpNumber = catchupNumber;
 
 	if (isNaN(parseInt(catchupNumber))) {
 		res.end("Invalid CatchUp Number");
@@ -52,8 +53,14 @@ app.get("/summary/:catchupNumber", (req, res) => {
 
 	const path = __dirname + `/public/html/summary/${catchupNumber}.html`;
 
-	if (fs.existsSync(path)) res.sendFile(path);
-	else res.end("Invalid CatchUp Number");
+	if (fs.existsSync(path)) {
+		if (
+			originalCatchUpNumber.length === 1 ||
+			originalCatchUpNumber.length === 2
+		)
+			res.redirect(`/summary/${catchupNumber}`);
+		else res.sendFile(path);
+	} else res.end("Invalid CatchUp Number");
 });
 
 function auth(req, res) {
