@@ -1,7 +1,6 @@
 @font-face {
 	font-family: "Anaktoria";
-	src: url("https://ourtech.community/static/fonts/anaktoria.woff")
-		format("woff");
+	src: url("../fonts/anaktoria.woff") format("woff");
 	font-weight: normal;
 	font-style: normal;
 }
