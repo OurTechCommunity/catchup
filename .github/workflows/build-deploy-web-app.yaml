@@ -4,7 +4,7 @@ on:
         branches:
             - main
         paths:
-            - ".github/workflows/**"
+            - ".github/workflows/build-deploy-web-app.yaml"
             - "public/**"
             - "summary/**"
             - "index.js"
@@ -14,7 +14,7 @@ on:
         branches:
             - main
         paths:
-            - ".github/workflows/**"
+            - ".github/workflows/build-deploy-web-app.yaml"
             - "public/**"
             - "summary/**"
             - "index.js"
