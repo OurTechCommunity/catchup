@@ -2,7 +2,7 @@ name: OTC CatchUp Joining Tweet
 
 on:
     schedule:
-        - cron: "50 16 * * 6" # Every Saturday at 4:50 PM UTC
+        - cron: "50 16 * * 6" # Every Saturday at 4:50 PM UTC (i.e., 10:20PM IST)
     workflow_dispatch:
 
 jobs:
@@ -18,8 +18,7 @@ jobs:
               run: |
                   sudo apt-get update
                   sudo apt-get install nodejs
-                  catchup_number=$(node summary/get-next-catchup-number.js)
-                  echo "CATCHUP_NUMBER=${catchup_number}"
+                  catchup_number=$(node util/get-next-catchup-number.js)
                   echo "CATCHUP_NUMBER=${catchup_number}" >> ${GITHUB_ENV}
 
             - name: Send joining Tweet
@@ -28,7 +27,7 @@ jobs:
                   tweet-message: |
                       Going live in 10 mins!
 
-                      Join us for the ${{ env.CATCHUP_NUMBER }} #OTCCatchUp, an open-to-all informal Tech discussion.
+                      Join us for the ${{ env.CATCHUP_NUMBER }} #OTCCatchUp, an informal open-to-all Tech discussion.
 
                       Join in at any time! 👇
                       https://catchup.ourtech.community/attend
