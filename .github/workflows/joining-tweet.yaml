@@ -18,10 +18,9 @@ jobs:
               run: |
                   sudo apt-get update
                   sudo apt-get install nodejs
-                  ls -a # For debugging
-                  pwd # For debugging
                   catchup_number=$(node summary/get-next-catchup-number.js)
-                  echo "CATCHUP_NUMBER=${catchup_number}" >> $GITHUB_ENV
+                  echo "CATCHUP_NUMBER=${catchup_number}"
+                  echo "CATCHUP_NUMBER=${catchup_number}" >> ${GITHUB_ENV}
 
             - name: Send joining Tweet
               uses: Eomm/why-don-t-you-tweet@v1
