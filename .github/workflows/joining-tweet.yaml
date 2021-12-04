@@ -18,6 +18,8 @@ jobs:
               run: |
                   sudo apt-get update
                   sudo apt-get install nodejs
+                  ls -a # For debugging
+                  pwd # For debugging
                   catchup_number=$(node summary/get-next-catchup-number.js)
                   echo "CATCHUP_NUMBER=${catchup_number}" >> $GITHUB_ENV
 
