@@ -2,7 +2,6 @@ const { read } = require("fs");
 const { readdir } = require("fs/promises");
 
 const path = __dirname + "/sessions";
-console.log(path);
 
 printNextCatchUpNumber();
 
