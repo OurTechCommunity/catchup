@@ -4,7 +4,7 @@ const path = __dirname + "/../summary/sessions";
 
 printNextCatchUpNumber();
 
-// Utility functions
+// Utility Functions
 async function printNextCatchUpNumber() {
 	catchUpNumbers = await getCatchUpNumbers();
 	let nextCatchUpNumber = catchUpNumbers[0] + 1;
