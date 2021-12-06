@@ -1,4 +1,4 @@
-name: Telegram Joining Message
+name: Telegram joining message
 
 on:
     schedule:
@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    send-msg:
+    send-joining-msg:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout repository
@@ -14,7 +14,7 @@ jobs:
               with:
                   persist-credentials: false
 
-            - name: Set environment variables
+            - name: Set environment variable
               run: |
                   sudo apt-get update
                   sudo apt-get install nodejs
@@ -26,6 +26,7 @@ jobs:
               with:
                   to: ${{ secrets.TELEGRAM_CHAT_ID }}
                   token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+                  format: markdown
                   message: |
                       **${{ env.CATCHUP_NUMBER }} OTC CatchUp**
 
