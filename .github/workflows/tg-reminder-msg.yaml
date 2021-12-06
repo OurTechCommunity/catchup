@@ -35,7 +35,7 @@ jobs:
                   token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
                   format: markdown
                   disable_web_page_preview: true
-                  tweet-message: |
+                  message: |
                       Reminder! 🚨
 
                       The ${{ env.UPCOMING_CATCHUP_NUMBER }} OTC CatchUp session will be held today (${{ env.CATCHUP_DATE }}) from 10:30 PM IST.
