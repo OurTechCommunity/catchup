@@ -1,4 +1,4 @@
-name: OTC CatchUp Reminder Tweet
+name: Reminder Tweet
 
 on:
     schedule:
@@ -6,7 +6,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    reminder-tweet:
+    send-reminder-tweet:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout repository
