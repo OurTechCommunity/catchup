@@ -1,0 +1,34 @@
+Date: 04-12-2021
+
+Duration: 5 hrs 15 mins
+
+==== Topics Discussed
+
+* General introductions.
+* We talked about the newly released JavaScript framework called _Remix_.
+	** link:https://remix.run[Official web site^]
+	** link:https://www.youtube.com/watch?v=r4B69HAOXnA[Remix features^]
+	** link:https://www.youtube.com/watch?v=NB0NxFi-u_Q[Remix India Meetup^]
+	** link:https://www.youtube.com/watch?v=zoKBKA11Y4w[Saurabh Daware's Remix exploration stream^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] told us how good link:https://deta.sh[Deta^] is for hosting. Although it is new and has some limitations, it is super fast (no cold start issues like in link:https://heroku.com[Heroku^]'s free tier) and changes to code reflect immediately. Their team is prompt and super helpful as well.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] also told us that the concepts used in the Web3 ecosystem are really interesting to discuss.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared how he locked himself out of a server because he forgot to open port 22 (SSH) while setting it up. He had to use the web interface that the Cloud service provided to access the server.
+* Razorpay's Design System push was talked about. (link:https://twitter.com/Razorpay_Design/status/1466285937567039488[Organising Design Systems^])
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://web.dev/text-fragments/#text-fragments[URL Text Fragments^], which are very helpful in highlighting certain text on a web page and scrolling to it.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about link:https://adventofcode.com/2021/about[Advent of Code^].
+* There was a discussion on Networking, followers, real friends and acquaintances.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] told us about the Streamlabs fiascos
+	** They used OBS' open source software and tried to copyright it as StreamlabsOBS. (link:https://twitter.com/OBSProject/status/1460782968633499651[Tweet thread^])
+	** They copied Lightstream's web page. (link:https://twitter.com/StuV2/status/1460710778462482440[Tweet^])
+	** They copied Elgato's Steam Deck. (link:https://twitter.com/elgato/status/1460722403261046789[Tweet^])
+* We had a discussion on how much technical knowledge a Developer Advocate versus a DevRel (Developer Relations) needs.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told us to communicate well, be honest about one's work and to ask a lot of questions. He said that one should always complete the work they have taken up, be on time and communicate well in advance if they will not be able to deliver by the specified time, because it becomes difficult to trust and vouch for someone who does not keep their word.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also told us about various amazing things he has done at link:https://amd.com[AMD^] and how his team supercooled a processor using Liquid Nitrogen to be able to overclock it to great extents. (link:https://submissions2.mirasmart.com/ISSCC2021/PDF/isscc2021.awards_handout_v4.pdf[Bottom image on page 6.^])
+
+==== Projects Showcased
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased updates to link:https://catchup.ourtech.community[the OTC CatchUp web app^].
+	** link:https://catchup.ourtech.community/summary[The new summary page.^]
+	** link:https://catchup.ourtech.community/summary/55[The new individual summary page.^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] also showcased the automation that he did for OTC CatchUp reminder and joining Tweets and Telegram messages using GitHub Actions. (link:https://github.com/OurTechCommunity/catchup/tree/main/.github/workflows[Scripts^])
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] showcased designs for link:https://githubwrapped.tech[GitHub Wrapped 2021^] and asked for feedback.
