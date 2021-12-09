@@ -43,7 +43,10 @@ for path in "${script_dir}/sessions/"*; do
 		fi;
 
 		asciidoctor "${script_dir}/individual-summary.adoc" -a webfonts! -o "${script_dir}/../public/html/summary/${catchup_number}.html" -a catchup_number=${catchup_number} -a catchup_display_number=${catchup_display_number};
-		sed -i -e 's/<img/<img loading="lazy"/g' "${script_dir}/../public/html/summary/${catchup_number}.html"; # Lazy load images
+
+		sed -i -e "s/<img/<img loading=\"lazy\"/g" "${script_dir}/../public/html/summary/${catchup_number}.html"; # Lazy load images
+
+		sed -i -e "s/content=\"OTC CatchUp/content=\"OTC CatchUp #${catchup_display_number}/g" "${script_dir}/../public/html/summary/${catchup_number}.html"; # Add CatchUp number to OG Tags
 
 		unset IFS;
 	fi;
