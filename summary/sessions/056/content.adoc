@@ -11,6 +11,7 @@ Duration: 5 hrs 15 mins
 	** link:https://www.youtube.com/watch?v=NB0NxFi-u_Q[Remix India Meetup^]
 	** link:https://www.youtube.com/watch?v=zoKBKA11Y4w[Saurabh Daware's Remix exploration stream^]
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] told us how good link:https://deta.sh[Deta^] is for hosting. Although it is new and has some limitations, it is super fast (no cold start issues like in link:https://heroku.com[Heroku^]'s free tier) and changes to code reflect immediately. Their team is prompt and super helpful as well.
+* We talked about link:https://www.jetbrains.com/lp/compose-mpp[Compose Multiplatform] by JetBrains.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] also told us that the concepts used in the Web3 ecosystem are really interesting to discuss.
 * link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared how he locked himself out of a server because he forgot to open port 22 (SSH) while setting it up. He had to use the web interface that the Cloud service provided to access the server.
 * Razorpay's Design System push was talked about. (link:https://twitter.com/Razorpay_Design/status/1466285937567039488[Organising Design Systems^])
