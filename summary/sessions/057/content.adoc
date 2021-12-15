@@ -1,0 +1,60 @@
+Date: 11-12-2021
+
+Duration: 11 hrs 23 mins
+
+==== Topics Discussed
+
+* General introductions.
+* We recommended a SSD and HDD hybrid laptop to link:https://twitter.com/Aaditya__Speaks[Aaditya Chinchkhedkar^]. A link:https://linuxhint.com/nvme-vs-ssd[NVMe SSD^] was also recommended for a faster performance.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] and link:https://twitter.com/ishandeveloper[Ishan Sharma^] talked about résumés. They discussed how some seemingly free services don't allow downloading résumés once the user has made it on their platform, without paying and showcased that résumés in HTML are ATS parsable when converted to PDFs.
+	** link:https://resumey.pro[resumey.pro^]
+	** link:https://resumeworded.com[resumeworded.com^]
+	** link:https://saurabhdaware.in/resume[saurabhdaware.in/resume^]
+* link:https://twitter.com/prasadsunny1[Sanni Prasad^] talked about how link:https://heap.io[heap.io^] collects ALL user interactions in an app and how one can segregate all the collected data to create charts and visualisations on heap.io's dashboard. This is easier than planning for analytics tracking while designing the app.
+* The link:https://www.youtube.com/channel/UC1hOCRBN2mnXgN5reSoO3pQ/videos[React Conf 2021 YouTube channel^] was shared for anyone who wanted to watch the videos.
+* We discussed the pros and cons of various job offers that link:https://twitter.com/prasadsunny1[Sanni Prasad^] had received and also talked about link:https://www.investopedia.com/terms/e/esop.asp[ESOP^].
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] and link:https://twitter.com/ishandeveloper[Ishan Sharma^] explained what link:https://www.ycombinator.com/about[Y Combinator^] is and the link:https://www.cloudways.com/blog/startup-funding-stages[various stages of Startup funding^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told us how Engineers should know business functions to be able to understand the reasons behind decisions taken by the management and to be able to interact and hold conversations with Business Executives.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] showcased an link:https://azure.microsoft.com/en-us/blog/more-performance-and-choice-with-new-azure-hbv3-virtual-machines-for-hpc[Azure HBv3 machine^] with 120 cores.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] explained the reasoning behind PS5 chip shortages. He told us how demand is currently more than supply and talked about substrate, wafer and supply chain problems.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked how dynamic/automatic OG image generation can be implemented.
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] told us about his ongoing experience being in a job notice period.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about his work in link:https://www.techspot.com/news/92133-amd-5nm-96-core-genoa-zen-4-cpu.html[AMD's upcoming chip _Genoa_^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a link to an excellent MIT course, link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told us how he has seen a LOT of companies scale much more than required because they didn't know the hardware they were using properly and were thus not using it optimally. He said that the more one knows about hardware, the more optimized their service will be.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also showed us pictures of his amazing custom water-cooled PC.
+* We talked about the link:https://thecodeblogger.com/2020/08/22/understanding-differences-between-wsl-1-and-wsl-2[differences between WSL 1 and WSL 2^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked on a lot of topics.
+	** link:https://manybutfinite.com/post/cpu-rings-privilege-and-protection[Current Privilege Level (CPL)^]
+	** link:https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc[CISC vs RISC^]
+	** link:https://www.geeksforgeeks.org/locality-of-reference-and-cache-operation-in-cache-memory[Locality of reference in OS^]
+	** link:https://www.kth.se/blogs/pdc/2018/11/scalability-strong-and-weak-scaling[Strong and weak scaling^]
+	** link:https://en.wikipedia.org/wiki/Application-specific_integrated_circuit[Application Specific Integrated Circuit (ASIC)^]
+	** link:https://www.computerhope.com/jargon/a/acpi.htm[Advanced Configuration and Power Interface (ACPI)^]
+	** link:https://en.wikipedia.org/wiki/Two_Generals%27_Problem[The Two Generals' Problem^]
+	** link:https://www.geeksforgeeks.org/leaky-bucket-algorithm[Leaky Bucket Algorithm^]
+	** link:https://unix.stackexchange.com/questions/153585/how-does-the-oom-killer-decide-which-process-to-kill-first[Out of Memory (OOM) Killer in Linux^]
+	** link:https://www.amazon.com/Computer-Networks-Andrew-S-Tanenbaum-dp-0133499456/dp/0133499456[Computer Networks by Andrew Tanenbaum^] (Book)
+	** link:https://0xax.gitbooks.io/linux-insides/content[linux-insides^]
+	** Bit Flipping
+		*** link:https://www.ti.com/support-quality/faqs/soft-error-rate-faqs.html[Soft Error Rates (SER)^]
+		*** link:https://www.youtube.com/watch?v=AaZ_RSt0KP8[The Universe is Hostile to Computers^]
+		*** Detection and correction
+			**** SEC-DED (Single Error Correction - Double Error Detection)
+			**** DEC-TED (Double Error Correction - Triple Error Detection)
+	** The James Webb Space Telescope (JWST)
+		*** link:https://www.youtube.com/watch?v=v6ihVeEoUdo[James Webb Space Telescope Launch and Deployment^]
+		*** Launch on the 22nd of December 2021.
+		*** link:https://jwst.nasa.gov/content/about/faqs/whoIsJamesWebb.html[Who is James Webb?^]
+	** link:https://www.amazon.in/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X[Nudge: Improving Decisions About Health, Wealth, and Happiness^] (Book)
+	** link:https://en.wikipedia.org/wiki/Row_hammer[Row hammer security exploit^]
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] shared link:https://highexistence.com/egg-andy-weir[The Egg by Andy Weir: A Profound Story on the Process of Becoming^].
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about link:https://docs.microsoft.com/en-us/windows-server/security/kerberos/ntlm-overview[NTLM in Windows^]. (link:https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4[More on Windows Hashes^])
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] discussed link:https://twitter.com/DashaAI_/status/1470955264543055881[Dasha's upcoming hackathon^].
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] also discussed about link:https://twitter.com/skxrxn/status/1469369310371934209[people getting overwhelmed when they start exploring new stuff^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] showcased improved designs for link:https://githubwrapped.tech[GitHub Wrapped 2021^].
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] opened a PR on OTC's website repo to improve the URLs. (link:https://github.com/OurTechCommunity/website/pull/3[Link to PR^])
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] opened a PR on OTC's website repo to add himself to the link:https://ourtech.community/team[team page^] as a meme. (link:https://github.com/OurTechCommunity/website/pull/4[Link to PR^]) (Click on the title of the page to view him!)
