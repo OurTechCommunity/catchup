@@ -17,7 +17,7 @@ NOTE: For older summaries, please visit link:https://twitter.com/OurTechComm[our
 
 == OTC CatchUp
 
-link:https://catchup.ourtech.community[OTC CatchUps^] are weekly informal sessions involving project showcases and technical discussions. They are held every Saturday from 10:30 PM IST via Google Meet. link:https://catchup.ourtech.community/attend[Join in!^]
+link:https://catchup.ourtech.community[OTC CatchUps^] are weekly informal sessions involving project showcases and technical discussions. They are held every Saturday from 10:30 PM IST. link:https://catchup.ourtech.community/attend[Join in!^]
 
 == Summaries
 
