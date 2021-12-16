@@ -26,7 +26,7 @@ asciidoctor "${script_dir}/../summary/combined-summary.adoc" -a webfonts! -o "${
 sed -i -e 's/<img/<img loading="lazy"/g' "${script_dir}/../public/html/summary/combined-summary.html"; # Lazy load images
 
 # Build individual summary pages
-for path in "${script_dir}/sessions/"*; do
+for path in "${script_dir}/../summary/sessions/"*; do
 	if [ -d "${path}" ]; then
 		IFS="/";
 		read -ra arr <<< "${path}";
