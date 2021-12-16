@@ -22,12 +22,8 @@ app.get("/", (req, res) => {
 	res.sendFile(__dirname + "/public/html/index.html");
 });
 
-app.get("/og", (req, res) => {
+app.get("/og-large", (req, res) => {
 	res.sendFile(__dirname + "/public/html/admin.html");
-});
-
-app.get("/og-swapped", (req, res) => {
-	res.sendFile(__dirname + "/public/html/index.html");
 });
 
 app.get("/admin", (req, res) => {
