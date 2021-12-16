@@ -17,12 +17,12 @@ rm -rf "${script_dir}/../public/js/summary/"*;
 rm -rf "${script_dir}/../public/img/summary/"*;
 
 # Copy files to public directory for static serving
-cp -r "${script_dir}/static/css/"* "${script_dir}/../public/css/summary";
-cp -r "${script_dir}/static/js/"* "${script_dir}/../public/js/summary";
-cp -r "${script_dir}/static/img/"* "${script_dir}/../public/img/summary";
+cp -r "${script_dir}/../summary/static/css/"* "${script_dir}/../public/css/summary";
+cp -r "${script_dir}/../summary/static/js/"* "${script_dir}/../public/js/summary";
+cp -r "${script_dir}/../summary/static/img/"* "${script_dir}/../public/img/summary";
 
 # Build combined summary site
-asciidoctor "${script_dir}/combined-summary.adoc" -a webfonts! -o "${script_dir}/../public/html/summary/combined-summary.html";
+asciidoctor "${script_dir}/../summary/combined-summary.adoc" -a webfonts! -o "${script_dir}/../public/html/summary/combined-summary.html";
 sed -i -e 's/<img/<img loading="lazy"/g' "${script_dir}/../public/html/summary/combined-summary.html"; # Lazy load images
 
 # Build individual summary pages
@@ -42,7 +42,7 @@ for path in "${script_dir}/sessions/"*; do
 			catchup_display_number=catchup_number;
 		fi;
 
-		asciidoctor "${script_dir}/individual-summary.adoc" -a webfonts! -o "${script_dir}/../public/html/summary/${catchup_number}.html" -a catchup_number=${catchup_number} -a catchup_display_number=${catchup_display_number};
+		asciidoctor "${script_dir}/../summary/individual-summary.adoc" -a webfonts! -o "${script_dir}/../public/html/summary/${catchup_number}.html" -a catchup_number=${catchup_number} -a catchup_display_number=${catchup_display_number};
 
 		sed -i -e "s/<img/<img loading=\"lazy\"/g" "${script_dir}/../public/html/summary/${catchup_number}.html"; # Lazy load images
 
