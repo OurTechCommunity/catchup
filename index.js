@@ -35,8 +35,12 @@ app.get("/api/catchUpLink", async (req, res) => {
 	res.send(config.value);
 });
 
-app.get(["/summary", "/summaries"], (req, res) => {
+app.get("/summary", (req, res) => {
 	res.sendFile(__dirname + "/public/html/summary/combined-summary.html");
+});
+
+app.get("/summaries", (req, res) => {
+	res.redirect("/summary");
 });
 
 app.get("/summary/:catchupNumber", (req, res) => {
