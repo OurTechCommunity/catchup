@@ -2,7 +2,7 @@ name: Telegram joining message
 
 on:
     schedule:
-        - cron: "50 16 * * 6" # Every Saturday at 4:50 PM UTC (i.e., 10:20PM IST)
+        - cron: "30 16 * * 6" # Every Saturday at 4:30 PM UTC (i.e., 10:00 PM IST)
     workflow_dispatch:
 
 jobs:
