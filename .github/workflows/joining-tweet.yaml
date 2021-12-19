@@ -2,7 +2,7 @@ name: Joining Tweet
 
 on:
     schedule:
-        - cron: "30 16 * * 6" # Every Saturday at 4:30 PM UTC (i.e., 10:00 PM IST)
+        - cron: "20 16 * * 6" # Every Saturday at 4:20 PM UTC (i.e., 09:50 PM IST)
     workflow_dispatch:
 
 jobs:
