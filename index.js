@@ -1,9 +1,9 @@
-const os = require("os");
-const fs = require("fs");
-const express = require("express");
-const { Deta } = require("deta");
+const os = require('os');
+const fs = require('fs');
+const express = require('express');
+const { Deta } = require('deta');
 
-require("dotenv").config();
+require('dotenv').config();
 
 const app = express();
 
@@ -11,49 +11,49 @@ const deta = Deta(process.env.DETA_PROJECT_KEY);
 const db = deta.Base(process.env.DATABASE_NAME);
 
 // Static files
-app.use("/public", express.static(__dirname + "/public"));
+app.use('/public', express.static(__dirname + '/public'));
 
 // Body Parser
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
 // Routes
-app.get("/", (req, res) => {
-	res.sendFile(__dirname + "/public/html/index.html");
+app.get('/', (req, res) => {
+	res.sendFile(__dirname + '/public/html/index.html');
 });
 
-app.get("/admin", (req, res) => {
-	res.sendFile(__dirname + "/public/html/admin.html");
+app.get('/admin', (req, res) => {
+	res.sendFile(__dirname + '/public/html/admin.html');
 });
 
-app.get("/robots.txt", (req, res) => {
-	res.sendFile(__dirname + "/public/robots.txt");
+app.get('/robots.txt', (req, res) => {
+	res.sendFile(__dirname + '/public/robots.txt');
 });
 
-app.get("/api/catchUpLink", async (req, res) => {
+app.get('/api/catchUpLink', async (req, res) => {
 	const config = await db.get(process.env.DATABASE_OBJ_KEY);
 	res.send(config.value);
 });
 
-app.get("/summary", (req, res) => {
-	res.sendFile(__dirname + "/public/html/summary/combined-summary.html");
+app.get('/summary', (req, res) => {
+	res.sendFile(__dirname + '/public/html/summary/combined-summary.html');
 });
 
-app.get("/summaries", (req, res) => {
-	res.redirect("/summary");
+app.get('/summaries', (req, res) => {
+	res.redirect('/summary');
 });
 
-app.get("/summary/:catchupNumber", (req, res) => {
+app.get('/summary/:catchupNumber', (req, res) => {
 	let catchupNumber = req.params.catchupNumber;
 	const originalCatchUpNumber = catchupNumber;
 
 	if (isNaN(parseInt(catchupNumber))) {
-		res.status(404).sendFile(__dirname + "/public/html/404.html");
+		res.status(404).sendFile(__dirname + '/public/html/404.html');
 		return;
 	}
 
-	if (catchupNumber.length === 1) catchupNumber = "00" + catchupNumber;
-	if (catchupNumber.length === 2) catchupNumber = "0" + catchupNumber;
+	if (catchupNumber.length === 1) catchupNumber = '00' + catchupNumber;
+	if (catchupNumber.length === 2) catchupNumber = '0' + catchupNumber;
 	const path = __dirname + `/public/html/summary/${catchupNumber}.html`;
 
 	if (fs.existsSync(path)) {
@@ -62,11 +62,8 @@ app.get("/summary/:catchupNumber", (req, res) => {
 			originalCatchUpNumber.length === 2
 		)
 			res.redirect(`/summary/${catchupNumber}`);
-		else
-			res.sendFile(path);
-	}
-	else
-		res.status(404).sendFile(__dirname + "/public/html/404.html");
+		else res.sendFile(path);
+	} else res.status(404).sendFile(__dirname + '/public/html/404.html');
 });
 
 function auth(req, res) {
@@ -74,17 +71,17 @@ function auth(req, res) {
 
 	if (!authHeader) {
 		res.status(401);
-		res.setHeader("WWW-Authenticate", "Basic");
+		res.setHeader('WWW-Authenticate', 'Basic');
 		res.end();
 		return false;
 	}
 
-	let [username, password] = new Buffer.from(
-		authHeader.split(" ")[1],
-		"base64"
+	let [ username, password ] = new Buffer.from(
+		authHeader.split(' ')[1],
+		'base64'
 	)
 		.toString()
-		.split(":");
+		.split(':');
 
 	if (
 		username === process.env.ADMIN_USERNAME &&
@@ -93,13 +90,13 @@ function auth(req, res) {
 		return true;
 	else {
 		res.status(401);
-		res.setHeader("WWW-Authenticate", "Basic");
+		res.setHeader('WWW-Authenticate', 'Basic');
 		res.end();
 		return false;
 	}
 }
 
-app.post("/api/catchUpLink", async (req, res) => {
+app.post('/api/catchUpLink', async (req, res) => {
 	if (!auth(req, res)) return;
 
 	const link = req.body.catchUpLink;
@@ -122,13 +119,13 @@ app.post("/api/catchUpLink", async (req, res) => {
 	res.send(`Meet link changed to ${link}.`);
 });
 
-app.get("/attend", async (req, res) => {
+app.get('/attend', async (req, res) => {
 	let date = new Date(
-		new Date().toLocaleString("en-US", { timeZone: "Asia/Kolkata" })
+		new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata' })
 	);
 
 	let day = date.getDay(); // 6 is Saturday, 0 is Sunday
-	let redirectUrl = "/?isCatchUpOn=false";
+	let redirectUrl = '/?isCatchUpOn=false';
 
 	if (day === 6 || day === 0) {
 		// 6 is Saturday, 0 is Sunday
@@ -141,8 +138,8 @@ app.get("/attend", async (req, res) => {
 });
 
 // 404 redirect
-app.get('*', function (req, res) {
-	res.status(404).sendFile(__dirname + "/public/html/404.html");
+app.get('*', function(req, res) {
+	res.status(404).sendFile(__dirname + '/public/html/404.html');
 });
 
 module.exports = app;
