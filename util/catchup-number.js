@@ -2,8 +2,7 @@ const { readdir } = require("fs/promises");
 
 const path = __dirname + "/../summary/sessions";
 
-
-async function getCatchUpNumber() {
+async function getCatchUpAllNumbers() {
     // Returns array in descending order of CatchUp session numbers
     const dirArray = await getDirectoryNames(path);
     for (let i = 0; i < dirArray.length; i++)
@@ -27,8 +26,8 @@ function getSuffix(catchUpNumber) {
 }
 
 async function getCatchupNumber(getNextCatchupNumber, addSuffix) {
-    catchUpNumbers = await getCatchUpNumber();
-    let catchUpNumber = catchUpNumbers[0];
+    allCatchUpNumbers = await getCatchUpAllNumbers();
+    let catchUpNumber = allCatchUpNumbers[0];
 
     // Add one if need next catchup number
     if (getNextCatchupNumber) catchUpNumber = catchUpNumber + 1;
@@ -44,5 +43,5 @@ async function getCatchupNumber(getNextCatchupNumber, addSuffix) {
 }
 
 module.exports = {
-    getCatchupNumber,
+    getCatchupNumber
 };

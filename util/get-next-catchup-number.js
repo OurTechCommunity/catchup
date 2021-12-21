@@ -1,5 +1,7 @@
-const catchupNumber = require('./catchup-number');
+const catchupNumber = require("./catchup-number");
 
-catchupNumber.getCatchupNumber(true, true).then(catchUpNumber => {
-    console.log(catchUpNumber);
-});
+catchupNumber
+    .getCatchupNumber(true, true)
+    .then(console.log)
+    .catch(console.error);
+ 
