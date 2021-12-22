@@ -11,6 +11,7 @@ on:
             - "index.js"
             - "package-lock.json"
             - "package.json"
+
     pull_request:
         branches:
             - main
@@ -22,10 +23,28 @@ on:
             - "index.js"
             - "package-lock.json"
             - "package.json"
-    workflow_dispatch:
+
+    workflow_dispatch: # Allows manual execution of workflow
 
 jobs:
+    build:
+        if: github.ref == "refs/pull/*"
+        runs-on: ubuntu-latest
+        container: "docker://asciidoctor/docker-asciidoctor:latest"
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Build Asciidoctor site
+              run: |
+                  chmod +x util/build.sh
+                  ./util/build.sh
+
+            - name: Remove unnecessary files
+              run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
+
     build-and-deploy:
+        if: github.ref == "refs/heads/*"
         runs-on: ubuntu-latest
         container: "docker://asciidoctor/docker-asciidoctor:latest"
         steps:
@@ -41,7 +60,6 @@ jobs:
               run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
 
             - name: Deploy to Deta
-              if: github.ref == "refs/heads/*"
               uses: BogDAAAMN/deta-deploy-action@v1.0.1
               with:
                   deta-access-token: ${{ secrets.DETA_TOKEN }}
