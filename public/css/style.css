@@ -163,6 +163,21 @@ button {
 	}
 }
 
+@media screen and (max-width: 460px) {
+	h1 {
+		font-size: 60px;
+	}
+
+	form {
+		font-size: 16px;
+		margin: 1em;
+	}
+
+	input {
+		padding: 0.2em 0.4em;
+	}
+}
+
 /* ======================================================= BURGER MENU ===================================================== */
 
 .navbar-ul {
