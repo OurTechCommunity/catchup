@@ -154,3 +154,5 @@ if (!process.env.DETA_RUNTIME) {
 			);
 	});
 }
+
+console.log("OTC CatchUp");
