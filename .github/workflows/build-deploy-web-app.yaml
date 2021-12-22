@@ -25,7 +25,7 @@ on:
     workflow_dispatch:
 
 jobs:
-    deploy:
+    build-and-deploy:
         runs-on: ubuntu-latest
         container: "docker://asciidoctor/docker-asciidoctor:latest"
         steps:
@@ -41,6 +41,7 @@ jobs:
               run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
 
             - name: Deploy to Deta
+              if: github.ref == "refs/heads/*"
               uses: BogDAAAMN/deta-deploy-action@v1.0.1
               with:
                   deta-access-token: ${{ secrets.DETA_TOKEN }}
