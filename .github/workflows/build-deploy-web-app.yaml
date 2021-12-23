@@ -28,7 +28,7 @@ on:
 
 jobs:
     build:
-        if: github.ref == "refs/pull/*"
+        if: startsWith(github.ref, "refs/pull/")
         runs-on: ubuntu-latest
         container: "docker://asciidoctor/docker-asciidoctor:latest"
         steps:
@@ -44,7 +44,7 @@ jobs:
               run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
 
     build-and-deploy:
-        if: github.ref == "refs/heads/*"
+        if: startsWith(github.ref, "refs/heads/")
         runs-on: ubuntu-latest
         container: "docker://asciidoctor/docker-asciidoctor:latest"
         steps:
