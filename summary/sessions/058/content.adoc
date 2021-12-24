@@ -1,0 +1,38 @@
+Date: 18-12-2021
+
+Duration: 4 hrs 48 mins
+
+==== Topics Discussed
+
+* General introductions.
+* We discussed about the link:https://logging.apache.org/log4j/2.x[Log4j^] security vulnerability.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] told everyone about his recent internship interview.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared a link:https://www.exploit-db.com/exploits/50590[link^] to the Log4j exploit from link:https://www.exploit-db.com[exploit-db^] which is an archive of public exploits.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
+ Shared the news that he was finally a GitHub Campus Expert.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^], link:https://twitter.com/code_magician[Viranchee Lotia^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
+ discussed about foreign admissions.
+* We spoke about Bloom Filter which is a space-efficient probabilistic data structure.
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared a link:https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff[blog article^] by the Medium's own Engineering team about bloom filters.
+    ** Here's a link:https://llimllib.github.io/bloomfilter-tutorial[link^] to a Bloom Filter explaination and implementation.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
+ explained everyone what link:https://owasp.org/www-community/attacks/Clickjacking[clickjacking^] is.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared an link:https://portswigger.net/web-security/clickjacking[article^] discussing clickjacking.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] asked everyone if they had worked with Windows 32 APIs and had a discussion about it with link:https://twitter.com/prasadsunny1[Sanni Prasad^].
+* link:https://twitter.com/prasadsunny1[Sanni Prasad^] shared his ideas on the motion and object detection and discussed its functioning and potential project ideas based on it.
+* link:https://twitter.com/prasadsunny1[Sanni Prasad^] shared a project idea which aims at enhancing Indian Government Online forms and standardizing them with the world.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] discussed link:https://spectreattack.com/spectre.pdf[Spectre^] and link:https://meltdownattack.com/meltdown.pdf[Meltdown^] which are known hardware vulnerabilities in modern processors.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also explained what link:https://medium.com/extremetech-access/what-is-speculative-execution-5e973e824e49[Speculative Execution^] is.
+* We discussed about link:https://sqreen.github.io/DevelopersSecurityBestPractices/timing-attack/python[String Comparison Attack^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] suggested everyone to try hosting a website from their homes, from scratch using their own IP address and opening up ports for recieving requests on it. He suggested that it will be a very educative and enlightening exercise.
+* We talked about LAMP, WAMP and XAMPP servers and the reason behind X in the name XAMPP. The L in LAMP stands for Linux, the W in WAMP stands for Windows and the X in XAMPP stands for Cross-Platform.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] suggested to avoid using dependencies as far as possible while writing code. He also shared link:https://motherfuckingwebsite.com[Motherfucking Website^].
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^], link:https://twitter.com/omtalk[Omkar Khair^] and link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] discussed a task which Krishna was working on at his workplace and in the discussion we talked about what link:https://hevodata.com/learn/using-mysql-binlog[BinLog^] is, database snapshots and their usage.
+* We discussed about link:https://olap.com/olap-definition[OLAP^] and https://oracle.com/database/what-is-oltp[OLTP^] databases and what is their purpose and how do they differ in architecture.
+* We talked about link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told everyone about how his daily job includes writing scaffolding software which is like supportive, tempoary skeletal software written fo debugging and is later discarded and how he is wired for Bash Programming.
+* We talked about link:https://docs.confluent.io/platform/current/streams/concepts.html[Stream Table Duality^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/prasadsunny1[Sanni Prasad^] discussed how banking applications usually don't prefer cross-platfom technologies & choose Native technologies over them due to native security features but how the same features can be used by cross-platoform technologies over a native-bridge.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a link to a video by Christopher Domas - link:https://www.youtube.com/watch?v=KrksBdWcZgQ[Breaking the x86 Instruction Set^].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] how he ended up into Hardware.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] spoke to link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] about Robotics and link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] discussed what goes into making a link:https://www.irobot.co.uk/roomba[Roomba^] which is a simple vaccum cleaning robot.
