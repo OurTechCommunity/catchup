@@ -1,15 +1,15 @@
 = OTC CatchUp Summaries
 Our Tech Community
 v1
-:favicon:		https://raw.githubusercontent.com/OurTechCommunity/web-site/main/static/img/favicon.ico
-:imagesdir: 	public/img/summary
-:icons:     	image
-:iconsdir:		public/img/summary/admonition_icons
-:sectanchors:
-:docinfo: 		private-head
 :toc:
-
-'''
+:favicon:				/public/img/favicon.ico
+:imagesdir: 			public/img/summary
+:icons:					image
+:iconsdir:				/public/img/summary/admonition_icons
+:docinfo:				private-head, shared
+:sectanchors:
+:figure-caption!:
+:nofooter:
 
 NOTE: For older summaries, please visit link:https://twitter.com/OurTechComm[our Twitter account (@OurTechComm)^].
 

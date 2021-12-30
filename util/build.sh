@@ -54,4 +54,4 @@ for path in "${script_dir}/../summary/sessions/"*; do
 	fi;
 done;
 
-echo "Summary site build complete.";
+echo "Asciidoctor Jet summary site build complete.";

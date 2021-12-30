@@ -1,14 +1,14 @@
-const back_to_top_btn = document.querySelector(".back-to-top-btn");
+const backToTopBtn = document.querySelector(".back-to-top-btn");
 const header = document.querySelector("#header");
 const body = document.querySelector("body");
 
-const db_name = "otc_catchup_summary";
-const db_version = 1;
-const obj_store_name = "theme";
+const dbName = "otc_catchup_summary";
+const dbVersion = 1;
+const objStoreName = "theme";
 
 let theme;
-let theme_btn;
-let system_dark_theme = window.matchMedia("(prefers-color-scheme: dark)");
+let themeBtn;
+let systemDarkTheme = window.matchMedia("(prefers-color-scheme: dark)");
 
 // Window load listener
 
@@ -21,11 +21,11 @@ window.addEventListener("load", async () => {
 
 // System/browser theme change listener
 
-if (!system_dark_theme.addEventListener)
-	system_dark_theme.addEventListener = (event, listener) =>
-		system_dark_theme.addListener(listener);
+if (!systemDarkTheme.addEventListener)
+	systemDarkTheme.addEventListener = (event, listener) =>
+		systemDarkTheme.addListener(listener);
 
-system_dark_theme.addEventListener("change", async (e) => {
+systemDarkTheme.addEventListener("change", async (e) => {
 	if (e.matches) theme = "dark";
 	else theme = "light";
 
@@ -37,33 +37,33 @@ system_dark_theme.addEventListener("change", async (e) => {
 const observer = new IntersectionObserver(scrollToTop);
 observer.observe(header);
 
-back_to_top_btn.addEventListener("click", () => header.scrollIntoView(true));
+backToTopBtn.addEventListener("click", () => header.scrollIntoView(true));
 
 // Functions
 
 function scrollToTop(entries, observer) {
 	entries.forEach((entry) => {
-		if (entry.isIntersecting) back_to_top_btn.classList.add("hidden");
-		else back_to_top_btn.classList.remove("hidden");
+		if (entry.isIntersecting) backToTopBtn.classList.add("hidden");
+		else backToTopBtn.classList.remove("hidden");
 	});
 }
 
 function createThemeSwitcher() {
-	theme_btn = document.createElement("button");
+	themeBtn = document.createElement("button");
 
-	theme_btn.classList.add("btn", "theme-switcher");
-	theme_btn.addEventListener("click", switchTheme);
-	body.appendChild(theme_btn);
+	themeBtn.classList.add("btn", "theme-switcher");
+	themeBtn.addEventListener("click", switchTheme);
+	body.appendChild(themeBtn);
 }
 
 async function switchTheme() {
 	if (theme === "light") {
-		theme_btn.setAttribute("aria-label", "Light mode");
+		themeBtn.setAttribute("aria-label", "Light mode");
 		body.classList.add("dark");
 		theme = "dark";
 		await saveDatabase();
 	} else {
-		theme_btn.setAttribute("aria-label", "Dark mode");
+		themeBtn.setAttribute("aria-label", "Dark mode");
 		body.classList.remove("dark");
 		theme = "light";
 		await saveDatabase();
@@ -72,11 +72,11 @@ async function switchTheme() {
 
 async function applyTheme() {
 	if (theme === "light") {
-		theme_btn.setAttribute("aria-label", "Dark mode");
+		themeBtn.setAttribute("aria-label", "Dark mode");
 		body.classList.remove("dark");
 		await saveDatabase();
 	} else {
-		theme_btn.setAttribute("aria-label", "Light mode");
+		themeBtn.setAttribute("aria-label", "Light mode");
 		body.classList.add("dark");
 		await saveDatabase();
 	}
@@ -84,31 +84,31 @@ async function applyTheme() {
 
 async function loadDatabase() {
 	return new Promise((resolve, reject) => {
-		let request = indexedDB.open(db_name, db_version);
+		let request = indexedDB.open(dbName, dbVersion);
 
 		request.addEventListener("error", reject);
 
 		request.addEventListener("upgradeneeded", (e) => {
 			let db = e.target.result;
 
-			if (!db.objectStoreNames.contains(obj_store_name))
-				db.createObjectStore(obj_store_name);
+			if (!db.objectStoreNames.contains(objStoreName))
+				db.createObjectStore(objStoreName);
 		});
 
 		request.addEventListener("success", (e) => {
 			let db = e.target.result;
 
-			let transaction = db.transaction(obj_store_name, "readonly");
-			let store = transaction.objectStore(obj_store_name);
+			let transaction = db.transaction(objStoreName, "readonly");
+			let store = transaction.objectStore(objStoreName);
 
 			let getTheme = store.get("theme");
 			getTheme.addEventListener("error", reject);
 			getTheme.addEventListener("success", (e) => {
-				let idb_theme = e.target.result;
+				let idbTheme = e.target.result;
 
-				if (idb_theme) theme = idb_theme;
+				if (idbTheme) theme = idbTheme;
 				else {
-					if (system_dark_theme.matches) theme = "dark";
+					if (systemDarkTheme.matches) theme = "dark";
 					else theme = "light";
 				}
 
@@ -120,15 +120,15 @@ async function loadDatabase() {
 
 async function saveDatabase() {
 	return new Promise((resolve, reject) => {
-		let request = indexedDB.open(db_name, db_version);
+		let request = indexedDB.open(dbName, dbVersion);
 
 		request.addEventListener("error", reject);
 
 		request.addEventListener("success", (e) => {
 			let db = e.target.result;
 
-			let transaction = db.transaction(obj_store_name, "readwrite");
-			let store = transaction.objectStore(obj_store_name);
+			let transaction = db.transaction(objStoreName, "readwrite");
+			let store = transaction.objectStore(objStoreName);
 
 			store.put(theme, "theme");
 			resolve();
@@ -137,11 +137,11 @@ async function saveDatabase() {
 }
 
 function mobileEdgeCaseStyling() {
-	const user_agent = navigator.userAgent;
+	const userAgent = navigator.userAgent;
 
 	if (
-		(user_agent.indexOf("Edg") > -1 && user_agent.indexOf("Mobile") > -1) ||
-		user_agent.indexOf("iPhone") > -1
+		(userAgent.indexOf("Edg") > -1 && userAgent.indexOf("Mobile") > -1) ||
+		userAgent.indexOf("iPhone") > -1
 	)
 		body.classList.add("mobile-edge-case");
 }
