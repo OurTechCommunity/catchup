@@ -1,0 +1,45 @@
+Date: 18-12-2021
+
+Duration: 4 hrs 48 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] explained his article/blog writing process and shared his blog link:https://blog.logrocket.com/statenotifier-improving-state-change-notifiers-flutter[StateNotifier: Improving state change notifiers in Flutter].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told us how to work with people and how to address various problems that come up while working with them.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told everyone about James Webb and the engineering marvels of the James Webb Space Telescope.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared
+    ** A link:https://www.nasa.gov/sites/default/files/atoms/files/nasa_systems_engineering_handbook_0.pdf[Systems Engineering Handbook^] by NASA.
+    ** A link:https://trs.jpl.nasa.gov/bitstream/handle/2014/22415/97-0902.pdf[Formal Methods Specification and Analysis Guidebook for the Verification of Software and Computer Systems^] by NASA.
+    ** A podcast about the Moon landing called link:https://www.bbc.co.uk/programmes/w13xttx2/episodes/downloads[13 minutes to the Moon].
+* We discussed how education has become a business.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] asked about the benefits of working at a startup and link:https://twitter.com/howdevelop[Shivay Lamba^], link:https://twitter.com/anamsaatvik[Anam Saatvik Reddy^] and link:https://twitter.com/skxrxn[Sreekaran Srinath^] pitched in their views.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a book link:https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959[Mythical Man-Month, The: Essays on Software Engineering^] which with a blend of software engineering facts and thought-provoking opinions, offers insights for anyone managing complex projects.
+* Databases
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked link:https://twitter.com/KRISHNAGADIA[Krishna Gadia^] about TCL Commands (`TRANSACTION`, `COMMIT` and `ROLLBACK`) in SQL and ACID properties in databases.
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a link to the link:https://www.youtube.com/c/CMUDatabaseGroup[CMU DB Group YouTube Channel^] for learning about database internals.
+	** We discussed about various image storage solutions like blob storage, file system storage, link:https://aws.amazon.com/s3/[AWS S3 Buckets^], link:https://firebase.google.com/docs/storage[Firebase Storage^], CDNs and edge/distributed caching.
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about some DB optimizations that one needs to make and gave an example on how link:https://www.youtube.com/watch?v=eI_EQNTxF6U[SELECT COUNT(*) is Slow, Estimate it Instead^].
+* An article by link:https://twitter.com/jaffathecake[Jake Archibald^] on link:https://jakearchibald.com/2021/cors[How to win at CORS^] covering almost everything related to CORS was shared.
+* We discussed about the value of using link:https://ipfs.io[IPFS^] instead of Torrent. Here's some link:https://discuss.ipfs.io/t/ipfs-vs-webtorrent-what-the-value-of-using-ipfs-instead-of-torrent-files/64[further reading^].
+* Netflix
+	** link:https://gizmodo.com/this-box-can-hold-an-entire-netflix-1592590450[Netflix in a box^] was also talked about.
+	** A video about link:https://www.youtube.com/watch?v=_o-HcG8QxPc[Serving Netflix Video at 400Gbps on FreeBSD by Drew Gallatin^] $ Attention Required $
+* We discussed various string manipulation techniques in Shell scripts such as link:https://harshkapadia2.github.io/cli/shell_scripting.html#:~:text=Internal%20Field%20Separator[IFS^], link:https://harshkapadia2.github.io/cli/shell_scripting.html#:~:text=done%20%3C%20%22./test_f1.md%22-,String%20manipulation,-Delete%20the%20shortest[Shell string manipulation^], awk (file) and sed (file).
+* link:https://www.tomshardware.com/news/threadripper-pro-goes-gaming-with-nvidia-cloud[Threadripper Pro Goes Gaming With Nvidia's RTX 3080 Cloud Gaming Plan^] $ Attention Required $
+* We discussed about serving a website from home.
+* We talked about link:https://www.lepide.com/blog/what-is-upnp-and-is-it-safe[Universal Plug and Play (UPNP)^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] suggested to not SSH into a server directly over the public internet but to use a VPN.
+	** link:https://tinyssh.org[TinySSH ^]
+	** link:https://www.pfsense.org[pfsense^]
+* We discussed about financial planning.
+* We also discussed about Proprietorship vs LLC.
+* We talked about what Blockchain is why it is needed.
+
+==== Projects Showcased
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his project link:https://harshkapadia2.github.io/asciidoctor-jet[Asciidoctor Jet^], which is a ready-to-use jet black themed template for building static sites using Asciidoctor.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared a paper that he had published.
+    ** The paper: link:https://arxiv.org/abs/2112.09569[CPPE-5: Medical Personal Protective Equipment Dataset^]
+    ** link:https://twitter.com/rishit_dagli/status/1472930170600243200[TL;DR of the dataset project^]
+    ** link:https://github.com/Rishit-dagli/CPPE-Dataset[GitHub Repository of the dataset^]
