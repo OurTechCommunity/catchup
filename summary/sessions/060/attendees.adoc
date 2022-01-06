@@ -27,6 +27,6 @@
 * link:https://twitter.com/KartikSoneji_[Kartik Soneji^]
 * link:https://twitter.com/ishandeveloper[Ishan Sharma^]
 * link:https://www.linkedin.com/in/nishanth-sanjeev[Nishanth Sanjeev^]
-* link:https://twitter.com/_chiraglulla_[Chirag Lulla^]
+* link:https://twitter.com/\_chiraglulla_[Chirag Lulla^]
 * Mohit Nautiyal
 * Anas Khan
