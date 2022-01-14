@@ -75,6 +75,7 @@ a {
 
 .error-msg a {
 	color: yellow;
+	text-decoration-color: yellow;
 }
 
 #cta-wrapper {

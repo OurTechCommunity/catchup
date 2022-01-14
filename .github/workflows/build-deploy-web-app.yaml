@@ -11,6 +11,7 @@ on:
             - "index.js"
             - "package-lock.json"
             - "package.json"
+
     pull_request:
         branches:
             - main
@@ -22,29 +23,41 @@ on:
             - "index.js"
             - "package-lock.json"
             - "package.json"
-    workflow_dispatch:
+
+    workflow_dispatch: # Allows manual execution of workflow
 
 jobs:
-    deploy:
+    build:
+        if: startsWith(github.ref, 'refs/pull/')
         runs-on: ubuntu-latest
         container: "docker://asciidoctor/docker-asciidoctor:latest"
         steps:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Only keep relevant files
+            - name: Build Asciidoctor site
               run: |
-                  # Delete all old files
-                  rm -rf ./*
+                  chmod +x util/build.sh
+                  ./util/build.sh
 
-                  # Get latest files
-                  git restore -s main public summary util/build.sh index.js package-lock.json package.json
+            - name: Remove unnecessary files
+              run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
+
+    build-and-deploy:
+        if: startsWith(github.ref, 'refs/heads/')
+        runs-on: ubuntu-latest
+        container: "docker://asciidoctor/docker-asciidoctor:latest"
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
 
             - name: Build Asciidoctor site
               run: |
                   chmod +x util/build.sh
                   ./util/build.sh
-                  rm -rf summary util/build.sh
+
+            - name: Remove unnecessary files
+              run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
 
             - name: Deploy to Deta
               uses: BogDAAAMN/deta-deploy-action@v1.0.1

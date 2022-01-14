@@ -1,0 +1,37 @@
+Date: 01-01-2022
+
+Duration: 8 hrs 28 mins
+
+==== Topics Discussed
+
+* General introductions.
+* Service workers and PWAs
+	** link:https://twitter.com/howdevelop[Shivay Lamba^] shared link:https://capacitorjs.com[Capacitor^], which is used to create cross-platform iOS, Android and Progressive Web Apps with JavaScript, HTML and CSS.
+	** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared the link:https://developer.chrome.com/docs/extensions/mv3/service_workers[Web Extension Manifest v3 Service Worker documentation^] that he was going through for his project.
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared his link:https://dev.harshkapadia.me/resources.html#pwa--service-worker-api[notes on PWAs and Service Workers^] and talked about how link:https://dev.harshkapadia.me/resources.html#caching[caching^] is a crazy business with a lot of link:https://jakearchibald.com/2014/offline-cookbook[available options^] and link:https://alistapart.com/article/application-cache-is-a-douchebag[gotchas^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] suggested setting up a link:https://www.redhat.com/en/topics/virtualization/what-is-a-virtual-machine[VM^] and using Netscape on it to compare the development of the browser and the developer and user productivity with current browsers.
+* We talked about Smart TVs.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a video on link:https://www.youtube.com/watch?v=j5v8D-alAKE[why we can't have nice things^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared
+	** An article on link:https://pkolaczk.github.io/server-slower-than-a-laptop[How a Single Line of Code Made a 24-core Server Slower Than a Laptop^].
+	** A presentation on link:https://www.cs.utexas.edu/~pingali/CS377P/2018sp/lectures/mesi.pdf[Cache coherence in shared-memory architectures^].
+	** The link:https://boom-core.org[Berkeley Out-of-Order Machine (BOOM)^], a RISC-V processor.
+* We compared the value of Product Experience and Developer Experience.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] severely critiqued link:https://twitter.com/harshgkapadia[Harsh Kapadia^]'s code and gave tips to improve the code by showing the code that he had refactored.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] asked link:https://www.linkedin.com/in/nishanth-sanjeev[Nishanth Sanjeev^] about link:http://yann.lecun.com[Yann LeCun^].
+* There was a lengthy discussion on whether a Masters degree should be pursued in India or abroad.
+* There was another lengthy discussion comparing the Computer Science and Computer Engineering fields.
+* Another lengthy discussion was on determining whether link:https://twitter.com/littmath/status/1476293179280437250[the determinant of the empty matrix is 0 or 1^].
+* link:https://twitter.com/frenzyritz13[Ritvi Mishra^] shared her experiences working at a commission studio for Engineering projects where they built a smart _Hookah_.
+* link:https://twitter.com/KRISHNAGADIA[Krishna Gadia^] and link:https://twitter.com/hardikraheja[Hardik Raheja^] talked about
+	** Maze solvers
+	** The link:https://medium.com/@bilalaamir/p-vs-np-problem-in-a-nutshell-dbf08133bec5[P vs NP problem^]
+	** link:https://introcs.cs.princeton.edu/java/52turing[Turing Machines^]
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] recapped link:https://lkml.org/lkml/2021/6/13/40[Amit Choudhary's 'Fastest String Search Algorithm' debacle^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his project link:https://harshkapadia2.github.io/asciidoctor-jet[Asciidoctor Jet^], which is a ready-to-use jet black themed template for building static sites using Asciidoctor.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] showcased a Web Extension that he is currently working on called link:https://github.com/dheerajdlalwani/back-to-work[Back to Work^], which blocks certain sites to reduce distractions.
+* link:https://twitter.com/code_magician[Viranchee Lotia^] showcased his project which involved showcasing wallpapers on an old Android phone using remote link:https://www.androidcentral.com/android-z-what-adb[ADB^] and link:https://github.com/Genymobile/scrcpy[scrcpy^].
+* link:https://twitter.com/Aman_Atmanirbhr[Amandeep Singh Reen^] showcased an Android game that he had built using the link:https://unity.com[Unity Game Engine^].

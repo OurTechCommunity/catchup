@@ -1,15 +1,15 @@
 = OTC CatchUp Summaries
 Our Tech Community
 v1
-:favicon:		https://raw.githubusercontent.com/OurTechCommunity/web-site/main/static/img/favicon.ico
-:imagesdir: 	public/img/summary
-:icons:     	image
-:iconsdir:		public/img/summary/admonition_icons
-:sectanchors:
-:docinfo: 		private-head
 :toc:
-
-'''
+:favicon:				/public/img/favicon.ico
+:imagesdir: 			public/img/summary
+:icons:					image
+:iconsdir:				/public/img/summary/admonition_icons
+:docinfo:				private-head, shared
+:sectanchors:
+:figure-caption!:
+:nofooter:
 
 NOTE: For older summaries, please visit link:https://twitter.com/OurTechComm[our Twitter account (@OurTechComm)^].
 
@@ -20,6 +20,58 @@ NOTE: For older summaries, please visit link:https://twitter.com/OurTechComm[our
 link:https://catchup.ourtech.community[OTC CatchUps^] are weekly informal sessions involving project showcases and technical discussions. They are held every Saturday from 10:30 PM IST. link:https://catchup.ourtech.community/attend[Join in!^]
 
 == Summaries
+
+[#61]
+=== OTC CatchUp #61
+
+include::sessions/061/content.adoc[]
+
+include::sessions/061/attendees.adoc[]
+
+==== Meet Screenshot
+
+image::061.jpg[alt="Meet screenshot", 600, 600]
+
+'''
+
+[#60]
+=== OTC CatchUp #60
+
+include::sessions/060/content.adoc[]
+
+include::sessions/060/attendees.adoc[]
+
+==== Meet Screenshot
+
+image::060.jpg[alt="Meet screenshot", 600, 600]
+
+'''
+
+[#59]
+=== OTC CatchUp #59
+
+include::sessions/059/content.adoc[]
+
+include::sessions/059/attendees.adoc[]
+
+==== Meet Screenshot
+
+image::059.jpg[alt="Meet screenshot", 600, 600]
+
+'''
+
+[#58]
+=== OTC CatchUp #58
+
+include::sessions/058/content.adoc[]
+
+include::sessions/058/attendees.adoc[]
+
+==== Meet Screenshot
+
+image::058.jpg[alt="Meet screenshot", 600, 600]
+
+'''
 
 [#57]
 === OTC CatchUp #57
