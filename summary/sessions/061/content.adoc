@@ -37,7 +37,7 @@ Duration: 14 hrs 5 mins
 * Unreal Engine
 	** link:https://twitter.com/rishit_dagli[Rishit Dagli^] asked if anyone had experience with Game Dev and the link:https://www.unrealengine.com[Unreal Engine^].
 	** link:https://www.youtube.com/watch?v=X4y0ANUzQeU[The Matrix Awakens - An Unreal Engine 5 Experience^]
-* link:https://twitter.com/skxrxn[Sreekaran Srinath^] reiterated link:https://lkml.org/lkml/2021/6/13/40[Amit Choudhary's 'Fastest String Search Algorithm' debacle^].
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] reiterated link:https://sourceware.org/pipermail/libc-alpha/2021-June/127219.html[Amit Choudhary's 'Fastest String Search Algorithm' debacle^].
 * link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^], link:https://twitter.com/KartikSoneji_[Kartik Soneji] and link:https://twitter.com/skxrxn[Sreekaran Srinath^] had an extensive discussion on healthy eating habits, weight loss and nutritional content of various everyday foods.
 * link:https://twitter.com/KartikSoneji_[Kartik Soneji] reverse engineered Twitter Spaces and helped link:https://twitter.com/skxrxn[Sreekaran Srinath^] download the whole voice recording of a particular space with the help of the browser DevTools and link:https://www.ffmpeg.org[FFmpeg^].
 
