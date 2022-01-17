@@ -1,0 +1,87 @@
+Date: 15-01-2022
+
+Duration: 10 hrs 30 mins
+
+==== Topics Discussed
+
+* General introductions.
+* This week's CatchUp was probably the most thought provoking, interesting & information heavy session of all times. Here's a summary of what was discussed, shared & talked about in the CatchUp.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared his blogging profiles - 
+    ** link:https://devlibrary.withgoogle.com/authors/himanshusharma89[Google Dev Library^]
+    ** link:https://blog.logrocket.com/author/himanshusharma[Log Rocket^]
+    ** link:https://medium.com/@himanshusharma89[Medium^]
+* link:https://twitter.com/TweeterDowny[Vedant Panchal^] shared an article on link:https://rathorji.in/p/how_to_crop_the_image_before_uploading_it_with_cropper_js_php[How to crop the image before uploading it with Cropper JS & PHP^]
+* link:https://twitter.com/TweeterDowny[Vedant Panchal^] shared link:https://codepen.io/samnorton[Sam Norton^]'s link:https://codepen.io/samnorton/pen/oNYajYM[CodePen^] of an HTML form UI with validation code.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] told everyone about his upcoming talk on Git Internals at link:https://twitter.com/_syadav[Sudhanshu Yadav]'s meetup group - link:https://www.meetup.com/The-Internals[The Internals].
+    ** link:https://www.meetup.com/The-Internals/events/283200145[RSVP & Details^]
+    ** Date: 22/01/2022
+    ** Time: 4:00 PM, IST
+* We talked about link:https://en.wikipedia.org/wiki/Preboot_Execution_Environment[PXE^] (Preboot eXecution Environment) & link:https://ipxe.org[iPXE^] which is an open-source implementation of PXE.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] shared with everyone - link:https://theforeman.org[Foreman^] which is a free open source project that gives you the power to easily automate repetitive tasks, quickly deploy applications, and proactively manage your servers life cycle, on-premises or in the cloud. 
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared a link to link:https://developer.android.com/guide/topics/data/autobackup#EnablingAutoBackup[guide^] on how to enable & disable backup on Android. 
+* A link to the tool link:https://bundlephobia.com[Bundlephobia^] was shared, which lets you understand the performance cost of `npm install` ing a new npm package before it becomes a part of your bundle, analyze size, compositions and exports.
+* |Harsh| Himanshu ka secure storage
+* |Harsh| Krishna ka trip..n secure fee wala thing
+* |Harsh| link:https://aws.amazon.com/kms[Key Management Service - Amazon Web Services (AWS)^]
+* link:https://twitter.com/KRISHNAGADIA[Krishna Gadia^] shared a link to link:https://overthewire.org/wargames/bandit[Bandit^] wargame.
+* link:https://twitter.com/howdevelop[Shivay Lamba^] shared his experience of link:https://hackmit.org[HackMIT^] CTF.
+    ** link:https://twitter.com/howdevelop[Shivay Lamba^] shared link:https://www.youtube.com/watch?v=rFmLrkuFr_w[Puzzle Walkthrough^]
+    ** link:https://twitter.com/howdevelop[Shivay Lamba^] also shared link:https://medium.com/hackmit-stories/hackmirror-the-hackmit-2018-puzzle-guide-4be38d5fc673[HackMirror: The HackMIT 2018 Puzzle Guide^]
+* link:https://twitter.com/KRISHNAGADIA[Krishna Gadia^] asked link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] about little-endian & big-endian.
+    ** link:https://twitter.com/jai_dewani[Jai Dewani^] shared a stack overflow link:https://stackoverflow.com/questions/9237317/what-makes-a-system-little-endian-or-big-endian[link^] to the same question.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] told everyone about the link:https://www.nand2tetris.org[Nand to Tetris Course^], shared his experience of the course & also gave us a walk through of the course.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared an article - link:https://pkolaczk.github.io/server-slower-than-a-laptop[How a Single Line of Code Made a 24-core Server Slower Than a Laptop^] by link:https://www.linkedin.com/in/pkolaczk[Piotr Kołaczkowski^]
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] gave us a homework assignment & asked us to explore the link:https://en.wikipedia.org/wiki/MESI_protocol[MESI Protocol^]
+    ** Lecture slides on link:https://www.cs.utexas.edu/~pingali/CS377P/2018sp/lectures/mesi.pdf[Cache coherence in shared-memory architectures & the MESI Protocol^] at link:https://www.utexas.edu[The University of Texas at Austin^]
+* We also discussed about link:https://en.wikipedia.org/wiki/Code_morphing[Code morphing^].
+* We talked about x86 & ARM instructions.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared another homework assignment and asked us to look up link:https://en.wikipedia.org/wiki/Self-modifying_code[Self modifying code^] & link:https://en.wikipedia.org/wiki/Turing_completeness[Turing completeness^]
+    ** Here is a link:https://www.youtube.com/watch?v=SWU_DgjSwRU[video^] by link:https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA[Computerphile^] on Self modifying code.
+* We then talked about PCI devices & how it connects to various controllers inside the microprocessor.
+* We then talked about link:https://en.wikipedia.org/wiki/System_on_a_chip[SoC - System on Chip^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared with us the link:https://github.com/amd/amd_hsmp[AMD HSMP^] module which provides user interface to system management features & also can help us write our own task manager.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared with is what link:https://github.com/pciutils/pciutils[PCI Utils^] are.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also talked about the link:https://www.kernel.org/doc/html/latest/admin-guide/acpi/cppc_sysfs.html[CPPC^] inside the ACPI Spec.
+* We talked about Quines.
+    ** link:https://twitter.com/omtalk[Omkar Khair^] shared a link:https://cs.lmu.edu/~ray/notes/quineprograms[website^] about Quine Programs
+* link:https://twitter.com/kaku_jay[Jay Kaku^] asked  about his opinion about taking a security first approach while building microprocessors, to which link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] replied: "The cost of what you're securing should not be more than what you're securing"
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told about the link:https://www.cpuid.com/softwares/cpu-z.html[CPU-Z^] freeware that gathers information on some of the main devices of our systems.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared an example of link:https://www.linkedin.com/in/markrussinovich[Mark Russinovich^] & how he still maintains his & updates his softwares & tools like link:https://docs.microsoft.com/en-us/sysinternals[Sysinternals^], even after 26 years.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared with everyone link:https://www.autoitscript.com[AutoIt^] which is a freeware BASIC-like scripting language designed for automating the Windows GUI and general scripting. link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told everyone that they used to use AutoIt for game & excel sheet automation.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a link:https://www.youtube.com/watch?v=VhFkWl5u6_k[video^] comparing performance of AMD Ryzen 7 1700 & Intel i7-7700K in Microsoft Excel.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared with everyone how they used to use link:https://www.pidgin.im/[Pidgin^] and IRC Chat rooms.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also shared link:https://github.com/tridactyl/tridactyl[Tridactyl^] which allows you to completely operate your browser with your keyboard.
+* |Harsh| Anil Gohan2:01 AM
+https://www.widevine.com/
+https://news.microsoft.com/2010/05/25/netflix-taps-microsoft-playready-as-its-primary-drm-technology-for-netflix-ready-devices-and-applications/
+
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a link:https://www.youtube.com/watch?v=4SjOv_szzVM[video^] by the channel link:https://www.youtube.com/channel/UCJ0-OtVpF0wOKEqT2Z1HEtA[ElectroBOOM^] explaining What It Takes to Break a RAM with ESD.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] showcased v1 of link:https://www.amd.com/en/products/epyc[AMD Epyc boards^] which are basically processor boards for data centers.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told everyone about link:https://docs.microsoft.com/en-us/azure/virtual-machines/lsv2-series[Azure Lsv2-series]
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told everyone about link:https://www.kernel.org/doc/html/latest/block/inline-encryption.html[inline encryption and decryption] and how it prevents other people from accessing same data on same drive.
+* |Harsh| single layer cache, dlc, tlc, qlc
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a talk on link:https://www.youtube.com/watch?v=kIQByfvsDa0[AMD x86 Memory Encryption Technologies^] by link:https://www.linkedin.com/in/david-kaplan-0561908[David Kaplan^]
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a video - link:https://www.youtube.com/watch?v=CVN93H6EuAU[IBM System Storage Tape Library ts3500 ts4500 robotic-dual-sing^]
+* link:https://twitter.com/omtalk[Omkar Khair^] suggested everyone to map the end to end process of how the boot process works to help us understand system design.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] & link:https://twitter.com/SirusTweets[Darshan Rander^] asked link:https://twitter.com/omtalk[Omkar Khair^] about his proxy email forwarding project.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an article about link:https://explained-from-first-principles.com/email[email^] by link:https://explained-from-first-principles.com/[Explained from First Principles^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a video on link:https://www.youtube.com/watch?v=0myM0k1mjZw[Capacity Planning and Estimation: How much data does YouTube store daily?^] by link:https://twitter.com/gkcs_[Gaurav Sen^] 
+* link:https://twitter.com/gupta_shrinath[Shrinath Gupta^] asked for suggestions on which service to use if he had to store images and test and possibly videos in the near future.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a talk on link:https://www.youtube.com/watch?v=R4jZ_Mylqaw[Concept Visualise - JavaScript Internals^] by link:https://twitter.com/SanjayVyas[Sanjay Vyas^]
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told about the various Overclocking events he had been to.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told everyone about how they used to use link:https://parallel-ssh.org[ParallelSSH^] back in the day when link:https://kubernetes.io[Kubernetes^] did not exist.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a paper link:https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf[Large-scale cluster management at Google with Borg^] which is a predecessor to Kubernetes.
+    ** Here is an link:https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes[official blog^] by link:https://kubernetes.io[Kubernetes] on Borg.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a book on link:https://sre.google/sre-book/table-of-contents[Site Reliability Engineering^] by link:https://sre.google[Google^]
+* We talked about Monorepos.
+    ** Here's a video by @Scale on link:https://www.youtube.com/watch?v=W71BTkUbdqE[Why Google Stores Billions of Lines of Code in a Single Repository^]
+    ** Here's a video by Fireship.io on link:https://www.youtube.com/watch?v=9iU_IE6vnJ8[Monorepos - How the Pros Scale Huge Software Projects^]
+* |Harsh| link:https://twitter.com/frenzyritz13[Ritvi Mishra^] and some link:https://discord.gg/k6MwUH6h[discord server^]
+
+==== Projects Showcased
+
+* link:https://twitter.com/TweeterDowny[Vedant Panchal^] showcased his link:https://insta-post-designer.herokuapp.com[Personal Intro Post Designer^] project.
+    ** link:https://github.com/DeveloperDowny/personal_intro_post_designer[GitHub repository^]
+    ** link:https://www.instagram.com/spit_freshers2021[Example Post^]
+    ** link:https://insta-post-designer.herokuapp.com[Hosted deployment]
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] showcased one of his projects which is currently being used by millions of AMD CPUs all the way at Data center levels.
