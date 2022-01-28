@@ -1,0 +1,53 @@
+Date: 22-01-2022
+
+Duration: 5 hrs 55 mins
+
+==== Topics Discussed
+
+* General introductions.
+* Competitive Programming (CP) and Development: What should be done depends on what one wants to do. If placements is the goal, CP should be stressed upon and one should have some projects. If higher studies is the goal, then Development and research/developing proficiency in the domain of interest is more important.
+* We talked about the bad UX of the link:https://teams.microsoft.com[Microsoft Teams^] desktop app.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his link:https://www.getrevue.co/profile/rishit_dagli[newsletter^] which is going to be about Tech and Artificial Intelligence. People can approach him to feature their projects as well!
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] and link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told everyone, how important and expensive link:https://en.wikipedia.org/wiki/Bandwidth_(computing)[data bandwidth^] is and how important it is to measure it.
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] also shared how useful the link:https://www.oracle.com/in/cloud/#free-oci-services[Oracle Cloud Free Tier^] is and suggested using it to learn and explore the technology.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] alerted everyone to the easiness of racking up unnecessary charges while experimenting with Cloud.
+* link:https://twitter.com/omtalk[Omkar Khair^] explained the recent 'race condition enabling symlink following' vulnerability in link:https://www.rust-lang.org[Rust^], which can be used to trick a privileged program into deleting files and directories the attacker couldn't otherwise access or delete.
+	** link:https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html[Security advisory for the standard library (CVE-2022-21658)^]
+    **  link:https://www.cve.org/CVERecord?id=CVE-2022-21658[CVE-2022-21658^]
+	** We spoke about link:https://docs.microsoft.com/en-us/windows/win32/fileio/symbolic-links[symlinks (symbolic links)^].
+* We also talked about link:https://en.wikipedia.org/wiki/Anaconda_(installer)[Anaconda^], a system installer for Linux distributions.
+* We talked about link:https://github.com/nvm-sh/nvm[NVM (Node Version Manager)^], which manages multiple active Node.js versions on a computer.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] suggested installing link:http://www.slackware.com[Slackware Linux] if one wants to configure a lot of options and build all programs (Eg: Python) from their binaries to learn more.
+    ** link:https://twitter.com/omtalk[Omkar Khair^] shared a similar Operating System called link:http://collapseos.org[Collapse OS^].
+* We talked about link:https://www.cloudflare.com[Cloudflare^] and link:https://en.wikipedia.org/wiki/Edge_computing[Edge Computing^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared link:https://www.servethehome.com[Serve the Home^] with everyone to keep up with server hardware and even Cloud VM performance.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his talk link:https://www.droidcon.com/2020/12/15/superpower-your-android-apps-with-ml-android-11/?video=491094795[Superpower Your Android Apps with ML: Android 11^].
+* link:https://twitter.com/GaonkarMihika[Mihika Gaonkar^] asked link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] about sending data to the backend from the frontend without refreshing the page in a link:https://www.djangoproject.com[Django^] project. Dheeraj suggested using the link:https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API[Fetch API^]. 
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] asked if anyone was aware of benchmarking (performance and hardware profiling).
+	** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared an article link:https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70[How I cut GTA Online loading times by 70%^]
+	** The tools shared by link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] to do benchmarking and profiling
+		*** link:https://www.brendangregg.com/perf.html[Examples using the `perf` Linux profiler^]
+		*** link:https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.noqeok[Intel's VTune Profiler^]
+		*** link:https://www.phoronix-test-suite.com[Phoronix Test Suite^], an Open Source, automated benchmarking tool.
+		*** link:https://developer.nvidia.com/nsight-systems[NVIDIA Nsight Systems^]
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared an article link:https://developer.ibm.com/articles/scale-up-and-scale-out-vms-vs-containers[Growing compute by scaling up and scaling out^] by IBM.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a few talks on hardware
+    ** link:https://www.youtube.com/watch?v=4HgShra-KnY[ASPLOS Keynote: The Golden Age of Compiler Design in an Era of HW/SW Co-design^]
+    ** link:https://www.youtube.com/watch?v=kFT54hO1X8M[David Patterson - A New Golden Age for Computer Architecture: History, Challenges and Opportunities^]
+    ** link:https://www.youtube.com/watch?v=KOHQQyAKY14[Building AI Silicon^]
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] explained why Indian data centers don't have good GPUs.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] shared his experience while being a Teaching Assistant at link:https://cs50.harvard.edu/[Harvard CS50^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] discussed an issue he was facing while adding a SSL Certificate to link:https://www.getrevue.co/profile/rishit_dagli[his newsletter^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased a website he had made using link:https://greensock.com/gsap[GSAP^] for his parent's wedding anniversary.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] showcased _Back to Work_, a web-extension trying to fix a problem in the productivity domain.
+    ** link:https://github.com/dheerajdlalwani/back-to-work[GitHub repository^]
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] showcased _Aankh_, a web app for effortless automatic proctoring of online tests.
+	** link:https://tusharnankani.github.io/Aankh[Documentation^]
+    ** link:https://github.com/tusharnankani/Aankh[GitHub repository^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased _Git Graph_, a visualizer for the Directed Acyclic Graph that Git creates to connect Commit, Tree and Blob objects internally.
+	** link:https://harshkapadia2.github.io/git-graph[Web app^]
+	** link:https://github.com/HarshKapadia2/git-graph[GitHub repository^]
+	** link:https://github.com/The-Internals/Internals-of-git[Talk using Git Graph^]
