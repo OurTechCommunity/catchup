@@ -4,6 +4,8 @@ set -eu;
 
 script_dir=$(dirname "${0}");
 
+echo "Building summary pages using Asciidoctor Jet...";
+
 # Create required directories if they don't exist
 mkdir -p "${script_dir}/../public/css/summary";
 mkdir -p "${script_dir}/../public/html/summary";
@@ -54,4 +56,4 @@ for path in "${script_dir}/../summary/sessions/"*; do
 	fi;
 done;
 
-echo "Asciidoctor Jet summary site build complete.";
+echo -e "Summary pages build complete!\n";
