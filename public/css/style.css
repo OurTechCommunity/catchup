@@ -80,6 +80,7 @@ a {
 
 #cta-wrapper {
 	margin: 10em 0 5em 0;
+	display: flex;
 }
 
 #cta-wrapper a:hover,
@@ -164,6 +165,22 @@ button {
 	}
 }
 
+#showcase-form {
+	background-color: #f6f6f6;
+	border-radius: 5px;
+	color: #e0e0e0;
+	width: 50vw;
+	min-height: 2600px;
+	margin: 0;
+	border: none;
+}
+
+@media screen and (max-width: 1200px) {
+	#showcase-form {
+		width: 85vw;
+	}
+}
+
 /* ======================================================= BURGER MENU ===================================================== */
 
 .navbar-ul {
@@ -209,4 +226,19 @@ button {
 
 .hide-burger-menu {
 	display: none;
+}
+
+/* ======================================================== SCROLLBAR ================================================== */
+
+body::-webkit-scrollbar {
+	width: 0.7em;
+}
+
+body::-webkit-scrollbar-track {
+	background-color: #212121;
+}
+
+body::-webkit-scrollbar-thumb {
+	background-color: #616161;
+	border-radius: 2px;
 }

@@ -66,6 +66,10 @@ app.get("/summary/:catchupNumber", (req, res) => {
 	} else res.status(404).sendFile(__dirname + "/public/html/404.html");
 });
 
+app.get("/showcase", (req, res) => {
+	res.sendFile(__dirname + "/public/html/project-showcase-form.html");
+});
+
 function auth(req, res) {
 	const authHeader = req.headers.authorization;
 
