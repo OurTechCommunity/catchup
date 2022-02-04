@@ -1,0 +1,15 @@
+# Ignore these files and directories
+.github/
+node_modules/
+summary/
+util/
+.gitignore
+.prettierrc
+CONTRIBUTING.md
+LICENSE
+README.md
+sample.env
+
+# Don't ignore these files and directories
+!.deta/
+!.env

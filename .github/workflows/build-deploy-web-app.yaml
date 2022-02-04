@@ -35,13 +35,10 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Build Asciidoctor site
+            - name: Build summary pages using Asciidoctor Jet
               run: |
                   chmod +x util/build.sh
                   ./util/build.sh
-
-            - name: Remove unnecessary files
-              run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
 
     build-and-deploy:
         if: startsWith(github.ref, 'refs/heads/')
@@ -51,13 +48,10 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Build Asciidoctor site
+            - name: Build summary pages using Asciidoctor Jet
               run: |
                   chmod +x util/build.sh
                   ./util/build.sh
-
-            - name: Remove unnecessary files
-              run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
 
             - name: Deploy to Deta
               uses: BogDAAAMN/deta-deploy-action@v1.0.1
