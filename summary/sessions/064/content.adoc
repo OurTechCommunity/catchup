@@ -1,0 +1,50 @@
+Date: 29-01-2022
+
+Duration: 6 hrs 5 mins
+
+==== Topics Discussed
+
+* General introductions.
+* Random Access Memory (RAM)
+	** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared an introduction to link:https://www.micron.com/-/media/client/global/documents/products/white-paper/ddr5_more_than_a_generational_update_wp.pdf[DDR5 RAM^].
+    ** We talked about link:https://www.hp.com/us-en/shop/tech-takes/what-is-dram-dynamic-random-access-memory[DRAMs^], whose capacitors keep discharging and thus need to be charged after a fixed interval to maintain the data in the RAM.
+    ** link:https://www.minitool.com/lib/sram-memory.html[SRAMs^], which do not require any self-refresh and have a high access speed.
+* Cache coherency and the MESI Protocol
+	** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] explained what link:https://en.wikipedia.org/wiki/Cache_hierarchy[Cache Hierarchy], link:https://techexpertise.medium.com/cache-coherence-problem-and-approaches-a18cdd48ee0e[Cache Coherency^] and the link:https://en.wikipedia.org/wiki/MESI_protocol[MESI Protocol^] are and how they fit together.
+    ** link:https://www.cs.utexas.edu/~pingali/CS377P/2018sp/lectures/mesi.pdf[More on the MESI protocol.]
+	** We talked about how important the above concepts and mechanisms such as locking are for systems like databases.
+* We discussed how ML code is executed on computers.
+	** We talked about the fact that although code is executed on the CPU, the compute-heavy stuff is passed on to the GPU, which then sends the results back to the CPU through the link:https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect[PCI paths^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] asked everyone to look up link:https://sites.utexas.edu/jdm4372/2018/01/01/notes-on-non-temporal-aka-streaming-stores[Streaming Stores^] in hardware and link:http://www.nic.uoregon.edu/~khuck/ts/acumem-report/manual_html/ch05s03.html[Non-Temporal Mmemory^].
+* link:https://en.wikipedia.org/wiki/Transmission_Control_Protocol[TCP^] and link:https://www.cloudflare.com/learning/ddos/glossary/user-datagram-protocol-udp[UDP^]
+	** link:https://twitter.com/gupta_shrinath[Shrinath Gupta^] asked link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] about TCP and UDP and the requirement of the checksum in the UDP header.
+	** We talked about link:https://en.wikipedia.org/wiki/Cyclic_redundancy_check[Cyclic Redundancy Checks (CRCs)^], link:https://www.tutorialspoint.com/error-detecting-codes-parity[parity checks^], how link:https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care[checksum^] provides protection against noise and how link:https://www.section.io/engineering-education/understand-hashing-in-cryptography[hashing^] provides integrity check.
+	** link:https://www.geeksforgeeks.org/error-detection-in-computer-networks[Error Detection in Computer Networks^]
+* link:http://www.numberworld.org/y-cruncher[y-cruncher - A Multi-Threaded Pi-Program^].
+* We also talked about link:https://www.youtube.com/watch?v=1dOCHwf8zVQ[OpenSSL's Heartbleed bug^].
+    ** link:https://heartbleed.com[More on the Heartbleeld bug^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^]'s message: 'Dig deeper into everything.'
+* link:https://twitter.com/mayurkukreja26[Mayur Kukreja^] shared an article on link:https://medium.com/@avantikadasgupta/how-google-stores-massive-amounts-of-data-bigtable-d67f49bfc40e[How Google stores massive amounts of data — BigTable^]
+* link:https://twitter.com/0xSaurabh[Saurabh Suryan^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about commit message formats.
+	** A link:https://gist.github.com/rishavpandey43/84665ffe3cea76400d8e5a1ad7133a79[guide for writing good commit messages^]
+	** A link:https://gitmoji.devv[website for helping us choose appropriate emojis for commit messages^].
+* We discussed about link:https://www.simplethread.com/javascript-modules-and-code-bundling-explained[bundling^], link:https://en.wikipedia.org/wiki/Obfuscation_(software)[obfuscation^] and link:https://developer.mozilla.org/en-US/docs/Glossary/minification[minification^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked whether it was okay to re-render a component an extra time or whether one should club the states. It was pertaining to his link:https://github.com/HarshKapadia2/git-graph[Git Graph^] project.
+* Web3
+	** A lot about Web3 Proof of Stake, ZK and Optimistic roll ups, Public Ledgers, security, censorship and privacy issues, etc was discussed. (link:https://twitter.com/hardikraheja/status/1487386454346981377[Context])
+	** We discussed about cryptocurrencies and link:https://cryptobriefing.com/burner-wallets-dinner-ether[burner wallets^].
+* We talked about burnouts, FOMO and mental health.
+* We discussed about TypeScript to JavaScript link:https://www.digitalocean.com/community/tutorials/javascript-transpilers-what-they-are-why-we-need-them[transpilation^] and the benefits of using TypeScript.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared an article link:https://www.hillelwayne.com/post/are-we-really-engineers[Are we really Engineers?^]
+* A recurring theme on OTC CatchUp is the fact that a lot of us younger Engineers today only know high level abstracted things and how to use tools. We have less knowledge about the internals of tools and fundamental Computer Science knowledge. This makes us handicapped when things go wrong below the abstraction that we all deal with and in general lead to less-optimized decisions.
+	** A video link:https://www.youtube.com/watch?v=5ESJH1NLMLs[Children Of The Magenta Line] is an example on how technological advancements are good and necessary, but knowing the basics of things is necessary. The video is from the Aviation industry, but is a good example.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] explained why we can't have all general purpose registers if they are so speed efficient.
+* We compared AMD and Intel processors.
+* We discussed the link:https://fellowship.mlh.io[MLH Fellowship^].
+* We talked about the measurement of sizes of Transistors on processors and how more Transistors implies more processing power.
+	** link:https://www.youtube.com/watch?v=ROS008Av4E4[Should You Believe CPU Marketing? - Process Nodes Explained^]. 
+* link:https://twitter.com/howdevelop[Shivay Lamba^] shared his talk link:https://www.youtube.com/watch?v=Riqbl6zFdak[Machine Learning in Node.js using Tensorflow.js^] and talked about his upcoming talk at link:https://nodecongress.com[Node Congress^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/0xSaurabh[Saurabh Suryan^] shared his project link:https://thecodelife.science.blog/2020/08/07/automating-my-attendance-with-python[Automating my attendance with Python^]. He used link:https://flask.palletsprojects.com/en/2.0.x/[Flask^] on the server and link:https://www.crummy.com/software/BeautifulSoup[Beautiful Soup^] for scraping.
