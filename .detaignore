@@ -1,8 +1,11 @@
+# NOTE: This file ignores everything in the `.gitignore` file
+
 # Ignore these files and directories
 .github/
 node_modules/
 summary/
 util/
+.env
 .gitignore
 .prettierrc
 CONTRIBUTING.md
@@ -11,5 +14,7 @@ README.md
 sample.env
 
 # Don't ignore these files and directories
-!.deta/
-!.env
+!public/css/summary/
+!public/js/summary/
+!public/img/summary/
+!public/html/summary/
