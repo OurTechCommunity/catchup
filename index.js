@@ -70,6 +70,12 @@ app.get("/showcase", (req, res) => {
 	res.sendFile(__dirname + "/public/html/project-showcase-form.html");
 });
 
+app.get("/ideas", (req, res) => {
+	res.redirect(
+		"https://docs.google.com/document/d/1K67G2_0w3-MEOcrakJrvStwHDz4zhlSliycHDa5oTGk/edit?usp=sharing"
+	);
+});
+
 function auth(req, res) {
 	const authHeader = req.headers.authorization;
 
