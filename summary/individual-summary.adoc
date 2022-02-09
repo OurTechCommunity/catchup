@@ -16,9 +16,11 @@ NOTE: For all summaries, please visit link:https://catchup.ourtech.community/sum
 
 '''
 
-== OTC CatchUp
+== About OTC CatchUp
 
 link:https://catchup.ourtech.community[OTC CatchUps^] are weekly informal sessions involving project showcases and technical discussions. They are held every Saturday from 10:30 PM IST. link:https://catchup.ourtech.community/attend[Join in!^]
+
+NOTE: link:https://catchup.ourtech.community/showcase[Showcase a project on OTC CatchUp!^] It can be anything from a simple Calculator to an extremely complex project. We appreciate them all!
 
 '''
 
