@@ -1,29 +1,29 @@
 ==== Attendees
 
-* link:https://twitter.com/chiragnayyar[Chirag Nayyar^]
-* link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
-* link:https://twitter.com/skxrxn[Sreekaran Srinath^]
-* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^]
-* link:https://twitter.com/rishit_dagli[Rishit Dagli^]
-* link:https://twitter.com/kaku_jay[Jay Kaku^]
-* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
-* link:https://twitter.com/SirusTweets[Darshan Rander^]
-* link:https://twitter.com/GaonkarMihika[Mihika Gaonkar^]
-* link:https://twitter.com/ksridhar02[Sridhar Katta^]
-* link:https://twitter.com/devout_coder[Pranil Chitre^]
-* link:https://twitter.com/guyinthecape[Vatsal Patel^]
-* link:https://twitter.com/TweeterDowny[Vedant Panchal^]
-* link:https://twitter.com/HarshShah151[Harsh Shah^]
-* link:https://www.linkedin.com/in/annshagrawaal[Annsh Agrawaal^]
-* link:https://twitter.com/\_chiraglulla_[Chirag Lulla^]
-* link:https://twitter.com/KRISHNAGADIA[Krishna Gadia^]
-* link:https://twitter.com/PrathamRohra9[Pratham Rohra^]
-* link:https://twitter.com/omtalk[Omkar Khair^]
-* link:https://twitter.com/OyeTewari[Gaurav Tewari^]
-* link:https://twitter.com/tusharnankanii[Tushar Nankani^]
-* Priyam Shah
-* Kedar Karbele
-* Sahil
-* Omar Vora
-* Akshay Kanade
-* Ronak Wadhva
+. link:https://twitter.com/chiragnayyar[Chirag Nayyar^]
+. link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
+. link:https://twitter.com/skxrxn[Sreekaran Srinath^]
+. link:https://www.linkedin.com/in/anilharwani[Anil Harwani^]
+. link:https://twitter.com/rishit_dagli[Rishit Dagli^]
+. link:https://twitter.com/kaku_jay[Jay Kaku^]
+. link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
+. link:https://twitter.com/SirusTweets[Darshan Rander^]
+. link:https://twitter.com/GaonkarMihika[Mihika Gaonkar^]
+. link:https://twitter.com/ksridhar02[Sridhar Katta^]
+. link:https://twitter.com/devout_coder[Pranil Chitre^]
+. link:https://twitter.com/guyinthecape[Vatsal Patel^]
+. link:https://twitter.com/TweeterDowny[Vedant Panchal^]
+. link:https://twitter.com/HarshShah151[Harsh Shah^]
+. link:https://www.linkedin.com/in/annshagrawaal[Annsh Agrawaal^]
+. link:https://twitter.com/\_chiraglulla_[Chirag Lulla^]
+. link:https://twitter.com/KRISHNAGADIA[Krishna Gadia^]
+. link:https://twitter.com/PrathamRohra9[Pratham Rohra^]
+. link:https://twitter.com/omtalk[Omkar Khair^]
+. link:https://twitter.com/OyeTewari[Gaurav Tewari^]
+. link:https://twitter.com/tusharnankanii[Tushar Nankani^]
+. Priyam Shah
+. Kedar Karbele
+. Sahil
+. Omar Vora
+. Akshay Kanade
+. Ronak Wadhva
