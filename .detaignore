@@ -7,6 +7,7 @@ summary/
 util/
 .env
 .gitignore
+.gitpod.yml
 .prettierrc
 CONTRIBUTING.md
 LICENSE
