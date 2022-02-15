@@ -1,0 +1,12 @@
+tasks:
+    - name: Install Asciidoctor
+      init: |
+          sudo apt-get upgrade
+          sudo apt-get install -y asciidoctor
+
+    - name: Install npm dependencies
+      init: npm install
+
+vscode:
+    extensions:
+        - esbenp.prettier-vscode
