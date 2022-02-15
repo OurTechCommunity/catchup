@@ -1,13 +1,14 @@
-tasks:
-    - name: Install Asciidoctor
-      init: |
-          echo "BEFORE"
-          sudo apt-get install -yy asciidoctor
-          echo "AFTER"
+image: asciidoctor/docker-asciidoctor:latest
 
+tasks:
     - name: Install npm dependencies
       init: npm install
 
 vscode:
     extensions:
         - esbenp.prettier-vscode
+
+ports:
+    - port: 5000
+      onOpen: open-browser
+      visibility: public
