@@ -1,4 +1,4 @@
-image: asciidoctor/docker-asciidoctor:latest
+image: asciidoctor/docker-asciidoctor
 
 tasks:
     - name: Install npm dependencies
