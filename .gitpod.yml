@@ -1,8 +1,9 @@
 tasks:
     - name: Install Asciidoctor
       init: |
-          sudo apt-get update
+          echo "BEFORE"
           sudo apt-get install -y asciidoctor
+          echo "AFTER"
 
     - name: Install npm dependencies
       init: npm install
