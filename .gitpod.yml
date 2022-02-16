@@ -1,6 +1,8 @@
 tasks:
     - name: Install Asciidoctor
-      init: gem install asciidoctor
+      before: |
+          gem install asciidoctor
+          exit
 
     - name: Install npm dependencies
       init: npm install
