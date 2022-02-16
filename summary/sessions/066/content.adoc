@@ -1,0 +1,60 @@
+Date: 12-02-2022
+
+Duration: 8 hrs 6 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared his article on link:https://blog.logrocket.com/securing-local-storage-flutter[Securing Local Storage in Flutter^].
+* link:https://twitter.com/TweeterDowny[Vedant Panchal^] asked how one should share sensitive information like API keys with project members.
+	** link:https://twitter.com/furtado_jaden[Jaden Furtado^] suggested using a password manager or using link:https://askubuntu.com/questions/186805/difference-between-pgp-and-gpg[PGP keys^].
+		*** link:https://www.encryptionconsulting.com/how-to-generate-pgp-key-pair[How to Generate PGP Key Pair?^]
+	** link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested using a private Git submodule or secret on GitHub itself.
+* Talking about PGP started talks about
+	** link:https://www.youtube.com/watch?v=Z3FwixsBE94[Symmetrical vs asymmetrical Encryption^]
+	** link:https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography[Elliptical Curve Cryptography]
+	** link:https://www.youtube.com/watch?v=NmM9HA2MQGI[Diffie-Hellman Key Exchange Algorithm^]
+	** link:https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54[Upgrading one's SSH Key to Ed25519^]
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] suggested reading link:https://blog.cloudflare.com[The Clouflare Blog^].
+* We talked about the link:https://stackoverflow.com/a/27942559/11958552[history of Serial and COM ports in computers^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] and link:https://twitter.com/omtalk[Omkar Khair^] once again implored everyone to explore the internals of various technologies and to not just play 'lego' with technology (just blindly combining various libraries to make something work).
+* link:https://twitter.com/omtalk[Omkar Khair^] showcased link:https://m5stack.hackster.io/products/atom-matrix-esp32-development-kit[ATOM Matrix^], a compact development board with a 5 * 5 RGB LED matrix.
+	** It's not just about building things, it's also about security, performance, testing, debugging, scaling, etc.
+* link:https://twitter.com/omtalk[Omkar Khair^] gave us an example to justify why link:https://thecyberpatch.com/security-through-obscurity-the-good-the-bad-the-ugly[Security Through Obscurity (STO)^] is a bad idea.
+	** link:https://www.bcs.org/articles-opinion-and-research/security-through-obscurity[Security solely implemented through obscurity is worse.^]
+	** link:https://www.gigahertz.net.in/tutorials/overclocking-moding/54-pencil-mod-nforce4-include-support-for-sli-and-sata-ii[Pencil MOD^]: Lower versions of NVIDIA's nForce graphics cards were able to perform later version functions because the necessary chips wre already present in the lower version boards, but were not connected. A simple conductive pencil drawn connection between the connectors did the job. So NVIDIA was relying on obscurity for people to not discover that, but some people did.
+* link:https://twitter.com/omtalk[Omkar Khair^] told us that while working in a team it is important to identify the inclinations of people (Engineering, Marketing, Management, etc) as it helps in identifying the intentions behind something that they are suggesting. Whether to consider all, some or none of those suggestions is up to one's discretion, but that's difficult to do without knowing where they are coming from.
+* link:https://twitter.com/omtalk[Omkar Khair^] told us that it is important to listen to discussions against something that one is passionate passionate about, as it helps in refining one's perspective.
+* Blockchain and Cryptocurrencies
+	** link:https://twitter.com/omtalk[Omkar Khair^] told us about how people are trying to capitalize on emotions in the Web3 space.
+	** link:https://twitter.com/omtalk[Omkar Khair^] also shared a blog on link:https://twitter.com/markrussinovich/status/1492174833945231360[issues with Web3^].
+	** link:https://twitter.com/omtalk[Omkar Khair^] informed us that being technically sound when it comes to Blockchain and Crypto stuff was important to not get scammed.
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] informed everyone about the link:https://www.youtube.com/watch?v=KPyeJ5J2a7A[Razzlekhan Bitcoin laundering scandal^].
+	** link:https://twitter.com/omtalk[Omkar Khair^] also suggested reading link:https://bitcoinwhitepaper.co[Bitcoin's White Paper^].
+	** We all were wondering why the link:https://universalpass.co.in[Universal Pass^] for travel in India was using Blockchain to issue the pass. No one could come up with a valid reason to justify it.
+	** link:https://twitter.com/SunidhiShende[Sunidhi Shende^] shared a guide for Bitcoin called link:https://learnmeabitcoin.com[Learn Me a Bitcoin^].
+	** link:https://twitter.com/omtalk[Omkar Khair^] talked about link:https://www.youtube.com/watch?v=iYn6EQDqTkU[the block debate in Bitcoin^] and link:https://medium.com/@WJanensch/understanding-the-bitcoin-block-size-debate-decentralized-governance-and-the-challenge-of-scaling-98912d465dd7#:~:text=How%20a%20Block%20Size%20Increase%20Decision%20Could%20Be%20Made[how users could vote by setting a flag^].
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://www.youtube.com/watch?v=mJSXEXK1xtA[Discussing Job Opportunities in Web3 space^] and link:https://www.youtube.com/watch?v=O4Nolj-0aOI[IMPACT of 30% CRYPTO TAX on WEB3 STARTUPS^].
+	** link:https://twitter.com/omtalk[Omkar Khair^] talked about link:https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell[zkSNARKs^]. They help in hiding the identity and wallet balance of an individual, but are still able to validate the transaction. link:https://www.reddit.com/r/Monero/comments/6k07bf/comment/djib4g6[Monero has implemented a similar principle as well.^]
+	** link:https://twitter.com/omtalk[Omkar Khair^] told us about link:https://cryptomixer.io[CryptoMixer^], which makes transactions safer and untraceable, thus improving privacy.
+	** There were talks about mining Cryptocurrencies on link:https://replit.com[Replit^] servers as well.
+* There was a debate on whether all Open Source contributions are equal (not 'big' or 'small') and/or are equal in value.
+* link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^] course was shared.
+* link:https://twitter.com/SunidhiShende[Sunidhi Shende^] talked about her link:https://business.adobe.com/in/resources/5-realworld-examples-of-augmented-reality-innovation.html[Augmented Reality^] project idea and link:https://twitter.com/guyinthecape[Vatsal Patel^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] advised her to break down her idea to eventually tackle the entire project idea. Targeting smaller targets can help in extrapolating to other use cases as well.
+* Kedar Karbele and link:https://twitter.com/SirusTweets[Darshan Rander^] enquired about link:https://buggyprogrammer.com/what-is-docker-for[the requirement of Docker^].
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about his job offers.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] showcased a new version of his portfolio which uses link:https://www.khronos.org/webgl/wiki/Getting_Started[WebGL^] animations.
+
+==== Projects Showcased
+
+* link:https://twitter.com/omtalk[Omkar Khair^] showcased _Weebo_, a two-wheel bot controlled over WiFi with a live camera stream.
+	** It works on a link:https://www.raspberrypi.com[Raspberry Pi^] and uses link:https://en.wikipedia.org/wiki/WebSocket[WebSockets^] and link:https://nodejs.org[Node.js^].
+	** link:https://drive.google.com/file/d/1tubiZFF3oFQ4cweW4ojKldYNiJBCJLwN/view?usp=sharing[Video demo^]
+	** link:https://docs.google.com/presentation/d/1uW4KpBvi-M-9mNahI942ngYN3Iu2jS0h/edit?usp=sharing&ouid=107609768042337339567&rtpof=true&sd=true[PPT^]
+	** GitHub
+		*** link:https://github.com/omkarkhair/weebo[`omkarkhair/weebo`^]
+		*** link:https://github.com/omkarkhair/weebo-control[`omkarkhair/weebo-control`^]
+	** The bot's name _Weebo_ is a namesake of link:https://www.youtube.com/watch?v=3iO14Rxdrwk[the robot in _Flubber_^].
+	** A similar project by Omkar himself: link:https://drive.google.com/file/d/1GEhsvPTQ45RKsAVEIGqagn8bqiltH6fK/view?usp=sharing[Telewalker^]
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased a Mental Health web app with 3D robot that he built using link:https://threejs.org[Three.js^] and link:https://spline.design[Spline^].
+* Sahil Prasad showcased a C program which simulated a bare-bones calculator using an link:https://www.geeksforgeeks.org/c-c-if-else-if-ladder-with-examples[if-else ladder^].
