@@ -1,6 +1,7 @@
-image: asciidoctor/docker-asciidoctor
-
 tasks:
+    - name: Install Asciidoctor
+      init: gem install asciidoctor
+
     - name: Install npm dependencies
       init: npm install
 
