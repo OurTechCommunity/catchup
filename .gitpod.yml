@@ -13,6 +13,9 @@ tasks:
 vscode:
     extensions:
         - esbenp.prettier-vscode
+        - asciidoctor.asciidoctor-vscode
+        - mikestead.dotenv
+        - redhat.vscode-yaml
 
 ports:
     - port: 5000
