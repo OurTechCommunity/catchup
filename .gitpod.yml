@@ -7,6 +7,9 @@ tasks:
     - name: Install npm dependencies
       init: npm install
 
+    - name: Add .env file
+      init: cp sample.env .env
+
 vscode:
     extensions:
         - esbenp.prettier-vscode
