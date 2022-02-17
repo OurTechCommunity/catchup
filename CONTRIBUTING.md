@@ -19,16 +19,16 @@
 
     Example: `DETA_PROJECT_KEY=lsjdbvkjsdbksbdkcjs`
 
--   Run `npm run test` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary) once and start a hot reload server. The web app should be accessible on `http://localhost:<port>`. (The port will appear in the server console.)
+-   Run `npm run start` or `npm run alt-start` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary) once and start a hot reload server. The web app should be accessible on `http://localhost:<port>`. (The port will appear in the server console.)
 -   The summary site uses a Static Site Generator called [Asciidoctor](https://asciidoctor.org).
     -   Run the command `sh util/build.sh` in the root directory of the project to build [the summary site](https://catchup.ourtech.community/summary).
-    -   The site should be accessible at `http://localhost:<port>/summary` or `http://localhost:<port>/summary/<summary_number>` after running `npm run test` in the root directory of the project. (The port will appear in the server console.)
-        -   The `npm run test` builds the summary site just once, so for further Asciidoctor changes to reflect, the command will have to be run again.
+    -   The site should be accessible at `http://localhost:<port>/summary` or `http://localhost:<port>/summary/<summary_number>` after running `npm run start` (or `npm run alt-start`) in the root directory of the project. (The port will appear in the server console.)
+        -   The `npm run start` (or `npm run alt-start`) builds the summary site just once, so for further Asciidoctor changes to reflect, the command will have to be run again.
 -   Make contribution(s)
 
     -   Write meaningful commit messages and include the number (`#`) of the issue being resolved (if any) at the end of the commit message.
 
-        Example: `:bug: fix: Resolve 'isCorrect' function error (#0)`
+        Example: `:bug: fix: Resolve 'isCorrect' function error (#0 #2)`
 
 -   Open a Pull Request (PR).
     -   [Learn how to open a PR](https://github.com/firstcontributions/first-contributions).
