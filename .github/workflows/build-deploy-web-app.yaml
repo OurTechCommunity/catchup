@@ -54,7 +54,7 @@ jobs:
                   ./util/build.sh
 
             - name: Deploy to Deta
-              uses: HarshKapadia2/deta-deploy-action@v1.0.2
+              uses: HarshKapadia2/deta-deploy@v1.0.2
               with:
                   deta-access-token: ${{ secrets.DETA_TOKEN }}
                   deta-name: catchup
