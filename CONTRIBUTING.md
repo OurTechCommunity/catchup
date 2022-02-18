@@ -8,6 +8,24 @@
 -   Front end: HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet)
 -   Back end: Express.js, [Deta Micro](https://docs.deta.sh/docs/home/#deta-micros), [Deta Base](https://docs.deta.sh/docs/home/#deta-base)
 
+## Gitpod Setup
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/OurTechCommunity/catchup)
+
+-   On clicking on the above 'Open in Gitpod' button, a Gitpod Workspace with all dependencies installed will open up.
+-   Start the dev server by running `npm run alt-start` in the root directory.
+    -   A browser window with the web app should automatically open up, but if it doesn't, <kbd>ctrl + click</kbd> the link in the terminal to open up a window.
+    -   NOTE: The server will have to be re-started manually to build the summary pages, as builds happen just once on starting the server.
+-   A [GitHub integration](https://gitpod.io/integrations) will be required if not already done. Also, make sure to give appropriate permissions to GitHub on the [Integrations page](https://gitpod.io/integrations).
+-   To open a PR
+    -   Fork this repo. (Top right corner.)
+    -   On Gitpod, [add the forked repo as a remote](https://harshkapadia2.github.io/git_basics/#_add_remote_repo_alias_remote_repo_url_git).
+    -   [Make a new Git branch](https://harshkapadia2.github.io/git_basics/#_branch_name_2) on Gitpod.
+    -   Make the required contribution(s) on Gitpod in the new branch.
+        -   Please follow the [commit message format](https://harshkapadia2.github.io/git_basics/#_commit_messagetitle).
+    -   [Push the new branch to the forked repo](https://harshkapadia2.github.io/git_basics/#_command_16).
+    -   [Open a PR as usual](https://github.com/firstcontributions/first-contributions#submit-your-changes-for-review) from the forked repo.
+
 ## Local Setup
 
 -   Fork this repo. (Top right corner.)
@@ -26,6 +44,8 @@
     -   Write meaningful commit messages and include the number (`#`) of the issue being resolved (if any) at the end of the commit message.
 
         Example: `:bug: fix: Resolve 'isCorrect' function error (#0 #2)`
+
+        [Commit message format](https://harshkapadia2.github.io/git_basics/#_commit_messagetitle)
 
 -   Open a Pull Request (PR).
     -   [Learn how to open a PR](https://github.com/firstcontributions/first-contributions).
