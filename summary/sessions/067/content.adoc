@@ -4,400 +4,46 @@ Duration: 8 hrs 6 mins
 
 ==== Topics Discussed
 
-This is still a work in progress 🚧
-We are sorry for the delay.
+We are really sorry for the delay.
 
 * General introductions.
-* [Jaden] shared site reliability engineering books by Google
-[19/02, 11:27 pm] MasterX: Hey everyone!!
-This is just pre catchup talks
-You10:41 PM
-Hey Siddharth, 
-This is just pre catchup talks
-- Dheeraj
-Siddharth Bhatia10:42 PM
-Yeah np, i won't be unmuting rn because im eating a late dinner, will get more active later in the meet
-You10:42 PM
-Hey Pragati!
-First time here
-
-- Dheeraj
-Siddharth Bhatia10:44 PM
-Dadar boi here 👋
-You10:44 PM
-You too?
-- Dheeraj
-Siddharth Bhatia10:46 PM
-Sirus +1 for ambition
-You10:48 PM
-Darshan WhatsApp joining messages!!!!!
-- Dheeraj
-You10:52 PM
-Siddharth <=> Sunidhi
-- Dheeraj
-Sunidhi <=> Siddharth 
-- Dheeraj
-RAMYAK MEHRA10:53 PM
-FLUTTERISTAS
-Shrinath Gupta10:55 PM
-Where's Harsh?
-OTC Our Tech Community10:55 PM
-He wont join today...
-Siddharth Bhatia10:58 PM
-Ah yes, just like the Clash of Clans Infinite Gems hack
-You11:01 PM
-Hello Anil!
-- Dheeraj
-Siddharth Bhatia11:04 PM
-be right back
-RAMYAK MEHRA11:04 PM
-PPT >>>>>> working project
-You11:08 PM
-Hello, Aaditya!
-- Dheeraj
-Aditya Oberai11:08 PM
-Hi :)
-Siddharth Bhatia11:10 PM
-aw you waited for me, thanks!
-Why the name 200k?
-You11:12 PM
-Status Code 200 ok
-- Dheeraj
-Siddharth Bhatia11:12 PM
-heh, I noticed the "your guidance and hardwork" 😂
-jaden furtado11:12 PM
-@siddhart, where is your camera placed?
-You11:13 PM
-;-) Buttering up the judges
-- Dheeraj
-Siddharth Bhatia11:13 PM
-@jaden pls 😭
-jaden furtado11:13 PM
-😅😬
-Gargi Sathe11:13 PM
-Great presentation!
-RAMYAK MEHRA11:13 PM
-instagram doesnt give access to api??
-Siddharth Bhatia11:14 PM
-+1 Instagram api is notorious to get access to
-jaden furtado11:14 PM
-you could licence it out as software
-SAAS
-jaden furtado11:16 PM
-you are handing over the keys to the castle
-RAMYAK MEHRA11:16 PM
-on a silver platter
-jaden furtado11:19 PM
-https://sre.google/books/
-how google designs their products
-for those interested in site reliability engineering
-You11:19 PM
-I've tried going through this
-Quite an interesting read
-- Dheeraj
-jaden furtado11:20 PM
-bkc
-OTC Our Tech Community11:20 PM
-Dharavi
-jaden furtado11:20 PM
-Dharavi?
-You11:23 PM
-http://www.milliondollarhomepage.com/
-jaden furtado11:24 PM
-no, I don't think it makes sense
-NFTs are over hyped 
-RAMYAK MEHRA11:25 PM
-FFFFFFFFF
-jaden furtado11:26 PM
-I am building something with 3d models btw
-I showcased it last time
-Gargi Sathe11:26 PM
-Hey i missed it. What was it about?
-Saurabh Kumar Suryan11:26 PM
-not the most cozy way though
-xD
-[19/02, 11:27 pm] MasterX: Jaden hack
-C++/C discussion anil
-Siddharth Project idea
-[19/02, 11:28 pm] MasterX: Dheeraj Darshan Project PPT
-[19/02, 11:29 pm] MasterX: jaden furtado11:28 PM
-@Gargi, a to-do app with a 3d animated robot that is happy when you complete a task
-Aaditya Nitin11:28 PM
-Jaden did u showcase ur proj??
-Shit i missed it
-Gargi Sathe11:28 PM
-Oh damn. Is there a link where i can see this?
-[20/02, 12:08 am] MasterX: sreekaran internship discussion
-[20/02, 12:08 am] MasterX: anil AMD internship discussion
-[20/02, 12:34 am] MasterX: Anil tech journey
-[20/02, 12:34 am] MasterX: etc
-[20/02, 12:38 am] MasterX: Aaditya bios issue
-[20/02, 12:39 am] MasterX: Aaditya Nitin12:26 AM
-I have a silly doubt actually an issue
-So amd by default allots around 1.5 gb of RAM to onboard gpu..it has an option to reduce it..i did go into BIOS but still did not find out how to reduce it...I habe lenovo ideapad 5..can anyone help me
-You12:26 AM
-I see Siddharth, Pranil,....
-- Dheeraj
-jaden furtado12:28 AM
-https://en.wikipedia.org/wiki/SILK
-Aditya Oberai12:28 AM
-Genuine question, do you currently game? xD
-Gargi Sathe12:29 AM
-https://docs.oracle.com/cd/E95618_01/html/sbc_scz810_acliconfiguration/GUID-8BE7A549-B7AF-4CEB-92E4-9870CC680E41.htm
-jaden furtado12:30 AM
-man utd are done
-Aditya Oberai12:30 AM
-FO xP
-Aditya Oberai12:31 AM
-No Macs here xP
-Himanshu Sharma12:32 AM
-I was planning to buy one
-You12:32 AM
-Himanshu, did you get your PS5
-- Dheeraj
-Saurabh Kumar Suryan12:33 AM
-bade log
-naam chalta hai xD
-Sreekaran Srinath12:33 AM
-If you go to dehradun and look at the mountains
-Aditya Oberai12:33 AM
-Shut up\
-Himanshu Sharma12:35 AM
-brb
-RAMYAK MEHRA12:36 AM
-get more ram
-Gargi Sathe12:38 AM
-Great article @Aditya. Just finished it
-RAMYAK MEHRA12:38 AM
-https://www.youtube.com/watch?v=minxwFqinpw
-[20/02, 12:56 am] MasterX: How to get through college.
-[20/02, 1:05 am] MasterX: many peoples answers on this...
-[20/02, 1:12 am] MasterX: aadiya oberai
-and saurabh
-[20/02, 1:12 am] MasterX: saying how they write their own libraris
-[20/02, 1:12 am] MasterX: libraries*
-[20/02, 1:12 am] MasterX: and components..
-[20/02, 1:34 am] MasterX: PUB sub model
-Get an iOS
-Sreekaran Srinath1:33 AM
-https://kdeconnect.kde.org/
-[20/02, 1:45 am] MasterX: Dheeraj
-[20/02, 1:45 am] MasterX: Pub Sub
-[20/02, 2:25 am] MasterX: hating on RGB stuff
-[20/02, 2:30 am] MasterX: xcloud
-[20/02, 2:30 am] MasterX: stadia
-[20/02, 2:30 am] MasterX: oohh, smash in the other sense
-Hardik Raheja2:20 AM
-I have an OLED laptop :)
-Ashfaq2:23 AM
-Mohini Dance bar*
-Hardik Raheja2:24 AM
-https://twitter.com/kdrag0n/status/1492754683445669893
-@Anil you will love this ig
-Ashfaq2:25 AM
-knew Sreekaran was a bar guy
-Ishan Sharma2:28 AM
-https://www.dell.com/en-us/shop/alienware-38-curved-gaming-monitor-aw3821dw/apd/210-axvg/monitors-monitor-accessories
-Ashfaq2:29 AM
-minesweeper
-[20/02, 2:30 am] MasterX: G force
-[20/02, 2:31 am] MasterX: Ashfaq2:29 AM
-minesweeper
-Anil Gohan2:31 AM
-https://www.youtube.com/watch?v=jOcFSlniGrw&t=2s
-[20/02, 2:38 am] MasterX: anil flexing his stuff
-[20/02, 2:38 am] MasterX: thread ripper processors
-[20/02, 2:40 am] MasterX: You2:12 AM
-Don't mention Twitter Spaces in front of Anil XD
-
-- Dheeraj
-Hardik Raheja2:15 AM
-F
-Ashfaq2:16 AM
-TIL i didnt get swag horny yet
-Hardik Raheja2:17 AM
-Processors
-Ashfaq2:19 AM
-oohh, smash in the other sense
-Hardik Raheja2:20 AM
-I have an OLED laptop :)
-Ashfaq2:23 AM
-Mohini Dance bar*
-Hardik Raheja2:24 AM
-https://twitter.com/kdrag0n/status/1492754683445669893
-@Anil you will love this ig
-Ashfaq2:25 AM
-knew Sreekaran was a bar guy
-Ishan Sharma2:28 AM
-https://www.dell.com/en-us/shop/alienware-38-curved-gaming-monitor-aw3821dw/apd/210-axvg/monitors-monitor-accessories
-Ashfaq2:29 AM
-minesweeper
-Anil Gohan2:31 AM
-https://www.youtube.com/watch?v=jOcFSlniGrw&t=2s
-Saurabh Kumar Suryan2:33 AM
-finally you can game on a mac xD
-You2:33 AM
-sreekaran, are those mosquitoes you are popping like popcorn 
-- Dheeraj
-Ashfaq2:34 AM
-guys swag bhi mil raha hai kya?
-Hardik Raheja2:34 AM
-Everyone come to mumbai in march :)
-Ashfaq2:34 AM
-TIL everyone here is GPU horny
-You2:34 AM
-Yes please :)
-Hardik Raheja2:35 AM
-9th-10th March TSEC Hacks
-You2:37 AM
-Ashfaq, you've been awfully quite these days...?
-not these days, today I mean
-- Dheeraj
-Anil Gohan2:39 AM
-https://www.amd.com/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3450
-Ashfaq2:40 AM
-devRel
-[20/02, 2:49 am] MasterX: sreekaran moving to US
-[20/02, 2:55 am] MasterX: gaming talks...
-[20/02, 2:56 am] MasterX: You1:25 AM
-How would you implement Webhooks
-How does the architecture look like...
-- Dheeraj
-Ashfaq1:32 AM
-Welcome to OTC
-PUB sub model
-Get an iOS
-Sreekaran Srinath1:33 AM
-https://kdeconnect.kde.org/
-Ashfaq1:35 AM
-Sockets!?
-Hardik Raheja1:36 AM
-Keeps pinging na
-That is how your phone knows that you've got something like a WhatsApp
-Correct me if I'm wrong please
-Aditya Oberai1:37 AM
-Yeah, Sockets is a way to go about it from what I remember
-Ishan Sharma1:45 AM
-I'm calling Harsh
-Ashfaq1:45 AM
-Sreekaran
-Hardik Raheja1:45 AM
-This seems like it's gonna being an intriguing conversation
-Anil Gohan1:46 AM
-https://www.youtube.com/watch?v=m4OvQIGDg4I
-Saurabh Kumar Suryan1:46 AM
-it's feels good Anil shitting on something other than fullstack xD
-Ashfaq1:46 AM
-"Work"
-shhh
-Ashfaq1:47 AM
-HOW tf di you have dislike count?
-You1:48 AM
-I have similar thoughts for Customer Success Executives...
-- Dheeraj
-Himanshu Sharma1:53 AM
-I just heard, something is going one
-one*
-on*
-?
-Pranav Dani2:05 AM
-Good night, gtg
-Hardik Raheja2:07 AM
-Let's hear Aditya out too
-Ashfaq2:08 AM
-spoilt brat
-You2:12 AM
-Don't mention Twitter Spaces in front of Anil XD
-
-- Dheeraj
-Hardik Raheja2:15 AM
-F
-Ashfaq2:16 AM
-TIL i didnt get swag horny yet
-Hardik Raheja2:17 AM
-Processors
-Ashfaq2:19 AM
-oohh, smash in the other sense
-Hardik Raheja2:20 AM
-I have an OLED laptop :)
-Ashfaq2:23 AM
-Mohini Dance bar*
-Hardik Raheja2:24 AM
-https://twitter.com/kdrag0n/status/1492754683445669893
-@Anil you will love this ig
-Ashfaq2:25 AM
-knew Sreekaran was a bar guy
-Ishan Sharma2:28 AM
-https://www.dell.com/en-us/shop/alienware-38-curved-gaming-monitor-aw3821dw/apd/210-axvg/monitors-monitor-accessories
-Ashfaq2:29 AM
-minesweeper
-Anil Gohan2:31 AM
-https://www.youtube.com/watch?v=jOcFSlniGrw&t=2s
-Saurabh Kumar Suryan2:33 AM
-finally you can game on a mac xD
-You2:33 AM
-sreekaran, are those mosquitoes you are popping like popcorn 
-- Dheeraj
-Ashfaq2:34 AM
-guys swag bhi mil raha hai kya?
-Hardik Raheja2:34 AM
-Everyone come to mumbai in march :)
-Ashfaq2:34 AM
-TIL everyone here is GPU horny
-You2:34 AM
-Yes please :)
-Hardik Raheja2:35 AM
-9th-10th March TSEC Hacks
-You2:37 AM
-Ashfaq, you've been awfully quite these days...?
-not these days, today I mean
-- Dheeraj
-Anil Gohan2:39 AM
-https://www.amd.com/en/support/graphics/amd-radeon-hd/ati-radeon-hd-3000-series/ati-radeon-hd-3450
-Ashfaq2:40 AM
-devRel
-yes
-Ashfaq2:41 AM
-standing dask
-desk
-Saurabh Kumar Suryan2:41 AM
-must be tired from flexing
-You2:42 AM
-you are talking in USD, right?
-Hardik Raheja2:45 AM
-Burnt
-You2:47 AM
-I'll go wherever I get pure vegetarian food.
-- Dheeraj
-Ashfaq2:49 AM
-Shhhh Sreekaran, you are just giving him reasons to not let you in his house!!
-You2:53 AM
-This shows what level of a professional player you are...
-- Dheeraj
-Anil Gohan2:54 AM
-https://callofduty.fandom.com/wiki/Vacant
-Ashfaq2:55 AM
-cs 1.6 mei bhi tha na ye
-[20/02, 2:56 am] MasterX: We talked about Warefare games
-[20/02, 2:56 am] MasterX: shitted on Battle Royale games...
-[20/02, 3:14 am] MasterX: ishaan rap
-[20/02, 3:14 am] MasterX: ed tech startups
-[20/02, 3:14 am] MasterX: ed tech mafia
-[20/02, 3:16 am] MasterX: wazirX
-[20/02, 3:21 am] MasterX: bitcoin pizza
-[20/02, 3:21 am] MasterX: aaditya imagine cup
-[20/02, 3:21 am] MasterX: experience
-[20/02, 3:23 am] MasterX: aaditya hackathon beginning and organizing
-[20/02, 3:23 am] MasterX: and on day management
-[20/02, 3:27 am] MasterX: gaming discussions aaditya, himanshu, ishan
-[20/02, 3:34 am] MasterX: half life
-[20/02, 3:34 am] MasterX: detroit
-[20/02, 4:40 am] MasterX: dev rels
-[20/02, 4:40 am] MasterX: and sales
-[20/02, 4:40 am] MasterX: and developer compensation
-[20/02, 4:44 am] MasterX: dev exp
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared link:https://sre.google/books[site reliability engineering books by Google^].
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] Hack 
+* We discussed how link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]'s project idea can be licensed out as a SaaS.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared a link to link:http://www.milliondollarhomepage.com[The Million Dollar ^Homepage^].
+* We discussed about NFTs.
+* [Siddharth] shared his AR project idea in which he aims to convert the tall glass buildings for example Times Square, in New York to NFT Art museums.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] discussed about C/C++ language.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared a project he was working on: A to-do app with a 3d animated robot that is happy when you complete a task.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] discussed how he ended up getting internships and 2 jobs.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared with everyone how he got in contact with AMD and his journey in technology.
+* link:https://twitter.com/Aaditya__Speaks[Aaditya Chinchkhedkar^] asked for help on a link:https://en.wikipedia.org/wiki/BIOS[BIOS^] issue he was facing.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told everyone about how audio is usually the more difficult engineering issue when working with livestreams.
+    ** link:https://en.wikipedia.org/wiki/SILK[SILK^] as an audio compression library used by link:https://www.skype.com[Skype^].
+    ** link:https://docs.oracle.com/cd/E95618_01/html/sbc_scz810_acliconfiguration/GUID-8BE7A549-B7AF-4CEB-92E4-9870CC680E41.htm#GUID-8BE7A549-B7AF-4CEB-92E4-9870CC680E41[SILK Codec Transcoding Support^]
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his article - link:https://adityaoberai.medium.com/what-is-devrel-a09dc6545370[What Is DevRel?^].
+* Someone shared a video - link:https://www.youtube.com/watch?v=minxwFqinpw[We ACTUALLY downloaded more RAM^] by link:https://www.youtube.com/user/linustechtips[Linus Tech Tips^].
+* A lot of tips and discussions happened on getting through offline college. link:https://twitter.com/skxrxn[Sreekaran Srinath^] told everyone how he slept through most of his college.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and [Saurabh] shared how they've been writing their own component libraries and basically replacing all frameworks and libraries by ones they've been writing on their own and opensourcing them.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked everyone how link:https://en.wikipedia.org/wiki/Webhook[Webhooks^] and how they work internally.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked a few doubts about link:https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events[Server Sent Events^], how they work and about how it really works.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] explained the link:https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern[Pub-Sub - Publisher Subscriber architecture^].
+* We compared link:https://en.wikipedia.org/wiki/Xbox_Cloud_Gaming[xCloud^] and link:https://en.wikipedia.org/wiki/Google_Stadia[Stadia^] which are two functional cloud gaming services that offer different types of experiences.
+* Everyone collectively hated on RGB lit keyboards and other computer accessories.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a video - link:https://www.youtube.com/watch?v=jOcFSlniGrw[GeForce Now RTX 3080 Cloud Review vs xCloud/Stadia - The Best Streaming Solution?^].
+* We talked about link:https://www.amd.com/en/products/ryzen-threadripper[AMD Ryzen™ Threadripper™ Processors^].
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about him moving to the United States.
+* A lot of things about gaming were discussed.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] had an intriguing conversation about DevRel.
+* We talked about Warefare games.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^]'s link:https://www.youtube.com/watch?v=npCNGqMg2kE[rap battle at Hackerrank^] was showcased.
+* We talked about ed-tech startups, Coding Blocks Mafia and how it gave rise to a number of strong players in the ed tech startup world.
+* We talked about the infamous link:https://bitcoinpizzaindex.net[bitcoin pizza^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his experience at Microsoft's link:https://imaginecup.microsoft.com[Imagine Cup^].
+* More discussuins about gaming and various games followed.
+* We once again took on the topic of DevRels and Sales.
+* We talked about link:https://developerexperience.io/practices/good-developer-experience[Developer Experience (DX)^].
 
 ==== Projects Showcased
 
-* [Dheeraj] and [Darshan] showcased their presented their project idea - SocialHub which is a social media engagement aggregator for influencers/companies.
-
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/SirusTweets[Darshan Rander^] showcased their presented their project idea - SocialHub which is a social media engagement aggregator for influencers/companies.
