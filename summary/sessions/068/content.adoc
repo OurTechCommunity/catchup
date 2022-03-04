@@ -1,0 +1,25 @@
+Date: 26-02-2022
+
+Duration: 5 hrs
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] explained hiding subdomains from link:https://subdomains.whoisxmlapi.com[subdomain-finding tools^] using link:https://nginx.org[Nginx^] by adding wildcard link:https://networking.harshkapadia.me/dns#cname-record[CNAME entries in the DNS console^] and then configuring Nginx to handle the subdomain requests.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] told us how he link:https://www.howtogeek.com/165064/what-is-overclocking-the-absolute-beginners-guide-to-understanding-how-geeks-speed-up-their-pcs[overclocked processors^]. Vatsal and his teammate cooled about 40 AMD Ryzen processors using Liquid Nitrogen. They also used link:https://www.maxon.net/en/cinebench[Cinebench^] to run tests on all the processors.
+	** link:https://twitter.com/amdryzen/status/1029118827831877632[A demonstration of overclocking AMD Ryzen Threadripper processors.^]
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] also told us about Cold Boot Attacks which involve link:https://lemmy.schuerz.at/post/1058#:~:text=while%20memory%20dumping%20attack%20is%20nothing%20new%2C%20literally%20freezing%20the%20DRAM%20sticks%20using%20liquid%20nitrogen%20so%20that%20data%20remains%20intact%20even%20after%20power%20loss%20is%20something%20i%20didn%E2%80%99t%20know%20about%2C%20and%20personally%20find%20very%20interesting[pouring Liquid Nitrogen on RAMs to freeze unencrypted data to access it^].
+* link:https://www.linkedin.com/in/ysnarang[Yash Narang^] showcased the link:https://www.hackerrank.com/interns/2022/winter[2022 HackerRank interns web app^]. It's amazing!
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about job responsibilities and how his role always spans various projects at AMD.
+* We saw link:https://twitter.com/ishandeveloper[Ishan Sharma^] battle it out in a link:https://www.youtube.com/watch?v=npCNGqMg2kE[Front-end vs. Back-end Developer Rap Battle^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] told everyone how major browsers like Mozilla Firefox, Google Chrome and Microsoft Edge link:https://www.youtube.com/watch?v=mZEm3o2WSgk[upgrading to version 100 will break some sites^].
+* We talked about link:https://heimdalsecurity.com/blog/what-is-pxe-boot[PXE Boot^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased updates to _Git Graph_, a visualizer for the Directed Acyclic Graph that Git creates to connect Commit, Tree and Blob objects internally.
+	** link:https://harshkapadia2.github.io/git-graph[Web app^]
+	** link:https://github.com/HarshKapadia2/git-graph[GitHub repository^]
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased an updated version of his Mental Health web app with 3D robot that he built using link:https://threejs.org[Three.js^] and link:https://spline.design[Spline^].
+* link:https://twitter.com/0xSaurabh[Saurabh Suryan^] showcased a link:https://reactjs.org[React.js^] based tutorial component he built at an internship at link:https://aftershoot.com[aftershoot.com^] that highlights DOM elements and gives a description about them.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] presented link:https://hackerdraw.com[HackerDraw^], a tool for collaboratively making informative diagrams using whiteboards, sequence diagrams, database diagrams and mind maps. He made it while interning at link:https://hackerrank.com[HackerRank^].
