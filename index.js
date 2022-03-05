@@ -137,14 +137,19 @@ app.get("/attend", async (req, res) => {
 	let day = date.getDay(); // 6 is Saturday, 0 is Sunday
 	let redirectUrl = "/?isCatchUpOn=false";
 
-	if (day === 6 || day === 0) {
-		// 6 is Saturday, 0 is Sunday
-		let config = await db.get(process.env.DATABASE_OBJ_KEY);
-		config = JSON.parse(config.value);
-		redirectUrl = config.catchUpLink;
-	}
+	// if (day === 6 || day === 0) {
+	// 	// 6 is Saturday, 0 is Sunday
+	// 	let config = await db.get(process.env.DATABASE_OBJ_KEY);
+	// 	config = JSON.parse(config.value);
+	// 	redirectUrl = config.catchUpLink;
+	// }
 
-	res.redirect(redirectUrl);
+	// res.redirect(redirectUrl);
+
+	if (day === 6 || day === 0)
+		// 6 is Saturday, 0 is Sunday
+		res.sendFile(__dirname + "/public/html/redirect.html");
+	else res.redirect(redirectUrl);
 });
 
 app.get("*", (req, res) => {
