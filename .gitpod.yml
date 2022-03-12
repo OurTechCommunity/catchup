@@ -16,6 +16,7 @@ vscode:
         - asciidoctor.asciidoctor-vscode
         - mikestead.dotenv
         - redhat.vscode-yaml
+        - streetsidesoftware.code-spell-checker
 
 ports:
     - port: 5000
