@@ -28,6 +28,7 @@
 . link:https://twitter.com/gupta_shrinath[Shrinath Gupta^]
 . link:https://twitter.com/hridayHZ[Hriday Keswani^]
 . link:https://twitter.com/frenzyritz13[Ritvi Mishra^]
+. link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^]
 . Devika Panjwani
 . Hiten Gerella
 . Mandar Kasangottuwar
@@ -37,6 +38,5 @@
 . Omar Vora
 . Aditi Sathe
 . Sainath Poojary
-. Siddharth Bhatia
 . Milan Chandiramani
 . Dipanshu Khandait

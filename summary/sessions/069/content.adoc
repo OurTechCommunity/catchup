@@ -1,0 +1,75 @@
+Date: 05-03-2022
+
+Duration: 7 hrs 25 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared a link to how one can link:https://stackoverflow.com/questions/13439303/detect-click-event-inside-iframe[detect a click event inside an iframe^].
+* link:https://twitter.com/prasadsunny1[Sanni Prasad^] told us how he transitioned from link:https://dotnet.microsoft.com/en-us/apps/xamarin[Xamarin^] to link:https://flutter.dev[Flutter^] for building cross-platform mobile apps.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] informed us that link:https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui[.NET MAUI^] is the successor of link:https://dotnet.microsoft.com/en-us/apps/xamarin[Xamarin^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] also told us that link:https://en.wikipedia.org/wiki/Anders_Hejlsberg[Anders Hejlsberg^] is the core developer of TypeScript, C# and Turbo Pascal.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared link:https://opensource101.com/becoming-a-better-developer-through-open-source[Becoming a Better Developer Through Open-Source^].
+* Material Design
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his struggles with maintaining three different themes in his Flutter note-taking app link:https://play.google.com/store/apps/details?id=com.darshan.heartry[Heartry^] with changes in link:https://material.io[Material Design^] versions and decided to add analytics to remove the least used themes.
+    ** link:https://twitter.com/gupta_shrinath[Shrinath Gupta^] shared link:https://material.io/resources/color[Material Design's Color Tool^].
+    ** We talked about link:https://www.makeuseof.com/what-is-material-you-in-android-12[Material You's Dynamic Theming^].
+* Points that should be covered in cover letters for job applications
+    ** Why me?
+    ** Why am I looking at this company?
+    ** Optional: Background
+        *** How one started with something that is VERY relevant to the company?
+    ** Optional: Why is the company great?
+        *** Do not write too much on this, employees know why their company is great.
+* How to talk about personal experiences relevant to the job without oversharing/crossing the boundaries.
+    ** The way to understand which personal experience matters would be to check the values of the company.
+    ** To understand when to share various personal experiences, one should know the interviewer's or founder's backstory which might indicate the type of experiences they might be open to.
+* We talked about how people/organisations/companies who sponsor OSS maintainers don't have the right to dictate that Open Source project's direction or ask for personal attention from the maintainer. (link:https://twitter.com/marcan42/status/1494213855387734019[Context^])
+* link:https://about.facebook.com/meta[Meta^] and Metaverse
+    ** We discussed whether the Metaverse would work and what dystopian realities would it bring about.
+    ** Augmented Reality and video games were touted as entry points to the Metaverse.
+        *** link:https://abcnews.go.com/Business/wireStory/microsoft-buys-activision-blizzard-687-billion-82324915[Microsoft bought Activision Blizzard recently.^]
+    ** Meta would use Social Engineering and other manipulative ways to attract people to the Metaverse and and try to remove them from the real world.
+    ** link:https://www.livemint.com/technology/tech-news/meta-threatens-europe-exit-for-facebook-instagram-on-data-rules-11644245762358.html[Some countries were bringing out stricter data laws against such companies.]
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told us about the working cultures at various companies and also told us how some companies have processes that force hiring idiots.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about abstraction and gave us a few wonderful quotes.
+
+[quote, Anil Harwani]
+The dumber you are, the higher you go [in abstraction].
+
+[quote, Anil Harwani]
+You rise up to your incompetence.
+
+* We talked about link:https://en.wikipedia.org/wiki/Reliability,_availability_and_serviceability[Reliability, Availability and Serviceability (RAS)^].
+* link:https://twitter.com/gupta_shrinath[Shrinath Gupta^] asked how he could make his team follow best practices when not being in a leadership position. People told him that he could try to make his teammates understand, but it would be very difficult, as not everyone is equally passionate and/or caring about things and don't want to go the extra mile for a fixed salary. Not being in a commanding position makes it even more difficult. He was advised to maintain a code standard for himself and eventually leave the company if the code standards were very bad and things don't improve at all.
+    ** link:https://twitter.com/omtalk[Omkar Khair^] gave a good piece of advice here. He said that 90% people are very limited in what they do or don't do anything. It is up to us to find the 10% people who do actual work and build a network with them.
+    ** Omkar also said that in trying to resolve issues at work, one should not lose sight of technical correctness and one's code standard, because if everyone jumps off a cliff, you don't need to as well.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about link:https://github.com/tridactyl/tridactyl[Tridactyl^], a link:https://www.vim.org[Vim^]-like interface for Firefox.
+* Comparing Technologies
+    ** We talked about how media articles influence people's minds about different Technology and rather than comparing individual use cases, they make a blanket statement (Eg: Calling one processor just better than the other for all use cases) and influence the common masses.
+    ** As per link:https://www.linkedin.com/in/anilharwani[Anil Harwani^], x86 and ARM processors shouldn't be compared, because the use cases and workloads are different.
+    ** How link:https://twitter.com/marcan42/status/1494213855387734019[Apple lied about their custom NVMe drives^] was discussed as well.
+* Power states and power models in computers.
+    ** link:https://www.intel.com/content/www/us/en/develop/documentation/vtune-help/top/reference/energy-analysis-metrics-reference/c-state.html[C-States^]
+    ** link:https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/modern-standby[Modern Standby^]
+    ** link:https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/modern-standby-vs-s3[Modern Standby vs S3^]
+* link:https://twitter.com/omtalk[Omkar Khair^] and link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] discussed the link:https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide[Universal Windows Platform (UWP)^].
+* A standup bit on how link:https://www.youtube.com/watch?v=E3s-qZsjK8I[Bill Burr destroyed Steve Jobs^] was shared.
+* Branch Prediction
+    ** link:https://www.irisa.fr/caps/people/seznec/L-TAGE.pdf[A 256 Kbits L-TAGE branch predictor^]
+    ** link:https://www.youtube.com/watch?app=desktop&v=XkerLktFtJg[A Branch Prediction lecture from Carnegie Mellon University.^]
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared his experience interviewing for an internship at link:https://www.ubs.com[UBS^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/kaku_jay[Jay Kaku^] showcased the processor design for a Four Stage Pipelined RV32i Core that he built using TL-Verilog while following course material.
+    ** Course: RISC-V based Microprocessor for You in Thirty Hours (MYTH)
+    ** Processor features
+        *** Base Integer RV32I containing 47 unique instructions.
+        *** Supports 6 types of instructions namely I, R, J, S, B, U.
+        *** Capable and tested to handle link:https://www.geeksforgeeks.org/data-hazards-and-its-handling-methods[RAW (Read After Write) Hazards^] as well as link:https://www.cs.umd.edu/~meesh/cmsc411/CourseResources/CA-online/chapter/handling-control-hazards/index.html[Control Flow Hazards^] (Branch and Jumps instructions).
+    ** link:https://github.com/JayKaku/RISC-V_MYTH_Workshop[GitHub repository^]
+        *** The README.md in the repository has a lot of the necessary explanations.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased updates to _Git Graph_, a visualizer for the Directed Acyclic Graph that Git creates to connect Commit, Tree and Blob objects internally.
+	** link:https://harshkapadia2.github.io/git-graph[Web app^]
+	** link:https://github.com/HarshKapadia2/git-graph[GitHub repository^]
