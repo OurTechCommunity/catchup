@@ -1,0 +1,34 @@
+Date: 19-03-2022
+
+Duration: 5 hrs 30 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] told us how he found a link:https://resources.infosecinstitute.com/topic/cross-site-scripting-xss-vulnerabilities[Cross-Site Scripting (XSS) Vulnerability^] on a Canadian government web site as they were using link:https://developer.mozilla.org/en-US/docs/Web/API/Document/write[`document.write`^].
+    ** link:https://stackoverflow.com/questions/14758753/cross-site-scripting-issue-with-document-write[XSS issue with `document.write`^]
+    ** link:https://stackoverflow.com/questions/802854/why-is-document-write-considered-a-bad-practice[Why is `document.write` considered a "bad practice"?^]
+* link:https://twitter.com/KhareApurv[Apurv Khare^], who runs the YouTube channel link:https://youtube.com/c/WhatTheCodeAcademy[What The Code^], talked about how he is reading up a lot on link:https://web.dev[web.dev^].
+* We talked about how Open Source packages are being sabotaged by their maintainers.
+    ** link:https://youtu.be/2M-L0yPbtPE[Popular JS Package node-ipc Adds Malicious 'Protest-ware' on Purpose^]
+    ** link:https://www.youtube.com/watch?v=R6S-b_k-ZKY[The Dark Side of Open Source // What really happened to Faker.js?^]
+* We discussed the new link:https://youtu.be/yG1m7oGZC48[Apple M1 Ultra processor^].
+* link:https://twitter.com/ashwinexe[Ashwin Uppala^] talked about his journey with communities and he shared his own community link:https://hackerabad.hackclub.com[Hackerbad^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a video on the recent link:https://www.youtube.com/watch?v=JcKEnhNQHYY[Spotify outage^] that was a link:https://microservices.io[Microservice^] failure caused by link:https://cloud.google.com/traffic-director[GCP's Traffic Director service^] going down.
+* We discussed self-help books and how similar and known ideas are repeated again and again in different forms in such books.
+* Different niche Mental Health services such as link:https://raahee.in[Raahee^], link:https://reflectly.app[Reflectly^], link:https://app.wakingup.com[Waking Up^], link:https://www.calm.com[Calm^], etc. were discussed.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about his hilarious link:https://www.sih.gov.in[SIH^] internal hackathon experience. He also shared his project idea with everyone.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] told us about his link:https://imaginecup.microsoft.com[Imagine Cup^] hackahton experience.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared link:https://tom.preston-werner.com/2009/05/19/the-git-parable.html[The Git Parable^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/GaonkarMihika[Mihika Gaonkar^] showcased her Data Visualization project _OTC Analysis_, which is a dashboard created using link:https://powerbi.microsoft.com[Power BI^] and link:https://datastudio.google.com[Google Data Studio^] for analyzing previous OTC CatchUps.
+    ** link:https://mihikagaonkar.github.io/OTC-Dashboard/data_studio[Live dashboard^]
+	** link:https://github.com/mihikagaonkar/OTC-Dashboard[GitHub repo^]
+    ** link:https://www.crummy.com/software/BeautifulSoup[Beautiful Soup^] was used for scraping.
+* Krishna Dave and Piyush Paul showcased _MindMate_, an Android app for patients suffering from link:https://en.wikipedia.org/wiki/Dementia[Dementia^].
+    ** Technologies used: Kotlin, Firebase
+    ** link:https://devfolio.co/submissions/mindmate-46ff[Devfolio submission^]
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^], link:https://twitter.com/kaku_jay[Jay Kaku^], link:https://twitter.com/_SaketThota[Saket Thota^] and link:https://twitter.com/SirusTweets[Darshan Rander^] showcased _DemiBuddy_, a web app and Flutter app for Dementia patients.
+    ** link:https://devfolio.co/submissions/demibuddy-54fd[Devfolio submission^]
