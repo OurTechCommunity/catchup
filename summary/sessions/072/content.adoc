@@ -6,15 +6,11 @@ Duration: 5 hrs
 
 * General introductions.
 
-* link:https://www.twinder.fun/Userform[Twinder^]
-
-* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] showcased his project flow.
-
 * We spoke about the link:https://twitter.com/SIH2022_MIC[Smart India Hackathon^], and several people showcased their projects. (please see the projects section)
 * We had a discussion on the link:https://summerofcode.withgoogle.com[Google Summer of Code (GSoC)^], and how it's a great way for beginners to get started with open source, and work with some of the most knowledgeable people in the industry.
     ** https://gsocorganizations.dev/ is an excellent resource for finding an organization that is a good fit for you.
-    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] explained what GSoC was, how it befitted both the organization and the student, and general tips on how to approach the process.
-* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked what is Kubernates
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] explained what link:https://summerofcode.withgoogle.com[Google Summer of Code (GSoC)^] was, how it befitted both the organization and the student, and general tips on how to approach the process.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked what is link:https://kubernetes.io[Kubernetes^] and link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about it.
     ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] went into the history and design decisions that led to the evolution of the traditional monolithic server architecture into the current containerized microservice model that we see today.
     ** link:https://twitter.com/chiragnayyar[Chirag Nayyar^] went into the history of Kubernates, how it was initially an link:https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes[internal Google project called Borg^].
     ** link:https://twitter.com/chiragnayyar[Chirag Nayyar^] also explained how visualization, works what a hypervisor is and what are the advantages over running directly on bare metal.
@@ -34,7 +30,10 @@ Duration: 5 hrs
 
 ==== Projects Showcased
 
-* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] showcased his project flow.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] showcased his HTTP Live Streaming project workflows:
+   ** link:https://github.com/Chirag-And-Dheeraj/video-streaming-server[GitHub repository^]
+   ** link:https://github.com/Chirag-And-Dheeraj/video-streaming-server/blob/main/documentation/workflows/video-upload-and-preprocessing.png[Video upload and preprocessing^]
+   ** link:https://github.com/Chirag-And-Dheeraj/video-streaming-server/blob/main/documentation/workflows/serve-video-requests.png[Serving video requests workflow]
 * link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased updates to his 'To Do' web app with a robot made with link:https://threejs.org[Three.js^].
     ** link:https://github.com/jadenfurtado/toDoApp[GitHub repo^]
     ** link:https://jadenfurtado.github.io/toDoApp/taskList.html[Web app^]
