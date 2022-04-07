@@ -1,0 +1,35 @@
+Date: 02-04-2022
+
+Duration: 4 hrs 6 mins
+
+==== Topics Discussed
+
+* General introductions.
+* Vatsal talked about his job shift from AMD to Activision. He also shared his interview experience.
+* We talked about Anime and everyone shared which Anime they were interested in.
+* We talked about Generics in programming languages
+    ** link:https://go.dev/doc/tutorial/generics[Generics in Go^]
+    ** link:https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics[Generics in C#^]
+    ** link:https://dart.dev/guides/language/language-tour#generics[Generics in Dart^]
+    ** link:https://kotlinlang.org/docs/generics.html[Generics in Kotlin^]
+* We shared what books we were reading and here are a few books that were talked about: 
+    ** link:https://www.amazon.in/dp/152309513X[Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time^]
+    ** link:https://www.amazon.in/dp/0007272618[How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships^]
+    ** link:https://www.amazon.in/dp/1538754231[The Defining Decade: Why Your Twenties Matter--And How to Make the Most of Them Now^]
+    ** link:https://www.amazon.in/dp/0062652508[Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone^]
+    ** link:https://www.amazon.in/dp/1444775812[A Man Called Ove^]
+    ** link:https://www.amazon.in/dp/0553418815[Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy^]
+    ** link:https://www.amazon.in/dp/0091883768[Who Moved My Cheese^]
+    ** link:https://www.amazon.in/dp/1529387191[How to Get to Great Ideas: A system for smart, extraordinary thinking^]
+    ** link:https://www.amazon.in/dp/0761169253[Steal Like An Artist: 10 Things Nobody Told You About Being Creative (Austin Kleon)^]
+    ** link:https://drive.google.com/file/d/1xkl6z4p0NR594nHaqjLFpJ4h4gQVcv77[The !Empathetic Engineer^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] asked for tips on conducting offline sessions.
+    * link:https://twitter.com/rishit_dagli[Rishit Dagli^] gave some of his tips from his own experiences.
+
+
+
+==== Projects Showcased
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased his project link:https://github.com/Welding-Torch/Paste-Anywhere[Paste-Anywhere^].
+* Kaustubh Khavnekar showcased his new website a link:https://blogs.kaustubhk.com/blog/my-new-website[blog on how he built it^].
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his project - link:https://github.com/JadenFurtado/selfHelpApp[Self Help App^].
