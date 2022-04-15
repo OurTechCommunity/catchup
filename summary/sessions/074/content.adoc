@@ -1,0 +1,33 @@
+Date: 09-04-2022
+
+Duration: 4 hrs 2 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] and link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about their job roles.
+* link:https://twitter.com/siddharth_hacks[Siddharth Dayalwal^] told us about the Mumbai edition of the link:https://hackthisfall.tech/events[Hack This Fall meetup six city tour^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about the colleges that he was interested in to pursue a Bachelor's degree in Canada and the USA.
+    ** He expressed his desire to work with link:https://www.google.com/search?q=u%20of%20t%20hinton[Geoffrey Hinton^].
+* We tried to solve Sainath Poojary's issues with DNS and GitHub Pages while hosting link:https://sainath.me[his portfolio^]. He eventually managed to solve the issue by shifting his hosting from link:https://pages.github.com[GitHub Pages^] to link:https://vercel.com[Vercel^].
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared a book link:https://www.cs.princeton.edu/~appel/modern/c[Modern Compiler Implementation in C^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about the link:https://fellowship.mlh.io[MLH Fellowship^].
+* link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] talked about his job responsibilities as a Senior Platform Engineer at Quantiphi that involve using various AWS offerings, writing various Infrastructure as Code scripts (link:https://www.terraform.io[Terraform^]), etc.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about certain improvements in link:https://www.hackerdraw.com[HackerDraw^] and the team behind it.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared how he appreciated that got an e-mail from link:https://fig.io[Fig^] with steps to solve an error that he was facing while installing it. We weren't sure whether that was really great link:https://everydeveloper.com/developer-experience[DX^] or whether it was an invasion of privacy.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about the programming language link:https://www.rust-lang.org[Rust^] and why was it built.
+
+==== Projects Showcased
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased updates to _Git Graph_, a visualizer for the Directed Acyclic Graph that Git creates to connect Commit, Tree and Blob objects internally.
+	** link:https://harshkapadia2.github.io/git-graph[Web app^]
+	** link:https://github.com/HarshKapadia2/git-graph[GitHub repository^]
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] showcased _AR Slide Puzzle_, an Augmented Reality (AR) slide puzzle game with a twist that he submitted to the Flutter Puzzle Hack.
+    ** link:https://devpost.com/software/ar-slide-puzzle[Devpost link to project^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased _IPL APP_, an Auction Price Predictor (APP) for the Indian Premiere League (IPL).
+    ** link:https://harshkapadia2.github.io/ipl-app[Web app^]
+	** link:https://github.com/HarshKapadia2/ipl-app[GitHub repository^]
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased _Self Help App_, a web app to plan out tasks.
+    ** It makes good use of link:https://threejs.org[Three.js^].
+    ** link:https://github.com/JadenFurtado/selfHelpApp[GitHub repository^]
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] also showcased _CodeIt_, a web based code editor that he built using PHP, Python and other FOSS.

@@ -26,10 +26,8 @@ Duration: 4 hrs 6 mins
 * link:https://twitter.com/SirusTweets[Darshan Rander^] asked for tips on conducting offline sessions.
     * link:https://twitter.com/rishit_dagli[Rishit Dagli^] gave some of his tips from his own experiences.
 
-
-
 ==== Projects Showcased
 
 * link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased his project link:https://github.com/Welding-Torch/Paste-Anywhere[Paste-Anywhere^].
-* Kaustubh Khavnekar showcased his new website a link:https://blogs.kaustubhk.com/blog/my-new-website[blog on how he built it^].
+* link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] showcased his new website a link:https://blogs.kaustubhk.com/blog/my-new-website[blog on how he built it^].
 * link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his project - link:https://github.com/JadenFurtado/selfHelpApp[Self Help App^].
