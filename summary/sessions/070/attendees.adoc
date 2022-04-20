@@ -27,6 +27,7 @@
 . link:https://twitter.com/dwvicy[Vaishnavi Dwivedi^]
 . link:https://twitter.com/Prathamesh_117[Prathamesh Shanbhag^]
 . link:https://twitter.com/vedantjumle1[Vedant Jumle^]
+. link:https://twitter.com/sailorworks[Sahil Prasad^]
 . Hiten Gerella
 . Huzefa Dohadwala
 . Kedar Karbele
@@ -36,6 +37,5 @@
 . Mohit Nautiyal
 . Nikshita Karkera
 . Ruhi Jaiswal
-. Sahil Prasad
 . Siddharth Kaduskar
 . Ashraf SK
