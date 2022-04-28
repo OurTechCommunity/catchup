@@ -1,0 +1,43 @@
+Date: 23-04-2022
+
+Duration: 5 hrs 31 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/ishubhamsah[Shubham Sah^] told us how he unknowingly worked on a project that his company wanted to bench **for three weeks** and advised us to always enquire whether a bug should be solved or was worth solving. 😂
+* link:https://copilot.github.com[GitHub Copilot^]
+    ** We discussed the pros and cons of GitHub Copilot.
+    ** link:https://twitter.com/code_magician[Viranchee Lotia^] asked whether it helped others like it helped him - in building projects faster and not caring about syntax too much.
+    ** link:https://twitter.com/ishubhamsah[Shubham Sah^] said that deep questions need to be asked while developing Enterprise-grade applications. Proper code strategy, structure and style planning needs to be done. One cannot just rely on GitHub Copilot in such cases. 
+    ** It was said that GitHub Copilot was good for senior Engineers who could properly understand the implications of certain code patterns.
+    ** It was also said that modifying the suggested code takes more time than writing the snippet from scratch.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] said that it helped him more with writing documentation than code.
+* We discussed how effective link:https://lemmy.ml/post/211030[Google not allowing people from Russia, Belarus and occupied Ukranian territories to participate in GSoC^] is, in context of the Russia vs Ukraine war.
+    ** Even link:https://cointelegraph.com/news/github-suspends-accounts-of-russian-developers-linked-to-sanctioned-firms[GitHub banned accounts of Developers related to USA sanctioned Russian companies^].
+* Research papers
+    ** link:https://www.youtube.com/c/PapersWeLove[PapersWeLove^]
+    ** link:https://www.youtube.com/c/K%C3%A1rolyZsolnai[Two Minute Papers^]
+    ** link:https://twitter.com/omtalk[Omkar Khair^] talked about how he had implemented a research paper a few years ago on link:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf[A Flexible New Technique for Camera
+Calibration^].
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] told us link:https://2dpoint.substack.com/p/what-is-a-qr-code-and-why-does-it[why a QR code has three squares in its corners^].
+* User Interface (UI) Design
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showed link:https://support.google.com/mail/answer/11555490[Gmail's new UI^] to everyone.
+    ** Looking at all the rounded corners in Gmail's new UI, link:https://twitter.com/omtalk[Omkar Khair^] told us the importance of optimal use of link:https://www.usabilityfirst.com/glossary/screen-real-estate/index.html[screen real estate^].
+        *** Text bleeds much earlier with rounded corners than with square corners, so lesser data can be fit into a component.
+        *** link:https://en.wikipedia.org/wiki/Power_user[Power users^] are so quick and adept at navigating a software, that their clicks and touches don't always hit the center of a button. Circular buttons reduce the area occupied by the button (than if it were square or rectangular) and it becomes imperative to hit the center of the button, which is detrimental to the efficiency of power users.
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^] said that for UIs, the first impression is not just the last impression, it is the lasting impression.
+* link:https://twitter.com/omtalk[Omkar Khair^] talked about Enterprise Lobbying and Partner Programs.
+    ** He told us how Partner Programs by various companies incentivise the partner companies to use their products, generating Billions of Dollars in revenue for the program company. Such programs usually provide the partner company with good certifications for their employees, helpful sessions to understand the program company's products, back channel support to improve products/services of the partner companies, etc.
+    ** He also told us that partner ecosystems are very important for a product to succeed. The Windows Phone did not have a good partner system, with no YouTube, Google Maps and other commonly used apps, and this was one of the reasons the phone did not really succeed.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] talked about his experience at AMD helping him at his current job at Activision.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] told us how interviews work and his interview experience at Tesla.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] explained link:https://www.scs.stanford.edu/05au-cs240c/lab/i386/s07_03.htm[Task Registers^] and link:https://www.tutorialspoint.com/what-is-paging[Paging^].
+* link:https://www.youtube.com/playlist?list=PL2EVNPSqUifhYsX57-4D1Mfs65q2SoqSN[Compiler Design (LLVM)^]
+
+==== Projects Showcased
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/PranavDani3[Pranav Dani^] showcased _Short Terms_, a Browser (Chrome) Extension to summarize long and tedious Terms and Conditions.
+    ** The summarization was done using a pre-trained link:https://spacy.io/[spaCy NLP model^].
+    ** The back end is in link:https://fastapi.tiangolo.com[FastAPI^] and the front end is in vanilla HTML, CSS and JS.
+    ** link:https://github.com/SirusCodes/short-terms[GitHub repository^]

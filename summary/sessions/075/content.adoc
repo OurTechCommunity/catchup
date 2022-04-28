@@ -14,7 +14,7 @@ Duration: 4 hrs 45 mins
     ** Aditya and link:https://twitter.com/skxrxn[Sreekaran Srinath^] gave Siddharth some advice on making the comparisons more scientific, i.e., generating diffs between input and output of each library, writing a blog post, etc.
     ** link:https://cloud.google.com/document-ai[GCP's Document AI^] was brought up and discussed. Siddharth had a lot of praise for its OCR capabilities.
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/skxrxn[Sreekaran Srinath^] also spoke about link:https://hackcon.mlh.io[MLH Hackcon^], traveling to NYC and delivering talks at Hackcon.
-* link:https://twitter.com/hridayHZ[Hriday Keswani^], link:https://twitter.com/adityaoberai1[Aditya Oberai^], and link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] spoke about developing Windows applications and why it's so damn difficult
+* link:https://twitter.com/hridayHZ[Hriday Keswani^], link:https://twitter.com/adityaoberai1[Aditya Oberai^], and link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] spoke about developing Windows applications and why it's so difficult.
 * We talked about OS choices, dual booting, Linux, etc.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his experience at the link:https://hackthisfall.tech/events[Hack This Fall Mumbai meetup^].
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his favourite part of meetups, which is networking with people and getting to learn from them.
