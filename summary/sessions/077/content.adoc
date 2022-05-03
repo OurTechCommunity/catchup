@@ -1,0 +1,28 @@
+Date: 30-04-2022
+
+Duration: 4 hrs 1 min
+
+==== Topics Discussed
+* General introductions.
+* Research papers
+    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about research papers and his opinion on steps for writing a research paper.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his experience of writing his first research paper.
+* We discussed about link:https://githubcampus.expert[GHCE training^].
+* Activision and games
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] told us about how a game like call of duty is stress tested by spawning multiple people on one server. He also told us that the game, Call of Duty is written in C++.
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] talked about process of game testing, automation testing and python scripts.
+    ** link:https://twitter.com/hridayHZ[Hriday Keswani^] shared a video about an link:https://www.youtube.com/watch?v=Nz-X3cCeXVE[AI that helps in game testing^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] told us about his recent link:https://github.com/appwrite/appwrite/pull/3048[pull request^] and the authentication features that it adds to link:https://appwrite.io[appwrite^].
+* We discussed about TikTok, reels, it's social relation aspects and it's marketing aspects.
+* We discussed how Pinterest algorithm is very good.
+* We discussed that flipkart double encodes URLs to remove any special chars.
+* We talked about tutorials to be referred for GitHub and VSCode.
+* We talked about issues with offline updates in apps that later sync when online.
+
+
+==== Projects Showcased
+
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/\_chiraglulla_[Chirag Lulla^] showcased _Video Streaming Server_, which as the name suggests is an on demand video streaming server.
+    ** The backend is written in link:https://go.dev/[Go^] and the database used is link:https://www.sqlite.org/index.html[SQLite^].
+    ** Frontend is in vanilla HTML, CSS and JS.
+    ** link:https://github.com/Chirag-And-Dheeraj/video-streaming-server[GitHub repository]
