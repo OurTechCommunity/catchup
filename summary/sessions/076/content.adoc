@@ -33,6 +33,8 @@ Calibration^].
 * link:https://twitter.com/guyinthecape[Vatsal Patel^] talked about his experience at AMD helping him at his current job at Activision.
 * link:https://twitter.com/guyinthecape[Vatsal Patel^] told us how interviews work and his interview experience at Tesla.
 * link:https://twitter.com/kaku_jay[Jay Kaku^] explained link:https://www.scs.stanford.edu/05au-cs240c/lab/i386/s07_03.htm[Task Registers^] and link:https://www.tutorialspoint.com/what-is-paging[Paging^].
+    ** link:https://www.embedded.com/managing-tasks-on-x86-processors[Managing Tasks on x86 Processors^]
+    ** link:https://www.amd.com/system/files/TechDocs/24593.pdf#page=421[AMD64 Architecture Programmer's Manual - Volume 2: System Programming - Chapter 12^]
 * link:https://www.youtube.com/playlist?list=PL2EVNPSqUifhYsX57-4D1Mfs65q2SoqSN[Compiler Design (LLVM)^]
 
 ==== Projects Showcased
