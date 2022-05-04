@@ -1,6 +1,5 @@
 ==== Attendees
 
-
 . link:https://twitter.com/tusharnankanii[Tushar Nankani^]
 . link:https://twitter.com/keyuljain[Keyul Jain^]
 . link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
@@ -10,8 +9,9 @@
 . link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^]
 . link:https://twitter.com/rishit_dagli[Rishit Dagli^]
 . link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^]
+. link:https://twitter.com/skxrxn[Sreekaran Srinath^]
 . link:https://twitter.com/\_chiraglulla_[Chirag Lulla^]
-. link:https://twitter.com/0xSaurabh[Saurabh Kumar Suryan^]
+. link:https://twitter.com/0xSaurabh[Saurabh Suryan^]
 . link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^]
 . link:https://twitter.com/hridayHZ[Hriday Keswani^]
 . link:https://twitter.com/furtado_jaden[Jaden Furtado^]
@@ -20,6 +20,7 @@
 . link:https://twitter.com/t3_pat[Patrick Thakare^]
 . link:https://twitter.com/SirusTweets[Darshan Rander^]
 . link:https://twitter.com/hardikraheja[Hardik Raheja^]
+. link:https://twitter.com/imyashadulkar[Yash Adulkar^]
 . Siddharth Kaduskar
 . Hiten Gerella
 . Sanford Richards
@@ -29,5 +30,4 @@
 . Krishna Kashyap
 . Nishant Mishra
 . Sejal Jain
-. Yash Adulkar
 . Vivek Namaye

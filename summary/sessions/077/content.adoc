@@ -3,26 +3,34 @@ Date: 30-04-2022
 Duration: 4 hrs 1 min
 
 ==== Topics Discussed
-* General introductions.
-* Research papers
-    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about research papers and his opinion on steps for writing a research paper.
-    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his experience of writing his first research paper.
-* We discussed about link:https://githubcampus.expert[GHCE training^].
-* Activision and games
-    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] told us about how a game like call of duty is stress tested by spawning multiple people on one server. He also told us that the game, Call of Duty is written in C++.
-    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] talked about process of game testing, automation testing and python scripts.
-    ** link:https://twitter.com/hridayHZ[Hriday Keswani^] shared a video about an link:https://www.youtube.com/watch?v=Nz-X3cCeXVE[AI that helps in game testing^].
-* link:https://twitter.com/adityaoberai1[Aditya Oberai^] told us about his recent link:https://github.com/appwrite/appwrite/pull/3048[pull request^] and the authentication features that it adds to link:https://appwrite.io[appwrite^].
-* We discussed about TikTok, reels, it's social relation aspects and it's marketing aspects.
-* We discussed how Pinterest algorithm is very good.
-* We discussed that flipkart double encodes URLs to remove any special chars.
-* We talked about tutorials to be referred for GitHub and VSCode.
-* We talked about issues with offline updates in apps that later sync when online.
 
+* General introductions.
+* We talked about unknowingly incurring link:https://aws.amazon.com[AWS^] charges.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about the link:https://www.cncf.io/blog/2022/04/28/kubecon-cloudnativecon-europe-2022-mask-mandate-post-mortem[KubeCon + CloudNativeCon Europe 2022 mask mandate issue^].
+* link:https://twitter.com/ashwinexe[Ashwin Uppala^] told us about him organising link:https://event.codeday.org/hyderabad[CodeDay Hyderabad^].
+* Research papers
+    ** We talked about how a lot of things need to be considered to write a research paper.
+        *** Before even thinking about writing a research paper, one should have some link:https://www.youtube.com/watch?v=-uleG_Vecis[basic CS knowledge^] and some expertise in the field in which they want to write a paper in.
+        *** Other things include literature review, implementation, approaching mentors, defining the novelty of the idea and its use cases, etc.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his experience of writing his first research paper.
+        *** He also shared link:https://photos.app.goo.gl/U4nfFkKEF9NLNd4h8[a screenshot of an e-mail^] he sent when he was first collaborating.
+* We discussed the link:https://githubcampus.expert[GitHub Campus Expert^] training.
+* link:https://www.activision.com[Activision^] video game testing
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^], who works at Activison, told us how link:https://www.callofduty.com[Call of Duty^], a First Person Shooting video game written in C++, is tested by checking every character with every weapon and add-on that can be used.
+    ** Vatsal also told us how he automated testing the game using Python scripts for every console and platform and about the overarching testing setup that Activision has for its games.
+    ** Vatsal mentioned link:https://en.wikipedia.org/wiki/Load_testing[load testing^] their games by populating servers with a lot of instances of games to stimulate users.
+    ** link:https://twitter.com/hridayHZ[Hriday Keswani^] shared a video about an link:https://www.youtube.com/watch?v=Nz-X3cCeXVE[AI that helps in game testing^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] told us about his recent link:https://github.com/appwrite/appwrite/pull/3048[pull request^] that added an link:https://oauth.net[OAuth^] adapter for link:https://auth0.com[Auth0^] to link:https://appwrite.io[Appwrite^].
+* We talked about the link:https://en.wikipedia.org/wiki/Zero-width_space[Zero-width space^] bug in WhatsApp that made it crash.
+* We discussed the social and marketing aspects of TikTok and Instagram Reels.
+* We talked about syncing issues in apps, i.e., the data and state synchronization problems that occur when offline updates in apps sync with the backend/database when the app comes back online.
+* We talked about link:https://www.auvik.com/franklyit/blog/what-is-an-arp-table[ARP tables^].
+* We discussed how Flipkart link:https://www.webmasterworld.com/forum10/1844.htm#:~:text=Encoding%20is%20not,HTH%20Andreas[double encodes URLs^] to remove any special characters.
+* We talked about the pros and cons of link:https://dotnet.microsoft.com[.NET^].
 
 ==== Projects Showcased
 
-* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/\_chiraglulla_[Chirag Lulla^] showcased _Video Streaming Server_, which as the name suggests is an on demand video streaming server.
-    ** The backend is written in link:https://go.dev/[Go^] and the database used is link:https://www.sqlite.org/index.html[SQLite^].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/\_chiraglulla_[Chirag Lulla^] showcased an on-demand video streaming server.
+    ** The backend is written in link:https://go.dev[Go^] and the database used is link:https://www.sqlite.org/index.html[SQLite^].
     ** Frontend is in vanilla HTML, CSS and JS.
-    ** link:https://github.com/Chirag-And-Dheeraj/video-streaming-server[GitHub repository]
+    ** link:https://github.com/Chirag-And-Dheeraj/video-streaming-server[GitHub repository^]
