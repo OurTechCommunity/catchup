@@ -13,7 +13,7 @@ Duration: 5 hrs 30 mins
     ** link:https://youtu.be/2M-L0yPbtPE[Popular JS Package node-ipc Adds Malicious 'Protest-ware' on Purpose^]
     ** link:https://www.youtube.com/watch?v=R6S-b_k-ZKY[The Dark Side of Open Source // What really happened to Faker.js?^]
 * We discussed the new link:https://youtu.be/yG1m7oGZC48[Apple M1 Ultra processor^].
-* link:https://twitter.com/ashwinexe[Ashwin Uppala^] talked about his journey with communities and he shared his own community link:https://hackerabad.hackclub.com[Hackerbad^].
+* link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^] talked about his journey with communities and he shared his own community link:https://hackerabad.hackclub.com[Hackerbad^].
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a video on the recent link:https://www.youtube.com/watch?v=JcKEnhNQHYY[Spotify outage^] that was a link:https://microservices.io[Microservice^] failure caused by link:https://cloud.google.com/traffic-director[GCP's Traffic Director service^] going down.
 * We discussed self-help books and how similar and known ideas are repeated again and again in different forms in such books.
 * Different niche Mental Health services such as link:https://raahee.in[Raahee^], link:https://reflectly.app[Reflectly^], link:https://app.wakingup.com[Waking Up^], link:https://www.calm.com[Calm^], etc. were discussed.

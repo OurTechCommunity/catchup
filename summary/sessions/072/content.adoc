@@ -26,7 +26,7 @@ Duration: 5 hrs
 * link:https://twitter.com/kaku_jay[Jay Kaku^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] discussed on if the RISC5 instructionset was open source, and x86 was not.
     ** We touched upon the difference between an interface and a product, and if an interface can be copyrighted at all.
     ** This also related to the lawsuit between Google and Oracle over the Android SDKs emulating the standard Java libraries so existing packages would be compatible, and how MariaDB has almost the exact same syntax as MySQL for compatibility reasons.
-* It was link:https://twitter.com/ashwinexe[Ashwin Uppala's^] birthday, Happy Birthday Ashwin! &#129395;
+* It was link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala's^] birthday, Happy Birthday Ashwin! &#129395;
 
 ==== Projects Showcased
 

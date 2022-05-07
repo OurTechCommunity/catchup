@@ -7,7 +7,7 @@ Duration: 4 hrs 1 min
 * General introductions.
 * We talked about unknowingly incurring link:https://aws.amazon.com[AWS^] charges.
 * link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about the link:https://www.cncf.io/blog/2022/04/28/kubecon-cloudnativecon-europe-2022-mask-mandate-post-mortem[KubeCon + CloudNativeCon Europe 2022 mask mandate issue^].
-* link:https://twitter.com/ashwinexe[Ashwin Uppala^] told us about him organising link:https://event.codeday.org/hyderabad[CodeDay Hyderabad^].
+* link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^] told us about him organising link:https://event.codeday.org/hyderabad[CodeDay Hyderabad^].
 * Research papers
     ** We talked about how a lot of things need to be considered to write a research paper.
         *** Before even thinking about writing a research paper, one should have some link:https://www.youtube.com/watch?v=-uleG_Vecis[basic CS knowledge^] and some expertise in the field in which they want to write a paper in.
