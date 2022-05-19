@@ -23,6 +23,19 @@ NOTE: link:https://catchup.ourtech.community/showcase[Showcase a project on OTC 
 
 == Summaries
 
+[#79]
+=== OTC CatchUp #79
+
+include::sessions/079/content.adoc[]
+
+include::sessions/079/attendees.adoc[]
+
+==== Meet Screenshot
+
+image::079.jpg[alt="Meet screenshot", 600, 600]
+
+'''
+
 [#78]
 === OTC CatchUp #78
 
