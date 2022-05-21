@@ -33,7 +33,7 @@ Duration: 7 hrs 30 mins
 * link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased updates to his 'To Do' web app with a robot made with link:https://threejs.org[Three.js^].
     ** link:https://github.com/jadenfurtado/toDoApp[GitHub repo^]
     ** link:https://jadenfurtado.github.io/toDoApp/taskList.html[Web app^]
-* Nikshita Karkera showcased the project she is building for link:https://developers.google.com/community/gdsc-solution-challenge[The GDSC 2022 Solution Challenge^].
+* link:https://twitter.com/KarkeraNikshita[Nikshita Karkera^] showcased the project she is building for link:https://developers.google.com/community/gdsc-solution-challenge[The GDSC 2022 Solution Challenge^].
     ** link:https://github.com/nk-874/no-hunger[GitHub repo^]
 * link:https://twitter.com/Prathamesh_117[Prathamesh Shanbhag^] showcased his links/portfolio site made with link:https://threejs.org[Three.js^] that also has a Tesla Cybertruck model.
     ** link:https://github.com/Prathamesh-Shanbhag/Portfolio-Website[GitHub^]
