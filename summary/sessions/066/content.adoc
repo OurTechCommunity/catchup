@@ -41,7 +41,7 @@ Duration: 8 hrs 6 mins
 * There was a debate on whether all Open Source contributions are equal (not 'big' or 'small') and/or are equal in value.
 * link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^] course was shared.
 * link:https://twitter.com/SunidhiShende[Sunidhi Shende^] talked about her link:https://business.adobe.com/in/resources/5-realworld-examples-of-augmented-reality-innovation.html[Augmented Reality^] project idea and link:https://twitter.com/guyinthecape[Vatsal Patel^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] advised her to break down her idea to eventually tackle the entire project idea. Targeting smaller targets can help in extrapolating to other use cases as well.
-* Kedar Karbele and link:https://twitter.com/SirusTweets[Darshan Rander^] enquired about link:https://buggyprogrammer.com/what-is-docker-for[the requirement of Docker^].
+* link:https://twitter.com/KarbeleKedar[Kedar Karbele^] and link:https://twitter.com/SirusTweets[Darshan Rander^] enquired about link:https://buggyprogrammer.com/what-is-docker-for[the requirement of Docker^].
 * link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about his job offers.
 
 ==== Projects Showcased

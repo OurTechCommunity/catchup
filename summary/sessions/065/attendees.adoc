@@ -23,10 +23,10 @@
 . link:https://twitter.com/devout_coder[Pranil Chitre^]
 . link:https://twitter.com/adityabhartia98[Aditya Bhartia^]
 . link:https://twitter.com/PalavChinmay[Chinmay Palav^]
+. link:https://twitter.com/KarbeleKedar[Kedar Karbele^]
 . Smit Vasani
 . Hiten Gerella
 . Sriram
-. Kedar Karbele
 . Milan Chandiramani
 . Huzefa Dohadwala
 . Alvin Green
