@@ -1,0 +1,79 @@
+Date: 14-05-2022
+
+Duration: 9 hrs 10 min
+
+==== Topics Discussed
+
+* General introductions.
+* Aditeya Sharma asked if link:https://www.wework.com[WeWork^] would be a good choice for renting office space in the time-span of two years. 
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested cost optimisation for a startup by asking people to work from home till it raises enough capital.
+	** Aditeya Sharma suggested that his start-up was related to a marketplace for influencers.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared his blog about link:https://blog.logrocket.com/build-augmented-reality-app-flutter[Building AR apps using Flutter^].
+* Ishwar Gowda talked about his reasons behind picking link:https://go.dev[Go]. 
+* link:https://twitter.com/t3_pat[Patrick Thakare^] talked about his interest and reasons behind getting into cloud computing.
+    ** He also talked about Docker and Container Orchestration.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:https://grpc.io[gRPC^] and how it is different from link:https://www.json.org/json-en.html[JSON^].
+	    *** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a video about link:https://www.youtube.com/watch?v=u4LWEXDP7_M[Why gRPC is needed^].
+        *** He also shared a video about link:https://www.youtube.com/watch?v=46O73On0gyI[Protobuf^].
+        *** link:https://www.youtube.com/watch?v=Yw4rkaTc0f8[Crash course on gRPC].
+* Pijamo Ngullie asked about preferences for backend or backend as a service. He chose link:https://firebase.google.com[Firebase^] over other services due to its generous offerings and ease of uuse.
+	** link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] talked about other services like link:https://kafka.apache.org[Kafka^] and link:https://aws.amazon.com[AWS^] that could be used due to its improved stability.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] talked about how link:https://firebase.google.com[Firebase^] needs elastic search.
+		*** link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared an link:https://firebase.google.com/products/extensions/elastic-firestore-elastic-app-search[extension^] for link:https://firebase.google.com[Firebase^] which fixes the need to import elastic search every time initialising a project.
+	** Pijamo Ngullie talked about provision of internships in some countries using link:https://joinhandshake.com[JoinHandShake^].
+* Aditeya Sharma asked about the resources and time required to build or hire someone to build an app like link:https://www.dunzo.com[Dunzo^].
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about planning features and requirements out, before making an app.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] asked if it is better to start out with a good architecture and take time to build the app or go with a quickly built prototype and build it out later.
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] and link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] talked about low code or no code platforms help developers to test out certain features and get a rough idea about how someone would want an app to look like.
+	    *** link:https://twitter.com/dwvicy[Vaishnavi Dwivedi^] talked about research, analysis, identification of users who would actually be willing to use an app and how low code or no code helps out in such cases to check if a product is fit for market.
+    ** Anas shared a link:https://www.linkedin.com/posts/jason-chin-easlo-a82b05193_no-code-stack-to-start-a-business-for-free-activity-6863136120495058945-GYzu[linkedin post about no code^].
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] talked about differences between a library and a framework.
+    ** Framework is something that is installed in your machine and you interact with it via commands to execute/perform some action.
+    ** Library targets certain problems and Toolkit is a collection of libraries to solve multiple issues on multiple platforms.
+* Aditeya Sharma asked about how flutter is, as a framework and how much would it cost to hire a developer for building an app.
+	** link:https://twitter.com/dwvicy[Vaishnavi Dwivedi^] talked about flutter, it's features and how cost of building an app depends on requirements.
+	** Pijamo Ngullie asked the differences between Flutter and React Native.
+        *** link:https://twitter.com/SirusTweets[Darshan Rander^] compared React Native and Flutter.
+		*** link:https://twitter.com/t3_pat[Patrick Thakare^] talked about his experience with React native, an android update broke his app since React native uses native android components.
+* Sarah Khan asked if it is better to design components before starting with a project or a hackathon.
+	** link:https://twitter.com/dwvicy[Vaishnavi Dwivedi^] talked about how a good design makes a project look presentable in the case of a hackathons, and how it gives a clear picture about what to build, in terms of a personal project.
+    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about how he started designing his apps before making them. 
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how experience and exposure helps in creating better designs over time.
+	** link:https://twitter.com/ishandeveloper[Ishan Sharma^] talked about how visiting multiple websites helped him to learn about good designs by observing the structure of well built websites. This was one of the reasons for him behind learning link:https://greensock.com/gsap[GSAP^].
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about his journey of building projects using the hit and trial method, and how he learnt the importance of design over time.
+	** Pijamo Ngullie shared link:https://material.io/resources/color[Material Design Color Tool^] for choosing colors for a design.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about a bias of failing a lot before learning.
+    ** Making hardware is expensive, therefore execution of building process should be planned optimally with almost no errors. Even though software errors tend to be easily correct, one should not always approach a task in a way where it is always okay to fail before getting a certain thing right at the first try.
+    ** He shared an analogy where a metro project is planned properly before execution while taking a lot of factors in mind since errors are not very easily repairable in such cases.
+    ** He also talked about how a complex problem can be broken into parts and solved collectively by good communication and proper thinking.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared his patent on link:https://www.tomshardware.com/news/amd-patents-automatic-memory-overclocking[Automatic Memory Overclocking^].
+    ** This tool aims to tune the device memory and CPU for maximum performance, but without extensive manual testing from user side.
+        *** The tool creates profiles based on the memory attached to the device, by overclocking and stressing that memory module to breakneck limits, then lowering it to a relatively safer limit and checking where the device stays stable for a long time.
+        *** It could be manually initiated by the user during certain scenarios like playing games, prior to which the device would run on the normal intended manufacturer settings. 
+        *** This tool will be integrated with future AMD processors. Automatic memory overclocking works irrespective of the OS, since it is handled by the processor itself.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about the long process behind creating patents.
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] asked about how will the module work on motherboards or most consumer equipments like CPUs and RAM that are locked by the manufacturer by default.
+        *** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about how most enthusiast level equipments come with the ability to be overclocked. So the module could work on RAM and CPU that allows overclocking out of the box.
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] asked about the difference between physical cores and execution threads and why don't some processor come equipped with SMT.
+        *** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about SMT (Simultaneous Multi-Threading) and Instruction level parallelism. Each cycle in a processor is very precious, so for optimally utilising each cycle, SMT combines hardware level multithreading with instruction-level parallelism to help to facilitate more than one instruction executed during a single clock cycle.
+        *** Hardware SMT is fused on some processor due to various reasons and sold at a cheaper cost.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] compared Software industry and Semiconductors industry on various levels. He suggested that learning more about your industry could help you come up with various innovations and solutions for existing problems.
+        *** link:https://twitter.com/kaku_jay[Jay Kaku^] talked about differences between learning software language and Hardware Description Language (HDL). Learning HDL is not similar to learning any other software languages, since all formal verification cases need to be handled using link:https://anysilicon.com/understanding-formal-verification[formal testing^] in order to evaluate the correctness of the intended algorithm.
+        *** There are multiple cases, physical or logical, which need to be taken care of before finalising a hardware design.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about his various contributions to Nvidia services and one of his projects of the data center link:https://www.nvidia.com/en-in/data-center/dgx-a100[DGX-A100^] that he personally worked on.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] suggested everyone to learn touch typing (since it becomes second nature and increases efficiency) and link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^] a course created by students at MIT for students to get well acquainted with things about computers that are not formally taught in the lectures.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared his BE project about link:https://github.com/reddragon/Grid-Computing-Framework[Grid Computing Framework^].
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared the story of his first graphic card from ATI technologies which was later merged with AMD graphics division. He talked about a gaming event organised by ATI that he attended during his semester exams and stood second.
+        *** He also talked about link:https://www.qualcomm.com/products/technology/processors[Qualcomm^], who bought the mobile division of ATI in 2009 which made the best mobile graphics at that time. Now that integrated mobile GPU is also known as link:https://www.qualcomm.com/products/features/adreno[Adreno^].
+    ** link:https://twitter.com/kaku_jay[Jay Kaku^] asked about how one could make a project qualify as a viable product.
+        *** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about various ways to build a project and evaluate if on the basis of how the end user sees it.
+        *** He also talked about how most people interact with devices on a very superficial level.
+    ** We talked about how someone should prioritise knowledge over money in the early stages of career, provided that they have the luxury of choosing between money and knowledge. Anil shared an analogy where a developer who works at a company which provides a higher package for working on a technology which is about to be out dated in a span of few years, looses his job when the technology is no more relevant. This method could be beneficial for the company but not so much for the developer.
+* Siddharth Kaduskar asked about DSA and different platforms to practice on. link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] suggested solving problems on HackerRank or LeetCode.
+* We discussed about various project ideas for final year students from learning point of view.
+    ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared a link:https://www.youtube.com/watch?v=WXuK6gekU1Y[documentary related to AI^].
+
+==== Projects Showcased
+
+* Sarah Khan Khan showcased the design for _Accuratus_.
+	** The design was made using link:https://www.figma.com[Figma^].
