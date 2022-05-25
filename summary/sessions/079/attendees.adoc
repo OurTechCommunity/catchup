@@ -14,7 +14,7 @@
 . link:https://twitter.com/kaku_jay[Jay Kaku^]
 . link:https://twitter.com/kartikchow[Kartik Choudhary^]
 . link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^]
-. link:https://twitter.com/t3_pat[Patrick Thakare^]
+. link:https://twitter.com/t3_pat[Pratik Thakare^]
 . link:https://twitter.com/PranavDani3[Pranav Dani^]
 . link:https://twitter.com/KundnaniPratik[Pratik Kundnani^]
 . link:https://twitter.com/rishit_dagli[Rishit Dagli^]
@@ -28,7 +28,7 @@
 . link:https://twitter.com/tusharnankanii[Tushar Nankani^]
 . link:https://twitter.com/ShahKriyanshi[Kriyanshi Shah^]
 . Ali Faizan
-. Anas
+. link:link:https://twitter.com/anaskhan_28[Anas Khan^]
 . Dhiraj Chauhan
 . Chaitanya Deshpande
 . Harsh Patil
