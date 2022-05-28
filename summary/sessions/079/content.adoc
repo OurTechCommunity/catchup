@@ -1,6 +1,6 @@
 Date: 14-05-2022
 
-Duration: 6 hrs 17 min
+Duration: 6 hrs 17 mins
 
 ==== Topics Discussed
 
@@ -74,5 +74,5 @@ Duration: 6 hrs 17 min
     ** link:https://github.com/cdhiraj40/LeetDroid[GitHub repository^]
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased a small project where he implemented JWT authorization and CORS.
     ** link:https://github.com/HarshKapadia2/flask-jwt-cors[GitHub repository^]
-    ** link:https://twitter.com/t3_pat[Patrick Thakare^] talked about how it would be more efficient to record the latest timestamp of an issued Refresh Token rather than storing the Refresh Token in the database.
+    ** link:https://twitter.com/t3_pat[Pratik Thakare^] talked about how it would be more efficient to record the latest timestamp of an issued Refresh Token rather than storing the Refresh Token in the database.
     ** link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] talked about his experience with JWTs while working at link:https://www.getvymo.com[Vymo^].
