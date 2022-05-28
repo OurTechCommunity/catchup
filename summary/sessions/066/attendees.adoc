@@ -32,6 +32,7 @@
 . link:https://twitter.com/Aaditya__Speaks[Aaditya Chinchkhedkar^]
 . link:https://twitter.com/awesomepaneer[Raj Shah^]
 . link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^]
+. link:https://twitter.com/KarbeleKedar[Kedar Karbele^]
 . Jugal Ghia
 . Shubham Tainwala
 . Akshay Karandikar
@@ -39,7 +40,6 @@
 . Hiten Gerella
 . Sriram
 . Aditya Bombale
-. Kedar Karbele
 . Huzefa Dohadwala
 . Lisa Gidwani
 . Priyansh Salian
