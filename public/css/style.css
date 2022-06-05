@@ -81,6 +81,8 @@ a {
 #cta-wrapper {
 	margin: 10em 0 5em 0;
 	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 }
 
 #cta-wrapper a:hover,
