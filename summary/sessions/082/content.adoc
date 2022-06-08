@@ -1,0 +1,25 @@
+Date: 04-06-2022
+
+Duration: 5 hrs 7 mins
+
+==== Topics Discussed
+
+* We talked about link:https://githubfieldday.com[GitHub Field Day^] and where everyone was going to attend it and about accommodation.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] told everyone about link:https://thonny.org[Thonny^] which is a Python IDE for beginners following which we discussed about various text editors and IDEs available out there.
+* We talked about link:https://jupyter.org[Jupyter Notebooks^] and link:https://colab.research.google.com/notebooks/intro.ipynb[Google Colab^].
+* link:https://twitter.com/nilexshinde[Nilesh Shinde^] shared a blog - link:https://blog.jovian.ai[Jovian^] about Machine Learning.
+* Then we talked about link:https://web.media.mit.edu/~benb/statics/bssmanual/MAIN/Key_Bindings.htm[key bindings^].
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] told everyone about his link:https://summerofcode.withgoogle.com[GSoC^] project.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a link:https://www.ioccc.org[resource^] about hard core obfuscation.
+* Siddharth Kaduskar asked for everyone's suggestions on how to explore tech in various domains.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked everyone about where to publish tech blogs and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested to use canonical links.
+* We talked about how OTC came into existence.
+* We had a discussion about Data Structures and Algorithms.
+* We also talked about time and space complexity.
+* Lastly we spoke about link:https://airflow.apache.org[Apache Airflow^] and link:https://www.hivelocity.net/kb/what-is-cron-job[CRON Jobs^]
+
+
+
+==== Projects Showcased
+
+* link:https://twitter.com/Ishwar71078132[Ishwar Gowda^] showcased an assembler he had built in Go.
