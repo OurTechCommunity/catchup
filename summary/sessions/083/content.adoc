@@ -25,8 +25,6 @@ Duration: 6 hrs 36 mins
     ** Edge is a term given to the nearest location of a server from a client.
     ** Therefore edge computing brings computation and data storage services closer to the sources of data to improve response times and save bandwidth. Edge computing allows computing near client.
         *** Cloudflare recently introduced link:https://blog.cloudflare.com/tag/edge-database[Edge Database^]. link: https://www.cloudflare.com/products/r2[Cloudflare R2^] is an option for distributed storage.
-    ** link:https://twitter.com/SirusTweets[Darshan Rander^] youtube edge servers, source of truth
-        *** Cloudflare protection page
 * We talked about the ethical line that one needs to take care of, before publishing an article over internet to avoid getting into trouble. 
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked differences between contract based jobs and full time jobs.
 * We talked about internships and why one should consider applying for all the opprtunities.
@@ -39,7 +37,7 @@ Duration: 6 hrs 36 mins
 
 ==== Projects Showcased
 
-* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased his link:https://siruscodes.github.io/portfolio[Portfolio^] that he created using link:https://flutter.dev[Flutter^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased his link:https://siruscodes.github.io/portfolio[Portfolio^] that he created using HTML, CSS and JS.
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] showcased his link:https://www.oberai.dev[Portfolio Website^] that he created using HTML, CSS, JS, link:https://www.emailjs.com[Email Js^] and link:https://expressjs.com[Express^].
 * link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased link:https://welding-torch.github.io/terminalweb[Terminal on Web^], a project that he forked from GitHub to learn its working.
     ** The project is built using HTML, CSS and JS.
