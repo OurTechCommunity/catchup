@@ -37,7 +37,7 @@ Duration: 6 hrs 36 mins
 
 ==== Projects Showcased
 
-* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased his link:https://siruscodes.github.io/portfolio[Portfolio^] that he created using link:https://flutter.dev[Flutter^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased his link:https://siruscodes.github.io/portfolio[Portfolio^] that he created using HTML, CSS and JS.
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] showcased his link:https://www.oberai.dev[Portfolio Website^] that he created using HTML, CSS, JS, link:https://www.emailjs.com[Email Js^] and link:https://expressjs.com[Express^].
 * link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased link:https://welding-torch.github.io/terminalweb[Terminal on Web^], a project that he forked from GitHub to learn its working.
     ** The project is built using HTML, CSS and JS.
