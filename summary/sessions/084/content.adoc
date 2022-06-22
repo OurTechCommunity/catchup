@@ -1,0 +1,36 @@
+Date: 18-06-2022
+
+Duration:  7hrs
+
+==== Topics Discussed
+
+* link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^]
+ and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed their experiences of organising events, finalising meetup location and experiences with sponsors.
+    ** link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^]
+ shared the link for link:https://sched.co/11Pz5[Open Source Summit North America 2022^], where he would be giving a lightning talk about improving community engagement.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about what link:https://aws.amazon.com/devops/what-is-devops[DevOps^] essentially is and how does it contribute towards building a product or a service. link:https://aws.amazon.com/devops/what-is-devops[DevOps^] is a field that emerged mainly for setting up test environments before pushing certain experimental features of a service to the main environment.
+    ** link:https://aws.amazon.com/devops/what-is-devops[DevOps^] is a relatively broad topic concerned with deploying, debugging, using shell scripts, using test environments and other tools to curb most errors related to a service. 
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] asked about the job description of a link:https://aws.amazon.com/devops/what-is-devops[DevOps^] engineer. Job of a link:https://aws.amazon.com/devops/what-is-devops[DevOps^] engineer is related to handling issues, reducing and optimising costs for smooth operation of a service.
+        *** A link:https://aws.amazon.com/devops/what-is-devops[DevOps^] engineer needs to be a developer before getting into this field since it helps in better understanding and formulating ways to better deal with the issues.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also discussed the differences between link:https://adityaoberai.medium.com/what-is-devrel-a09dc6545370[DevRel^] and link:https://aws.amazon.com/devops/what-is-devops[DevOps^]. DevRel acts as a bridge between the code and the community.    
+    *** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about testing and fine tuning CPUs using link:https://www.slothparadise.com/compile-hpl-linpack[HPL (LINPACK)^]. Scores reported for CPU comparison are generally output values from these programs. 
+* Srikaran and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about Simcard careers in the US. Sreekaran suggested link:https://twitter.com/harshgkapadia[Harsh Kapadia^] to consider link:https://fi.google.com/about[Google Fi^], a service provided by Google for cellular reception.
+* link:https://meet.google.com[Google meet^] now enforces a time cap of one hour for more than three participants at a time in a meet.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed about link:https://draperstartuphouse.com/bangalore-flagship-koramangala[accomodations^] for link:https://githubfieldday.com[GitHub Field Day^] that is being conducted in Bengaluru on 16th July.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] and link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about a hackathon conducted by the company link:https://www.dolatcapital.com[Dolat Capital^] which required the candidates to build a backend for a trading server using C++.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared his experience of handling link:https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS[CORS^] while he was preparing for his talk.
+    ** A image does not use CORS while loading.
+    ** He also talked about link:https://dev.harshkapadia.me/resources.html#html:~:text=web%20in%202021-,Resource%20hints,-prefetch%2C%20preload[prefetch, preload and preconnect^]. Resource hints help the browser to load pages faster by telling what assets might be needed in the future.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] discussed the potential reasons for his internship project HackerDraw to run slower.
+    ** This is when he encountered and learned more about web performance for a website. He discussed the importance of link:https://web.dev/learn-web-vitals[web vitals^] and how it helps in optimising a website for faster load times and better user experience. 
+    ** He also talked about link:https://web.dev/first-contentful-paint[FCP First Contentful Paint (A web vital)^]. 
+        *** Amazon which according to some surveys was one of the fastest consumer website turns out to be one of the slowest websites. It tends to load the main and bold components in the website during FCP and does not load most information related to the product such as its specifications and Reviews listed by people.
+    ** Browsers are very complex since they consider lot of edge cases.
+    ** He discussed what is link:https://vercel.com/docs/concepts/edge-network/overview[Vercel EDGE Network^] and how websites load faster on a browser by caches and background tab creation for sub section of a web app. link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared his notes about link:https://docs.google.com/document/d/12TW8Dj7t_PkW0G7hFICRIIZ2xStgDQAR2VBWnhUgWJ0/edit?usp=sharing[Web Performance^].
+    ** Harsh tested the FCP for summaries page prerender and loading time using link:webpagetest.org[webpagetest.org^] which provides information about site performance.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] asked the differences between engineering branches like CS, CSE and COE. Most of these branches are similar in terms of content for college education in India.
+* Google workspace accounts allow for meets with many participants without a time cap. YouTube auto time stamps is a useful feature for many people which helps them to the relevant part of a video.
+
+==== Projects Showcased
+
+* Saifuddin showcased his link:https://saifuddinsaifee.github.io/Portfolio[portfolio^] that he built using HTML, CSS and JS.
