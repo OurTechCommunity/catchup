@@ -12,12 +12,12 @@ Duration: 6 hrs 36 mins
 * We talked about improving portfolio websites by using bullet points and highlighting important things for a visitor to easily navigate their way through the portfolio.
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about upcoming link:https://appwrite.io/cloud[Appwrite Cloud^] which is currently under testing, and its potential market while comparing it with link:https://firebase.google.com[Firebase^].
     ** He also talked about methods used for load testing appwrite servers using tools like link:https://k6.io[k6^]. He also shared an article about appwrite servers titled link:https://itnext.io/websocket-1-million-connections-using-appwrite-2d2a2c363a37["Websocket 1 million connections"^].
-    ** link:https://dev.to/appwrite/take-your-serverless-functions-to-new-speeds-with-appwrite-013-5868[Appwrite's serverless functions^]
-    ** link:https://www.youtube.com/watch?v=QjvyiyH4rr0[Hotstar server scaling^]
+    ** link:https://dev.to/appwrite/take-your-serverless-functions-to-new-speeds-with-appwrite-013-5868[Appwrite's serverless functions^] discusses about how appwrite sped up its servers.
+    ** link:https://www.youtube.com/watch?v=QjvyiyH4rr0[Hotstar server scaling^] discusses how infrastructure at link:https://www.hotstar.com/in[Hotstar^] is managed.
         *** We talked about certain tools like OBS for recording and streaming.
 * link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked about resources for getting well acquainted with graphics oriented applications.
     ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] sugested to try link:https://skia.org[skia^], a 2D graphics library which also serves as a graphics engine for multiple Chrome products.
-    ** link:https://www.youtube.com/watch?v=e818LgnJ9rI[LSF CodeMiko^]
+    ** link:https://www.youtube.com/watch?v=e818LgnJ9rI[LSF CodeMiko^] showcases how a graphic model is brought to life.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed the issues that he was facing while setting up link:https://www.cloudflare.com[Cloudflare^] server for meetup website.
     ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested rechecking link:https://www.cloudflare.com[Cloudflare^] configuration with github IPs.
     ** We talked about various features like tracking that are provided by link:https://www.cloudflare.com[Cloudflare^].
