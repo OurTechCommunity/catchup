@@ -17,7 +17,7 @@ Duration: 6 hrs 36 mins
         *** We talked about certain tools like OBS for recording and streaming.
 * link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked about resources for getting well acquainted with graphics oriented applications.
     ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] sugested to try link:https://skia.org[skia^], a 2D graphics library which also serves as a graphics engine for multiple Chrome products.
-    ** link:https://www.youtube.com/watch?v=e818LgnJ9rI[LSF CodeMiko^]
+    ** link:https://www.youtube.com/watch?v=e818LgnJ9rI[LSF CodeMiko^] showcases how a graphic model is brought to life.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed the issues that he was facing while setting up link:https://www.cloudflare.com[Cloudflare^] server for meetup website.
     ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested rechecking link:https://www.cloudflare.com[Cloudflare^] configuration with GitHub IPs.
     ** We talked about various features like tracking that are provided by link:https://www.cloudflare.com[Cloudflare^].
