@@ -1,13 +1,17 @@
 tasks:
     - name: Setup
+      before: |
+          # Install Asciidoctor
+          # needs to be in before since gitpod resets the container every time
+          gem install asciidoctor
+          exit
+
       init: |
           # Add .env file
           cp sample.env .env
 
-          # Install Asciidoctor
-          gem install asciidoctor
-
           # Install npm dependencies
+          # npm installs dependencies to the working folder, which are persistent across restarts
           npm install
 
           # exit to prevent extra terminal window
