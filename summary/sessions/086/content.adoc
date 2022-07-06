@@ -1,0 +1,67 @@
+Date: 02-07-2022
+
+Duration: 4 hrs 40 mins
+
+==== Topics Discussed
+
+* General Instructions.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^]
+ shared his experience of interning at link:progate.com[Progate^].
+    ** He also shared his blog about his link:https://medium.com/progate/my-journey-as-a-community-intern-7c75f7d4eafa[journey as a community intern^].
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^]
+ talked about his experience with link:https://dotnet.microsoft.com/en-us/learn/xamarin/what-is-xamarin[.NET Xamarin^] and link:https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui[.NET MAUI^].
+        *** link:https://docs.microsoft.com/en-us/dotnet[.NET^] supports C#, F# and Visual Basic.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^]
+ talked about his experience with JavaFX that he used in one of his projects.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^]
+ talked about his experience of modifying Roms for games, where he modified sprites and other components to try out changes.
+    ** He also shared a GitHub Repository for link:https://github.com/hackclub/some-assembly-required[learning basic assembly language^].
+* We talked about SEO spoofing and one of the recent incidents which returns a different search result.
+* We discused the differences between link:https://visualstudio.microsoft.com[Visual Studio^] and link:https://code.visualstudio.com[Visual Studio Code^].
+    ** link:https://solana.com[Solana^], a blockchain platform is built on link:https://www.rust-lang.org[Rust^].
+* link:https://twitter.com/PranavDani3[Pranav Dani^]
+ talked about his experience setting up a virtual machine for link:https://www.microsoft.com/en-us/hololens[Hololens^] using link:https://visualstudio.microsoft.com[Visual Studio^] by running it on an old laptop.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^]
+ and link:https://twitter.com/PranavDani3[Pranav Dani^]
+ talked about various computer specifications that evolved over the years.
+        *** link:https://www.britannica.com/technology/Pentium[Pentium^] being one of the first processors that engendered the discussion.
+        *** Old laptops used mobile graphic cards such as GT 850m.
+            *** Some games used to show different logos for ATI radeon and AMD which was later merged, as discussed in our link:https://catchup.ourtech.community/summary#80[80th CatchUp^].
+* We talked about how link:https://www.python.org[Python^] was meant to used with DOS. The current version is ported to be used on windows and other OSs.
+    ** We also taked about AWS servers, windows servers, functions, and also compared the cost required to use it.
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^]
+ talked about his GDSC meet, and his experience meeting leads from various colleges.
+    ** We discussed how Google India appoints devrel on contractual basis.
+* link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^]
+ talked about his experience giving a lightning talk about link:https://sched.co/11Pz5[How Rejections Will Make you a Better Community Leader^] at the link:https://ossna2022.sched.com[Open Source Summit North America 2022^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^]
+ shared his article about link:https://newsletter.oberai.dev/issues/the-fomo-within-communities-1241459[FOMO within communities^].
+* We talked about link:https://fresh.deno.dev[Fresh^], a new framework that uses link:https://deno.land[Deno^] and provides support for link:https://www.typescriptlang.org[TypeScript^]. A video by link:https://www.youtube.com/watch?v=4boXExbbGCk[Fireship.io about Fresh^].
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^]
+ shared an article about link:https://mastery.games/post/what-not-to-learn[Deciding what not to learn^].
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^]
+ shared a video discussing link:https://www.youtube.com/watch?v=rxlJRydqmk8[reduction of JS libraries^] to implement some functionalities.
+* We talked about how unoptimised widespread usage of JS consumes more power, which affects the sustainability in power usage.
+    ** We discussed how manufacturing of batteries for EVs result in certain emissions that might result in global warming.
+        *** EVs might have some inital emmisions, but based on statistics from various resources, fuel vehicles over their entire life span, tend to release more emissions.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^]
+ talked about power grid and distribution of electricity. 
+        *** He talked about the Duck curve. Power consumption in England peaks at around 5pm since people put their kettles on electric heaters for tea.
+        *** A power grid needs to be expanded when a locality reaches a certain threshold of supplying power.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^]
+ talked about software for signal processing over hardware.
+    ** link:https://twitter.com/kaku_jay[Jay Kaku^] talked about software components made for a particular task are integrated as hardware to reduce load on the main device.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^]
+ shared his experience of an ideathon where some candidates overengineered a simple todo app with blockchain.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^]
+ shared the videos about link:https://www.youtube.com/watch?v=AW3gaelBypY[Carbon offset problem^] and link:https://youtu.be/b1JlYZQG3lI[Various shortages^].
+* link:https://twitter.com/0xSaurabh[Saurabh Kumar Suryan^] talked about web3 and uses of blockchain for other than web3.
+    ** He talked about link:https://ethereum.org/en/developers/docs/consensus-mechanisms/pos[proof of stake^], a protocol used in blockchains.
+    ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^]
+ shared links for checking link:https://andersbrownworth.com/blockchain/hash[hashes^] and link:https://andersbrownworth.com/blockchain/blockchain[blocks for blockchains^].
+    ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^]
+ also shared videos about link:https://www.youtube.com/watch?v=kHsP935kWHo[Proof of History^] and link:https://www.youtube.com/watch?v=M3EFi_POhps[Proof of Stake^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^]
+ showed his powerpoint that he created for GDG dehradun meet.
+* We discussed the differences between Service based and Product based companies.
+* We talked about why one should and why you shouldn't go for college placement.
