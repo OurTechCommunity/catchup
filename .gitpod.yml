@@ -1,14 +1,17 @@
 tasks:
-    - name: Install Asciidoctor
-      before: |
+    - name: Setup
+      init: |
+          # Add .env file
+          cp sample.env .env
+
+          # Install Asciidoctor
           gem install asciidoctor
+
+          # Install npm dependencies
+          npm install
+
+          # exit to prevent extra terminal window
           exit
-
-    - name: Install npm dependencies
-      init: npm install
-
-    - name: Add .env file
-      init: cp sample.env .env
 
 vscode:
     extensions:
