@@ -4,38 +4,38 @@ Duration: 4 hrs 20 mins
 
 ==== Topics Discussed
 
-* We talked about OTC MeetUp and the general flow for it.
-    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked for some ideas and questions for panel discussion.
-    ** Following are some of the questions that were discussed and addressed for link:https://meetup.ourtech.community/1[MeetUp 1]:
+* We talked about link:https://meetup.ourtech.community/1[OTC MeetUp #1^], our first official in-person Tech event.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked for some ideas and questions for the panel discussion during the meetup.
+    ** Some of the questions that were discussed
         *** How to discover and explore new domains?
-        *** How to ask better questions with proper context? Reference: link:dontasktoask.com[dontasktoask.com] and link:nohello.net[nohello.net].
-        *** How to encourage open source contributions within communities?
+        *** How to ask specific questions with proper context?
+            **** link:https://dontasktoask.com[dontasktoask.com] and link:https://nohello.net[nohello.net].
+        *** How to work in a team?
+        *** How do meetups and offline Tech events help?
 * We talked about independent communities and how most of them cater to specific groups of people.
-* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his journey behind the creation of his newsletter link:https://newsletter.oberai.dev[another random community].
-* link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested shifting from link:https://pages.github.com[GitHub Pages^] to some other platform due to some issues with hosting web applications.
-    ** link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his experience of buying a domain from link:https://www.cloudflare.com[Cloudflare^].
-        *** He also talked about benifits of getting a domain.
-* link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about link:https://brittanychiang.com[Brittany Chiang's portfolio^] and how some people fork it to take inspiration from it.
-    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested multiple fonts like link:https://freefontsfamily.com/gotham-font-family[Gotham font^], link:https://www.dafont.com/champagne-limousines.font[Champagne & Limousines font] and link:https://fonts.google.com/specimen/Lato[Lato^] for link:https://twitter.com/SirusTweets[Darshan Rander^] to use in his portfolio website. 
-* We talked about some of the negative aspects of communities.
-    ** We also talked about how and why work-life balance is important.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared the journey behind the creation of his newsletter, the link:https://newsletter.oberai.dev[another random community newsletter^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested shifting away from link:https://pages.github.com[GitHub Pages^] due to some issues that he had faced with hosting web sites.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about how cheap it is to buy a domain from link:https://www.cloudflare.com[Cloudflare^] and how configurable Cloudflare is.
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about link:https://brittanychiang.com[Brittany Chiang's portfolio^] and how some link:https://github.com/bchiang7/v4#-forking-this-repo-please-read[people who fork it, remove credits from the bottom of the site^].
+* We talked about some of the negative aspects of communities, such as people giving it much more priority than their job, link:https://newsletter.oberai.dev/issues/the-fomo-within-communities-1241459[trying to spread FOMO^], etc.
+    ** We also talked about why work-life balance is important.
 * link:https://twitter.com/PranavDani3[Pranav Dani^] talked about how he feels that agendas are important for driving a discussion in some direction.
-    ** We discussed various factors that drive the agenda in an open conversation. Catering to every single community member is often a difficult task due to fragmentation of members with similar likings.
-    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] enumerated various factors that core community members should consider while trying to scale and maintain the reach of its community over a long period.
-        *** Choosing people to get involved with core team requires similar sentiments.
-        *** Willingness of member to put the required amount of effort in maintaing the community and its activities.
+    ** We discussed various factors that drive the agenda in an open conversation. Catering to every single community member is often a difficult task due to fragmentation of members into different likings.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] enumerated various factors that a community's core organising team should consider while trying to scale and maintain the reach of their community over a long period.
+        *** Choosing people with similar sentiments to get involved with core team.
+        *** Willingness of members to put the required amount of effort in maintaing the community and its activities.
         *** Creating agendas and talks based on user feedback is necessary.
-    ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared his fellowship experiences and how most communities tend to have a mission to provide them with a direction to work towards.
+    ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared his link:https://fellowship.mlh.io[MLH Fellowship^] experience and how most communities tend to have a mission to provide them with a direction to work towards.
     ** New perspectives and ideas about handling communities might be beneficial. Without trying alternative solutions, one cannot improve their current state.
-    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about plans of inculcating talks at OTC, twice a month.
-* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] talked about link:https://solana.com[Solana^] coming with their own link:https://solana.com/news/saga-reveal[mobile^].
-* We talked about how platforms like Twitter or social media in general could be intrusive. We also discussed some potential ways of tackling this issue, one of which was disconnecting self from platform for some days.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about plans of adding talks to OTC CatchUp twice a month.
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] talked about link:https://solana.com[Solana^] coming up with their own link:https://solana.com/news/saga-reveal[mobile^].
+* We talked about how platforms like link:https://twitter.com[Twitter^] and other social media are intrusive and affect daily health, attention and habits. We also discussed some potential ways of tackling these issues, one of which was disconnecting oneself from these platforms for some days.
 
 ==== Projects Showcased
 
-* link:https://twitter.com/adityaoberai1[Aditya Oberai^] showcased his newsletter titled link:https://newsletter.oberai.dev[another random community^].
-* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased his link:darshanrander.com[portfolio website^] that he created using HTML, CSS and JS.
-* Sarurabh shared his link:sksuryan.netlify.app[portfolio website^].
-* link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased the implementation of Disentangling Search and Retrieval by MILA. 
-    ** link:https://github.com/Rishit-dagli/Compositional-Attention[GitHub Repository]
-    ** This repository disentangles the two components as an easy drop-in for standard multi-head attention.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased his portfolio web site link:https://darshanrander.com[darshanrander.com^] that he created using HTML, CSS and JS.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested multiple fonts like link:https://freefontsfamily.com/gotham-font-family[Gotham^], link:https://www.dafont.com/champagne-limousines.font[Champagne & Limousines^] and link:https://fonts.google.com/specimen/Lato[Lato^] to Darshan for use in his portfolio web site. 
+* link:https://twitter.com/0xSaurabh[Saurabh Kumar Suryan^] shared his link:https://sksuryan.netlify.app[portfolio web site^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased an implementation of link:https://arxiv.org/abs/2110.09419[Compositional Attention: Disentangling Search and Retrieval^] by MILA.
+    ** link:https://github.com/Rishit-dagli/Compositional-Attention[GitHub Repository^]
+    ** This repository acts as an easy drop-in for standard multi-head attention.
