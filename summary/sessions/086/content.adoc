@@ -7,7 +7,7 @@ Duration: 4 hrs 40 mins
 * General introductions.
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his experience of interning at link:https://progate.com[Progate^].
     ** He shared a blog on link:https://medium.com/progate/my-journey-as-a-community-intern-7c75f7d4eafa[his journey as a community intern^].
-* link:https://twitter.com/adityaoberai1[Aditya Oberai^] also talked about his experience with link:https://dotnet.microsoft.com/en-us/learn/xamarin/what-is-xamarin[.NET Xamarin^] and link:https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui[.NET MAUI^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] also talked about his experience with link:https://dotnet.microsoft.com/en-us/learn/xamarin/what-is-xamarin[Xamarin^] and link:https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui[.NET MAUI^].
     ** link:https://docs.microsoft.com/en-us/dotnet[.NET^] supports C#, F# and Visual Basic.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his experience with link:https://openjfx.io[JavaFX^] that he used in one of his projects.
 * link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about his experience of modifying game link:https://en.wikipedia.org/wiki/ROM_image[ROMs^], where he modified sprites and other components to try out changes.
@@ -18,7 +18,6 @@ Duration: 4 hrs 40 mins
     ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about various computer specifications that evolved over the years.
         *** link:https://www.britannica.com/technology/Pentium[Pentium^] being one of the first processors that engendered the discussion.
         *** Old laptops used mobile graphic cards such as GT 850m.
-        *** Some games used to show different logos for ATI Radeon and link:https://www.amd.com/en/graphics[AMD^], even though AMD bought ATI, as discussed in our link:https://catchup.ourtech.community/summary/80[80th CatchUp session^].
 * We talked about how link:https://www.python.org[Python^] was meant to be used with DOS. The current version is ported to be used on Windows and other OSs.
     ** We also talked about AWS servers, Windows servers, functions, and also compared the cost required to use it.
 * link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about his link:https://twitter.com/tusharnankanii/status/1543148017423122432[GDSC tenure conclusion meet^] and his experience meeting leads from various colleges.
