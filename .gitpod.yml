@@ -4,7 +4,6 @@ tasks:
           # Install Asciidoctor
           # needs to be in before since gitpod resets the container every time
           gem install asciidoctor
-          exit
 
       init: |
           # Add .env file
