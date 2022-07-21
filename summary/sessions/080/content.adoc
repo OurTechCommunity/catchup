@@ -68,7 +68,7 @@ Duration: 9 hrs 10 mins
     ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about various ways to build a project and evaluate if on the basis of how the end user needs it.
     ** He also talked about how most people interact with devices on a very superficial level.
     ** We talked about how one should prioritise knowledge over money in the early stages of their career, provided that they have the luxury of choosing between money and knowledge. Anil shared an analogy where a Developer who works at a company which provides a higher package for working on a technology which might get out dated in a span of few years, looses his job when the technology is no more relevant. This benefits the company, but not so much the Developer. Thus, it is important to not get comfortable and keep learning and evolving.
-* https://twitter.com/ambitions2003[Siddharth Kaduskar^] asked about Data Structures and Algorithms and different platforms to practice them on.
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] asked about Data Structures and Algorithms and different platforms to practice them on.
     ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] suggested solving problems on link:https://www.hackerrank.com[HackerRank^] or link:https://leetcode.com[LeetCode^].
 * We discussed about various project ideas for final year students from a learning point of view.
     ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared a link:https://www.youtube.com/watch?v=WXuK6gekU1Y[AlphaGo - The Movie^], a documentary related to AI.
