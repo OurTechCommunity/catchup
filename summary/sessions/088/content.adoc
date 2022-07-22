@@ -5,40 +5,32 @@ Duration: 5 hrs 47 mins
 ==== Topics Discussed
 
 * General introductions.
-* We had a discussion about current position of IBM in industry with link:https://twitter.com/jethwa_smit[Smit Jethva^].
-    ** IBM currently has 2 sections i.e. Product and Services
-    ** Product section works on the product development and marketing of IBM products which is majorly cloud infrastructure.
-    ** Work culture over there is good and people are very helpful.
-    ** He told us about how boring it was for him while he was working with an old codebase as it was huge and he has to spend a lot of time understanding the code.
-* link:https://twitter.com/SirusTweets[Darshan Rander^] shared his experience with United Bank of Switzerland (UBS) and interview process.
-    ** He enjoyed the work assigned to him though it became boring after a while for him.
-    ** People over there were also very helpful.
-    ** Interview process was very easy.
-* Vatsal Patel shared that he would be moving to Triage Team in link:https://activision.com[Activision]
-    ** He also shared about his work day in it and how the transition was going.
-* Vatsal Patel explained how long visa approval process is for US and why he was so busy.
-* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] requested for someone with link:https://unity.com[Unity] development to mentor him for link:https://sih.gov.in[Smart India Hackathon (SIH)].
-* While we were on the topic of Game dev and Unity, link:https://store.steampowered.com/app/1569890/Mumbai_Gullies[Mumbai Gullies] was mentioned by link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] and soon we were drifted towards link:https://www.rockstargames.com/gta-v[Grand Theft Auto (GTA)] and other Open world games.
-* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] had a few questions for link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] regarding his private community a few of the questions and suggestions were as follows:
-    ** How he can influence the community to try development as well.
-    ** How he can be inclusive and what does it mean to be inclusive.
-    ** He needs to learn to say NO in order to be a good community leader.
-    ** He needs to be a part of community and get views of people from community members.
-    ** Vedant Panchal requested him to keep workshops in hybrid mode so that more people can also learn from it.
-    ** He don't need to do everything perfectly and he cannot please everyone.
-    ** Building a safe space where people can ask questions and get answers.
-    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared in his experience exclusion generally happens when someone from inside the group feels excluded.
-* link:https://twitter.com/SirusTweets[Darshan Rander^] asked how link:https://twitter.com/adityaoberai1[Aditya Oberai^], link:https://twitter.com/jethwa_smit[Smit Jethva^] and others find connection and meet new people. They said it just happens when you same faces at a lot of meetups and events.
-* We had some play time with link:https://openai.com/dall-e-2[DALL•E 2] generating some random images few of them are listed below-
+* We had a discussion about current position of link:https://www.ibm.com/in-en[IBM^] in industry with link:https://twitter.com/jethwa_smit[Smit Jethva^].
+    ** It currently has 2 sections i.e. Product and Services
+        *** Product section works on the product development and marketing of IBM products which is majorly cloud infrastructure.
+    ** Though the company has a good work culture, understanding an old code base sometimes becomes tedious.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared his experience of working with United Bank of Switzerland (UBS) as an intern.
+    ** Interview process was straightforward. Colleagues were helpful and he enjoyed working with UBS.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] shared that he would be moving to Triage Team in link:https://activision.com[Activision]
+    ** He also talked about the visa approval process for US, which was one of the reasons for his busy schedule.
+* We talked about Game development and some familiar Open World games like link:https://www.rockstargames.com/gta-v[Grand Theft Auto (GTA)^].
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] asked few questions and suggestions for his community:
+    ** How to influence the community to try development?
+    ** How to be inclusive and what does it mean to be inclusive?
+    ** One needs to learn to say NO in order to be a good community leader.
+    ** One needs to be a part of community and get views of people from community members.
+    ** Vedant Panchal requested him to keep workshops in hybrid mode so that more people could learn from it.
+    ** One does not need to do everything perfectly and cannot please everyone.
+    ** Build a safe space where people can ask questions and get answers.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested that exclusion generally happens when someone from inside the group feels excluded.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] asked how link:https://twitter.com/adityaoberai1[Aditya Oberai^], link:https://twitter.com/jethwa_smit[Smit Jethva^] and others find connection and meet new people. They said it happens when you meet same faces at a lot of meetups and events.
+* We had some experimentation with link:https://openai.com/dall-e-2[DALL•E 2] generating some images, and few of them are listed below:
     ** https://labs.openai.com/s/LjVj55C4mY3YoZ0lmOktSEPB
     ** https://labs.openai.com/s/ls5Yn8mY9Rtn1GhhBHhMhIoL
     ** https://labs.openai.com/s/Fto6eMDQUzh1cTSLJwqqSU1x
     ** https://labs.openai.com/s/Z4zEMhAaLOADQ6HCJsQu7QBM
     ** https://labs.openai.com/s/k3hVNDFYEkyI2wfDXrcWvf4u
     ** https://labs.openai.com/s/VsueCB66DYTtHBXzEiiEU4uh
-* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared about how one should build thier team for hackathon and shared is link:https://bit.ly/hackathontodos101[Hackathon todos 101].
-    ** We should select problem statements which we face in our day to day life and then we should try to solve it.
-* link:https://twitter.com/SirusTweets[Darshan Rander^] shared his opinions about how Google is dissolving it's Google Developer Expert (GDE) and Google Developer Student Community (GDSC) tag reputation by giving it to a lot of people.
-
-
-
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared some tips about how one should build their team for hackathon and also shared an article on link:https://bit.ly/hackathontodos101[Hackathon todos 101].
+    ** One should select problem statements which they face in their day to day life and then try to solve it.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared his opinions about how Google is dissolving it's Google Developer Expert (GDE) and Google Developer Student Community (GDSC) tag reputation by providing it to a lot of people.
