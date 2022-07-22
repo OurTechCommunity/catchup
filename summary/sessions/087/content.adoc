@@ -25,7 +25,7 @@ Duration: 5 hrs 38 mins
     ** Kotlin has a lot of abstractions and a loads of syntatic sugar.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] about transformers and he shared a link to a paper: link:https://arxiv.org/abs/1706.03762[Attention is all you need].
 * link:https://twitter.com/SirusTweets[Darshan Rander^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] about Modality and Rishit shared a link:https://www.youtube.com/watch?v=Ur0HHfQzg78[video^].
-* We talked about link:https://en.wikipedia.org/wiki/Ahead-of-time_compilation[AOT = Ahead Of Time^], link:https://en.wikipedia.org/wiki/Just-in-time_compilation[JIT = Just In Time^] compilation.
+* We talked about link:https://en.wikipedia.org/wiki/Ahead-of-time_compilation[AOT (Ahead Of Time)^], link:https://en.wikipedia.org/wiki/Just-in-time_compilation[JIT (Just In Time)^] compilation.
 * link:https://twitter.com/TmPreet[Preet Parekh^] shared that: The goal of link:https://wasi.dev[WASI = WebAssembly System Interface^] is to create a very modular set of system interfaces.
 * link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared a project: link:https://www.linuxfromscratch.org/lfs[Linux from scratch] which claims: "We installed a system that was just enough to run the Apache web server; total disk space usage was approximately 8 MB. With further stripping, that can be brought down to 5 MB or less. Try that with a regular distribution."
 * We then talked about Learning something in depth vs learning things just on the surface level and concluded that following a T-shaped for learning is better, where you find 1 or 2 domains in which you specialize and have surface-level knowledge of the rest of them.
