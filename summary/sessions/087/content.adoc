@@ -11,25 +11,22 @@ Duration: 5 hrs 38 mins
     ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^]'s perspective is that Computer Engineering is more about hardware.
     ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] suggests that Computer Science involves a lot of theory.
 * link:https://twitter.com/ishandeveloper[Ishan Sharma^] discussed the difference between Client Side Rendering (CSR) and Server Side Rendering (SSR).
-    ** link:https://web.dev/rendering-on-the-web[Article by web.dev on rendering.]
-    ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] showcased an old project explained that CSR needs JavaScript to run on the main thread and it takes a lot of time.
+    ** He shared an article about link:https://web.dev/rendering-on-the-web[rendering].
+    ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] showcased an old project to explain that CSR needs JavaScript to run on the main thread and it takes a lot of time.
     ** To overcome this issue, we use SSR which will atleast render things without JS.
     ** CSR + SSR is known as link:https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc[Isomorphic Rendering^].
 * link:https://twitter.com/TmPreet[Preet Parekh^] brought to everyone's attention that link:https://nextjs.org[Next.js^] is introducing a lot of breaking changes in their upcoming update.
-* link:https://twitter.com/TmPreet[Preet Parekh^] also said that link:https://nextjs.org[Next.js^] is introducing a new feature: streaming which will eliminate the need of client side JavaScript. 
+    ** He also talked about a new feature introduced by link:https://nextjs.org[Next.js^] which will eliminate the need of client side JavaScript while streaming. 
     ** Streaming allows to constantly modify the DOM.
     ** link:https://github.com/vercel/next.js/discussions/37136[Layout discussion^] in Next.js
 * link:https://twitter.com/SirusTweets[Darshan Rander^] discussed an issue in JavaScript where he was unable to delete the childNodes in an array and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a link:https://www.youtube.com/watch?v=rhvec8cXLlo[video on difference between children and childNodes] by link:https://www.youtube.com/c/WebDevSimplified[Web Dev Simplified].
-* We talked about Jetpack Compose, how Flutter uses the link:https://skia.org[Skia engine^] to render and native components.
-* We discussed the pros and cons of Java and Kotlin.
+* We talked about link:https://developer.android.com/jetpack/compose[Jetpack Compose^], how link:https://flutter.dev[Flutter^] uses the link:https://skia.org[Skia engine^] to render and native components.
+* We discussed the pros and cons of link:https://www.java.com/en[Java^] and link:https://kotlinlang.org[Kotlin^].
     ** Kotlin has a lot of abstractions and a loads of syntatic sugar.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] about transformers and he shared a link to a paper: link:https://arxiv.org/abs/1706.03762[Attention is all you need].
 * link:https://twitter.com/SirusTweets[Darshan Rander^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] about Modality and Rishit shared a link:https://www.youtube.com/watch?v=Ur0HHfQzg78[video^].
-* link:https://en.wikipedia.org/wiki/Ahead-of-time_compilation[AOT = Ahead Of Time^]
-* link:https://en.wikipedia.org/wiki/Just-in-time_compilation[JIT = Just In Time^]
-* link:https://wasi.dev[WASI = WebAssembly System Interface^]
-* link:https://twitter.com/TmPreet[Preet Parekh^] shared that: The goal of WASI is to create a very modular set of system interfaces.
-* link:https://webassembly.org[WASM = WebAssembly^]
+* We talked about link:https://en.wikipedia.org/wiki/Ahead-of-time_compilation[AOT = Ahead Of Time^], link:https://en.wikipedia.org/wiki/Just-in-time_compilation[JIT = Just In Time^] compilation.
+* link:https://twitter.com/TmPreet[Preet Parekh^] shared that: The goal of link:https://wasi.dev[WASI = WebAssembly System Interface^] is to create a very modular set of system interfaces.
 * link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared a project: link:https://www.linuxfromscratch.org/lfs[Linux from scratch] which claims: "We installed a system that was just enough to run the Apache web server; total disk space usage was approximately 8 MB. With further stripping, that can be brought down to 5 MB or less. Try that with a regular distribution."
 * We then talked about Learning something in depth vs learning things just on the surface level and concluded that following a T-shaped for learning is better, where you find 1 or 2 domains in which you specialize and have surface-level knowledge of the rest of them.
 * link:https://twitter.com/poonmjha[Poonam Jha^] shared a new initiative in which, she want's to help people find their interest in IT.
