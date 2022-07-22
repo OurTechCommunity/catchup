@@ -9,11 +9,15 @@
 . link:https://twitter.com/furtado_jaden[Jaden Furtado^]
 . link:https://twitter.com/kaustubh_khav[Kaustubh Khavnekar^]
 . link:https://twitter.com/t3_pat[Pratik Thakare^]
+. link:https://twitter.com/sailorworks[Sahil Prasad^]
 . link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^]
 . link:https://twitter.com/0xSaurabh[Saurabh Kumar Suryan^]
 . link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^]
+. link:https://twitter.com/skxrxn[Sreekaran Srinath^]
 . link:https://twitter.com/jethwa_smit[Smit Jethva^]
+. link:https://twitter.com/tanay_texplorer[Tanay Kamath^]
 . link:https://twitter.com/tusharnankanii[Tushar Nankani^]
+. link:https://twitter.com/guyinthecape[Vatsal Patel^]
 . link:https://twitter.com/TweeterDowny[Vedant Panchal^]
 . Abhishek Kumar
 . Austin J. Anderson
@@ -22,10 +26,3 @@
 . Jugal Ghia
 . Manthan Parsekar
 . Moksh Dalu
-. Sahil Prasad
-. Sreekaran Srinath
-. Tanay Kamath
-. Tushar Nankani
-. Vatsal Patel
-. Vedant Panchal
-. jaden furtado
