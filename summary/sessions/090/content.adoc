@@ -1,0 +1,51 @@
+Date: 30-07-2022
+
+Duration: 4 hrs 35 mins
+
+==== Topics Discussed
+
+* link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^] talked about his reasons for UI/UX decisions in his application.
+    ** He explained the release cycle in link:https://grapheneos.org[GrapheneOS^] which includes alpha beta testing phase.
+    ** He shared a podcast about link:https://blog.esper.io/android-camera-api-podcast[Android's camera problems^].
+    ** link:https://twitter.com/AnxKhn[Anas Khan^] talked about Titan chipset and how it might interfere with installing a custom ROM.
+* We talked about custom ROMs for Android, link:https://grapheneos.org[GrapheneOS^] in particular. A custom ROM essentially replaces the stock ROM or skin on your phone with the one you choose to install.
+    ** There are multiple steps involved in installing a custom ROM such as unlocking bootloader, installing custom recovery and flashing different ROMs. 
+    ** Most ROMs are based on the link:https://source.android.com[AOSP (Android Open Source Project)^].
+    ** Each device implements a different link:https://www.androidauthority.com/what-is-a-kernel-3040697[kernel^], hence custom ROMs need to be tweaked according to each device to make it work as intended.
+    ** link:https://grapheneos.org[GrapheneOS^] is a privacy oriented custom ROM which does not use the standard google services since they track certain stats about the device, which an user might not want to share. It is available on almost all the Pixel devices starting from Pixel 3.
+    ** link:https://e.foundation[/e/^] and link:https://calyxos.org[CalyxOS^] are also privacy oriented custom ROMs which work on similar principles.
+    ** link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^]
+ talked about all the data that is accessible to google.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/kaku_jay[Jay Kaku^] talked about a banking application which requires Android 8 (Oreo) as its minimum requirements to function as expected. Banking apps in particular should provide support to wider range of Android and iOS versions, since all its users might not have the same requirements.
+* We discussed the differences between different android versions and some issues that were fixed and introduced as the updates crept up.
+* link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^]
+ talked about the custom web view implementation done in link:https://grapheneos.org[GrapheneOS^].
+    ** All the apps for the link:https://grapheneos.org[GrapheneOS^] are separately available for other devices as well.
+    ** It uses link:https://www.cloudflare.com/dns/#:~:text=Cloudflare%20DNS%20is%20an%20enterprise,in%20DDoS%20mitigation%20and%20DNSSEC.[Cloudflare DNS^] by default.
+* link:https://twitter.com/AnxKhn[Anas Khan^] talked about his experience with FOSS (Free and Open Source Software).
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://meet.jit.si[Jitsi^] and how OTC used it until some of its issues forced to use a different solution.
+    ** He also talked about link:https://www.linux.org[Linux^], rolling release and stable release for different distributions.
+        *** link:https://archlinux.org[archlinux^], link:https://manjaro.org[manjaro^] and link:https://www.livemint.com[Mint^] might be one of the better distributions for new Linux users.
+    ** Distributions difer in terms of cherry picking features according to the user needs.
+    ** He shared a link:https://commons.m.wikimedia.org/wiki/File:Linux_Distribution_Timeline_21_10_2021.svg#mw-jump-to-license[Linx Distribution Timeline^] chart which encapsulates the roots of development of all the Linux distributions.
+* We discussed why an user might want to shift to a custom ROM and the steps involved in doing so.
+    ** Custom ROMs can be installed without root permissions. Most users prefer magisk, a link:https://www.howtogeek.com/249162/what-is-systemless-root-on-android-and-why-is-it-better[Systemless Root^] method for installing modifications to the ROM.
+    ** Backing up personal data could be a hassel, hence services like link:https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup&hl=en_IN&gl=US[Titanium backup^] and link:https://swiftapps.org[Swift backup^] can help users to backup and restore all of their personal data with ease.
+    ** Android implements Encryption by default, which makes it difficult for users to access the storage partition from the recovery environment. A user can choose to flash a DFE (Disable Forced Encryption) to disable the encryption.
+    ** Some link:https://nerdschalk.com/how-to-turn-off-without-password-a-samsung-galaxy-device[Samsung devices do not allow^] its users to shut the device down without unlocking it.
+* We talked about how android and iOS differ in terms of camera viewfinder implementation in different apps. 
+    ** For instance, android developers tend to utilise the screenshot of the viewfinder in apps like Whatsapp or Instagram while clicking photos, whereas apps use the camera shots in iOS. 
+    ** This is one of the major reasons behind better images on iphones, clicked through same app on both platforms.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about his work of solving flagged issues at Spectro Cloud.
+    ** We talked about link:https://support.apple.com/en-us/HT209044[eSIM^] services in US and how a device made for India might not work efficiently due to differences in supported bands.
+    ** He shared his experience of driving a link:https://www.tesla.com[Tesla^] on auto pilot. Cruise control and autopilot are separate things which might be difficut for a new user to trigger easily.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] and link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] talked about Competitive Programming and Data Structure knowledge.
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] signed his first issue with link:https://twitter.com/KartikSoneji_[Kartik Soneji^].
+
+==== Projects Showcased
+
+* link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^] showcased his Camera app, link:https://play.google.com/store/apps/details?id=app.grapheneos.camera.play[Secure Camera^] that he made for the link:https://grapheneos.org[GrapheneOS^].
+    ** This app was made using link:https://kotlinlang.org[Kotlin^].
+    ** link:https://github.com/GrapheneOS/Camera[GitHub Repository^]
+    ** How did you approach making this app?
+    ** He focused mainly on the UI and UX of the app with the help of Google's documentation for the link:https://developer.android.com/training/camera2[Camera2 API^].
