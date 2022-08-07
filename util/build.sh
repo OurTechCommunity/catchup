@@ -48,10 +48,6 @@ for path in "${script_dir}/../summary/sessions/"*; do
 
 		sed -i -e "s/<img/<img loading=\"lazy\"/g" "${script_dir}/../public/html/summary/${catchup_number}.html"; # Lazy load images
 
-		sed -i -e "s/property=\"og:title\" content=\"OTC CatchUp/property=\"og:title\" content=\"OTC CatchUp #${catchup_display_number}/g" "${script_dir}/../public/html/summary/${catchup_number}.html"; # Add CatchUp number to OG Title Tag
-
-		sed -i -e "s/property=\"og:url\" content=\"https:\/\/catchup.ourtech.community\/summary\"/property=\"og:url\" content=\"https:\/\/catchup.ourtech.community\/summary\/${catchup_display_number}\"/g" "${script_dir}/../public/html/summary/${catchup_number}.html"; # Add CatchUp number to OG URL Tag
-
 		unset IFS;
 	fi;
 done;
