@@ -45,6 +45,18 @@ app.get("/summaries", (req, res) => {
 
 app.get("/summary/:catchupNumber", (req, res) => {
 	let catchupNumber = req.params.catchupNumber;
+	if (catchupNumber == "latest") {
+		let sortedCatchupNumbers = fs
+			.readdirSync(__dirname + `/public/html/summary`)
+			.map((file) => parseInt(file.replace(/\.html/, "")))
+			.filter((number) => !Number.isNaN(number))
+			.sort((a, b) => b - a);
+
+		let latestCatchupNumber = sortedCatchupNumbers[0].toString();
+		res.redirect(`/summary/${latestCatchupNumber}`);
+		return;
+	}
+
 	let parsedCatchupNumber = parseInt(catchupNumber).toString();
 	let normalizedCatchupNumber = parsedCatchupNumber.padStart(3, "0");
 
