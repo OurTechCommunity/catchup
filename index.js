@@ -45,23 +45,14 @@ app.get("/summaries", (req, res) => {
 
 app.get("/summary/:catchupNumber", (req, res) => {
 	let catchupNumber = req.params.catchupNumber;
-	const originalCatchUpNumber = catchupNumber;
+	let parsedCatchupNumber = parseInt(catchupNumber).toString();
+	let normalizedCatchupNumber = parsedCatchupNumber.padStart(3, "0");
 
-	if (isNaN(parseInt(catchupNumber))) {
-		res.status(404).sendFile(__dirname + "/public/html/404.html");
-		return;
-	}
-
-	if (catchupNumber.length === 1) catchupNumber = "00" + catchupNumber;
-	if (catchupNumber.length === 2) catchupNumber = "0" + catchupNumber;
-	const path = __dirname + `/public/html/summary/${catchupNumber}.html`;
-
+	const path =
+		__dirname + `/public/html/summary/${normalizedCatchupNumber}.html`;
 	if (fs.existsSync(path)) {
-		if (
-			originalCatchUpNumber.length === 1 ||
-			originalCatchUpNumber.length === 2
-		)
-			res.redirect(`/summary/${catchupNumber}`);
+		if (catchupNumber != parsedCatchupNumber)
+			res.redirect(`/summary/${parsedCatchupNumber}`);
 		else res.sendFile(path);
 	} else res.status(404).sendFile(__dirname + "/public/html/404.html");
 });
