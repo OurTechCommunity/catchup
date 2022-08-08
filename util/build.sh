@@ -24,8 +24,12 @@ cp -r "${script_dir}/../summary/static/js/"* "${script_dir}/../public/js/summary
 cp -r "${script_dir}/../summary/static/img/"* "${script_dir}/../public/img/summary";
 
 # Build combined summary site
-asciidoctor "${script_dir}/../summary/combined-summary.adoc" -a webfonts! -o "${script_dir}/../public/html/summary/combined-summary.html";
-sed -i -e 's/<img/<img loading="lazy"/g' "${script_dir}/../public/html/summary/combined-summary.html"; # Lazy load images
+asciidoctor \
+	-a webfonts! \
+	-o "${script_dir}/../public/html/summary/combined-summary.html" \
+	"${script_dir}/../summary/combined-summary.adoc";
+# Lazy load images
+sed -i -e 's/<img/<img loading="lazy"/g' "${script_dir}/../public/html/summary/combined-summary.html";
 
 # Build individual summary pages
 for path in "${script_dir}/../summary/sessions/"*; do
@@ -33,9 +37,15 @@ for path in "${script_dir}/../summary/sessions/"*; do
 		catchup_number=${path##*/};
 		printf -v "catchup_display_number" "%.0f" "${catchup_number}";
 
-		asciidoctor "${script_dir}/../summary/individual-summary.adoc" -a webfonts! -o "${script_dir}/../public/html/summary/${catchup_number}.html" -a catchup_number=${catchup_number} -a catchup_display_number=${catchup_display_number};
+		asciidoctor \
+			-a webfonts! \
+			-a "catchup_number=${catchup_number}" \
+			-a "catchup_display_number=${catchup_display_number}" \
+			-o "${script_dir}/../public/html/summary/${catchup_number}.html" \
+			"${script_dir}/../summary/individual-summary.adoc";
 
-		sed -i -e "s/<img/<img loading=\"lazy\"/g" "${script_dir}/../public/html/summary/${catchup_number}.html"; # Lazy load images
+		# Lazy load images
+		sed -i -e "s/<img/<img loading=\"lazy\"/g" "${script_dir}/../public/html/summary/${catchup_number}.html";
 	fi;
 done;
 
