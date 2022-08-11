@@ -44,7 +44,7 @@ app.get("/summaries", (req, res) => {
 });
 
 app.get("/summary/:catchupNumber", (req, res) => {
-	let catchupNumber = req.params.catchupNumber;
+	let catchupNumber = req.params.catchupNumber.toLowerCase();
 	if (catchupNumber == "latest" || catchupNumber == "random") {
 		let sortedCatchupNumbers = fs
 			.readdirSync(__dirname + `/public/html/summary`)
