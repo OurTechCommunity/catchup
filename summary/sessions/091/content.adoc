@@ -5,16 +5,16 @@ Duration: 4 hrs 30 mins
 ==== Topics Discussed
 
 * General Introductions
-* As Nidhi Kadam was learning about link:https://en.wikipedia.org/wiki/Computational_neuroscience[Computation Neuroscience] we had a small discussion about what are it's future prospects and what it's current state is.
+* As Nidhi Kadam was learning about link:https://en.wikipedia.org/wiki/Computational_neuroscience[Computation Neuroscience] we discussed about its current state and the future prospects.
 * link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared his plans to write an article on How to do Flutter CI with link:https://github.com/features/actions[GitHub actions].
-* We also asked link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] about the future career plans.
-* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his link:https://medium.com/@furtadojaden/how-i-helped-secure-townscript-and-nullcon-for-fun-669705ce4aa9[article] on how he was able to find vulnerability in link:https://www.townscript.com/in/online[Townscript].
-* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] expressed his love towards link:https://hackerresume.com/[HackerResume] (A resume generator site) and why he loves it so much.
-* link:https://twitter.com/TweeterDowny[Vedant Panchal^] asked for the whys he can develop for iOS apps if he is not owning a Mac.
+* We also asked link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] about his future career plans.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his article - link:https://medium.com/@furtadojaden/how-i-helped-secure-townscript-and-nullcon-for-fun-669705ce4aa9[How I helped secure Townscript and NullCon for fun!] - on how he was able to find vulnerability in link:https://www.townscript.com/in/online[Townscript].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] expressed his love towards link:https://hackerresume.com/[HackerResume] (A resume generator site) because of it's UI and how convenient it is use it instead of directly editing link:https://en.wikipedia.org/wiki/LaTeX[LaTeX].
+* link:https://twitter.com/TweeterDowny[Vedant Panchal^] asked for the how he can develop for iOS apps if he is not owning a Mac.
     ** Potential solutions are to use link:https://hackintosh.com/[Hackintosh], link:https://github.com/features/actions[GitHub actions] and link:https://codemagic.io[Codemagic].
     ** A medium article to build iOS apps with GitHub Actions link:https://medium.com/team-rockstars-it/the-easiest-way-to-build-a-flutter-ios-app-using-github-actions-plus-a-key-takeaway-for-developers-48cf2ad7c72a[The easiest way to build a Flutter iOS app using GitHub Actions, plus a key takeaway for developers]
 * link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^] shared his flutter state management solution link:https://github.com/MHShetty/notifier_plugin[notifier_plugin]
-    ** It gave rise to a questions about the use of his way and performance impact of it by link:https://twitter.com/SirusTweets[Darshan Rander^]
+    ** It gave rise to a questions about the use of this way and performance impact of it by link:https://twitter.com/SirusTweets[Darshan Rander^]
 * link:https://twitter.com/SirusTweets[Darshan Rander^] asked questions about how companies could not only continue hiring but also increase pay for each new joinees during this economic times.
     ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] said what he looked for while applying for jobs considering the factors such as: Last funding, spending, and how much they would have in reserve.
     ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] also explained how bigger public companies might not get affected because of recession
@@ -28,6 +28,6 @@ Duration: 4 hrs 30 mins
     ** This app was made using link:https://kotlinlang.org[Kotlin^].
     ** link:https://github.com/GrapheneOS/Camera[GitHub Repository^]
     ** He focused mainly on the UI and UX of the app with the help of Google's documentation for the link:https://developer.android.com/training/camera2[Camera2 API^].
-* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased MVP MusiShare.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased MVP of MusiShare.
     ** An app to solve the problem of sharing music between multiple music streaming platforms.
 * link:https://twitter.com/KarkeraNikshita[Nikshitha Karkera^] showcased an NLP project that detects which language the given string is written in.
