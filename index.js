@@ -45,15 +45,18 @@ app.get("/summaries", (req, res) => {
 
 app.get("/summary/:catchupNumber", (req, res) => {
 	let catchupNumber = req.params.catchupNumber;
-	if (catchupNumber == "latest") {
+	if (catchupNumber == "latest" || catchupNumber == "random") {
 		let sortedCatchupNumbers = fs
 			.readdirSync(__dirname + `/public/html/summary`)
 			.map((file) => parseInt(file.replace(/\.html/, "")))
 			.filter((number) => !Number.isNaN(number))
 			.sort((a, b) => b - a);
 
-		let latestCatchupNumber = sortedCatchupNumbers[0].toString();
-		res.redirect(`/summary/${latestCatchupNumber}`);
+		let index = -1;
+		if (catchupNumber == "latest") index = 0;
+		else if (catchupNumber == "random")
+			index = Math.floor(Math.random() * sortedCatchupNumbers.length);
+		res.redirect(`/summary/${sortedCatchupNumbers[index]}`);
 		return;
 	}
 
