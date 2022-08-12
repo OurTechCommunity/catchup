@@ -1,0 +1,31 @@
+Date: 06-08-2022
+
+Duration: 4 hrs 30 mins
+
+==== Topics Discussed
+
+* General Introductions
+* As Nidhi Kadam was learning about link:https://en.wikipedia.org/wiki/Computational_neuroscience[Computational Neuroscience] we discussed about its current state and the future prospects.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared his plans to write an article on How to do Flutter CI with link:https://github.com/features/actions[GitHub actions].
+* We also asked link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] about his future career plans.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his article - link:https://medium.com/@furtadojaden/how-i-helped-secure-townscript-and-nullcon-for-fun-669705ce4aa9[How I helped secure Townscript and NullCon for fun!] - on how he was able to find vulnerability in link:https://www.townscript.com/in/online[Townscript].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] expressed his love for link:https://hackerresume.com/[HackerResume], a résumé generator site, because of it's UI and how convenient it is use it instead of directly editing link:https://en.wikipedia.org/wiki/LaTeX[LaTeX].
+* link:https://twitter.com/TweeterDowny[Vedant Panchal^] asked for the how he can develop for iOS apps if he is not owning a Mac.
+    ** Potential solutions are to use link:https://hackintosh.com/[Hackintosh], link:https://github.com/features/actions[GitHub actions] and link:https://codemagic.io[Codemagic].
+    ** A medium article to build iOS apps with GitHub Actions link:https://medium.com/team-rockstars-it/the-easiest-way-to-build-a-flutter-ios-app-using-github-actions-plus-a-key-takeaway-for-developers-48cf2ad7c72a[The easiest way to build a Flutter iOS app using GitHub Actions, plus a key takeaway for developers]
+* link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^] shared link:https://github.com/MHShetty/notifier_plugin[notifier_plugin], a Flutter plugin that makes State Management and building dynamic user interfaces easier and more efficient.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] asked about the performance impact on using this solution instead of any other existing solution.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] asked "How companies could not only continue hiring but also increase pay for each new joinee during these economic times?"
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] looks for factors such as: Lastest funding, expenditure, and how much they would have in reserve while applying for a job.
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] also explained how bigger public companies might not get affected because of link:https://www.forbes.com/sites/joemoglia/2022/08/10/a-recession-is-coming-and-it-looks-familiar[upcoming recession]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared about how he works on research papers and what to look out for.
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] joined the call after a long time and brought us up to date with his life and future plans.
+
+==== Projects Showcased
+
+* link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^] showcased his Camera app, link:https://play.google.com/store/apps/details?id=app.grapheneos.camera.play[Secure Camera^] that he made for the link:https://grapheneos.org[GrapheneOS^].
+    ** This app was made using link:https://kotlinlang.org[Kotlin^].
+    ** link:https://github.com/GrapheneOS/Camera[GitHub Repository^]
+    ** He focused mainly on the UI and UX of the app with the help of Google's documentation for the link:https://developer.android.com/training/camera2[Camera2 API^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased a MVP of MusiShare, his Jetpack Compose app to solve the problem of sharing music between multiple music streaming platforms. From the link of a song from a particular music-streaming service, the app can open the same song on another music-streaming service installed on the user's phone.
+* link:https://twitter.com/KarkeraNikshita[Nikshitha Karkera^] showcased a NLP project that detects the language of an input string.
