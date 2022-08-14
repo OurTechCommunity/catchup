@@ -4,8 +4,8 @@
 	"description": "OTC CatchUp back end.",
 	"main": "index.js",
 	"scripts": {
-		"start": "chmod +x util/build.sh && sh util/build.sh && nodemon index.js",
-		"alt-start": "chmod +x util/build.sh && ./util/build.sh && nodemon index.js"
+		"start": "sh util/build.sh && nodemon index.js",
+		"alt-start": "./util/build.sh && nodemon index.js"
 	},
 	"repository": {
 		"type": "git",
