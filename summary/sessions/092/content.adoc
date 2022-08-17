@@ -1,0 +1,33 @@
+Date: 13-08-2022
+
+Duration: 7 hrs 20 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared that he is a part of link:https://summerofcode.withgoogle.com[GSOC^] for current year.
+    ** He talked about his task of adding link:https://docs.microsoft.com/en-us/system-center/vmm/overview?view=sc-vmm-2022[VMM (Virtual Machine Manager)^] support for link:https://www.techtarget.com/whatis/definition/ARM-processor#:~:text=Arm%20processors%20are%20used%20extensively,and%20internet%20of%20things%20devices.[ARM devices^] since currently link:https://www.techopedia.com/definition/20084/x86#:~:text=X86%20is%20the%20term%20used,and%2032%2Dbit%20instruction%20sets.[x86 based devices^] are supported.
+    ** We talked about link:https://www.bittorrent.com[Bittorrent^] parser and ways in which it could be built.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his article about link:https://newsletter.oberai.dev/issues/how-can-devrel-enable-engineering-1270727[DevRel and engineering^].
+    ** He also shared that he will discuss about serverless tech on a talk.
+    ** We discussed some features of link:https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui[.NET MAUI^] and some improvements over link:https://dotnet.microsoft.com/en-us/apps/xamarin[Xamarin^].
+* We talked about a link:https://reactnative.dev[React native^] library which allows updates through the app without requiring app store.
+    ** link:https://flutter.dev[Flutter^] had a similar feature but it was dropped since it was difficult to maintain.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his dilemma of applying to companies off campus. In this case, one might not be able to gauge the work culture and if they like it there.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested applying for internships or working on contractual basis. Starting part time and then converting it into a full time opportunity can help in gauging the work culture.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about visa issues for Canada where they were not receiving their visas, but their parents recieved it.
+* We talked about the learning cure of a developer in a company and how can one recognize where the curve gets flat.
+    ** When things start getting repetitive and redundant, that's when the learning curve gets flat.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased the MVP of his project for sharing music links for all platforms through one link.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested checking link:https://www.shazam.com[Shazam^] since it provides a similar service.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about how a mock design helps in clearly visualising a project and also helps with efficiency.
+* We talked about how Tornado cash leads tp money laundering.
+    ** VLC media player is now banned in India.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about the differences in Indian OTT plans which can be purchased using VPN and used in other countries with similar content offerings at an ostensibly cheaper rate.
+    ** India is banning services without proper justification which is inconvinient for many people.
+    ** We discussed the link:https://en.wikipedia.org/wiki/Purchasing_power_parity[Purchase Power Parity^] and how it affects the costs for OTT service plans.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested link:https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP[Namaste JS^] as a good source for understanding JS fundamentals.
+    ** He also shared link:https://www.youtube.com/c/ArpitBhayani[Arpit Bhayani's] channel for learning different things.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about his process of choosing a topic for his link:https://newsletter.oberai.dev[newsletter^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about Dev advocacy and how it affects taking decisions.
+* We talked about internships and how one can get them.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] - Innovation gets hurt when recession
