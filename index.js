@@ -45,7 +45,7 @@ app.get("/summaries", (req, res) => {
 
 app.get("/summary/:catchupNumber", (req, res) => {
 	let catchupNumber = req.params.catchupNumber.toLowerCase();
-	if (catchupNumber == "latest" || catchupNumber == "random") {
+	if (catchupNumber === "latest" || catchupNumber === "random") {
 		let sortedCatchupNumbers = fs
 			.readdirSync(__dirname + `/public/html/summary`)
 			.map((file) => parseInt(file.replace(/\.html/, "")))
@@ -53,8 +53,8 @@ app.get("/summary/:catchupNumber", (req, res) => {
 			.sort((a, b) => b - a);
 
 		let index = -1;
-		if (catchupNumber == "latest") index = 0;
-		else if (catchupNumber == "random")
+		if (catchupNumber === "latest") index = 0;
+		else if (catchupNumber === "random")
 			index = Math.floor(Math.random() * sortedCatchupNumbers.length);
 		res.redirect(`/summary/${sortedCatchupNumbers[index]}`);
 		return;
@@ -66,7 +66,7 @@ app.get("/summary/:catchupNumber", (req, res) => {
 	const path =
 		__dirname + `/public/html/summary/${normalizedCatchupNumber}.html`;
 	if (fs.existsSync(path)) {
-		if (catchupNumber != parsedCatchupNumber)
+		if (catchupNumber !== parsedCatchupNumber)
 			res.redirect(`/summary/${parsedCatchupNumber}`);
 		else res.sendFile(path);
 	} else res.status(404).sendFile(__dirname + "/public/html/404.html");
