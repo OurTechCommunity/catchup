@@ -1,0 +1,64 @@
+Date: 13-08-2022
+
+Duration: 7 hrs 20 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared that he is a part of link:https://summerofcode.withgoogle.com[Google Summer of Code (GSoC)^] 2022.
+    ** He talked about his task of adding link:https://docs.microsoft.com/en-us/system-center/vmm/overview?view=sc-vmm-2022[VMM (Virtual Machine Manager)^] support for link:https://www.techtarget.com/whatis/definition/ARM-processor#:~:text=Arm%20processors%20are%20used%20extensively,and%20internet%20of%20things%20devices.[ARM devices^] since currently link:https://www.techopedia.com/definition/20084/x86#:~:text=X86%20is%20the%20term%20used,and%2032%2Dbit%20instruction%20sets.[x86 based devices^] are supported.
+* We talked about link:https://www.bittorrent.com[BitTorrent^] parser and ways in which it could be built.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his article link:https://newsletter.oberai.dev/issues/how-can-devrel-enable-engineering-1270727[How Can DevRel Enable Engineering?^].
+    ** He also shared that he will discuss about serverless tech in a talk. (link:https://meetu.ps/e/LmmLH/KZbQk/i[Event link^])
+    ** We discussed some features of link:https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui[.NET MAUI^], the successor of link:https://dotnet.microsoft.com/en-us/apps/xamarin[Xamarin^].
+* We talked about link:https://expo.dev[Expo^], a link:https://reactnative.dev[React Native^] library which allows updates to apps using it without requiring app stores.
+    ** link:https://flutter.dev[Flutter^] had a similar feature, but it was dropped since it was difficult to maintain. (link:https://github.com/flutter/flutter/issues/14330#issuecomment-485565194[GitHub issue^])
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his dilemma of applying to companies off campus. In this case, one might not be able to gauge the work culture and if they will like working there.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested applying for internships or working on a contractual basis. Starting part time and then converting it into a full time opportunity can help in gauging the work culture.
+* We talked about the learning curve of a Developer in a company and how can one recognize where the curve gets flat.
+    ** When things start getting repetitive and redundant, that's when the learning curve gets flat.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about how a mock design helps in clearly visualising a project and also increases efficiency.
+* link:https://twitter.com/heyayushh[Ayush Chauhan^] talked about how Tornado Cash was used for money laundering.
+    ** link:https://www.cnbc.com/2022/08/08/crypto-mixing-service-tornado-cash-blacklisted-by-treasury-department-.html[Crypto mixing service Tornado Cash blacklisted by Treasury Department for alleged use in laundering^]
+    ** link:https://www.coindesk.com/layer2/2022/08/16/the-downside-of-sanctioning-tornado-cash[The Downside of Sanctioning Tornado Cash^]
+    ** Just like Tornado Cash cannot be taken off the internet, link:https://melmagazine.com/en-us/story/after-15-years-the-pirate-bay-still-cant-be-killed[The Pirate Bay cannot be removed as well^].
+* link:https://www.indiatoday.in/technology/news/story/why-has-government-banned-vlc-media-player-in-india-1988708-2022-08-16[VLC Media Player is now banned in India.^]
+    ** India is banning services without proper justification which is inconvenient for many people.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about the differences in Indian OTT plans which can be purchased using VPN and used in other countries with similar content offerings at an ostensibly cheaper rate.
+    ** We discussed the link:https://en.wikipedia.org/wiki/Purchasing_power_parity[Purchase Power Parity^] and how it affects the prices of OTT service plans and online courses.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested link:https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP[Namaste JavaScript^] as a good resource for understanding JavaScript fundamentals.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared link:https://www.youtube.com/c/ArpitBhayani[Arpit Bhayani's] channel for learning about back end technologies.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] mentioned other YouTubers such as link:https://www.youtube.com/c/HusseinNasser-software-engineering[Hussein Nasser^] and link:https://www.youtube.com/c/GauravSensei[Gaurav Sen^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about Dev Advocacy and how it affects taking decisions.
+* We talked about internships and how one can get them.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked whether jobs that involve a lot of innovation (like research positions) face massive layoffs before/during an economic recession.
+    ** It depends on the industry, company and how integral research is for the company.
+        *** A company whose core is research, will not let go of its core research department.
+    ** It also depends on the profitability of the company, the number of employees it has, its expenditure, funding, etc.
+    ** Thus, it is extremely important to do one's due diligence before joining or applying to a company.
+* How does one research about a company?
+    ** Go through the company's site to see what they do. Read blogs and articles to get a deeper understanding.
+    ** Go through employee reviews on sites like link:https://www.glassdoor.com[Glassdoor^], link:https://www.teamblind.com/company[Blind^], etc.
+    ** Talk to ex-employees.
+    ** Ask the interviewer questions.
+    ** Get a legal overview of the offer letter and one should themselves read it thoroughly as well.
+    ** Look into the profitability, funding and link:https://www.thebalancesmb.com/what-does-burn-rate-mean-and-how-is-it-calculated-393196[Burn Rate^] of the company.
+    ** One has to be as informed as possible, because a complete assurance is not possible. It is a leap of faith to join a company, so one can only control what is in their hands, that is to be as informed as possible.
+* How should choose between a MNC corporate job vs a job at a startup?
+    ** This is a debate between risk and growth.
+    ** It mainly depends on one's risk-taking capacity.
+    ** It is easier to experiment without repercussions at an earlier stage in one's career and coming from a privileged background also helps.
+    ** Ideally one should look to maximize growth at earlier stages in their career.
+* How can one figure out whether they will grow at an organisation?
+    ** Check whether their product and audience is growing.
+    ** Joining in at a point at which the company or product is pivoting to a new direction is good, as a lot of changes take place, which teaches one a lot.
+    ** It is good if a company or product has started to scale up, because scaling up bring its own interesting problems.
+    ** Although it is good if the company has a lot of problems to solve as that implies a lot of growth, but the company's stability has to be taken into account as well to ensure a certain level of job security. So, a balance between problems and company stability also has to be looked at.
+        *** This balance can be tipped on either side depending on one's risk-taking capacity, career stage and monetary background.
+* link:https://twitter.com/heyayushh[Ayush Chauhan^] talked about link:https://superteam.fun[Superteam DAO^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared a Tweet thread link:https://twitter.com/RydMike/status/1558136402705088514[How do I add Material 3 custom colors and harmonize them in Flutter?^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased the MVP of _MusiShare_, his Jetpack Compose Android app to solve the problem of sharing music between multiple music streaming platforms.
+    ** From the link of a song from a particular music-streaming service, the app can open the same song on another music-streaming service installed on the user's phone.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested checking link:https://www.shazam.com[Shazam^] since it provides a similar service.
