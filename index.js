@@ -46,6 +46,7 @@ app.get("/summaries", (req, res) => {
 app.get("/summary/:catchupNumber", (req, res) => {
 	let catchupNumber = req.params.catchupNumber.toLowerCase();
 	if (catchupNumber === "latest" || catchupNumber === "random") {
+		// get summary numbers in descending order
 		let sortedCatchupNumbers = fs
 			.readdirSync(__dirname + `/public/html/summary`)
 			.map((file) => parseInt(file.replace(/\.html/, "")))
@@ -66,6 +67,7 @@ app.get("/summary/:catchupNumber", (req, res) => {
 	const path =
 		__dirname + `/public/html/summary/${normalizedCatchupNumber}.html`;
 	if (fs.existsSync(path)) {
+		// if entered path is not canonical, redirect to the canonical path
 		if (catchupNumber !== parsedCatchupNumber)
 			res.redirect(`/summary/${parsedCatchupNumber}`);
 		else res.sendFile(path);
