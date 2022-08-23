@@ -11,6 +11,7 @@ v1
 :nofooter:
 :catchup_number:			000
 :catchup_display_number:	0
+:catchup_image_extension:	jpg
 :combined_summary_file:		combined-summary-template.adoc
 
 '''
