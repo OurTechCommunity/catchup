@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 set -eu;
 
@@ -39,7 +39,7 @@ done;
 for path in ${BUILD_SUMMARY_DIRS}; do
 	if [ -d "${path}" ]; then
 		catchup_number=${path##*/};
-		printf -v "catchup_display_number" "%.0f" "${catchup_number}";
+		catchup_display_number=$(printf "%.0f" "${catchup_number}");
 
 		# Add to combined summary page
 		# if summary/sessions/${catchup_number}/combined-summary.adoc exists,
@@ -74,4 +74,5 @@ asciidoctor \
 # Lazy load images
 sed -i -e 's/<img/<img loading="lazy"/g' "${public_dir}/html/summary/combined-summary.html";
 
-echo -e "Summary pages build complete!\n";
+echo "Summary pages build complete!";
+echo;
