@@ -1,0 +1,44 @@
+Date: 11-06-2022
+
+Duration: 6 hrs 36 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] talked about masters as a requirement for higher roles.
+    **  He also talked about his reasons for considering masters as an option.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] showcased his article about link:https://dev.to/adityaoberai/rick-roll-your-friends-using-appwrite-twilio-and-net-4180["Rick Rolling"^] people using link:https://appwrite.io[Appwrite^], link:https://www.twilio.com[Twilio^] and link:https://dotnet.microsoft.com/en-us[DotNet^].
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about link:https://scratch.mit.edu[MIT Scratch^] and how forking in link:https://github.com[GitHub^] works similar to the remix feature in Scratch which allows other users to make modifications to an existing project for their needs. link:https://www.microsoft.com/en-us/makecode[MakeCode^] is a similar platform for coding using visual puzzles.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about link:https://dev.to/devteam/congrats-to-the-appwrite-hackathon-winners-4dk9[Appwrite's hackathon^] and multiple projects that the candidates had showcased.
+* We talked about improving portfolio websites by using bullet points and highlighting important things for a visitor to easily navigate their way through the portfolio.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about the upcoming link:https://appwrite.io/cloud[Appwrite Cloud^] which is currently under testing, and its potential market while comparing it with link:https://firebase.google.com[Firebase^].
+    ** He also talked about methods used for load testing Appwrite servers using tools like link:https://k6.io[k6^]. He also shared an article about Appwrite servers titled link:https://itnext.io/websocket-1-million-connections-using-appwrite-2d2a2c363a37["Websocket 1 million connections"^].
+    ** link:https://dev.to/appwrite/take-your-serverless-functions-to-new-speeds-with-appwrite-013-5868[Appwrite's serverless functions^]
+    ** link:https://www.youtube.com/watch?v=QjvyiyH4rr0[Hotstar server scaling^]
+        *** We talked about certain tools like OBS for recording and streaming.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked about resources for getting well acquainted with graphics oriented applications.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] sugested to try link:https://skia.org[skia^], a 2D graphics library which also serves as a graphics engine for multiple Chrome products.
+    ** link:https://www.youtube.com/watch?v=e818LgnJ9rI[LSF CodeMiko^] showcases how a graphic model is brought to life.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed the issues that he was facing while setting up link:https://www.cloudflare.com[Cloudflare^] server for meetup website.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested rechecking link:https://www.cloudflare.com[Cloudflare^] configuration with GitHub IPs.
+    ** We talked about various features like tracking that are provided by link:https://www.cloudflare.com[Cloudflare^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about what is edge computing. 
+    ** Edge is a term given to the nearest location of a server from a client.
+    ** Therefore edge computing brings computation and data storage services closer to the sources of data to improve response times and save bandwidth. Edge computing allows computing near client.
+        *** Cloudflare recently introduced link:https://blog.cloudflare.com/tag/edge-database[Edge Database^]. link:https://www.cloudflare.com/products/r2[Cloudflare R2^] is an option for distributed storage.
+* We talked about the ethical line that one needs to take care of, before publishing an article over internet to avoid getting into trouble. 
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked differences between contract based jobs and full time jobs.
+* We talked about internships and why one should consider applying for all the opprtunities.
+* We also talked about imposter syndrome and different ways to deal with it.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^], link:https://twitter.com/guyinthecape[Vatsal Patel^] and Saurabh talked about various ways to deal with imposter syndrome such as seeking help to someone and looking for things that could be solved by themselves.
+    ** We discussed different ways that might help someone to deal with imposter syndrome.
+        *** link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared a link for a mental health startup called link:https://raahee.in[Rahee^].
+* Saurabh explained the ways to implement XState (JavaScript State Machines and Statecharts) in a project.
+* We discussed various problems that might be encountered while using link:https://www.electronjs.org[Electron^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased his link:https://siruscodes.github.io/portfolio[Portfolio^] that he created using HTML, CSS and JS.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] showcased his link:https://www.oberai.dev[Portfolio Website^] that he created using HTML, CSS, JS, link:https://www.emailjs.com[Email Js^] and link:https://expressjs.com[Express^].
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased link:https://welding-torch.github.io/terminalweb[Terminal on Web^], a project that he forked from GitHub to learn its working.
+    ** The project is built using HTML, CSS and JS.
+    ** link:https://github.com/woooferz/terminalweb[Project GitHub Repository]

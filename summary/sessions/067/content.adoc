@@ -1,0 +1,49 @@
+Date: 19-02-2022
+
+Duration: 8 hrs 6 mins
+
+==== Topics Discussed
+
+We are really sorry for the delay.
+
+* General introductions.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared link:https://sre.google/books[site reliability engineering books by Google^].
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] Hack 
+* We discussed how link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]'s project idea can be licensed out as a SaaS.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared a link to link:http://www.milliondollarhomepage.com[The Million Dollar ^Homepage^].
+* We discussed about NFTs.
+* [Siddharth] shared his AR project idea in which he aims to convert the tall glass buildings for example Times Square, in New York to NFT Art museums.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] discussed about C/C++ language.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared a project he was working on: A to-do app with a 3d animated robot that is happy when you complete a task.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] discussed how he ended up getting internships and 2 jobs.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared with everyone how he got in contact with AMD and his journey in technology.
+* link:https://twitter.com/Aaditya__Speaks[Aaditya Chinchkhedkar^] asked for help on a link:https://en.wikipedia.org/wiki/BIOS[BIOS^] issue he was facing.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told everyone about how audio is usually the more difficult engineering issue when working with livestreams.
+    ** link:https://en.wikipedia.org/wiki/SILK[SILK^] as an audio compression library used by link:https://www.skype.com[Skype^].
+    ** link:https://docs.oracle.com/cd/E95618_01/html/sbc_scz810_acliconfiguration/GUID-8BE7A549-B7AF-4CEB-92E4-9870CC680E41.htm#GUID-8BE7A549-B7AF-4CEB-92E4-9870CC680E41[SILK Codec Transcoding Support^]
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his article - link:https://adityaoberai.medium.com/what-is-devrel-a09dc6545370[What Is DevRel?^].
+* Someone shared a video - link:https://www.youtube.com/watch?v=minxwFqinpw[We ACTUALLY downloaded more RAM^] by link:https://www.youtube.com/user/linustechtips[Linus Tech Tips^].
+* A lot of tips and discussions happened on getting through offline college. link:https://twitter.com/skxrxn[Sreekaran Srinath^] told everyone how he slept through most of his college.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and [Saurabh] shared how they've been writing their own component libraries and basically replacing all frameworks and libraries by ones they've been writing on their own and opensourcing them.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked everyone how link:https://en.wikipedia.org/wiki/Webhook[Webhooks^] and how they work internally.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked a few doubts about link:https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events[Server Sent Events^], how they work and about how it really works.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] explained the link:https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern[Pub-Sub - Publisher Subscriber architecture^].
+* We compared link:https://en.wikipedia.org/wiki/Xbox_Cloud_Gaming[xCloud^] and link:https://en.wikipedia.org/wiki/Google_Stadia[Stadia^] which are two functional cloud gaming services that offer different types of experiences.
+* Everyone collectively hated on RGB lit keyboards and other computer accessories.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared a video - link:https://www.youtube.com/watch?v=jOcFSlniGrw[GeForce Now RTX 3080 Cloud Review vs xCloud/Stadia - The Best Streaming Solution?^].
+* We talked about link:https://www.amd.com/en/products/ryzen-threadripper[AMD Ryzen™ Threadripper™ Processors^].
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about him moving to the United States.
+* A lot of things about gaming were discussed.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] had an intriguing conversation about DevRel.
+* We talked about Warefare games.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^]'s link:https://www.youtube.com/watch?v=npCNGqMg2kE[rap battle at Hackerrank^] was showcased.
+* We talked about ed-tech startups, Coding Blocks Mafia and how it gave rise to a number of strong players in the ed tech startup world.
+* We talked about the infamous link:https://bitcoinpizzaindex.net[bitcoin pizza^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his experience at Microsoft's link:https://imaginecup.microsoft.com[Imagine Cup^].
+* More discussuins about gaming and various games followed.
+* We once again took on the topic of DevRels and Sales.
+* We talked about link:https://developerexperience.io/practices/good-developer-experience[Developer Experience (DX)^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/SirusTweets[Darshan Rander^] showcased their presented their project idea - SocialHub which is a social media engagement aggregator for influencers/companies.

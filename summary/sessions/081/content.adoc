@@ -1,0 +1,50 @@
+Date: 28-05-2022
+
+Duration: 4 hrs 10 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about his experience of attending a meetup about web3 and metaverse event that happened on wednesday.
+* We talked talked about link:https://docs.microsoft.com/en-us/windows/wsl/about[WSL^] and how it has developed over time. 
+	** We also talked about its use case as a Linux subsystem and also for developing workflows by containerizing an application to an environment using docker.
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] talked about why one should not keep the makefile inside any folder other than the root folder.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about his experience at link:https://hackthisfall.tech/events[HackThisFall^] which happened in Delhi.
+	** He also talked about an link:https://dev.to/appwrite/auth0-authentication-with-appwrite-7hk[Auth0 adapter^] that he built at link:https://appwrite.io[AppWrite^].
+* We talked about productivity tools like link:https://clickup.com[clickup docs^] and link:https://www.notion.so[Notion^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about his contribution to tensorflow for link:https://tfhub.dev/rishit-dagli/collections/xcit/1[XCIT models^], downstream tasks, and other models on link:https://tfhub.dev[TensorFlowHub^].
+    ** He also talked about the evolution of link:https://tfhub.dev[TFHub^] from a single repo.
+    ** We talked about how Google link:https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab[banned the training of Deepfake models in colab^].
+* We talked about the link:http://manpages.ubuntu.com/manpages/impish/man1/Xserver.1.html[x11 server^], xwindows on linux and how it mangages multiple screens and inputs even over long distances where the output screen coould be accessed over an internet connection.
+	** We also discussed some shortcomings in linux suggesting how link:https://www.realvnc.com/en/connect/download/viewer/[VNC^] might be a better choice.
+			*** link:https://web.mit.edu/~simsong/www/ugh.pdf[MIT UNIX handbook^].
+    ** We talked about the current competition in computer OS and different distributions available for linux.
+	    *** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] suggested why link:https://linuxmint.com[Linux Mint^] might be the most popular distribution for linux due to its similarities with windows and easy to grasp UI.
+* link:https://www.linkedin.com/in/pijamo-ngullie-9a5971b5[Pijamo Ngullie^] talked about the current comic book market in India and ideated the implementation of blockchain for printing each copy of a comic book.
+	** The cost of printing a book in India has reduced considerably, hence printing books locally would be cheaper than importing books like comics from other countries with royalties.
+* We talked about what is torrent and how it works by creating multiple peers for a single torrent.
+	** We also talked about CD and digital copies games for major gaming consoles currently available in the market.
+* We discussed the differences between link:https://kotlinlang.org[Kotlin^], link:https://www.java.com[Java^] and link:https://developer.android.com/jetpack/compose[Jetpack Compose^]. Removal of XML in link:https://developer.android.com/jetpack/compose[Jetpack Compose^] for app builds, speeds up the process.
+* link:https://www.linkedin.com/in/pijamo-ngullie-9a5971b5[Pijamo Ngullie^] shared resources for link:https://artificial-intelligence-class.org/modules.html#now[learning Artificial Intelligence^]. 
+* link:https://twitter.com/SirusTweets[Darshan Rander^] asked for sources that would help him automate whatsapp messages, so Krishna shared link for link:https://www.gupshup.io[gupshup]. 
+* link:https://www.linkedin.com/in/pijamo-ngullie-9a5971b5[Pijamo Ngullie^] talked about link:https://www.docker.com[Docker^] link:https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about[hyper-v^] issue, without which link:https://developer.android.com/studio[android studio^] is seemingly unbearable. 
+	** link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] asked how link:https://flutter.dev[Flutter^] is different from other platforms.
+		*** link:https://twitter.com/SirusTweets[Darshan Rander^] talked about benefits of using link:https://flutter.dev[Flutter^] for cross platform applications.
+	** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] talked about his experience of handling Null safety issues in link:https://www.java.com[java^] and link:https://kotlinlang.org[Kotlin^].
+	** link:https://reactnative.dev[React native^] comes out as a good option for cross platform applications.
+		*** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] talked about why native is preferred for bigger corporates.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his idea for a cross platform music link communication app.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased his presentations that he created for a hackathon.
+	** link:https://www.linkedin.com/in/pijamo-ngullie-9a5971b5[Pijamo Ngullie^] talked about an idea for real estate, similar to link:https://www.magicbricks.com[magicbricks^] but based on weather conditions for the American market.
+* We talked about Elon Musk's plans to open link:https://twitter.com[Twitter's^] algorithm publicly if he proceeds with his deal.
+	** Most of the public treats link:https://twitter.com[Twitter^] as defacto source of factual truth and also as a free speech platform.
+	** We also talked about new link:https://www.ndtv.com/india-news/comply-with-rules-or-leave-india-government-to-vpn-service-providers-2989218[gorvernment rules for VPN^].
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his updates about link:link:https://jadenfurtado.github.io/Blossom[Blossom^] now working as a PWA.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] asked link:https://twitter.com/furtado_jaden[Jaden Furtado^] about his methods to look for vulnerabilities.
+	** link:https://twitter.com/furtado_jaden[Jaden Furtado^] talked about his journey of getting into cyber security and cues that he takes from website attributes to use tools for finding vulnerabilities.
+* We talked about Wifi 6E, 5G (mm waves), and bluetooth interference with 2.4Ghz Wifi band.
+
+==== Projects Showcased
+
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] showcased updates to _Dekho_, an on-demand video streaming web app.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] showcased his project to easily handle submissions for a hackathon, instead of availing paid services.
+	** link:https://github.com/adityaoberai/hackathon-submissions-platform-template[Hackathon Submissions Platform Template^]

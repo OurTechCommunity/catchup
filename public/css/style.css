@@ -80,6 +80,9 @@ a {
 
 #cta-wrapper {
 	margin: 10em 0 5em 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
 }
 
 #cta-wrapper a:hover,
@@ -164,6 +167,16 @@ button {
 	}
 }
 
+#showcase-form {
+  background-color: #f6f6f6;
+  border-radius: 5px;
+  color: #e0e0e0;
+  width: 50vw;
+  min-height: 2600px;
+  margin: 0;
+  border: none;
+}
+  
 @media screen and (max-width: 460px) {
 	h1 {
 		font-size: 60px;
@@ -176,6 +189,12 @@ button {
 
 	input {
 		padding: 0.2em 0.4em;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+	#showcase-form {
+		width: 85vw;
 	}
 }
 
@@ -224,4 +243,19 @@ button {
 
 .hide-burger-menu {
 	display: none;
+}
+
+/* ======================================================== SCROLLBAR ================================================== */
+
+body::-webkit-scrollbar {
+	width: 0.7em;
+}
+
+body::-webkit-scrollbar-track {
+	background-color: #212121;
+}
+
+body::-webkit-scrollbar-thumb {
+	background-color: #616161;
+	border-radius: 2px;
 }

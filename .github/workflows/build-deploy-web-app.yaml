@@ -8,6 +8,7 @@ on:
             - "public/**"
             - "summary/**"
             - "util/build.sh"
+            - ".detaignore"
             - "index.js"
             - "package-lock.json"
             - "package.json"
@@ -16,7 +17,6 @@ on:
         branches:
             - main
         paths:
-            - ".github/workflows/build-deploy-web-app.yaml"
             - "public/**"
             - "summary/**"
             - "util/build.sh"
@@ -35,13 +35,8 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Build Asciidoctor site
-              run: |
-                  chmod +x util/build.sh
-                  ./util/build.sh
-
-            - name: Remove unnecessary files
-              run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
+            - name: Build summary pages using Asciidoctor Jet
+              run: ./util/build.sh
 
     build-and-deploy:
         if: startsWith(github.ref, 'refs/heads/')
@@ -51,16 +46,11 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
 
-            - name: Build Asciidoctor site
-              run: |
-                  chmod +x util/build.sh
-                  ./util/build.sh
-
-            - name: Remove unnecessary files
-              run: rm -rf .github summary util .gitignore .prettierrc CONTRIBUTING.md LICENSE README.md sample.env
+            - name: Build summary pages using Asciidoctor Jet
+              run: ./util/build.sh
 
             - name: Deploy to Deta
-              uses: BogDAAAMN/deta-deploy-action@v1.0.1
+              uses: HarshKapadia2/deta-deploy@v1.0.2
               with:
                   deta-access-token: ${{ secrets.DETA_TOKEN }}
                   deta-name: catchup

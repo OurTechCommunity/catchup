@@ -1,0 +1,56 @@
+Date: 23-07-2022
+
+Duration: 4 hrs 49 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] shared that he is currently working at a startup which aims to make handling packages and using link:https://kubernetes.io[Kubernetes^] easier. The company is working on running Kubernetes and its supplemental processes on the edge (Similar to link:https://en.wikipedia.org/wiki/Edge_computing[Edge Computing^]) to cut Cloud costs and make the overall service cheaper for the end consumer.
+    ** The product has an easy to use UI and the whole service is a custom solution which doesn't use other services like link:https://kubeedge.io/en[KubeEdge^].
+    ** He also shared his experience of interviewing the Head of Open Source at his startup.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared a link for a similar project called link:https://github.com/kubeedge/sedna[Sedna^] which uses Edge-Cloud Computing.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] talked about a vulnerability that he recently found in a famous third-party ticketing service that ironically was being used by the web site of a Cyber Security conference that he wanted to attend.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested link:https://twitter.com/furtado_jaden[Jaden Furtado^] to host a talk about his approaches to find vulnerabilities in web apps and fixes or patches for the same.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared some of the common issues with web apps, such as:
+        *** Exposing secret keys, e-mails, passwords or tokens in the source code.
+        *** link:https://www.acunetix.com/vulnerabilities/web/django-debug-mode-enabled[Debug mode^] left turned on for Django applications in production.
+        *** link:https://www.w3schools.com/sql/sql_injection.asp[SQL injection^] vulnerabilities in applications built using link:https://www.php.net[PHP^] and link:https:www.mysql.com[MySQL^].
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://thecyberpatch.com/security-through-obscurity-the-good-the-bad-the-ugly[Security through Obscurity^].
+        *** If an endpoint is publicly accessible, it is vulnerable to attacks since it is not protected by any authentication mechanism. Security is provided only by the fact that one does not know that such an endpoint exists. If they come to know about the endpoint though, it's endgame for the security of the web app and its data.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared his experience of attending link:https://githubfieldday.com[GitHub Field Day (GFD) India^] and link:https://twitter.com/Replit/status/1544690130694332418[Replit meetup^] in Bengaluru.
+    ** GFD was an 'unconference', where the venue was divided into multiple sections which discussed a topic for about 45 minutes.
+    ** The Replit meetup was a discussion engendered by people proficient in their domains.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about link:https://www.youtube.com/watch?v=efPrtcLdcdM&t=16s[GPT-4chan], an AI which is deemed to be politically incorrect.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased sections such as 'Dependency Graph' and 'Network' in the 'Insights' menu of a repository on link:https://github.com[GitHub^] that help in gleaning more information about the project.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared an issue where his domain e-mail was getting flagged by Gmail.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an article on link:https://explained-from-first-principles.com/email/#domain-based-message-authentication-reporting-and-conformance[DMARC (Domain-based Message Authentication Reporting and Conformance)^].
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked about an Operating System that could evolve over time with its users.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about the evolution of Operating Systems (OSs) and computer devices to prove that link:https://www.linux.org[Linux^] started as a desktop OS and not a server.
+    ** Computers started out as analog devices. Machines used to be built for specific needs and were very big in size consuming roughly three rooms worth of space. The user had to be cautious about the program that they wanted to run, since the computers had no memory and used punch cards, which took too much time to reset.
+    ** With too many users and risks of running infinite loops, the need for a scheduler was imminent. This led to the creation of very first scheduler, which was a human who monitored the punch cards. A Scheduler was later incorporated into hardware.
+        *** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about link:https://www.javatpoint.com/os-process-schedulers[OS schedulers^]. Some of the famous job schedulers include link:https://slurm.schedmd.com/overview.html[Slurm-HPC^] and link:https://research.google/pubs/pub43438[Borg-mapreduce^].
+    ** Since computer resources were not handled by default, different programmers wrote their own solutions for the same problems, which led to further additions in OS to handle certain things in programs in a standard way. This is how things kept getting added to reach the core feature-set of the current day OS and hardware.
+    ** Linux therefore started as a desktop OS.
+* link:https://twitter.com/ompragash_v[Ompragash Viswanathan^] talked about his work at RedHat on link:https://www.ansible.com[Ansible^].
+    ** Ansible is an Open Source scripting tool which can be used to provision the underlying infrastructure of an environment. It is a CLI tool similar to Bash.
+    ** It is an link:https://ldapwiki.com/wiki/Idempotent#:~:text=Idempotent%2C%20in%20computer%20science%2C%20the%20term%20is%20used,on%20the%20context%20in%20which%20it%20is%20applied[idempotent^] tool used for automating deployment, provisioning, configuration and management of systems.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] and link:https://twitter.com/ompragash_v[Ompragash Viswanathan^] talked about link:https://www.golinuxcloud.com/pssh-commands-parallel-ssh-linux-examples[PSSH (Parallel Secure Shell)^], which is used to handle clusters of systems.
+* We discussed how some job titles which suggest Engineering roles might turn out to hardly be about core Engineering and newcomers who want to be in core Tech might spend their most productive years putting work into an area other than core Tech through these misleading roles.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an article link:https://newsletter.oberai.dev/issues/should-you-choose-a-career-in-devrel-or-not-1268207[Should You Choose A Career In DevRel Or Not?^] by link:https://twitter.com/adityaoberai1[Aditya Oberai^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared that most processor designs are initially tested out on emulators before creation of sample hardware.
+* We discussed how Virtual Machines run on multiple CPU cores and are routed through the Cloud. link:https://www.whizlabs.com/blog/what-is-cloud-nat[Cloud NAT^] is software-defined NAT managed service which helps in routing through ports.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared how Azure unlike other services does ACL-ing (Access Control List) in network cards, which helps in improving network performance.
+        *** He also shared a video link:https://youtu.be/69PrhWQorEM[Inside Azure Datacenter Architecture with Mark Russinovich^].
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared that he plans to work on link:https://www.stemmer-imaging.com/en/technical-tips/introduction-to-fpga-acceleration[FPGA accelerators^] for his final year BE project.
+* We discussed the role of college in a student's career. A student is not supposed to completely rely on college for knowledge, since they are just supposed to introduce subjects to students.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] and link:https://twitter.com/kaku_jay[Jay Kaku^] shared videos for FFT (Fast Fourier Transform).
+    ** link:https://youtu.be/spUNpyF58BY[A visual introduction to FFT^]
+    ** link:https://youtu.be/h7apO7q16V0[FFT Algorithm^], an efficient recursive algorithm.
+* link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] told us about his work with Cloud infrastructure and that he is currently writing link:https://aws.amazon.com/cdk[AWS CDK^] scripts to create a custom easily-configurable workflows for similar Cloud workloads.
+    ** We also talked about how one could use prior experience and previous traffic data of a web app to predict its network bandwidth cost in the Cloud.
+
+==== Projects Showcased
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased an update to link:https://git-graph.harshkapadia.me[Git Graph^].
+    ** He added a new branch selection feature.
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] showcased his Spotify Clone.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] showcased link:https://saifuddinsaifee.github.io/Portfolio[his portfolio^].

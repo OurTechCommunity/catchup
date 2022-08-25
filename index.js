@@ -44,26 +44,48 @@ app.get("/summaries", (req, res) => {
 });
 
 app.get("/summary/:catchupNumber", (req, res) => {
-	let catchupNumber = req.params.catchupNumber;
-	const originalCatchUpNumber = catchupNumber;
+	let catchupNumber = req.params.catchupNumber.toLowerCase();
+	if (catchupNumber === "latest" || catchupNumber === "random") {
+		// get summary numbers in descending order
+		let sortedCatchupNumbers = fs
+			.readdirSync(__dirname + `/public/html/summary`)
+			.map((file) => parseInt(file.replace(/\.html/, "")))
+			.filter((number) => !Number.isNaN(number))
+			.sort((a, b) => b - a);
 
-	if (isNaN(parseInt(catchupNumber))) {
-		res.status(404).sendFile(__dirname + "/public/html/404.html");
+		let index = -1;
+		if (catchupNumber === "latest") index = 0;
+		else if (catchupNumber === "random")
+			index = Math.floor(Math.random() * sortedCatchupNumbers.length);
+		res.redirect(`/summary/${sortedCatchupNumbers[index]}`);
 		return;
 	}
 
-	if (catchupNumber.length === 1) catchupNumber = "00" + catchupNumber;
-	if (catchupNumber.length === 2) catchupNumber = "0" + catchupNumber;
-	const path = __dirname + `/public/html/summary/${catchupNumber}.html`;
+	let parsedCatchupNumber = parseInt(catchupNumber).toString();
+	let normalizedCatchupNumber = parsedCatchupNumber.padStart(3, "0");
 
+	const path =
+		__dirname + `/public/html/summary/${normalizedCatchupNumber}.html`;
 	if (fs.existsSync(path)) {
-		if (
-			originalCatchUpNumber.length === 1 ||
-			originalCatchUpNumber.length === 2
-		)
-			res.redirect(`/summary/${catchupNumber}`);
+		// if entered path is not canonical, redirect to the canonical path
+		if (catchupNumber !== parsedCatchupNumber)
+			res.redirect(`/summary/${parsedCatchupNumber}`);
 		else res.sendFile(path);
 	} else res.status(404).sendFile(__dirname + "/public/html/404.html");
+});
+
+app.get("/showcase", (req, res) => {
+	res.sendFile(__dirname + "/public/html/project-showcase-form.html");
+});
+
+app.get("/cfp", (req, res) => {
+	res.sendFile(__dirname + "/public/html/talks-cfp.html");
+});
+
+app.get("/ideas", (req, res) => {
+	res.redirect(
+		"https://docs.google.com/document/d/1K67G2_0w3-MEOcrakJrvStwHDz4zhlSliycHDa5oTGk/edit?usp=sharing"
+	);
 });
 
 function auth(req, res) {

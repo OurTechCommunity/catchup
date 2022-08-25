@@ -30,6 +30,8 @@
 			content="https://catchup.ourtech.community/public/img/home.png"
 		/>
 
+		<link rel="prefetch" href="/summary" />
+
 		<script defer src="public/js/script.js"></script>
 
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -61,14 +63,31 @@
 
 				<ul class="navbar-ul hide-burger-menu burger-menu-dropdown">
 					<li><a href="/">Home</a></li>
-					<li><a href="/attend">Join CatchUp meet</a></li>
+					<li><a href="/attend">Join CatchUp Meet</a></li>
 					<li><a href="/summary">CatchUp Summaries</a></li>
+					<li>
+						<a href="/showcase">Project Showcase Form</a>
+					</li>
+					<li>
+						<a href="/cfp">Talks CFP</a>
+					</li>
+					<li>
+						<a href="/ideas">Suggest Discussion Topics</a>
+					</li>
 					<li>
 						<a
 							href="https://t.me/OurTechComm"
 							target="_blank"
 							rel="noreferrer"
 							>Join us on Telegram</a
+						>
+					</li>
+					<li>
+						<a
+							href="https://ourtech.community/two-years"
+							target="_blank"
+							rel="noreferrer"
+							>Two Years of OTC</a
 						>
 					</li>
 					<li>
@@ -103,20 +122,33 @@
 		<h2>Informal Tech discussions every Saturday from 10:30 PM IST</h2>
 
 		<div class="error-msg hidden">
-			NOTE: OTC CatchUp is not in session right now. Please come back on
-			Saturday (10:30 PM IST onwards), we would love to have you! Feel
-			free to <a href="summary">read our session summaries</a> till then.
+			<p>NOTE: OTC CatchUp is not in session right now.</p>
+			<p>
+				Please come back on Saturday (10:30 PM IST onwards), we would
+				love to have you!
+			</p>
+			<p>
+				Till then, feel free to read the
+				<a href="/summary/latest">latest summary</a> or
+				<a href="/summary">all session summaries</a>.
+			</p>
 		</div>
 
 		<div id="cta-wrapper">
-			<a id="white-bg-cta" href="attend">Join the CatchUp meet</a>
-
-			<a class="black-bg-cta" href="summary">CatchUp Summaries</a>
+			<a id="white-bg-cta" href="/attend">Join the CatchUp Meet</a>
+			<a class="black-bg-cta" href="/summary/latest">
+				Read Latest Summary
+			</a>
+			<a class="black-bg-cta" href="/summary">Read All Summaries</a>
+			<a class="black-bg-cta" href="/showcase">Showcase a Project</a>
+			<a class="black-bg-cta" href="/cfp">Give a Talk</a>
 		</div>
 
 		<footer>
 			OTC CatchUp sessions by
-			<a href="https://ourtech.community">Our Tech Community</a>.
+			<a href="https://ourtech.community" target="_blank" rel="noreferrer"
+				>Our Tech Community</a
+			>.
 		</footer>
 	</body>
 </html>

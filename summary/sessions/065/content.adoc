@@ -1,0 +1,70 @@
+Date: 05-02-2022
+
+Duration: 6 hrs
+
+==== Topics Discussed
+
+* General introductions.
+* During the project showcase section link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] rightly mentioned that we should play Lego with software, but we should also understand how the pieces are shaped and what they are made of. Getting into the 'What', 'Why' and 'When' of these libraries and tools is important to grow as an Engineer and build better and more efficient software.
+* Bloated software
+	** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about how bloated web sites today are.
+		*** link:https://motherfuckingwebsite.com[motherfuckingwebsite.com^]
+		*** link:http://bettermotherfuckingwebsite.com[bettermotherfuckingwebsite.com^]
+		*** link:https://thebestmotherfucking.website[thebestmotherfucking.website^]
+	** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told us about _.kkrieger_, a FPS game in just **96kb**. This is how optimized software can get if one has knowledge and experience. Another reason for exploring the internals of software and hardware.
+		*** link:https://www.youtube.com/watch?v=2NBG-sKFaB0[_.kkrieger_ Gampeplay^]
+		*** link:https://www.youtube.com/watch?v=bD1wWY1YD-M[Making an Impossible FPS^]
+		*** link:https://en.wikipedia.org/wiki/.kkrieger[Wikipedia^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://www.youtube.com/watch?v=N8goWkeBu1w[ULTRARAM^] as an addition to last CatchUp's talk on link:https://www.hp.com/us-en/shop/tech-takes/what-is-dram-dynamic-random-access-memory[DRAMs^] and link:https://www.minitool.com/lib/sram-memory.html[SRAMs^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told us how certain research papers try really hard to come up with catchy names and marketing tactics. He also asked us to question whether those things will be required by the time they have been tested for scale and become mainstream.
+* We talked about being a Generalist versus a Specialist and link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told us that once someone has been in the industry for decades they become a link:https://jchyip.medium.com/why-t-shaped-people-e8706198e437[T-shaped person^] due to their exposure to different things.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared an article link:https://www.awelm.com/posts/simd-web-assembly-experiment[Exploring SIMD performance improvements in WebAssembly^].
+* We talked about the link:https://i2c.info[I^2^C^] and link:https://en.wikipedia.org/wiki/I3C_(bus)[I3C^] protocols.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] told us how he was using link:https://github.com/tiny-pilot/tinypilot[TinyPilot^] to link:https://www.redhat.com/en/topics/virtualization/what-is-KVM[KVM^] into machines to remotely run benchmarks and debug systems.
+	** He also told us a story of how someone complained of a system overheating and the problem turned out to not be software related, but was due to the stickers that they had used to cover the vents. 🤦
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] helped us compare AMD and Intel processors once again. We talked about AMD client processors such as link:https://www.amd.com/en/processors/ryzen[Ryzen^] and link:https://www.amd.com/en/products/ryzen-threadripper[Threadripper^] and AMD server boards such as link:https://www.amd.com/en/products/epyc[EPYC^].
+	** link:https://www.pcguide.com/news/linus-torvalds-adopts-amd-threadripper-3970x-for-his-personal-machine[Linus Torvalds adopted the AMD Threadripper 3970x for his personal machine^] and link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared link:https://www.youtube.com/watch?v=Kua9cY8q_EI[Linus building Lunis' new PC^].
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] also helped us compare AMD, Nvidia and Intel's graphics cards.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] made us understand why chips manufactured by link:https://tsmc.com[TSMC^] and Samsung are different. Some of the reasons were that the manufacturing processes are different, raw material quality differs, the technology used by the two differs, etc.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] told us how aware the Marketing department of a company has to be.
+	** If a competitor company is facing supply-chain issues for one/some of their products, then the original company has to aggressively market equivalent products to gain on the shortage of products of the competitor company.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] and link:https://twitter.com/guyinthecape[Vatsal Patel^] told us stories of how Microsoft and Apple respectively were very generous in providing replacements when their products got damaged.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] told everyone that `npm` is **not** an acronym for 'Node Package Manager' and that it should not be written in upper case, as mentioned in link:https://github.com/npm/cli#faq-on-branding[npm's FAQ on branding^].
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] at link:https://www.hackerrank.com[HackerRank^]
+	** Ishan shared his blog on his link:https://blog.ishandeveloper.com/hackerrank[Summer Internship Experience '21^] at HackerRank.
+	** He also talked about his current SDE II Intern role at HackerRank and how he is managing five interns and reviewing their code.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] told us about a mistake he recently made in production when he got locked out of a Database because he forgot its password. He also walked through the data recovery process.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] also shared link:https://design.ishandeveloper.com[design.ishandeveloper.com] where he posts case studies on his product designs.
+* We compared Apple and Android ecosystems and discussed vendor lock-ins and which ecosystem is more distracting.
+* link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^] course was talked about.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] explained link:https://www.hostinger.com/tutorials/cron-job[Cron jobs^] and link:https://crontab.guru[Cron syntax^].
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] shared link:https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed[14 Patterns to Ace Any Coding Interview Question^].
+* There was a discussion on whether coding should compulsorily be taught to children and if so, when should it be taught. link:https://twitter.com/guyinthecape[Vatsal Patel^] was advocating easing people into it by getting them excited about it.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji] shared his project idea of computers detecting key presses on a table top.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared his project idea of summarizing a meet.
+* The link:https://github.com/bcmapp/bcm-android[BCM App for Android^] was talked about.
+* The revenue model of link:https://archive.org[archive.org^] was discussed along with the legality of scraping.
+
+==== Projects Showcased
+
+* link:https://twitter.com/GaonkarMihika[Mihika Gaonkar^] showcased her Data Visualization project _OTC Analysis_, which is a dashboard created using link:https://powerbi.microsoft.com[Power BI^] for analyzing previous OTC CatchUps.
+	** link:https://github.com/mihikagaonkar/OTC-Dashboard[GitHub^]
+		*** Fun fact: As mentioned in the link:https://github.com/mihikagaonkar/OTC-Dashboard#results[results^], OTC CatchUps go on for **7.65 hours** on an average. That's crazy amazing!
+* link:https://twitter.com/PalavChinmay[Chinmay Palav^] showcased _Quiz for Ease_, a React.js application for playing quizzes.
+	** link:https://quiz-for-ease.netlify.app[Web app^]
+	** link:https://github.com/Chinmay908/Quiz-App[GitHub^]
+* link:https://twitter.com/devout_coder[Pranil Chitre^] showcased his productivity app _Conquer_, which helps one plan tasks and goals by segregating them in daily, weekly, monthly, yearly and long term sections.
+	** He built the app using React Native, Firebase and Java.
+	** link:https://github.com/devout-coder/conquer-rn-app[GitHub^]
+* link:https://twitter.com/ayushb_tweets[Ayush Bhosle^] showcased _SumItUp_, an link:https://www.scrapehero.com/nlp-basics-abstractive-and-extractive-text-summarization[Extractive Summarization^] project.
+	** The web app takes text as input and summarizes it.
+	** He used link:https://streamlit.io[Streamlit^], Python and a model from link:https://huggingface.co[Hugging Face^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about an update of his project _TNT_, an implementation of Transformers in Transformers for Image Classification.
+	** He used Python, link:https://einops.rocks[einops^] and link:https://www.tensorflow.org[TensorFlow^] in the project.
+	** He also added tests to his project and used TPUs provided by link:https://sites.research.google/trc/about[Google's TRC program^] to run the compute intensive tests.
+	** link:https://github.com/Rishit-dagli/Transformer-in-Transformer[GitHub^]
+* Jay Bhavsar showcased _CodeVengers Portfolio Page_.
+	** link:https://bhavsarjay.github.io/TestWebSite[Web site^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about _Git Internals_, a PWA he created using link:https://harshkapadia2.github.io/asciidoctor-jet[Asciidoctor Jet^] to collect his Git internals knowledge.
+	** link:https://git.harshkapadia.me[PWA^]
+	** link:https://github.com/HarshKapadia2/git_internals[GitHub^]

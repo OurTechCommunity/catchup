@@ -1,0 +1,78 @@
+Date: 14-05-2022
+
+Duration: 6 hrs 17 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/swpnlbrkr[Swapnil Borkar^] shared their experiences of introducing themselves at link:https://gdg.community.dev/events/details/google-gdg-mad-presents-google-io-extended-may-2022[Google I/O Extended, May 2022^] organised by GDG MAD.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared his experience as an incoming MTS (Member of Technical Staff) at link:https://www.getvymo.com[Vymo^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] suggested caching for link:https://play.google.com/store/apps/details?id=com.cdhiraj40.leetdroid[LeetDroid^] so that it wouldn't need to fetch data frequently, leading to quicker load times.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about how Android uses XML to declare layouts and Java to provide logic, similar to a Web Browser, where HTML and CSS provide a layout and JS provides logic for that web app.
+* We talked about how users quarrel about a particular company being better among sister concerns even though the parent company reaps most of the benefits irrespective of which company seems to be better.
+    ** We recently learnt that link:https://www.bigrock.com[BigRock^] and link:https://www.bluehost.in[Bluehost^] are sister concerns with link:https://newfold.com[Newfold Digital^] being their parent company.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] talked about how link:https://www.jetbrains.com[JetBrains^] leverages its tools to Google and link:https://flutter.dev[Flutter^] due to their expertise in making tools and how it benefits them in the bigger picture.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about how link:https://www.jio.com[Jio^] and some US based Telecommunication providers censor some news sites.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] mentioned that there is a similar link:https://twitter.com/captn3m0/status/1479473512783826948[web site blocking problem with Cloudflare^].
+* link:https://twitter.com/saurabhdawaree[Saurabh Daware^] talked about what he has been working on at link:https://razorpay.com[Razorpay^].
+    ** He also talked about how Razorpay migrated from Client Side Rendering to Server Side Rendering.
+        *** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an article on link:https://www.lydiahallie.io/talks/rendering-patterns[Rendering Patterns^].
+    ** He explained the working of CDN cache and how it fetches the required data from servers and caches them at link:https://www.keycdn.com/support/cdn-server-locations[edge locations^].
+    ** He also talked about plans to use link:https://aws.amazon.com/lambda/edge[Lambda@Edge^] before CDN.
+    ** He shared Razorpay Design System link:https://github.com/razorpay/blade/tree/master/rfcs[Blade's RFCs^].
+    ** He talked about the team structure at Razorpay.
+    ** Saurabh Daware also showcased the link:https://x.razorpay.com/demo[demo of RazorpayX^] and the implementation of a Command Palette on that page (press `Ctrl` + `K` to access it).
+    ** link:https://twitter.com/kaku_jay[Jay Kaku^] and link:https://twitter.com/saurabhdawaree[Saurabh Daware^] discussed how link:https://razorpay.com[Razorpay^] is improving its first load performance and trying to reduce the page load delay between pages.
+    ** We talked about how to improve performance by link:https://www.debugbear.com/blog/devtools-performance[understanding the Performance tab in DevTools^] and making changes in accordance with it.
+* link:https://twitter.com/0xSaurabh[Saurabh Suryan^] talked about how Server Side Rendering could provide better performance in web apps uilt using link:https://reactjs.org[React.js^].
+* Saurabh Suryan and Jay talked about how link:https://reactjs.org[React.js^] has a lot of dependencies.
+* We discussed the interactivity problem with heavy apps like link:https://www.netflix.com/in[Netflix^] or link:https://www.amazon.com/[Amazon^] which take a considerable amount of time to load, and how this can deteriorate user experience.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an article link:https://devadi.netlify.app/unpolished#5DsY6FYUGP8BDhaDWwCREA[Keyboard Shortcuts on Browser: A Hot Mess^].
+* We talked about why many people are getting fatigued with link:https://reactjs.org[React.js^].
+    ** We discussed about the problems with React.js and how other frameworks like link:https://www.youtube.com/watch?v=hw3Bx5vxKl0[Solid.js^] are aiming to solve those problems.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked what link:https://en.wikipedia.org/wiki/Hydration_(web_development)[Hydration in Web Development^] meant.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked why more people gravitate towards Web and Mobile Application Development as opposed to Desktop Development.
+    ** We talked about certain reasons such as barrier of entry, popularity of a domain, scale of impact and choosing between low level interaction or high performance applications.
+    ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] talked about how multiple tabs as different apps might be a problem on many levels.
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] asked the difference between niche apps (generally desktop apps) and online apps.
+        *** We talked about how apps like Microsoft Word or the whole Microsoft Office suite has come to evolve over many years and how convenience matters more in these cases.
+        *** We talked about how YouTube caches the basic web app template on the client and only requests and renders data on re-visiting the site, leading to a quick page load, hence partly justifying no need for a dedicated fast Desktop experience for such platforms.
+* link:https://twitter.com/BafnaAbhigyan[Abhigyan Bafna^] asked about how to explore various Tech domains.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested his way of learning concepts by building projects and continuing to do so if they are enjoying themselves or moving on to another domain if they don't enjoy that domain after building a few projects in it.
+    ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] suggested trying hackathons and enjoying the process and link:https://twitter.com/saurabhdawaree[Saurabh Daware^] talked about how a wrong choice is not actually wrong since one learns a lot from each experience and one need not dedicate their entire career towards a particular domain.
+    ** link:https://twitter.com/0xSaurabh[Saurabh Suryan^] talked about how understanding concepts in depth never goes waste.
+    ** Abhigyan was advised to not get stuck in link:https://letslearnabout.net/blog/how-to-escape-from-tutorial-hell-and-never-come-back[Tutorial Hell^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared a video on link:https://www.youtube.com/watch?v=kCnYRhkfWHY[how Flutter enhances web apps^].
+* We discussed how link:https://www.google.com/chrome[Google Chrome^] and link:https://flutter.dev[Flutter^] use the link:https://skia.org[Skia^] rendering engine.
+    ** Darshan talked about using Skia to paint the page on the canvas to solve SEO issues.
+* link:https://twitter.com/0xSaurabh[Saurabh Suryan^] talked about link:https://medium.com/bityard/graph-protocol-fundamentals-technicals-tokenomics-and-future-outlook-109b3ca247d9[the Graph Protocol^], where the code is written in link:https://www.typescriptlang.org[TS^], which is compiled to link:https://webassembly.org[WebAssembly^] and then deployed on the Blockchain.
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] talked about link:https://githubfieldday.com[GitHub Field Day^].
+* We talked about how link:https://flutter.dev[Flutter^] started working on it's own graphical rendering engine called link:https://github.com/flutter/engine/tree/main/impeller[Impeller^].
+    ** The reason behind the new rendering engine was to solve issues related to iOS, since iOS migrated from link:https://skia.org[Skia^] to link:https://developer.apple.com/metal[Metal^].
+* link:https://twitter.com/kaku_jay[Jay Kaku^] asked about some ways to maintain or improve his curiosity about everything. He talked about how writing blogs and editing them based on questions in the comments might help him increase his knowledge depth and force him to question things on a basic level with some accountability.
+    ** We talked about how engineering colleges and their result oriented learning methods lead to a drop in curiosity.
+    ** We talked about ways to think and solve problems while referencing link:https://www.linkedin.com/in/anilharwani[Anil Harwani^]'s ways of approaching problems.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:https://findanyanswer.com/why-joins-are-used-in-sql[Joins^] and user accessing data from a single table in SQL databases, while suggesting how we might not think about many things and reason behind its implementation in a certain way.
+* We talked about how most people are not decided with what they are doing, and how every one is figuring stuff out at their own pace.
+* link:https://twitter.com/0xSaurabh[Saurabh Suryan^] talked about link:https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1[Closures, Hoisting and other JS features^].
+* We talked about how link:https://www.ceralytics.com/canonical-links[Canonical Links^] help in better SEO, since copied blogs are ranked lower.
+* link:https://twitter.com/saurabhdawaree[Saurabh Daware^] talked about what features others could add to his link:https://saurabhdaware.github.io/text-to-handwriting[Text to Handwriting^] project.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] asked about the reason behind not using OTPs in Foreign Exchanges.
+    ** We talked about the taxing system in India and how it might consume a lot of capital if not considered properly.
+* We discussed about why DSA might become boring when it is only used while solving Competitive Programming problems.
+
+==== Projects Showcased
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased updates to _Stocker_, a Content/Inventory Management System.
+    ** It is a mobile app made using link:https://flutter.dev[Flutter^] and it uses back end services provided by link:https://appwrite.io[Appwrite^].
+    ** link:https://dev.to/siruswrites/stocker-an-inventory-and-crm-app-made-using-flutter-and-appwrite-m65[His article on _Stocker_^]
+    ** link:https://github.com/SirusCodes/stocker[GitHub repository^]
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] showcased _LeetDroid_, an android client for link:https://leetcode.com[LeetCode^].
+    ** It is a mobile app made using link:https://kotlinlang.org[Kotlin^] and it uses link:https://firebase.google.com[Firebase^] to store user details.
+    ** It uses public APIs from LeetCode for providing various features in the app.
+    ** link:https://play.google.com/store/apps/details?id=com.cdhiraj40.leetdroid[Playstore^].
+    ** link:https://github.com/cdhiraj40/LeetDroid[GitHub repository^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased a small project where he implemented JWT authorization and CORS.
+    ** link:https://github.com/HarshKapadia2/flask-jwt-cors[GitHub repository^]
+    ** link:https://twitter.com/t3_pat[Pratik Thakare^] talked about how it would be more efficient to record the latest timestamp of an issued Refresh Token rather than storing the Refresh Token in the database.
+    ** link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] talked about his experience with JWTs while working at link:https://www.getvymo.com[Vymo^].

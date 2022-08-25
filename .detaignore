@@ -1,0 +1,21 @@
+# NOTE: This file ignores everything in the `.gitignore` file
+
+# Ignore these files and directories
+.github/
+node_modules/
+summary/
+util/
+.env
+.gitignore
+.gitpod.yml
+.prettierrc
+CONTRIBUTING.md
+LICENSE
+README.md
+sample.env
+
+# Don't ignore these files and directories
+!public/css/summary/
+!public/js/summary/
+!public/img/summary/
+!public/html/summary/

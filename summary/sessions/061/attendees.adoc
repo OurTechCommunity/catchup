@@ -1,42 +1,42 @@
 ==== Attendees
 
-* link:https://twitter.com/omtalk[Omkar Khair^]
-* link:https://twitter.com/0xSaurabh[Saurabh Kumar Suryan^]
-* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^]
-* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
-* link:https://twitter.com/furtado_jaden[Jaden Furtado^]
-* link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
-* link:https://twitter.com/KartikSoneji_[Kartik Soneji]
-* link:https://twitter.com/chiragnayyar[Chirag Nayyar^]
-* link:https://twitter.com/rishit_dagli[Rishit Dagli^]
-* link:https://twitter.com/skxrxn[Sreekaran Srinath^]
-* link:https://twitter.com/kaku_jay[Jay Kaku^]
-* link:https://twitter.com/hardikraheja[Hardik Raheja^]
-* link:https://twitter.com/code_magician[Viranchee Lotia^]
-* link:https://twitter.com/PranavDani3[Pranav Dani^]
-* link:https://twitter.com/SirusTweets[Darshan Rander^]
-* link:https://twitter.com/Aaditya__Speaks[Aaditya Chinchkhedkar^]
-* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^]
-* link:https://twitter.com/tusharnankanii[Tushar Nankani^]
-* link:https://twitter.com/GaonkarMihika[Mihika Gaonkar^]
-* link:https://twitter.com/KRISHNAGADIA[Krishna Gadia^]
-* link:https://twitter.com/amuldotexe[Amul Badjatya^]
-* link:https://twitter.com/code_magician[Viranchee Lotia^]
-* link:https://twitter.com/ashfaq_ulhaq[Ashfaq^]
-* link:https://twitter.com/frenzyritz13[Ritvi Mishra^]
-* link:https://twitter.com/swpnlbrkr[Swapnil Borkar^]
-* link:https://twitter.com/PrathamRohra9[Pratham Rohra^]
-* link:https://twitter.com/devout_coder[Pranil Chitre^]
-* Siddharth Kaduskar
-* Sai Kaushik Sadu
-* Kedar Karbele
-* Sameer Kashyap
-* Priyanshu Gupta
-* Shubham Tainwala
-* Parth Puranik
-* Priyam Shah
-* Anas Khan
-* Mohd. Sadiq
-* Manish Godhani 
-* Anuhya Challagundla
-* Mayur Kukreja
+. link:https://twitter.com/omtalk[Omkar Khair^]
+. link:https://twitter.com/0xSaurabh[Saurabh Kumar Suryan^]
+. link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^]
+. link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
+. link:https://twitter.com/furtado_jaden[Jaden Furtado^]
+. link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
+. link:https://twitter.com/KartikSoneji_[Kartik Soneji]
+. link:https://twitter.com/chiragnayyar[Chirag Nayyar^]
+. link:https://twitter.com/rishit_dagli[Rishit Dagli^]
+. link:https://twitter.com/skxrxn[Sreekaran Srinath^]
+. link:https://twitter.com/kaku_jay[Jay Kaku^]
+. link:https://twitter.com/hardikraheja[Hardik Raheja^]
+. link:https://twitter.com/code_magician[Viranchee Lotia^]
+. link:https://twitter.com/PranavDani3[Pranav Dani^]
+. link:https://twitter.com/SirusTweets[Darshan Rander^]
+. link:https://twitter.com/Aaditya__Speaks[Aaditya Chinchkhedkar^]
+. link:https://www.linkedin.com/in/anilharwani[Anil Harwani^]
+. link:https://twitter.com/tusharnankanii[Tushar Nankani^]
+. link:https://twitter.com/GaonkarMihika[Mihika Gaonkar^]
+. link:https://twitter.com/KRISHNAGADIA[Krishna Gadia^]
+. link:https://twitter.com/amuldotexe[Amul Badjatya^]
+. link:https://twitter.com/code_magician[Viranchee Lotia^]
+. link:https://twitter.com/ashfaq_ulhaq[Ashfaq^]
+. link:https://twitter.com/frenzyritz13[Ritvi Mishra^]
+. link:https://twitter.com/swpnlbrkr[Swapnil Borkar^]
+. link:https://twitter.com/PrathamRohra9[Pratham Rohra^]
+. link:https://twitter.com/devout_coder[Pranil Chitre^]
+. link:https://twitter.com/KarbeleKedar[Kedar Karbele^]
+. Siddharth Kaduskar
+. Sai Kaushik Sadu
+. Sameer Kashyap
+. Priyanshu Gupta
+. Shubham Tainwala
+. Parth Puranik
+. Priyam Shah
+. Anas Khan
+. Mohd. Sadiq
+. Manish Godhani 
+. Anuhya Challagundla
+. Mayur Kukreja

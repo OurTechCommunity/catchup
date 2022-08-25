@@ -1,0 +1,29 @@
+Date: 16-04-2022
+
+Duration: 4 hrs 45 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/starlightknown[Karuna Tata^], link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about organizing meetups, dealing with large crowds and tips for sponsorships and food.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about link:https://fellowship.mlh.io[MLH Fellowship^], competitiveness and about his future visit to link:https://events.linuxfoundation.org/kubecon-cloudnativecon-europe[KubeCon EU at Valencia^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about the MLH Coaches program, its requirements, who it's tailored for.
+* Optical Character Recognition (OCR)
+    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased his analysis and comparison of various OCR technologies. (link:https://tesseract-ocr.github.io/tessdoc[Tesseract^], link:https://aws.amazon.com/textract[Amazon Textract^], link:https://cloud.google.com/vision/docs/ocr[GCP's Vision API^])
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] spoke about using OCR in his project link:https://devpost.com/software/code-capture-compile[CodeCapture^] and how Azure does OCR.
+    ** Aditya and link:https://twitter.com/skxrxn[Sreekaran Srinath^] gave Siddharth some advice on making the comparisons more scientific, i.e., generating diffs between input and output of each library, writing a blog post, etc.
+    ** link:https://cloud.google.com/document-ai[GCP's Document AI^] was brought up and discussed. Siddharth had a lot of praise for its OCR capabilities.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/skxrxn[Sreekaran Srinath^] also spoke about link:https://hackcon.mlh.io[MLH Hackcon^], traveling to NYC and delivering talks at Hackcon.
+* link:https://twitter.com/hridayHZ[Hriday Keswani^], link:https://twitter.com/adityaoberai1[Aditya Oberai^], and link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] spoke about developing Windows applications and why it's so difficult.
+* We talked about OS choices, dual booting, Linux, etc.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his experience at the link:https://hackthisfall.tech/events[Hack This Fall Mumbai meetup^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his favourite part of meetups, which is networking with people and getting to learn from them.
+* We talked about the features of various mobile phone models such as OnePlus, iPhone, etc.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked a doubt about regarding passing variables through functions and bypassing the State variable. (link:https://github.com/HarshKapadia2/git-graph/commit/18289a577299e01da90f21d464bb83c93775c1cd#diff-ca02c7bff2ad43fc883b885e8161b52c5181700cbfcebb8fb0c8a43d9ea81fe0R41[Commit^])
+* We talked about how some people in the Crypto community are not ready to accept the issues that exist. (link:https://twitter.com/omtalk/status/1514257413079142401[Example^])
+* Product Management/Product Manager (PM)
+    ** We talked about how PM is a multi-faceted role and how it can get split into multiple PM roles (Tech, Growth, etc.) as the project or company grows.
+    ** We also talked about the link:https://productmanagerhq.com/pms-metrics-net-promoter-score[Net Promoter Score (NPS)^] which divides people into Promoters, Passives and Detractors of a product. PMs care a lot about this metric, as it implies how likely a product will experience growth.
+    ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] and link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] gave us quite an in-depth view into the link:https://stackify.com/what-is-sdlc[SDLC^] of a product.
+    ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] talked about how a product's design is reviewed by a PM, a Product Designer, the Head of Design and the Head of Product before it is given to be developed.
+* We talked about Elon Musk buying a stake of Twitter.

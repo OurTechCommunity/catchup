@@ -1,0 +1,40 @@
+Date: 12-03-2022
+
+Duration: 7 hrs 30 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/ishubhamsah[Shubham Sah^] told us that they are planning an offline TensorFlow User Group (TFUG) Mumbai meetup soon. Do join their link:https://t.me/tfugmumbai[Telegram group^] for updates.
+* link:https://twitter.com/ishubhamsah[Shubham Sah^] explained his work at link:https://www.fedex.com[FedEx^] which mostly revolves around Data Cleaning and migrating older systems to newer standards.
+* link:https://twitter.com/ishubhamsah[Shubham Sah^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about the link:https://www.crystalreports.com[SAP's Crystal Solutions^].
+* We had a conversation about link:https://logging.apache.org/log4j/2.x[Log4j^], where link:https://twitter.com/ishubhamsah[Shubham Sah^] told us that it was an issue with link:https://stackoverflow.com/questions/4365621/what-is-jndi-what-is-its-basic-use-when-is-it-used[Java Naming Directory Interface (JNDI)^] which was discovered years before, but not patched.
+    ** link:https://dev.to/shubhamsah/apache-log4j-return-of-the-jndi-292o[Apache Log4j: Return of the JNDI]
+    ** link:https://www.youtube.com/watch?v=Opqgwn8TdlM[Log4J & JNDI Exploit: Why So Bad?^]
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] expressed interest in learning Compiler Design, for which link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared a few resources.
+    ** link:http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf[Basics of Compiler Design^]
+    ** link:http://160592857366.free.fr/joe/ebooks/ShareData/Modern%20Compiler%20Design%202e.pdf[Modern Compiler Design^]
+    ** link:https://holub.com/goodies/compiler/compilerDesignInC.pdf[Compiler Design in C^]
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his recent internship interview experience at link:https://ubs.com[UBS^].
+* link:https://twitter.com/Prathamesh_117[Prathamesh Shanbhag^] talked about his work experience at link:https://autovrse.in/[AutoVRse^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^], link:https://twitter.com/harshgkapadia[Harsh Kapadia^], link:https://twitter.com/skxrxn[Sreekaran Srinath^] and others discussed whether it is okay to take sponsorships for community meetups and events.
+* We also had a long discussion on link:https://developerrelations.com/what-is-developer-relations[DevRel^] and its pros and cons.
+    ** Beginners and students are the most annoying as they have very less experience and come with a lot of attitude.
+    ** The average salary of a DevRel is 20% less than that of an Engineer.
+    ** Biggest pro is you get to travel and build a great network around you.
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] and link:https://twitter.com/Prathamesh_117[Prathamesh Shanbhag^] concluded that DevRels should have some other job as well.
+* We talked about interview processes with link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] and also talked about what Whiteboard Interviews are and why is it necessary to have different styles of interviewing for different positions.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] advised us that to grow, we needed to devoid ourselves from all the luxury hardware and work on bad hardware.
+* We laughed while reminiscing the link:https://gta.fandom.com/wiki/Hot_Coffee_Modification[GTA San Andreas Hot Coffee modification^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] showed us a few research papers and asked us to read them.
+
+==== Projects Showcased
+
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased updates to his 'To Do' web app with a robot made with link:https://threejs.org[Three.js^].
+    ** link:https://github.com/jadenfurtado/toDoApp[GitHub repo^]
+    ** link:https://jadenfurtado.github.io/toDoApp/taskList.html[Web app^]
+* link:https://twitter.com/KarkeraNikshita[Nikshita Karkera^] showcased the project she is building for link:https://developers.google.com/community/gdsc-solution-challenge[The GDSC 2022 Solution Challenge^].
+    ** link:https://github.com/nk-874/no-hunger[GitHub repo^]
+* link:https://twitter.com/Prathamesh_117[Prathamesh Shanbhag^] showcased his links/portfolio site made with link:https://threejs.org[Three.js^] that also has a Tesla Cybertruck model.
+    ** link:https://github.com/Prathamesh-Shanbhag/Portfolio-Website[GitHub^]
+    ** link:https://www.prathamesh-shanbhag.com[Web site^]
