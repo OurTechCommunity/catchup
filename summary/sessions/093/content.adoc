@@ -1,0 +1,54 @@
+Date: 20-08-2022
+
+Duration: 5 hrs 20 mins
+
+==== Topics Discussed
+
+* General Introductions.
+* Ronit Malhotra shared that he started with Web Development recently with the help of a YouTube Channel called link:https://www.youtube.com/c/programmingwithmosh[Programming with Mosh^].
+* We talked about how communication gap between interdependent teams working on a project can lead to bugs, delays in delivery/deployment and might also lead to unnecessary tension amongst the members of the team. Differences in the tactics of communicating problem across teams should follow a structured approach to avoid confusion.
+    ** link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared his work experience that he was fixing issues that were not in accordance with his job description.
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about issues that could affect the flow a project.
+        *** Lack of accountability and sense of responsibility among multiple teams and its members causes communication issues.
+    ** link:https://twitter.com/jai_dewani[Jai Dewani^] suggested that sharing phone numbers to higher authorities could enervate one's time since they might call at odd times.
+* link:https://twitter.com/jai_dewani[Jai Dewani^] talked about a book link:https://holub.com/patterns/book.pdf[Holub on Patterns^] that he read recently. This is a book about programming in an object -oriented way and about how to use design patterns to solve commonplace problems in object-oriented systems.
+    ** He also talked about the link:https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life[Game of Life^], a game that he built using link:https://www.java.com[Java^] while following the book.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared that he recently became a member of the link:https://github.com/kubernetes[Kubernetes^] organisation.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his link:https://medium.com/@furtadojaden/how-i-helped-secure-townscript-and-nullcon-for-fun-669705ce4aa9[Medium article^] about the vulnerability that he found in link:https://www.townscript.com/in/online[Townscript's] website. link:https://nullcon.net[Nullcon^] is Asia's largest international security conference.
+* link:https://twitter.com/Ishwar71078132[Ishwar Gowda^] shared how he wrote a link:https://www.cs.huji.ac.il/course/2002/nand2tet/oldsite/docs/compiler_ug.pdf[Compiler Jack^] using logic gates by following a book called link:https://www.goodreads.com/book/show/51706318-the-elements-of-computing-systems[The Elements of Computing Systems^].
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared how link:https://ebpf.io[eBPF^] could help in writing compilers.
+        *** Ayush Chauhan shared that even link:https://docs.solana.com/developing/on-chain-programs/overview[Solana uses eBPF^].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked for resources regarding realtime collaborative software that make use of operational transform.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared link:https://cloud.google.com/pubsub/docs/overview[Google Cloud Pub/Sub^] for realtime collaborative software.
+    ** Ayush Chauhan suggested using link:https://kafka.apache.org[Kafka^] for realtime collaboration.
+    ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared an Open Source project made by one of his friends that demonstrates link:http://operational-transformation.github.io[How Operational Transformation works^].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] suggested some improvements such as editable titles and variable font weight in link:https://hackerresume.com[HackerResume^], a project that link:https://twitter.com/ishandeveloper[Ishan Sharma^] helped building at link:https://www.hackerrank.com[Hackerrank^].
+* We talked about community events and the discussions that were recently took place in Bangalore.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about link:https://developer.android.com/about/versions/13[Android 13 Tiramisu^] and the changes that it brings over link:https://developer.android.com/about/versions/12/12L[Android 12L^].
+    ** link:https://developer.android.com/about/versions/12[Android 12^] was a major design overhaul which introduced link:https://material.io/blog/announcing-material-you[Material You^] theming.
+    ** link:https://developer.android.com/about/versions/13[Android 13^] brings stability and some link:https://blog.esper.io/android-13-deep-dive[incremental improvements^] over link:https://developer.android.com/about/versions/12/12L[Android 12L^].
+* We talked about multiple tools like link:https://obsidian.md[Obsidian^] and link:https://www.notion.so[Notion^] that one might use to record any information that they came across. 
+    ** We also talked about the concept of a link:https://fortelabs.co/blog/basboverview[Second Brain^] by leveraging the note-taking tools.
+* link:https://gitpod.io[Gitpod^] will soon support android development through an emulator online.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared how he encountered the idea of working on link:https://hackerresume.com[HackerResume^].
+    ** A standardised resumé might help recruiters in segregating the required candidates.
+        *** link:https://www.overleaf.com[Overleaf^] provides a good template for a resumé but the only limitation is that it's not beginner friendly.
+    ** He shared how link:https://hackerresume.com[HackerResume^] was migrated from link:https://firebase.google.com[Firebase^] to link:https://www.postgresql.org[PostgreSQL^].
+* link:https://hackerresume.com[HackerResume^] generates a PDF in the backend and then sends it to the frontend on every save since generating PDF on frontend might be resource heavy for some low powered devices.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his experience of becoming a link:https://education.github.com/experts[GitHub campus expert^] at the link:https://githubfieldday.com[GitHub Field Day^], where he had his in person on boarding.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared his talk about link:https://youtu.be/W7xMBhFgLnw?t=6812[Web Animations^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his talk about link:https://www.youtube.com/watch?v=9rHME54q1N8&t=1648s[WebAssembly^].
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared his idea of using WebAssembly to run code on client machine, during an internal hackathon at link:https://www.hackerrank.com[HackerRank^]. This idea could potentially reduce server costs since it won't spin up a new instance when a code is executed.
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] talked about his experience as a product manager at link:https://www.gupshup.io/en[gupshup^].
+    ** He also talked about link:https://www.gupshup.io/en[gupshup^] as a product.
+
+==== Projects Showcased
+
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased a PR that he made to link:https://www.civo.com[Civo^].
+    ** This PR makes installation of link:https://www.kubeflow.org[KubeFlow^] easier.
+    ** link:https://github.com/civo/kubernetes-marketplace/pull/342[GitHub Pull Request^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased the integration of his link:https://paperswithcode.com/method/mobilenetv3[MobileNetV3^] models into link:https://github.com/keras-team/keras-cv[Keras CV^].
+    ** link:https://github.com/keras-team/keras-cv/pull/526[GitHub Pull Request^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased the implementation of the link:https://arxiv.org/abs/2102.03902[Nystromformer paper^].
+    ** It is a transformer variant that uses Nystrom method to approximate standard self-attention allowing for better scalability. 
+    ** link:https://github.com/link:https://twitter.com/rishit_dagli[Rishit Dagli^]-dagli/Nystromformer[GitHub Repository^]
