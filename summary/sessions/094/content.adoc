@@ -1,0 +1,45 @@
+Date: 27-08-2022
+
+Duration: 4 hrs 10 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared how he got the domain for his link:https://newsletter.hashnode.dev[newseletter^].
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] shared that his team won link:https://www.sih.gov.in[SIH (Smart India Hackathon)^].
+* We talked about different games and its optimisation across different platforms.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared that his team _CodeXplorers_ won the link:https://www.sih.gov.in[SIH (Smart India Hackathon)^].
+    ** His problem statement was about implementing Offline Digital Payments.
+    ** The frontend for their application was built using link:https://reactnative.dev[React Native^] and it also involved some use of link:https://www.wi-fi.org/discover-wi-fi/wi-fi-direct[Wifi Direct^]. 
+    ** He talked about the general prcoess of project selection in the college. Most colleges internally segregate teams for link:https://www.sih.gov.in[SIH^] applications based on the likelihood of the project being successful.
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared his experience of completing his link:https://fellowship.mlh.io[MLH Fellowship^] for the summer batch. The link:https://fellowship.mlh.io[MLH Fellowship^] is a 12-week internship alternative for aspiring software engineers.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased a quick innocuous exploit on the link:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america[KubeCon website^], where he was able to access his talk details even before the official annoucement was made.
+* link:https://twitter.com/5arahkhan[Sarah Khan^] and link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] discussed about how one can get into link:https://opensource.guide/how-to-contribute[Open Source contributions^]. 
+    ** Improve a software that you already use. 
+    ** Creating issues on repositories.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about link:https://kubernetes.io[Kubernetes^] and how it can be helpful for automating deployment, scaling, and management of containerized applications.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about how multiple instances of link:https://meet.google.com[Google meet^] on mobile devices leads to confusion. Google also provides link:https://meet.google.com[Meet^] option in the link:https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en_IN&gl=US[Gmail^] app and link:https://duo.google.com/about[Duo^] as a separate app which adds to the confusion.
+* We talked about how link:https://www.google.com/intl/en_in/drive[Google Drive^] scans all the files in the drive which some might consider to be a privacy issue. This is more into automated scanning though to find abuse of usage, not people reading your files. One way to avoid the issue of scanning sensitive data could be to encrypt the files before uploading them to the drive.
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] talked about his ideas for the community programs that he wanted to conduct in his community.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested some ideas for smooth functioning of the program such as:
+        *** Limiting applicant acceptance to only few people.
+        *** Creating a discord bot for the channel to address common issues and posting important announcements.
+        *** Mentorship program for community members.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared his experience of attending link:https://www.meetup.com/Flutter-Pune-Development-Meetup[Flutter Pune^] meetup.
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared his link:https://blog.52north.org/author/dhirajchauhan[mid-term blog^] for his link:https://summerofcode.withgoogle.com/programs/2022/projects/xXN12jAU[GSoC program^] at link:https://52north.org[52°North^].
+* We talked about portfolio websites and how minimal design choices might prove more appealing to a larger audience. 
+    ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared how he checks the performance tab in the devtools to check the loading time of a website. We also talked about link:https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en[Lighthouse^] which is a Chrome extension that helps in evaluating the performance of a website.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared that most domains ending with ml, fr or tk are easily flagged as malicious, hence one should avoid using such  them.
+* link:https://www.heroku.com[Heroku^] is soon going to end its free tier plan for all its users.
+    ** We talked about some alternatives to link:https://www.heroku.com[Heroku^] which are free and faster such as link:https://fly.io[fly.io^], link:https://www.netlify.com[netlify^] and link:https://vercel.com[vercel^].
+* We talked about link:https://www.reddit.com[reddit^], link:https://twitter.com/home[twitter^] and link:https://www.linkedin.com[linkedin^] and how might be a bit overwhelming for some people to use them since many people post a lot of content which might lead to comparison and unwanted demoralization.
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about how one might want to approach making a project.
+    ** Learning about the basics of a library or a language by watching a crash course and then refering to the documentation as and when needed.
+* link:https://twitter.com/sailorworks[Sahil Prasad^] shared an link:https://medium.com/@saadbenaicha/elon-musk-offers-a-teenager-5k-to-stop-tracking-private-jet-ab17a96531bd[article^] about a teenager who tracks jets of multiple people using the Open Sourced data about flights.
+* link:https://twitter.com/sailorworks[Sahil Prasad^] shared that his first link:https://github.com/moja-global/moja_global_docs/issues/194[PR^] was merged.
+
+==== Projects Showcased
+
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] showcased his hackathon project _Solana Funding Initiative_, a Web3 project for building a marketplace that builders can host grants that anyone in the community can contribute to using link:https://solanacookbook.com/core-concepts/pdas.html#facts[PDAs^].
+    ** The project is built using link:https://nextjs.org[Next.js^], link:https://www.typescriptlang.org[TypeScript^], link:https://www.rust-lang.org[Rust^] and link:https://developer.mozilla.org/en-US/docs/Web/CSS[CSS^].
+    ** link:https://solana-grants.vercel.app[Web app^]
+    ** link:https://github.com/solana-developers/solana-grants[GitHub Repository^]
