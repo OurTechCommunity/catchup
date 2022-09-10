@@ -5,22 +5,24 @@ Duration: 6 hrs 32 mins
 ==== Topics Discussed
 
 * link:https://twitter.com/jethwa_smit[Smit Jethva^] talked about how a person might reach a stagnanting point in a particular field where the solution might be to switch the domain to avoid being bored.
-* link:https://twitter.com/PranavDani3[Pranav Dani^] asked the reasons behind why some people prefer startups over established corporates.
-    ** One of the generally understood reason could be more learning about how to build a product in a relatively short time.
-    ** link:https://twitter.com/jethwa_smit[Smit Jethva^] suggested that startups provide the complete entitlement and project ownership whereas corporate jobs tend to follow certain predetermined protocols which oppose ingenuity.
-    ** link:https://twitter.com/SirusTweets[Darshan Rander^] said that startups might pay more and also you are allowed to maintain public entitlement for a project that was built for the startup which helps in your personal brand.
-* Piush Paul talked about how a masters degree might help in better job prospects.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] asked the reasons why some people prefer startups over established corporates.
+    ** One of the most observed reasons might be to learn more about how to build a product in a relatively short amount of time.
+    ** link:https://twitter.com/jethwa_smit[Smit Jethva^] suggested that startups provide the complete entitlement and project ownership whereas corporate occupations frequently adhere to preset protocols that discourage ingenuity and creativity.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] said that startups might pay more than the established corporates. You are allowed to maintain public entitlement for a project that was built for the startup which helps in your personal brand.
+* Piush Paul talked about how a master's degree could improve employment prospects.
     ** There are certain cases where the candidates get chosen on the basis of their knowledge and experience which might be equivalent to a degree.
-* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about an idea for writing a paper for mapping out all the possibilities in a 9*9 tic tac toe.
-    ** Each player essentially decides the further moves for the opponent in link:link:https://bejofo.net/ttt[this version of tic tac toe^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about an idea for writing a paper for mapping out all the possibilities in a 9X9 tic tac toe.
+    ** Each player essentially decides the further moves for the opponent in link:https://bejofo.net/ttt[bejofo.net/ttt^] - An emulator for a 9X9 Tic Tac Toe Board.
 * link:https://twitter.com/guyinthecape[Vatsal Patel^] shared why he might want to direct his career towards product management. Considering that US provides 3 year extention for a STEM field student to stay in the country and apply for an H1B visa, one needs to find a job for sustaining themselves.
     ** Even though someone might be willing to work in a given job role, they might not want to keep working in the same field.
-    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared a friend's experience where they were promoted as a product manager and hated it.
+    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared a friend's experience where they disliked their job as a product manager after being promoted.
     ** One should try to explore multiple domains since a single domain might become monotonous.
 * We talked about games and the companies that built them.
     ** link:https://www.valvesoftware.com/en[Valve^] is one of the few gaming companies with a small team who controls a major chunk of the market.
-    ** Spiderman franchise games were initially built under link:https://www.activision.com[Activision^] and link:https://www.treyarch.com[Treyarch^] which was later taken over by link:https://insomniac.games[Insomniac games^] who also did a proper justice to the franchise.
+    ** Spiderman franchise games were initially built under link:https://www.activision.com[Activision^] and link:https://www.treyarch.com[Treyarch^]. It was later taken over by link:https://insomniac.games[Insomniac games^] who also did a proper justice to the franchise.
     ** link:https://www.ubisoft.com[Ubisoft^] had a game series for link:https://store.steampowered.com/app/19980/Prince_of_Persia[The Prince of Persia^] which was later discontinued and probably morphed into link:https://en.wikipedia.org/wiki/Assassin%27s_Creed[Assassin's Creed^] franchise.
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] shared an example of link:https://www.callofduty.com/vanguard[Call of Duty: Vanguard^], where an identified cheater won't be able to attack opponents.
+        *** Some game services use fingerprinting and Anti-cheat engines to block a particular device permanently from joining an online game if found cheating.
 * link:https://twitter.com/prasadsunny1[Sanni Prasad^] talked about different ways in which he tried to use a PNG image in a link:https://flutter.dev[Flutter^] application. 
     ** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested him to use webp images instead of PNG since it is also supported by link:https://flutter.dev[Flutter^] (Google's unofficial solution to PNG is webp images).
     ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested multiple libraries for image loading in applications that use link:https://flutter.dev[Flutter^] or link:https://kotlinlang.org[Kotlin^].
@@ -30,30 +32,28 @@ Duration: 6 hrs 32 mins
         *** link:https://frescolib.org[Fresco^]
     ** link:https://twitter.com/prasadsunny1[Sanni Prasad^] talked about what link:https://www.zestmoney.in/about[ZestMoney^] is and how it works. It is a consumer lending fintech company.
     ** He also shared how link:https://www.timesnownews.com/business-economy/economy/payments-council-turns-to-government-over-rbi-order-barring-non-bank-from-loading-credit-lines-on-prepaid-ewallets-article-92481111[Indian government bars loading credit lines on prepaid eWallets^].
-* We discussed how buy now pay later works.
+* We discussed how Buy Now, Pay Later works.
+    ** Here's an interesting Youtube Video link:https://youtu.be/LwnApD9YXNY[explaining in and out of BNPL^].
     ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] suggested that it works everywhere and it's profitable.
     ** Fingerprinting could be used by the applications to identify if the device or the user is suspicious and allow those who might have good credit score.
-    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] shared an example of link:https://www.callofduty.com/vanguard[Call of Duty: Vanguard^], where an identified cheater won't be able to attack opponents.
-        *** Some game services use fingerprinting and Anti-cheat engines to block a particular device permanently from joining an online game if found cheating.
 * link:https://www.nasa.gov[NASA^] cancelled the link:https://www.nasa.gov/artemis-1[Artemis - 1^] launch due to some technical issues and it was rescheduled for 9th September 2022.
-    ** link:https://www.nasa.gov/artemis-1[Artemis - 1^] plays a crucial role in terms of returning humans to the moon and setting up a base there. It is also one of the first missions involving people from different races.
-    ** This launch embibes a similar kind anticipation and energy that even link:https://www.spacex.com[SpaceX^] did during its link:https://www.youtube.com/watch?v=vF_2kYAwMGw[Falcon Heavy launch^].
+    ** link:https://www.nasa.gov/artemis-1[Artemis - 1^] plays a crucial role in revisiting the moon and setting up a base on it. It is also one of the first missions involving people from different races.
+    ** This launch embibes a similar kind of anticipation and energy that even link:https://www.spacex.com[SpaceX^] did during its link:https://www.youtube.com/watch?v=vF_2kYAwMGw[Falcon Heavy launch^].
     ** We talked about how link:https://www.nasa.gov/mission_pages/apollo/apollo-11.html[Apollo 11^] launched to moon with a memory of mere 72Kb in its ROM.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] shared that his app link:https://musishare.darshanrander.com[MusiShare^] got published.
-    ** The app uses link:https://developer.android.com/jetpack/compose[Jetpack compose^] for building UI in link:https://flutter.dev[Flutter^] which is one of the reasons for a relatively heavier file size. XML would have consumed less memory but he didn't use it since he wanted to try using link:https://developer.android.com/jetpack/compose[Jetpack Compose^].
+    ** The app uses link:https://developer.android.com/jetpack/compose[Jetpack compose^]. Also, link:https://flutter.dev[Flutter^] bundles 3MB engine files which makes it relatively heavier in file size. XML would have consumed less memory but he didn't use it since he wanted to try using link:https://developer.android.com/jetpack/compose[Jetpack Compose^].
     ** He shared how he reverse engineered a music API by tracing the network requests.
 * link:https://twitter.com/prasadsunny1[Sanni Prasad^] shared an article about how one could link:https://medium.com/@ashishgarg1998/how-to-create-home-screen-app-widgets-in-flutter-ce3458f3638e[Create widgets for Android homescreens in Flutter^].
     ** Widgets are supposed to be written for Native Android. 
         *** This can be done using the android folder in the project directory. 
         *** One can also create extra activities for native and trigger it using link:https://flutter.dev[Flutter^].
-* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shaed how one can use Wireshark VPN on phones and also capture the mobile traffic using ADB.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared how one can use Wireshark VPN on phones and also capture the mobile traffic using ADB.
     ** He also talked about how proxy chaining works and how one could do it. Proxy chaining involves forwarding traffic from one proxy server to another.
 * link:https://twitter.com/PranavDani3[Pranav Dani^] talked about how link:https://twitter.com[Twitter^] is testing the edit feature for editing tweets.
     ** It might be a paid subscription for link:https://help.twitter.com/en/using-twitter/twitter-blue[Twitter Blue^] users.
-    ** On similar lines, we discussed how Whatsapp should add some features such as scheduling a message, but isn't adding it since its userbase is huge and might not easily adapt to such changes.
-* link:https://twitter.com/prasadsunny1[Sanni Prasad^] shared his issue of date parsing in ISO8601 format in link:https://go.dev[Go^].
-    ** link:https://twitter.com/SirusTweets[Darshan Rander^] shared an link:https://stackoverflow.com/questions/35479041/how-to-convert-iso-8601-time-in-golang[answer from stackoverflow^] which addressed the issue of date format.
-    ** Interfaces and structs - implement a parser
+    ** On similar lines, we discussed how WhatsApp should add some features such as scheduling a message, but isn't adding it since its userbase is huge and might not easily adapt to such changes.
+* link:https://twitter.com/prasadsunny1[Sanni Prasad^] shared his issue of date parsing in `ISO8601` format in link:https://go.dev[Go^].
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] shared an link:https://stackoverflow.com/questions/35479041/how-to-convert-iso-8601-time-in-golang[answer from StackOverflow^] which addressed the issue of date format.
 * link:https://twitter.com/hardikraheja[Hardik Raheja^] shared his experience of link:https://www.sih.gov.in[SIH^] at IIT Guwahati.
     ** Their problem statement was regarding Offline payments in person.
     ** UPI is only supported in India. Countries like US use wire transfer unlike India which uses RTGS, NEFT and UPI.
@@ -68,26 +68,25 @@ Duration: 6 hrs 32 mins
         *** link:https://www.tesla.com[Tesla^] initially had a deal with link:https://www.panasonic.com[Panasonic^] for building Battery packs. Batteries involve lot of production variables such as effieciency, materaial and heat dessipation. 
     ** One potential solution to charging stations for EVs could be standardisation of battery packs upon which different manufacturers could build their cars. 
         *** This introduces a new problem of differentiating a vehicle which could be solved by individual tuning of vehicles for each company.
-* We talked about evolution of technology and how different experiences shape a person and there thinking.
+* We talked about evolution of technology and how different experiences shape a person and their thinking.
     ** For instance, practical experiences such as using an old PC with a Floppy drive or CDs and restricted storage space and internet access might shape a person's thinking and approach to using devices in a different way as compared to someone who has a constant internet access and an uncustomizable device.
     ** CD burning used to be a common chore for people who used to download music and movies from the internet. 
         *** This chore was eventually replaced by streaming services such as link:https://www.spotify.com[Spotify^] and link:https://www.netflix.com[Netflix^]. Yet some people still prefer to keep local files for music.
     ** We also talked about evolution of internet access in India, where 3G plans were extremely expensive initially.
     ** link:https://twitter.com/SirusTweets[Darshan Rander^] shared that link:https://www.winamp.com[Winamp^] will be revamped. Winamp was a popular music player in the 90s and 2000s.
     ** link:https://twitter.com/guyinthecape[Vatsal Patel^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about old games such as link:https://en.wikipedia.org/wiki/Dangerous_Dave[Dangerous Dave^], link:https://www.pcgaming.ws/viewgame.php?game=banania[Banania^] and link:https://en.wikipedia.org/wiki/Road_Rash[Road Rash^] which were built for devices with low specifications.
-    * link:https://twitter.com/guyinthecape[Vatsal Patel^] shared how this perspective of backtracking every tech related problem has helped him at his job, quite a few times. 
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] shared how this perspective of backtracking every tech related problem has helped him at his job, quite a few times. 
 * link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://www.linkedin.com/in/aryannayak[Aryan Nayak^] talked about how link:https://openai.com/blog/dall-e[Dall-E^] works with concept of stable diffusion. An article on the link:https://towardsdatascience.com/dall-e-2-0-explained-7b928f3adce7[Working of Dall-E^].
 * link:https://www.linkedin.com/in/aryannayak[Aryan Nayak^] talked about his current work at Amazon UK related to link:https://www.elastic.co[Elastic Search^] under the Search Team.
     ** link:https://opensearch.org[Open Search^] is one of the examples that is built over Elastic Search.
-    ** Amazon built its own version of Elastic Search after version 7.1 since it wasn privatized after that.
+    ** Amazon built its own version of Elastic Search after version 7.1 since it was privatized after that.
 * We talked about the Interview process and strategies for multiple companies and how the candidate drives an interview based on their answers.
     ** link:https://leetcode.com[LeetCode^] is one of the most helpful platforms for preparation.
-        *** Competetive coding should be approached in study and then solve fashion since it helps in grasping the problem better.
+        *** Competitive coding should be approached in study and then solve fashion since it helps in grasping the problem better.
         *** Concistency matters more over a longer period of time.
     ** Company hiring is generally based on logic and thinking capability.
         *** Although, a person who knows the system might still be able to solve the issues quickly. So we discussed how practical knowledge and theoretical knowledge are both necessary in understanding and working with a system efficiently.
 * link:https://www.linkedin.com/in/aryannayak[Aryan Nayak^] shared his experience of working at Amazon UK and the cultural shocks that one should expect when travelling to different countries for work.
-* Break the system and then solve the problem 
 
 ==== Projects Showcased
 
