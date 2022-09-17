@@ -5,23 +5,26 @@ Duration: 6 hrs 35 mins
 ==== Topics Discussed
 
 * General Introductions
-* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked Jignesh Kagadada about his work at https://www.jpmorganchase.com/[JPMC (JP Morgan Chase)].
-* link:https://twitter.com/SirusTweets[Darshan Rander^] asked Jignesh if JPMC also maintains their versions of frameworks/SDKs like link:https://ubs.com[UBS], to which Jignesh said they do maintain wrapper around frameworks in JPMC.
-* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared that he is in the organizing team of link:https://twitter.com/GHFieldDayCA/status/1567656524855607297[GitHub Field Day Canada]
-* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] about his plans if he is focusing on AI/ML, Kubernetes or anything else? To which link:https://twitter.com/rishit_dagli[Rishit Dagli^] answered that his main focus is to make AI/ML work with Kubernetes for now.
-* link:https://twitter.com/rishit_dagli[Rishit Dagli^] his link:https://github.com/project-akri/akri/pull/510[contribution] to link:https://github.com/project-akri/akri[Akri] where the contributor can comment `/version major` to release a major version and similarly for 'minor' or 'patch'.
-* link:https://twitter.com/rishit_dagli[Rishit Dagli^] explained why he is not using Docker runtime as it is very heavy and even Kubernetes deprecated https://kubernetes.io/blog/2020/12/02/dockershim-faq/[dockershim(Docker runtime engine)] in 2021.
-    ** Also Docker is not link:https://opencontainers.org/[OCI(Open Container Initiative)] compliant.
-    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested to use link:https://podman.io[podman] or link:https://containerd.io[containerd] instead Docker.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked Jignesh Kagadada about his work at https://www.jpmorganchase.com/[J.P. Morgan Chase & Co.^].
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] asked Jignesh Kagadada if https://www.jpmorganchase.com/[J.P. Morgan Chase & Co.^] maintained their versions of frameworks or SDKs like link:https://ubs.com[UBS^] does, to which Jignesh replied that they do maintain a wrapper around the frameworks that JPMC specifically uses.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared that he is in the organizing team of link:https://twitter.com/GHFieldDayCA/status/1567656524855607297[GitHub Field Day Canada^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared that his current aim is to focus and build more around AI/ML with link:https://kubernetes.io[Kubernetes^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] explained why he is not using Docker runtime as it is very heavy and even Kubernetes deprecated https://kubernetes.io/blog/2020/12/02/dockershim-faq/[dockershim(Docker runtime engine)^] in 2021.
+    ** Also Docker is not an link:https://opencontainers.org/[OCI (Open Container Initiative)^] compliant.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested to use link:https://podman.io[podman^] or link:https://containerd.io[containerd^] instead Docker.
     ** You can still use Docker images in the above-mentioned options.
-* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] asked how he can cache link:https://flutter.dev[Flutter] image for GitHub actions.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] asked how he can cache link:https://flutter.dev[Flutter^] image for GitHub actions.
     ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] explained how he can cache the image using GitHub actions and verify it with checksums.
     ** Currently in GitHub actions for Flutter pull everything and then execute our commands.
-* Recently link:https://heroku.com[Heroku] announced that they will be shutting their free tier, so link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked us for an alternative to moving his projects.
-    ** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested link:https://railway.app[railway.app] and link:https://fly.io[fly.io]
-    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested trying link:https://civo.com[Civo]
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked for better alternatives to host his older projects since many of them were currently hosted on link:https://heroku.com[Heroku^] and recently it has announced that it will end the free tier for all users.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested link:https://railway.app[railway.app^] and link:https://fly.io[fly.io^]
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested trying link:https://civo.com[Civo^]
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked a question about regulations across borders.
     ** The question "If company A is in the country in B, which operates in country C and gets hacked from country D. In which country should they file complain?"
     ** link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] said generally companies have data in the country of their operation.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] how he found professors in Canada.
     ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] said he found a few of them while he was looking at the research and a few while reading the bio on the university site.
+
+==== Projects Showcased
+
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased his link:https://github.com/project-akri/akri/pull/510[contribution^] to link:https://github.com/project-akri/akri[Akri^] where the contributor can comment `/version major` to release a major version and similarly for 'minor' or 'patch'.
