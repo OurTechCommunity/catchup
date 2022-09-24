@@ -1,0 +1,44 @@
+Date: 17-09-2022
+
+Duration: 5 hrs 10 mins
+
+==== Topics Discussed
+
+* General Introductions.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] talked about the self organised link:https://www.youtube.com/c/inanutshell[Kurzgesagt^] meetup that he recently attended in Mumbai. The crowd was eclectic in terms of working background. He met a few like minded science enthusiasts as well.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] shared why he has a predilection towards subjects like OS and DSA which are heavily logic oriented and also form the foundation of computers in a way. While machine learning certainly has some benefits over traditional methods, it is undeniably resource heavy. 
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] ka major project, finite automata to a digital circuit
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] in contrast suggested that many utilities such as the search engine that we use almost on a daily basis, work on the concept of heuristics. Machine learning is very useful in many scenarios which means that it is not a replacement for traditional methods but rather a supplement.
+    ** He also talked about the importance of having a good understanding of the fundamentals of any subject.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about the Ice cream problem. Ice creams used to have less falvours such as chocolate or vlink:https://www.linkedin.com/in/anilharwani[Anil Harwani^]la. People could choose any one and return home happily. Now flavours for ice creams have increased a lot, which means that their are too many choices for people to choose from.
+    ** Choices are comparable to problems. One needs to choose a flavour and keep working in that direction.
+* Nikunj Mistry had his doubts regarding databases and using link:https://www.python.org[Python^]. link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] suggested some projects and how he could learn and implement database concepts while making them.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared his experience of hosting the link:https://www.youtube.com/c/inanutshell[Kurzgesagt^] meetup.
+    ** He was involved a lot in making sure that everyone had a good time.
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] provided some feedback.
+* link:https://twitter.com/0xSaurabh[Saurabh Suryan^] shared that he recently moved to BLR as a frontend enginner working on link:https://reactnative.dev[React Native^] at a company called link:https://jupiter.money[Jupiter Money^]. It uses a link:https://kotlinlang.org[kotlin^] based backend.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] asked why they used link:https://kotlinlang.org[kotlin^] for backend.
+        *** link:https://twitter.com/0xSaurabh[Saurabh Suryan^] suggested that they might use it due to its simplicity and interoperability with link:https://www.java.com[Java^].
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his experience of working with an OSS contribution (link:https://github.com/oss-review-toolkit/ort/issues/4870[GitHub issue^]) where they suggested him to use link:https://ktor.io[Ktor^].
+* We talked about how people have mixed feelings about using link:https://reactnative.dev[React Native^], especially with data fetching, link:https://swr.vercel.app/docs/advanced/react-native[SWR^] and caching.
+    ** link:https://twitter.com/0xSaurabh[Saurabh Suryan^] shared that they use custom bindings over all the tools they use at their work.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his experience at link:https://gdg.community.dev/events/details/google-gdg-cloud-mumbai-presents-google-cloud-community-days-2022-mumbai[Google Cloud Community Days 2022 - Mumbai^]. He got meet many experienced people, but the overall event was targetted towards students.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] shared that he will be relaunching Technical Student Chapter (his community) as The Network.
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared how he uses MLH influence to improve his community crowd.
+    ** He also talked about how it is different from link:https://ghw.mlh.io/guild[MLH Guilds^].
+* We talked about work culture at some companies. Some might try to introduce competition between employees to gain quicker profits, while others might try to make it a collaborative environment where growth is steady.
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] and link:https://twitter.com/SirusTweets[Darshan Rander^] talked about web3. Web2 is established and important and can do most of the work so it is better not to ignore web2 while learning more about web3.
+    ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] talked more about link:https://www.youtube.com/watch?v=M3EFi_POhps[proof of stake^], link:https://www.youtube.com/watch?v=kHsP935kWHo[proof of history^].
+        *** link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] said that it might sound similar to how GitHub works.
+    ** We also talked about what link:https://www.investopedia.com/terms/h/hostiletakeover.asp#:~:text=our%20editorial%20policies-,What%20Is%20a%20Hostile%20Takeover%3F,takeover%20is%20called%20the%20acquirer.[hostile takover^] is and how UPI works.
+* We discussed how many websites nowadays might seem resource heavy. While novelty and design of a website surely matters, there should be a good balance between performance and practical design, since generally novelty drives web traffic.
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] shared an example of a link:motherfuckingwebsite.com[NICE website^] which has a bare minimum resource requirement and still conveys the information that it needs to. This website might be a bit too simplistic for most people to use and understand so there's a requirement for balance.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about how people might have interests in many fields but choose to talk about only one of them according to the audience.
+    ** All the teams working on any product should have the sufficient knowledge of the parts of the product on which that team might not be working.
+    ** We also discussed that many people might have preconcieved notions about a particular field which might foment a person's thinking in a certain direction about that field in general.
+        *** For instance, even though the term `Fullstack Developer` might be misleading upto some extent, most recruiters might have grown numb to the use of such words which could potentially reduce a candidates chances of getting selected.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] suggested that college committees might not provide its member the complete authority to conduct events as per their wishes. This is one of the potential reasons due to which people might choose to form their own communities without college ties.
+
+==== Projects Showcased
+
+* Abhishek showcased a MockUp for _Flipkart_ that he made using HTML and CSS.
