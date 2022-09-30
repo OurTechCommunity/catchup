@@ -1,0 +1,39 @@
+Date: 24-09-2022
+
+Duration: 4 hrs 2 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about new challenges that he is currently facing in US. 
+    ** He talked about SQL stuff, Tic tac toe game in java, extensible, order and chaos. He said assignments were challenging but fun and good. He also told how he used sockets to test throughput using java.
+    ** Google Chrome will stop validating link:https://en.wikipedia.org/wiki/Public_key_certificate[digital certificates^].
+    ** We talked about digital communication, how it is made secure using the link:https://en.wikipedia.org/wiki/Public-key_cryptography[public key cryptography^] and how link:https://en.wikipedia.org/wiki/Public_key_certificate[digital certificates^] help with that.
+    ** We then discussed how link:https://en.wikipedia.org/wiki/Transport_Layer_Security[TLS^] and link:https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol[OCSP^] will now be hitting the certificate authority to verify the certificate.
+        *** link:https://en.wikipedia.org/wiki/Certificate_revocation_list[CRL - Certificate revocation list^] checks for the certificate locally and if it exists  then it does not make a request.
+        *** link:https://networking.harshkapadia.me/cryptography[More information^]
+* link:https://twitter.com/clumsy_coder[Kaushal Joshi^] talked about blogging, freelance, internship, active search.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] started the discussion on the ability to focus while learning new things.
+    ** We are supposed to be studying right now so that we don't regret. 
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also pointed out how everything is a trade off and nothing is free even if it says free.
+    ** Time is extremely precious, it won't come back.
+    ** Every choice that we make is a decision.
+    ** When we have stuff to do then why should we waste time? We should keep an agenda.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also pointed out how Indian kids rely so much on their parents.
+    ** He suggested us to make our food.
+* Watch the video
+* Watch the video
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared an issue he faced at his internship where he changed a function's response without realizing that it has been used in multiple places which led to a ripple effect breaking everything. On this, link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] said that it could have been avoided with a simple search had he just checked once before where that particular function had been used.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] said, our generation has forgot to read code. He suggested to spend more time reading code and understanding its usage, and then writing code.
+* We then talked about Facts, axioms - that are true
+    ** known known - things that we as humans understand
+    ** known unknown - things that we don't know
+    ** unknown unknown - things that we don't know that we don't know (Someone puts efforts and makes it work)
+        *** Example, users in Europe no light, servers down, service is not consistent.
+* link:https://twitter.com/Aryannayakk[Aryan Nayak^] talked about his work at the Amazon Search team and how they process all data of Amazon, storing in multi clusters, using link:https://www.elastic.co[Elastic search^]. 
+* We also talked about work culture  (I am a bit sketchy about this part. Feel like it should not be added, please see Dani)
+    ** His opinion about how different companies work. Microsoft chill. Baaki tough.
+    ** Once you reach good, the person will improve, Jay, assumption.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared another thing about The States — Demand and supply. In The States, unhealthy stuff is cheaper because of Demand and Supply.
+
+
+==== Projects Showcased
