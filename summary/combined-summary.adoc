@@ -32,7 +32,7 @@ include::sessions/098/attendees.adoc[]
 
 ==== Meet Screenshot
 
-image::097.jpg[alt="Meet screenshot", 600, 600]
+image::098.jpg[alt="Meet screenshot", 600, 600]
 
 '''
 
