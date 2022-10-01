@@ -1,0 +1,43 @@
+Date: 24-09-2022
+
+Duration: 4 hrs 2 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about new challenges that he is currently facing in the US. 
+    ** He said that his assignments related to SQL and java are challenging but fun.
+        *** Some assignments were related to making an extensible Tic-tac-toe game using java, which would be later used to make a game called link:https://en.wikipedia.org/wiki/Order_and_Chaos[Order and Chaos^] (Order and Chaos is a variant of the game tic-tac-toe).
+    ** He also discussed how he used sockets to test throughput using java.
+    ** We talked about digital communication, how it is made secure using the link:https://en.wikipedia.org/wiki/Public-key_cryptography[public key cryptography^] and how link:https://en.wikipedia.org/wiki/Public_key_certificate[digital certificates^] helps with that.
+    ** We then discussed how link:https://en.wikipedia.org/wiki/Transport_Layer_Security[TLS^] and link:https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol[OCSP^] hits the certificate authority to verify the certificate.
+        *** link:https://en.wikipedia.org/wiki/Certificate_revocation_list[CRL - Certificate revocation list^] checks for the certificate locally and if it exists then it does not make a request.
+        *** link:https://networking.harshkapadia.me/cryptography[More information^]
+* link:https://www.google.com/intl/en_in/chrome[Google Chrome^] will stop validating link:https://en.wikipedia.org/wiki/Public_key_certificate[digital certificates^].
+* link:https://twitter.com/clumsy_coder[Kaushal Joshi^] talked about blogging, freelance, internship, active search.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] started a discussion on the ability to focus while learning new things.
+    ** We are supposed to be studying right now so that we don't regret. 
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also pointed out how everything is a trade off and nothing is free even if it says free.
+    ** Time is extremely precious, it won't come back.
+    ** Every decision is a trade-off.
+    ** We should not waste be wasting time when we have important things at hand.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] also pointed out how Indian kids rely so much on their parents.
+    ** He suggested us to make our food.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] shared how he used to optimise his time while he was studying in college. He used to challenge himself or read a book while he used to travel.
+    ** You need to hold yourself accountable since no one else will.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how he feels about passion being missing when students complete assignments. He feels most of them are more driven towards having an internship or a job.
+    ** Most Indian students do jobs or study engineering since it is a means to an end.
+    ** Nine times out of ten, a job is a means to an end and that's why it's called a job.
+* We discussed ways in which a processor can go idle to save power.
+    ** link:https://en.wikipedia.org/wiki/Clock_gating[Clocked Gating^]. Clock gating is a power-saving feature in semiconductor microelectronics that enables switching off circuits.
+    ** link:https://en.wikipedia.org/wiki/Power_gating[Power Gating^]. Power gating is a technique used in integrated circuit design to reduce power consumption, by shutting off the current to blocks of the circuit that are not in use.
+* We talked about how foundational courses that colleges include in syllabus are very important to become a good software engineer.
+    ** Many people have lost the ability to dive deep into a topic and understand the crux of it.
+    ** Documenting ways to implement a project is not helpful for others since many people would then start building the same project even though they aren't qualified to build it. This is a problem since people who do not understand what's happening will then blame the creator.
+        *** A better way to write a document is to assume certain level of knowledge that the reader is expected to have and then provide small tips to optimise the work that they are expecting to do. 
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared an issue he faced at his internship where he changed a function's response without realizing that it has been used in multiple places which led to a ripple effect breaking everything. link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] said that it could have been avoided with a simple search had he just checked once before where that particular function had been used.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] said, our generation has forgot to read code. He suggested to spend more time reading code and understanding its usage, and then writing code.
+* We then talked about Facts, axioms - that are true.
+    ** known known - things that we as humans understand.
+    ** known unknown - things that we don't know.
+    ** unknown unknown - things that we don't know (Someone puts efforts and makes it work).
+* link:https://twitter.com/Aryannayakk[Aryan Nayak^] talked about his work at the Amazon Search team and how they process all data of Amazon, storing in multi clusters, using link:https://www.elastic.co[Elastic search^].
