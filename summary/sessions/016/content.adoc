@@ -1,0 +1,27 @@
+Date: 27-02-2021
+
+Duration: 5 hr 50 min 
+
+==== Topics Discussed
+
+* General introductions.
+* @*jaden furtado* gave us insights about his recent cyber security exploits using SQLi (SQL Injection) and XSS attacks.
+* @*Jai Kumar Dewani*  gave some tips for job placements.
+* We guided Roshni for which technology stack she should follow.
+* Why we think that online courses don't have much value.
+* Certificate vs certification
+* We talked about the https://www.starlink.com/[Starlink satellite internet service] by SpaceX coming to India.
+* We talked about the new IT laws which were passed in India.
+* The new Spotify ads which are getting more annoying. :distraught:
+* @*Kartik Soneji*, @*Hardik Raheja* and @*Jai Kumar Dewani*  solved some Competitive Programming questions on LeetCode.
+* @*Kartik Soneji* told us about the special https://education.oracle.com/java-25th-anniversary-discount-redemption[25 years of Java Oracle certification discount].
+* @*Kartik Soneji* helped @*Harsh Kapadia* with IndexedDB and positioning of a SVG inside a button for the upcoming features in his https://harshkapadia2.github.io/git_basics/[git_basics] project.
+
+
+
+== LeetCode problem statements
+
+* https://leetcode.com/problems/minimum-moves-to-equal-array-elements[Minimum moves to equal array elements]
+* https://leetcode.com/problems/count-binary-substrings/[Count binary substrings]
+
+

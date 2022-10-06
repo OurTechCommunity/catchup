@@ -1,0 +1,56 @@
+Date: 08-05-2021
+
+Duration: 10 hr 
+
+==== Topics Discussed
+
+* General introductions.
+* @*vedant jumle* talked about Game Development and some engines like Unity, Unreal and Core that are used for it.
+* @*vedant jumle* talked about ML and how DNN, CNN and RNN are all dependent on each other.
+* @*Harsh Kapadia* and @*Dheeraj Lalwani* talked about the https://ogp.me/[Open Graph Protocol (OGP)] which helps in generating link previews on various social media platforms such as Twitter, WhatsApp, Facebook, etc. (https://github.com/HarshKapadia2/web-dev/blob/main/resources.md#:~:text=OGP[Harsh Kapadia's OGP notes])
+* @*jaden furtado* is really interested in Cyber Security and he talked about how a recent web site that he was testing out had their SSH, TELNET and other ports open. He used the `nmap` Linux command to find the open ports.
+* @*Harsh Kapadia* talked about how a portfolio web site shared by @*Pranav Dani* had a VERY good UI, but a very bad UX. (http://benmingo.com[The portfolio])
+* @*Jai Kumar Dewani* shared an article by StackOverflow on how they were needing only one web server in 2016. (https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/[Article])
+* We commented on @*Sreekaran Srinath* and @*Himanshu Sharma*'s résumés.
+* @*ishandeveloper* shared his projects and talked about his goals and how he plans out his projects from an idea PoV. He showcased a LOT of his projects as well, which left all of speechless. He has GREAT hackathon projects! Such well thought out ideas!
+* @*Harsh Kapadia*, @*Himanshu Sharma*, @*sirus*, @*Dheeraj Lalwani*, https://www.linkedin.com/in/sriharshareddymadireddy/[Harsha] and  @*Sreekaran Srinath* talked about certain incidents in their life that changed things for them.
+
+
+
+== Projects showcased
+
+* @*vedant jumle* shared a the files to his first game. (https://drive.google.com/file/d/1l0NbPBm9byKi7P65Sl0R5tDJuq9koXN4/view?usp=sharing[Game files])
+* {blank}
++
+[cols=2*]
+|===
+| @*Gayatri Joshi* showcased her GitHub Home Page (old) clone. (https://gayatrivjoshi.github.io/github-home-page-clone/[Web site]
+| https://github.com/gayatrivjoshi/github-home-page-clone[GitHub repo])
+|===
+
+* {blank}
++
+[cols=2*]
+|===
+| @*Harsh Kapadia* showed the static site he made for @*sirus*'s mobile app https://app.heartry.tk/[Heartry]. (https://www.heartry.tk/[Web site]
+| https://github.com/SirusCodes/Heartry/tree/gh-pages[GitHub repo])
+|===
+
+* {blank}
++
+[cols=2*]
+|===
+| @*Dheeraj Lalwani* gave us updates on his URL shortener. (https://kata-flask.herokuapp.com/[Web app]
+| https://github.com/dheerajdlalwani/url-shortener[GitHub repo])
+|===
+
+* Some of @*ishandeveloper*'s projects
+ ** https://githubwrapped.tech
+ ** https://airwatt.ishandeveloper.com
+ ** https://keep.ishandeveloper.com
+ ** https://techweek.ishandeveloper.com
+ ** dscweather.ishandeveloper.com
+ ** flutterengage.ishandeveloper.com
+ ** links.ishandeveloper.com
+
+

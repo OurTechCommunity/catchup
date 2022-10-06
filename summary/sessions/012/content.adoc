@@ -1,0 +1,24 @@
+Date: 30-01-2021
+
+Duration: 5 hr 00 min 
+
+==== Topics Discussed
+
+* @*sirus* shared his https://github.com/SirusCodes/Heartry[Heartry] project https://github.com/SirusCodes/Heartry/releases/tag/1.0.0[apks] for testing.
+* @*Tushar Nankani*, @*Jai Kumar Dewani* and @*Fahaad* had a talk on CP and how someone can learn it.
+* Watch a few seconds of https://fossbytes.com/watch-star-wars-command-prompt-via-telnet/[starwars on cmd]. 🤯
+* Just for thrills @*sirus* wrote fizzbuzz in rust.
+
+
+
+== Projects showcased
+
+* @*Ashish Bhogesara* showed us his react https://blog.ashishvb.com/creating-a-multilingual-app-in-react[package] which helps in adding multilingual support to an react app
+* @*Dheeraj Lalwani* showed us his pagination implementation in his project.
+
+
+
+Thank you for coming!
+See you next Saturday (6th Feb 2021) at 10:30 PM IST!
+
+link:/user_uploads/29573/k-hzjoHZ1RDSHkN9kX5S2wPg/image.png[meet screenshot]

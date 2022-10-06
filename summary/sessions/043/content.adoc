@@ -1,0 +1,37 @@
+Date: 04-09-2021
+
+Duration: 11 hr 
+
+==== Topics Discussed
+
+* General introductions.
+* @*Rishit Dagli* showcased his Python package `fast-transformer`, which is an implementation of a recent research paper https://arxiv.org/abs/2108.09084[Fastformer: Additive Attention Can Be All You Need]. His repo was trending on GitHub as well. (https://github.com/Rishit-dagli/Fast-Transformer[GitHub])
+* https://twitter.com/ashfaq_ulhaq[Ashfaq] shared resources to https://curate-roadmaps.netlify.app/roadmap/6133edd6d91329bda0513ff4[learn Nest.js].
+* @*Hardik Raheja* and @*Kartik Soneji* compiled https://soliditylang.org/[Solidity].
+* @*Dheeraj Lalwani* discussed an issue he was facing while contributing to https://github.com/navidrome/navidrome[Navidrome]. (https://twitter.com/DhiruCodes/status/1434056226325729284[Tweet thread])
+
+
+
+==== Projects Showcased
+
+* @*Hriday Keswani* showcased his 9x9 TicTacToe Android game he made using Java. (https://github.com/hridayK/9x9ticTacToe[GitHub])
+* @*Rishav Thakur* showcased
+ ** His project _Voccapp_, which is a word flashcard web app like https://apps.ankiweb.net[Anki]. (https://www.voccapp.com[Web app])
+ ** {blank}
++
+[cols=2*]
+|===
+| He also made a spaced repetition algorithm package that he used in Voccapp as well. (https://github.com/StTronn/leitner-spaced-rep-js[GitHub]
+| https://www.npmjs.com/package/lt-spaced-repetition-js[NPM])
+|===
+
+ ** An advanced https://sttronn.github.io/Drums-2.0[Drum machine]
+ ** A https://sttronn.github.io/d3-music-viz[Music Visualizer].
+* @*ishandeveloper* is an inetrn at HackerRank and he showcased the HackerRank interns web site made using Three.js and React.js. It is CRAZY amazing! (https://www.hackerrank.com/interns[Web site])
+* @*Shreesh Srivastava* showcased his portfolio. (https://neo945.github.io/portfolio[Portfolio])
+* https://twitter.com/DeepankarBhade[Deepankar Bhade] showcased _Chloromaps_, which helps develop and ship Choropleth Maps faster. (https://www.chloromaps.com[Web app])
+* https://twitter.com/ashfaq_ulhaq[Ashfaq] showcased
+ ** His project _Curate_, which makes it easy to share resources and roadmaps with a clean UI. (https://curate-roadmaps.netlify.app[Web app])
+ ** _PodcastKeep_, a web app that allows one to take notes in Markdown while listening to a podcast. (https://dev9823.d20d8jqjompjzi.amplifyapp.com[Web app])
+
+

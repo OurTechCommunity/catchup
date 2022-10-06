@@ -1,0 +1,43 @@
+Date: 12-06-2021
+
+Duration: 6 hr 45 min 
+
+==== Topics Discussed
+
+* General introductions.
+* @*Chirag Nayyar* shared a service https://fireflies.ai[FireFlies.ai] which lets users take voice notes during meetings.
+* @*ishandeveloper*  asked about https://rubyonrails.org[Ruby on Rails].
+* @*Kartik Soneji* shared a platform https://codereview.stackexchange.com where you can get your code reviewed .
+* https://twitter.com/roshnisarda[Roshni Sarda] asked about '%'  and responsive units  (`em`, `rem`, `vh`, `vw`) https://harshkapadia2.github.io/web-dev/resources.html#:~:text=Units[Resources: CSS Units].
+* @*Kartik Soneji* shared a service - https://www.browserstack.com[BrowserStack] which allows users to test their web apps across various browsers and devices.
+* @*Harsh Kapadia* & @*Dheeraj Lalwani* discussed about the https://developer.mozilla.org/en-US/docs/Web/HTML/Element/marquee[`<marquee>` tag] and how it should be avoided both because it is deprecated and it is not good UX.
+* @*Dheeraj Lalwani* asked @*ishandeveloper* about his developer journey and how he improved his UI designing and other skills.
+* @*Himanshu Sharma* and @*Harsh Kapadia* helped https://twitter.com/aaayeeessshaaa[Ayesha]  with an error (which turned out to be a typo).
+* @*Himanshu Sharma* gave us tips on how to find internships/jobs.
+* We also talked about the new policy from Apple which restricts apps on it's app store to include 3rd party OAuth if they aren't required for the apps to function.
+
+
+
+== Projects showcased
+
+* @*Tushar Nankani* shared a project which allows users to download chats from https://meet.jit.si/[Jitsi Meet]
+https://github.com/tusharnankani/download-jitsi-chat[Repository].
+* @*Gayatri Joshi*, @*Aaditya Nitin*, Roshni Sarda & @*Himanshu Sharma* showcased their portfolios.
+ ** https://gayatrivjoshi.github.io[Gayatri Joshi]
+ ** https://aadityanitin.github.io[Aaditya Nitin]
+ ** https://roshni-sarda.github.io[Roshni Sarda]
+ ** https://himanshusharma.tech[Himanshu Sharma]
+* @*ishandeveloper* showcased his fabulous https://www.hackerrank.com[HackerRank] Clone: https://coderrank.ishandeveloper.com[CoderRank] which he made to impress the CTO of HackerRank in just two days.
+* @*Harsh Kapadia* showcased his project - Preview Markdown he made using ReactJS
+https://harshkapadia2.github.io/preview-markdown[Live Demo] | https://github.com/HarshKapadia2/preview-markdown[Repo]
+
+
+
+== Past 3AM talks
+
+* @*Himanshu Sharma* shared his life experiences.
+* We also talked about issues we face such as burning out and how sometimes we need some spark/goal in life to get ourselves going.
+* We all showed the desire to meet each other as it has been months since we haven't met each other in person but only in OTC CatchUps.
+* @*Tushar Nankani* and @*sirus* solved some bash questions on HackerRank to refresh themselves.
+
+

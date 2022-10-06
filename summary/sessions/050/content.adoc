@@ -1,0 +1,40 @@
+Date: 23-10-2021
+
+Duration: 4 hr 50 min 
+
+==== Topics Discussed
+
+* General introductions.
+* @*Chirag Nayyar* and https://linkedin.com/in/krishna-gadia[Krishna Gadia] talked about migrating from on premises infrastructure to a Cloud Provider. They talked about all the changes and factors like networking and costs that need to be considered and configured while shifting and after shifting.
+* @*Harsh Kapadia* talked about his https://developers.google.com/web/tools/lighthouse[Lighthouse] Meetup experience where he learnt about the https://web.dev/learn-web-vitals/#overview[Chrome Web Vitals] (CWV) like https://web.dev/learn-web-vitals/#web-vitals-metrics[FCP, LCP, CLS and FID].
+* @*Harsh Kapadia* shared that browsers have a limit of six concurrent requests per domain per tab. (https://www.linkedin.com/pulse/why-does-your-browser-limit-number-concurrent-ishwar-rimal[Why does your browser limit the number of concurrent network calls?])
+* @*Harsh Kapadia* also shared that https://developers.google.com/web/tools/lighthouse[Lighthouse] tests should be conducted in Incognito mode (to prevent extensions from affecting site performance) and that the DevTools should be undocked from the browser window (as Lighthouse only measures the performance of the visible area of the screen to calculate some metrics).
+* @*Rishit Dagli* showed us a PR that he was making to tfhub.dev (https://github.com/tensorflow/tfhub.dev/pull/92[which is now merged]) to add implementations of a https://openreview.net/pdf?id=TVHS5Y4dNvM[research paper].
+* @*Harsh Kapadia* talked about the difference between import and export syntax in CommonJS and ES modules.
+ ** CommonJS: `require` and `module.exports`
+ ** ES Modules: `import` and `export`
+* @*Harsh Kapadia* asked for help with structuring https://github.com/HarshKapadia2/nanonets[a SDK that he has been building] at his internship. @*sirus* and https://twitter.com/DeepankarBhade[Deepankar Bhade] gave suggestions that inheritance, abstract classes or mixins could be used.
+* https://twitter.com/DeepankarBhade[Deepankar Bhade], @*sirus*, https://twitter.com/gupta_shrinath[Shrinath Gupta] and @*Harsh Kapadia* talked about the https://betterprogramming.pub/the-pros-and-cons-monorepos-explained-f86c998392e1[pros and cons of monorepos].
+* @*Harsh Kapadia* shared https://benborgers.com/posts/navigator-sendbeacon[navigator.sendBeacon()] which makes requests without waiting for responses, so can be used to send user analytics data from web sites when the user closes the tab, thus not blocking the browser's main thread while the user is using the site.
+* @*Harsh Kapadia* talked about why one should not set the https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type[`Content-Type` header] manually and let the browser handle it. (The reason is that there is a file boundary string appended to the header value by the browser and manually setting the header overrides that, making the request fail.)
+* @*sirus* and @*Tushar Nankani* talked about Bumble's earning model.
+* Srinath Gupta asked https://twitter.com/code_magician[Viranchee Lotia] about why one should pursue a Masters degree.
+* https://linkedin.com/in/krishna-gadia[Krishna Gadia] talked about his US and https://www.gupshup.io/developer/home[Gupshup] experience.
+
+
+
+== OTC's Web Site!
+
+We have a web site now! :tada:
+
+Please visit https://ourtech.community[ourtech.community]!
+
+
+
+== Moving from Zulip to Telegram
+
+We are moving away from Zulip back to our original chat group on Telegram.
+
+Please download Telegram and then click on the link: https://t.me/OurTechComm[t.me/OurTechComm]
+
+

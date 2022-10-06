@@ -1,0 +1,17 @@
+Date: 10-04-2021
+
+Duration: 5 hr 45 min 
+
+==== Topics Discussed
+
+* @*Himanshu Sharma* shared his http://himanshusharma.tech/[portfolio] site made using Flutter web.
+* How colleges are making students suffer during these times as well.
+* We discussed about the never-ending war of what we should do first DSA(Competetive programming) or Development.
+* @*Himanshu Sharma* shared his experience with GSSoC 2020 and how disappointed he is with the current year's management.
+* We also talked about another issue faced in the life of student, i.e. whether they should go for post-graduation or placements.
+* @*sirus* pointed out how slowly RazorPay is working on their plugin for Flutter.
+* @*sirus* also pointed out how Flutter team is trying to pushing their plugins for community to maintain it.
+* We helped @*Pranav Dani* to choose which development he should go ahead with(we landed on the decision that he should continue with web dev).
+* @*Himanshu Sharma* also shared his analysis of what requirements companies generally have while hiring a flutter dev and what is the current market position for devs.
+
+

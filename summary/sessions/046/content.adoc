@@ -1,0 +1,55 @@
+Date: 25-09-2021
+
+Duration: 7 hr 30 min 
+
+==== Topics Discussed
+
+* General introductions.
+* @*Rishit Dagli* talked about how changing seeds might affect model accuracy. (https://twitter.com/ducha_aiki/status/1439850704559034369[Tweet])
+* @*Rutvik J* and @*Sreekaran Srinath* talked about Blockchain, DApps, Crypto and NFTs.
+ ** https://www.youtube.com/watch?v=Oz9zw7-_vhM[NFTs, Explained]
+ ** https://www.youtube.com/watch?v=bBC-nXj3Ng4[But how does Bitcoin actually work?]
+ ** https://www.instagram.com/p/CSuJ4PIsMqB[Consensus mechanisms]
+ ** https://twitter.com/lilbutterfly/status/1440622727983874057[Integrate the recycling of municipal waste in India with Blockchain technology]
+ ** https://www.youtube.com/watch?v=Ykyd4iRi5yc[Why Nobody Uses Decentralized Apps]
+* @*Sreekaran Srinath*, @*ishandeveloper* and @*Harsh Kapadia* gave advice on hackathons.
+ ** Ishan shared his amazing presentation for https://airpower.ishandeveloper.com[AirPower].
+ ** Sreekaran talked about the https://fellowship.mlh.io[MLH Fellowship].
+* https://twitter.com/KRISHNAGADIA[Krishna Gadia] talked about pre-aggregation of data for analytics and his company's shift from https://druid.apache.org[Apache Druid] to https://aws.amazon.com/redshift[Amazon RedShift].
+* @*Kartik Soneji* explained the difference between Java and C{pp} char.
+ ** All characters are unicode in Java, and can be more than 1 byte, but char is guaranteed to be 8 bits in C/C{pp}.
+
+
+
+==== Projects Showcased
+
+* https://twitter.com/KRISHNAGADIA[Krishna Gadia] showcased his hardware project using which he had made two games (_Car Racer_ and _Frog_). He had used a https://www.raspberrypi.org/[RPi] with a https://www.raspberrypi.org/products/sense-hat/[Sense HAT] mounted on it.
+* @*Pranav Dani* showcased his hackathon group project in Flutter, Firebase, Razorpay's SDK and Google ML Kit called _MedEasey_. (https://github.com/prasad1909/Bits-Bytes_3[GitHub])
+* {blank}
++
+[cols=2*]
+|===
+| @*Rishit Dagli* showcased his NNCLR pre-trained models that he had implemented from a research paper. (https://github.com/tensorflow/tfhub.dev/pull/86[GitHub]
+| https://keras.io/examples/vision/nnclr[keras.io])
+|===
+
+* https://twitter.com/gupta_shrinath[Shrinath Gupta] showcased updated to his Disaster Management Android app. He had used the https://developer.android.com/training/data-storage/room[Room] database.
+* @*sachin jangir* showcased his hackathon group project, which was an e-learning web app.
+
+
+
+== OTC's Web Site!
+
+We have a web site now! :tada:
+
+Please visit https://ourtech.community[ourtech.community]!
+
+
+
+== Moving from Zulip to Telegram
+
+We are moving away from Zulip back to our original chat group on Telegram.
+
+Please download Telegram and then click on the link: https://t.me/OurTechComm[t.me/OurTechComm]
+
+

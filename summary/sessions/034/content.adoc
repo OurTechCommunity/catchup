@@ -1,0 +1,30 @@
+Date: 03-07-2021
+
+Duration: 6 hr 34 min 
+
+==== Topics Discussed
+
+* General introductions.
+* We discussed a lot about resumes and reviewed each other's resumes and shared advices/ideas on improving it.
+* We talked about CDNs and GitHub's CDN Fastly.
+* @*Harsh Kapadia* shared a video about https://www.youtube.com/watch?v=kYhMnw4aJTw[HSTS]  [HTTP Strict Transport Security].
+* @*Harsh Kapadia* shared a https://harshkapadia2.github.io/networking/protocols.html[resource] on ports.
+* @*Chirag Nayyar* told everyone about https://blog.cloudflare.com/argo-tunnel[Agro Tunnels].
+* @*Parth Cheulkar* shared a resource http://colormind.io[colormind.io] for choosing colors.
+* @*ishandeveloper* shared a https://www.youtube.com/watch?v=s9p3nF4rFaU[video] regarding colors.
+* @*Pranav Dani* shared https://developer.apple.com/design/resources[Apple's Design Resources].
+* @*Harsh Kapadia* shared a resource which you can use to rate your resumes. https://resumeworded.com[Link].
+
+
+
+== Projects showcased
+
+* {blank}
++
+[cols=2*]
+|===
+| @*Saurabh Daware* shared a Visual Studio Code Theme he made https://marketplace.visualstudio.com/items?itemName=saurabh.calvera-dark[Link]
+| https://github.com/saurabhdaware/vscode-calvera-dark[GitHub].
+|===
+
+

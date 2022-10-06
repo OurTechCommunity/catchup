@@ -1,0 +1,44 @@
+Date: 15-05-2021
+
+Duration: 8 hr 15 min 
+
+==== Topics Discussed
+
+* General introductions.
+* @*ishandeveloper*, @*sirus* and @*Kartik Soneji* talked about `iframe` performance issues.
+* @*Sreekaran Srinath*, @*ishandeveloper* and @*Kartik Soneji* gave @*Harsh Kapadia* some references for portfolio web site templates.
+* @*Himanshu Sharma* and @*Sreekaran Srinath* talked about their internship and job interview experiences.
+* We talked about freelancing and portfolios.
+
+
+
+== Projects showcased
+
+* {blank}
++
+[cols=2*]
+|===
+| @*ishandeveloper* and @*Himanshu Sharma* showcased their Google DSC Solution Challenge project, which got into the top 50 projects in the world! (https://www.youtube.com/watch?v=dinzfBUDqi0[YouTube]
+| https://github.com/ishandeveloper/Swaasthy[GitHub])
+|===
+
+* {blank}
++
+[cols=2*]
+|===
+| @*Dheeraj Lalwani* showcased his URL shortener, _Kata_. (https://kata-flask.herokuapp.com/[Project]
+| https://github.com/dheerajdlalwani/url-shortener[GitHub])
+|===
+
+* {blank}
++
+[cols=2*]
+|===
+| @*Jai Kumar Dewani* showed his meme generator project. (https://jai-dewani.github.io/memeify/[Project]
+| https://github.com/jai-dewani/memeify[GitHub])
+|===
+
+* https://twitter.com/code_magician[Viranchee] showed us his first ever web site that he made using Next.js and https://chakra-ui.com/[Chakra UI]. (https://manasi.viranchee.com/[Project])
+* @*Harsh Kapadia* showed the first draft of his portfolio, which received a LOT of flak. (https://harshkapadia2.github.io/portfolio/[Portfolio])
+
+

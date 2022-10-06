@@ -1,0 +1,43 @@
+Date: 16-01-2021
+
+Duration: 6 hr 50 min 
+
+==== Topics Discussed
+
+* General introductions
+* A Blockchain based startup called https://cryptocodeschool.in[Crypto Code School].
+* @*sirus* gave us an update on his https://github.com/flutter/flutter/pull/73205[PR to the Flutter repo].
+* @*Mihika Gaonkar* and @*AYUSH BHOSLE* talked about Image Classification and TensorFlow Lite.
+* @*Harsh Kapadia* asked @*Kartik Soneji* about the importance of https://www.w3schools.com/cssref/pr_outline.asp[HTML outlines]. Kartik said that an outline is to show focus on an element like a button or input field (thus improving accessibility) and if one removes the default outline, there should be something that shows focus.
+* @*Harsh Kapadia* advised everyone to join https://twitter.com/BehereBaba/status/1349788507955294208[#SastaClubhouse meetups] for a lot of insightful conversations!
+* @*Harsh Kapadia* talked about ethics vs Capitalism in already profitable companies, who use unethical and exploitative means to maximize their profits. Some of the unfair activities that we talked about:
+ ** Tinder boosts profiles (increasing the number of matches) when the users don't pay up or cancel their subscriptions and ask them to pay up to view their matches.
+ ** Uber uses/used to use the battery percentage of user's mobiles as one of the parameters to decide the car ride fares. Prices go up when the battery levels are low.
+ ** Some Chinese lending apps message their user's contacts if they don't pay up, which creates a social pressure and embarrassment for the user.
+* @*Harsh Kapadia* also talked about how he doesn't appreciate closed and elitist communities. Everyone in the meet believed that open communities is the way to go, as they help out a lot of people. Yes, open communities come with their own sets of problems, but they will have to be managed.
+* We discussed privacy issues caused by smart speakers.
+
+
+
+== Projects showcased
+
+* https://bitcoinrate.netlify.app[Bitcoinrate], which shows the live Bitcoin rate.
+* @*Manan Gouhari* showed us his project called https://nuggets.vercel.app/[Nuggets], which creates a summary for any selected text. Really nice project!
+ ** Another service which creates a summary is the https://beta.openai.com/?app=content-consumption[Content Comprehension by Open AI].
+* @*Tushar Nankani* showed us his practice project called https://tusharnankani.github.io/sleek-parallax-effects[Sleek Parallax], which is a work in progress.
+* @*sirus* gave us an update on his poem-writing Flutter app called _Heartry_, which is a work in progress. It's coming along well!
+* @*AYUSH BHOSLE* showed us his Image Classification model for which he created a dataset of 4000+ images manually! He also integrated the model into a Flutter app!
+
+
+
+A special thank you to the two new admins of OTC, @*sirus* and @*Dheeraj Lalwani* for hosting the session for some time while @*Harsh Kapadia* was not available! :praise:
+
+See you all next Saturday (23rd Jan 2021) at 10:30 PM IST!
+
+link:/user_uploads/29573/nQsPxFzHXfuXTWRWukCOnYpL/image.png[Meet screenshot]
+
+
+
+____
+PS: Do watch @*Harsh Kapadia* and @*Seema Saharan*'s short interview with @*Syed Zubair Ahmed* on their Dev journey and difficulties: https://www.youtube.com/watch?v=3sySfAUmiOA[DevStory Ep. 2]
+____

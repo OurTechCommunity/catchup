@@ -1,0 +1,31 @@
+Date: 07-08-2021
+
+Duration: 09 hr 44 min 
+
+==== Topics Discussed
+
+* General Introductions.
+* @*Rishit Dagli* talked a lot about his published paper on machine learning.
+* @*Jay Kaku* asked about the difference between TF and TFJS.
+* @*Sanni Prasad* gave a detailed explanation about https://about.gitlab.com[GitLab's] CI/CD, and gave a walkthrough of the code for setting up CI/CD for a Flutter project.
+* {blank}
++
+[cols=3*]
+|===
+| @*Dheeraj Lalwani* introduced everyone to https://www.navidrome.org[Navidrome - An Open Source,  Self Hosted Music Server]
+| https://demo.navidrome.org[demo]
+| https://github.com/navidrome/navidrome[repo]
+|===
+
+* Aryan asked for some advice on an ECommerce Project idea for learning. He wanted to build something like https://strapi.io[Strapi] or  https://woocommerce.com[Woocommerce]
+* @*Sanni Prasad* discussed about HarmonyOS & its future!
+* @*Aryan Chavan* shared a https://www.youtube.com/watch?v=-Otg7JFMuVw[video] in which a guy virtualized macOS on arch Linux and got better performance than the starting mac pro at approx 2/3 the cost.
+* @*Dheeraj Lalwani* asked for a few resources about Data Warehouse & Mining & @*jaden furtado* shared http://ccs1.hnue.edu.vn/hungtd/DM2012/DataMining_BOOK.pdf[link-1] & https://anuradhasrinivas.files.wordpress.com/2013/03/data-warehousing-fundamentals-by-paulraj-ponniah.pdf[link-2]
+* We then discussed about application of Java in Banks & various financial institutions.
+* We also compared Java to C#.
+* We talked about the upcoming Blockchain Hackathon - https://buildingoutloud.solana.com[Solana]
+* Then, we discussed about pricing freelance projects.
+* We talked about work time estimation, especially, Agile methodology & how much companies follow it.
+* @*Sanni Prasad* shared a resource about https://www.atlassian.com/agile/project-management/estimation#:~:text=Story%20points%20are%20units%20of,work%2C%20and%20risk%20or%20uncertainty.&text=Relative%20estimation%20removes%20the%20emotional%20attachment[Story Point-Based Estimation]
+
+

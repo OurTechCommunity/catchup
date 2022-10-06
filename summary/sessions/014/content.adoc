@@ -1,0 +1,22 @@
+Date: 13-02-2021
+
+Duration: 5 hr 
+
+==== Topics Discussed
+
+* General introductions.
+* @*Aniket More* and @*Harsh Kapadia* talked about their web development experience.
+* We talked about Microsoft Excel becoming a programming language.
+* @*Harsh Kapadia* spammed @*Kartik Soneji*'s WhatsApp using @*Jai Kumar Dewani*'s https://blogs.jaid.tech/automate-whatsapp/[script].
+* @*Jai Kumar Dewani* told us about the work that he is doing at his internship at Carl Zeiss using .NET. He might have to use Angular in the future as well. :carrot:
+* @*Jai Kumar Dewani* and @*Kartik Soneji* had a talk about gRPC, JSON and gzip.
+* @*Kartik Soneji* gave a short explanation on WebRTC and @*Jai Kumar Dewani* shared https://www.notion.so/WebRTC-d6e722f7ec7f44378e721746345fba50[his notes on WebRTC].
+* @*Kartik Soneji* told us what http://www.robotstxt.org/[robots.txt] is and how some companies compromise their sensitive routes by putting the entire route in the file.
+* @*jaden furtado* told us about the cyber security issues that he had found on a company's web site and had reported them to the company. He found quite a few flaws! Kudos!
+* @*Kartik Soneji* showcased a Unicode normalization bug (feature?) in the Java compiler. @*sirus*  and @*Dheeraj Lalwani* tested  the C, C{pp}, C#, JavaScript, Dart and Rust compilers, but none of them have the same bug.
+* @*Dheeraj Lalwani* showcased a Russian Roulette script that has a 1 in 6 chance of formatting your entire system.
+`> [ $[ $RANDOM % 6 ] == 0 ] && rm -rf /*`
+* @*Kartik Soneji* tried the script on a Docker container, and got unlucky after 4 tries.
+* Explored KataCoda, a great website that provides free Playgrounds for Ubuntu, Docker, VSCode, Kubernetes and more! +
+https://katacoda.com/learn#playgrounds
+* Also tried the script on KataCoda and destroyed one of their VMs :grinning:

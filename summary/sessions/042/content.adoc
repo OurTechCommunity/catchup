@@ -1,0 +1,34 @@
+Date: 28-08-2021
+
+Duration: 7 hr 18 min 
+
+==== Topics Discussed
+
+* General introductions.
+* @*Harsh Kapadia* told everyone about https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()[CSS `clamp()`] for responsive font sizes.
+* https://www.linkedin.com/in/krishna-gadia[Krishna Gadia] explained what the Linux command `rm -rf /` does.
+ ** `rm` stands for 'remove'. It deletes files or directories
+ ** `-r` is a flag (option) that stands for 'recursive' and targets directories and files within directories till the bottommost level.
+ ** `-f` is a flag (option) that stands for 'force' and forces the command to delete all protected files. Basically allows a force delete.
+ ** `/` is the path to delete files from and '/' indicates the root folder and thus this command deletes every file present on a machine, including the OS. Only files loaded in the RAM make things work till the machine is not powered off. It won't restart.
+ ** It would be advisable to do this only in a new Docker container.
+* GitHub CodeSpaces, GitPod and KataCoda are based on Docker containers.
+* @*Jay Kaku*, https://www.linkedin.com/in/krishna-gadia[Krishna Gadia] and Santhoshi talked about a Garden Watering hardware idea for automatic sprinkler switching on and off. It was a long drawn out exciting discussion with things like solenoids, DC motors, servo motors, step motors, H bridges, Arduino Driver Shields, Power Shields and other hardware components being discussed.
+* @*Kartik Soneji* and https://www.linkedin.com/in/krishna-gadia[Krishna Gadia] told us about NoSQL and SQL vs columnar and row-based databases.
+ ** NoSQL and SQL is not related to columnar and row-based DBs. Columnar and row-based DBs are named on the basis of how data is stored. Columnar DBs have columns stored together on the disc while row-based DBs are stored row-wise on disc.
+ ** Columnar databases are mostly used for analytical querying in OLAP scenarios and row-based databases which are more efficient for querying are used in OLTP scenarios because of varying use cases.
+ ** Query syntax is the same.
+ ** MariaDB can handle both columnar and row-based data storage depending on the flags passed.
+* We talked about why denormalized data is good for analytical purposes.
+
+
+
+==== Projects Showcased
+
+* @*Omraj Sharma* showcased his design ideas for Instagram and Tinder. (https://dribbble.com/omrajsharma[Dribbble])
+* @*Sreekaran Srinath* showcased his portfolio https://sreekaran.com/[sreekaran.com].
+* https://www.linkedin.com/in/krishna-gadia[Krishna Gadia] showcased his hardware project using which he had made two games (Car Racer and Frog). He had used a https://www.raspberrypi.org/[RPi] with a https://www.raspberrypi.org/products/sense-hat/[Sense HAT] mounted on it.
+* We talked about how big companies take over small companies for their patents.
+* @*sirus* told about the story of Motorola and how it got split in 2 division.
+
+

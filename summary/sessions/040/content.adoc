@@ -1,0 +1,34 @@
+Date: 14-08-2021
+
+Duration: 09 hr 45 min 
+
+==== Topics Discussed
+
+* General Introductions.
+* Many projects were showcased in the 40th session of OTC CatchUps, more details coming up in the `Projects` section
+* We talked about analytics platforms & @*Chirag Nayyar*  informed @*Sreekaran Srinath* that, https://www.cloudflare.com/analytics[Cloudflare Analytics] have very low accuracy.
+* @*Chirag Nayyar* suggested we must use other technologies such as: https://www.kissmetrics.io[Kissmetrics] or https://clevertap.com[CleverTap] for analytics.
+* We also talked about online code execution server environments and virtualization & docker containers. [ @*jaden furtado*  's project coming up below]
+* We then discussed about freelancing and how important it is to very firmly discuss the project requirements & getting a proper contract signed before working on the project.
+* We also discussed about Test Coverages & @*ishandeveloper* told everyone about his PRs not getting merged for a long long time because of low test coverage and not being up to the standard.
+
+
+
+==== Projects Showcased
+
+* @*sirus* showcased his project: ToDo List which he made using Golang in the backend & HTML, CSS & JS on the frontend. He used https://gofiber.io[Fiber] which claims to be _An Express-inspired web framework written in Go._
+* @*ishandeveloper* showcased his project: ResumeBuilder, which he was working on as a Hackerrank Intern.
+* @*Dheeraj Lalwani* showcased his first completed freelance project: link:langved.in[Langved]
+* @*jaden furtado* showcased his freelance project: Online Python Code Editor & Runner project which he wrote in php as backend
+* @*Sreekaran Srinath* showcased his recent freelance project: http://nemmadiyoga.com[Nemmadi School Of Yoga]
+* @*Pranav Dani* showcased his https://github.com/PranavDani/JSON-blog[JSON Server] Project, in which he used https://www.npmjs.com/package/json-server[json-server] npm pacakge for the backend & HTML/CSS/JS on the frontend.
+* {blank}
++
+[cols=3*]
+|===
+| @*Rishit Dagli*  showcased his project:  https://www.tfwatcher.tech[TF Watcher]
+| https://github.com/Rishit-dagli/TF-Watcher[Repository]
+| https://rishit-dagli.github.io/TF-Watcher[Documentation],  which is a simple to use Python package and web app which allows you to monitor your Machine Learning training or testing process on mobile devices built specially for Google Colab, Azure ML and Kaggle.
+|===
+
+

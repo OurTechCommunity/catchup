@@ -612,6 +612,581 @@ image::054.jpg[alt="Meet screenshot", 600, 600]
 
 '''
 
+[#53]
+=== OTC CatchUp #53
+
+include::sessions/053/content.adoc[]
+
+==== Meet Screenshot
+
+image::053.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#52]
+=== OTC CatchUp #52
+
+include::sessions/052/content.adoc[]
+
+==== Meet Screenshot
+
+image::052.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#51]
+=== OTC CatchUp #51
+
+include::sessions/051/content.adoc[]
+
+==== Meet Screenshot
+
+image::051.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#50]
+=== OTC CatchUp #50
+
+include::sessions/050/content.adoc[]
+
+==== Meet Screenshot
+
+image::050.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#49]
+=== OTC CatchUp #49
+
+include::sessions/049/content.adoc[]
+
+==== Meet Screenshot
+
+image::049.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#48]
+=== OTC CatchUp #48
+
+include::sessions/048/content.adoc[]
+
+==== Meet Screenshot
+
+image::048.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#47]
+=== OTC CatchUp #47
+
+include::sessions/047/content.adoc[]
+
+==== Meet Screenshot
+
+image::047.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#46]
+=== OTC CatchUp #46
+
+include::sessions/046/content.adoc[]
+
+==== Meet Screenshot
+
+image::046.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#45]
+=== OTC CatchUp #45
+
+include::sessions/045/content.adoc[]
+
+==== Meet Screenshot
+
+image::045.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#44]
+=== OTC CatchUp #44
+
+include::sessions/044/content.adoc[]
+
+==== Meet Screenshot
+
+image::044.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#43]
+=== OTC CatchUp #43
+
+include::sessions/043/content.adoc[]
+
+==== Meet Screenshot
+
+image::043.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#42]
+=== OTC CatchUp #42
+
+include::sessions/042/content.adoc[]
+
+==== Meet Screenshot
+
+image::042.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#41]
+=== OTC CatchUp #41
+
+include::sessions/041/content.adoc[]
+
+==== Meet Screenshot
+
+image::041.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#40]
+=== OTC CatchUp #40
+
+include::sessions/040/content.adoc[]
+
+==== Meet Screenshot
+
+image::040.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#39]
+=== OTC CatchUp #39
+
+include::sessions/039/content.adoc[]
+
+==== Meet Screenshot
+
+image::039.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#38]
+=== OTC CatchUp #38
+
+include::sessions/038/content.adoc[]
+
+==== Meet Screenshot
+
+image::038.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#37]
+=== OTC CatchUp #37
+
+include::sessions/037/content.adoc[]
+
+==== Meet Screenshot
+
+image::037.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#36]
+=== OTC CatchUp #36
+
+include::sessions/036/content.adoc[]
+
+==== Meet Screenshot
+
+image::036.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#35]
+=== OTC CatchUp #35
+
+include::sessions/035/content.adoc[]
+
+==== Meet Screenshot
+
+image::035.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#34]
+=== OTC CatchUp #34
+
+include::sessions/034/content.adoc[]
+
+==== Meet Screenshot
+
+image::034.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#33]
+=== OTC CatchUp #33
+
+include::sessions/033/content.adoc[]
+
+==== Meet Screenshot
+
+image::033.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#32]
+=== OTC CatchUp #32
+
+include::sessions/032/content.adoc[]
+
+==== Meet Screenshot
+
+image::032.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#31]
+=== OTC CatchUp #31
+
+include::sessions/031/content.adoc[]
+
+==== Meet Screenshot
+
+image::031.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#30]
+=== OTC CatchUp #30
+
+include::sessions/030/content.adoc[]
+
+==== Meet Screenshot
+
+image::030.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#29]
+=== OTC CatchUp #29
+
+include::sessions/029/content.adoc[]
+
+==== Meet Screenshot
+
+image::029.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#28]
+=== OTC CatchUp #28
+
+include::sessions/028/content.adoc[]
+
+==== Meet Screenshot
+
+image::028.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#27]
+=== OTC CatchUp #27
+
+include::sessions/027/content.adoc[]
+
+==== Meet Screenshot
+
+image::027.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#26]
+=== OTC CatchUp #26
+
+include::sessions/026/content.adoc[]
+
+==== Meet Screenshot
+
+image::026.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#25]
+=== OTC CatchUp #25
+
+include::sessions/025/content.adoc[]
+
+==== Meet Screenshot
+
+image::025.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#24]
+=== OTC CatchUp #24
+
+include::sessions/024/content.adoc[]
+
+==== Meet Screenshot
+
+image::024.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#23]
+=== OTC CatchUp #23
+
+include::sessions/023/content.adoc[]
+
+==== Meet Screenshot
+
+image::023.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#22]
+=== OTC CatchUp #22
+
+include::sessions/022/content.adoc[]
+
+==== Meet Screenshot
+
+image::022.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#21]
+=== OTC CatchUp #21
+
+include::sessions/021/content.adoc[]
+
+==== Meet Screenshot
+
+image::021.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#20]
+=== OTC CatchUp #20
+
+include::sessions/020/content.adoc[]
+
+==== Meet Screenshot
+
+image::020.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#19]
+=== OTC CatchUp #19
+
+include::sessions/019/content.adoc[]
+
+==== Meet Screenshot
+
+image::019.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#18]
+=== OTC CatchUp #18
+
+include::sessions/018/content.adoc[]
+
+==== Meet Screenshot
+
+image::018.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#17]
+=== OTC CatchUp #17
+
+include::sessions/017/content.adoc[]
+
+==== Meet Screenshot
+
+image::017.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#16]
+=== OTC CatchUp #16
+
+include::sessions/016/content.adoc[]
+
+==== Meet Screenshot
+
+image::016.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#15]
+=== OTC CatchUp #15
+
+include::sessions/015/content.adoc[]
+
+==== Meet Screenshot
+
+image::015.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#14]
+=== OTC CatchUp #14
+
+include::sessions/014/content.adoc[]
+
+==== Meet Screenshot
+
+image::014.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#13]
+=== OTC CatchUp #13
+
+include::sessions/013/content.adoc[]
+
+==== Meet Screenshot
+
+image::013.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#12]
+=== OTC CatchUp #12
+
+include::sessions/012/content.adoc[]
+
+==== Meet Screenshot
+
+image::012.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#11]
+=== OTC CatchUp #11
+
+include::sessions/011/content.adoc[]
+
+==== Meet Screenshot
+
+image::011.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#10]
+=== OTC CatchUp #10
+
+include::sessions/010/content.adoc[]
+
+==== Meet Screenshot
+
+image::010.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#9]
+=== OTC CatchUp #9
+
+include::sessions/009/content.adoc[]
+
+==== Meet Screenshot
+
+image::009.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#8]
+=== OTC CatchUp #8
+
+include::sessions/008/content.adoc[]
+
+==== Meet Screenshot
+
+image::008.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#6]
+=== OTC CatchUp #6
+
+include::sessions/006/content.adoc[]
+
+==== Meet Screenshot
+
+image::006.jpg[alt="Meet screenshot", 600, 600]
+
+
+'''
+
+[#5]
+=== OTC CatchUp #5
+
+include::sessions/005/content.adoc[]
+
+==== Meet Screenshot
+
+image::005.jpg[alt="Meet screenshot", 600, 600]
+
+'''
+
 NOTE: For older summaries, please visit link:https://twitter.com/OurTechComm[our Twitter account (@OurTechComm)^].
 
 '''

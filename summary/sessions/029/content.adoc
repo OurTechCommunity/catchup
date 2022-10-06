@@ -1,0 +1,43 @@
+Date: 29-05-2021
+
+Duration: 6 hr 
+
+==== Topics Discussed
+
+* General introductions.
+* UI resources
+ ** https://lottiefiles.com/[LottieFiles]
+ ** https://uigoodies.com/[UI Goodies]
+ ** https://duckduckgo.com/?q=memphis+patterns[Memphis patterns]
+ ** https://rive.app/[Rive]
+ ** https://neumorphism.io/[Neumorphism]
+* We talked about images vs SVGs and the tradeoff between inline SVGs not needing separate network requests like images, but increasing the page render time.
+* Design Systems
+ ** https://material.io/design[Material Design]
+ ** https://ant.design/[Ant Design]
+ ** https://vercel.com/design[Vercel's design system]
+* We talked about why one should customize Bootstrap templates.
+* @*sirus* asked @*ishandeveloper*, @*Himanshu Sharma* and @*Kartik Soneji* for advice on cold e-mailing.
+
+
+
+== Projects showcased
+
+* @*Varun Mamtora* showcased two of his projects
+ ** FluffZone
+  *** Django, Bootstrap, CNN
+  *** https://fluffzone.herokuapp.com/[Web app], https://github.com/varunmamtora06/FluffZone[GitHub]
+ ** Fern Gallery
+  *** Django, Bootstrap, CNN
+  *** https://github.com/varunmamtora06/FernGallery[GitHub]
+* {blank}
++
+[cols=2*]
+|===
+| @*Aniket More* showcased his productivity web app _EverHustle_. (https://everhustle.netlify.app/[Web app]
+| https://github.com/DevelopersLeague/EverHustle-server[GitHub])
+|===
+
+* https://twitter.com/sakshamagg106[Saksham] showcased the design of a web site that he built and asked for suggestions.
+
+
