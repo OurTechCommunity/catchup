@@ -4,32 +4,31 @@ Duration: 6 hrs 4 mins
 
 ==== Topics Discussed
 
-* [Mustafa Saifee] shared his plan for pursuing a Masters Degree in Canada.
-    ** He also suggested to choose Canada over US for Masters because of better job opportunities.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] encouraged everyone to participate in the link:https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/[Credit Suisse Global Coding Challenge (GCC) 4.0].
+* Mustafa Saifee shared his plan for pursuing a Masters Degree in Canada.
+    ** He suggested choosing Canada over US for Masters because of better job opportunities.
     ** He also suggested to choose British Columbia over Ontario because it is closed to Seattle and Vancouver.
-* [Himanshu] finally ordered a PS5.
-* [Dheeraj] encouraged everyone to participate in the link:https://www.credit-suisse.com/pwp/hr/en/codingchallenge/#/[Credit Suisse Global Coding Challenge (GCC) 4.0].
-* We discussed about the link:https://hacktoberfest.com[Hacktoberfest^] and how this year it isn't all about code but also about designs, tests, blogs and writing documentation.
-* [Kartik] gave a few pointers on how to effectively contribute to open source.
+* We discussed about link:https://hacktoberfest.com[Hacktoberfest^] and how this year it isn't all about code but also about designs, tests, blogs and writing documentation.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] gave a few pointers on how to effectively contribute to open source.
     ** He encouraged everyone to use more open source software, find improvements in that software and contribute to those respective projects.
     ** He also suggested everyone to consider contributing to link:https://asciidoctor.org[Asciidoctor^]
-* We also discussed about the recent link:https://tseccodecell.com[CodeCell^] event — Race2Stack and how answers to someone the questions were visible in the source of the Google Form because of client-side regex validation.
-* [Kaushal] asked everyone on what Static File Storage to use and link:https://www.deta.sh[Deta Drive^], link:https://firebase.google.com/docs/storage[Firebase Storage], link:https://cloudinary.com[Cloudinary^] were some of the few names which came up during the discussion.
-* [Jay Aslaliya] told everyone how he is exploring Machine Learning and [Dheeraj] suggested him to not only focus on the theory but also to get hands on with datasets from link:https://www.kaggle.com[Kaggle] and to also read research papers.
-* We had a link:https://solana.com[Solana^] debugging session where [Kartik] was trying to debug a https://www.ibm.com/in-en/topics/smart-contracts[smart contract^].
+* We also discussed about the recent link:https://tseccodecell.com[CodeCell^] event — Race2Stack and how answers to some of the questions were visible in the source of the Google Form because of client-side regex validation.
+* link:https://twitter.com/clumsy_coder[Kaushal Joshi^] asked the use for Static File Storage, and link:https://www.deta.sh[Deta Drive^], link:https://firebase.google.com/docs/storage[Firebase Storage], link:https://cloudinary.com[Cloudinary^] were some of the few names which came up during the discussion.
+* Jay Aslaliya told everyone how he is exploring Machine Learning and link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] suggested him to not only focus on the theory but also to get hands on with datasets from link:https://www.kaggle.com[Kaggle] and to also read research papers.
+* We had a link:https://solana.com[Solana^] debugging session where link:https://twitter.com/KartikSoneji_[Kartik Soneji^] was trying to debug a https://www.ibm.com/in-en/topics/smart-contracts[smart contract^].
 * We also talked about link:https://en.wikipedia.org/wiki/Remote_procedure_call[Remote procedure call(RPC)^].
-* [Jaden] told everyone that he was working on link:https://thegraph.com/en[The Graph] which is an indexing protocol for querying networks like link:https://ethereum.org/en[Ethereum^] and link:https://ipfs.tech[IPFS^].
-* [Ayush Chauhan] shared how he got a DevRel role in link:https://solana.com[Solana^].
-* [Kartik] asked about a grant for some ideas he had about developing on link:https://solana.com[Solana^].
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] told everyone that he was working on link:https://thegraph.com/en[The Graph] which is an indexing protocol for querying networks like link:https://ethereum.org/en[Ethereum^] and link:https://ipfs.tech[IPFS^].
+* link:https://twitter.com/heyayushh[Ayush Chauhan^] shared how he got a DevRel role at link:https://solana.com[Solana^].
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] asked about a grant for some ideas he had about developing on link:https://solana.com[Solana^].
 * We also discussed some pros and cons of link:https://solana.com[Solana^].
     ** Pros: Increases transparency and security.
     ** Cons: Inefficient and lack of valid use case.
-* [Ayush Chauhan] suggested that everyone with dev experience should experience NFTs and the blockchain atleast once.
-* [Milan] discussed about how software evolves rapidly and engineers have to keep themselves updated.
+* link:https://twitter.com/heyayushh[Ayush Chauhan^] suggested that everyone with dev experience should experience NFTs and the blockchain atleast once.
+* Milan Chandiramani discussed about how software evolves rapidly and engineers have to keep themselves updated.
 * He also shared that he was studying about Quantum Computing and how it has the potential to break the modern web since it can break RSA and Diffie Hellman.
-
 
 ==== Projects Showcased
 
-* [Saif Saifee] told everyone that he scrapped his previous portfolio and is rebuilding it with ReactJS.
-* [Jaden] showcased Sentence Grammar Checker which is an NLP project.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] told everyone that he scrapped his previous portfolio and is rebuilding it with ReactJS.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased _Sentence Grammar Checker_ which is an NLP and ML based peoject.
+    ** The peoject uses link:https://flask.palletsprojects.com/en/2.2.x[Flask^], link:https://www.python.org[Python^] and JS.
