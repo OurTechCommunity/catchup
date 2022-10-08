@@ -23,7 +23,7 @@ Duration: 5 hr 48 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * @*Dheeraj Lalwani* Showcased his Open Source project, Equipstat.
  ** https://equipstat.herokuapp.com[Web app]

@@ -1,6 +1,6 @@
 Date: 27-03-2021
 
-Duration: 5 hr 43 min 
+Duration: 5 hr 43 min
 
 ==== Topics Discussed
 
@@ -13,10 +13,3 @@ Duration: 5 hr 43 min
 * @*Chirag Nayyar* gave us task to learn about AD (Active directory) and GitOps.
 * We also talked about the difference between Vulkan and OpenGL
 * A few questions like What is DevOps and What is open stack were also answered.
-
-
-
-See you all next time on <time:2021-04-3T22:30:00+05:30>!
-Do join in!
-
-link:/user_uploads/29573/YVlNi92npKW-JEXV0jFmigto/Screenshot-105.png[Meet Screenshot.png]

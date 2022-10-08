@@ -1,6 +1,6 @@
 Date: 14-08-2021
 
-Duration: 09 hr 45 min 
+Duration: 09 hr 45 min
 
 ==== Topics Discussed
 
@@ -22,13 +22,4 @@ Duration: 09 hr 45 min
 * @*jaden furtado* showcased his freelance project: Online Python Code Editor & Runner project which he wrote in php as backend
 * @*Sreekaran Srinath* showcased his recent freelance project: http://nemmadiyoga.com[Nemmadi School Of Yoga]
 * @*Pranav Dani* showcased his https://github.com/PranavDani/JSON-blog[JSON Server] Project, in which he used https://www.npmjs.com/package/json-server[json-server] npm pacakge for the backend & HTML/CSS/JS on the frontend.
-* {blank}
-+
-[cols=3*]
-|===
-| @*Rishit Dagli*  showcased his project:  https://www.tfwatcher.tech[TF Watcher]
-| https://github.com/Rishit-dagli/TF-Watcher[Repository]
-| https://rishit-dagli.github.io/TF-Watcher[Documentation],  which is a simple to use Python package and web app which allows you to monitor your Machine Learning training or testing process on mobile devices built specially for Google Colab, Azure ML and Kaggle.
-|===
-
-
+* @*Rishit Dagli*  showcased his project:  https://www.tfwatcher.tech[TF Watcher], https://github.com/Rishit-dagli/TF-Watcher[Repository], https://rishit-dagli.github.io/TF-Watcher[Documentation],  which is a simple to use Python package and web app which allows you to monitor your Machine Learning training or testing process on mobile devices built specially for Google Colab, Azure ML and Kaggle.

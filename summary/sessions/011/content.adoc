@@ -21,7 +21,7 @@ Duration: 7 hr 20 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * https://github.com/saideepesh000/I-remembered-only[I Remembered Only] by @*Sai Deepesh*. He made a pattern-remembering web app using React.
 * @*sirus* showed us the updates that he made to his Flutter poem-writing app _Heartry_. @*Aayush Pal* gave some good tips to improve the UI and UX!

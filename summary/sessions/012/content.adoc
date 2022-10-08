@@ -1,6 +1,6 @@
 Date: 30-01-2021
 
-Duration: 5 hr 00 min 
+Duration: 5 hr 00 min
 
 ==== Topics Discussed
 
@@ -11,14 +11,7 @@ Duration: 5 hr 00 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * @*Ashish Bhogesara* showed us his react https://blog.ashishvb.com/creating-a-multilingual-app-in-react[package] which helps in adding multilingual support to an react app
 * @*Dheeraj Lalwani* showed us his pagination implementation in his project.
-
-
-
-Thank you for coming!
-See you next Saturday (6th Feb 2021) at 10:30 PM IST!
-
-link:/user_uploads/29573/k-hzjoHZ1RDSHkN9kX5S2wPg/image.png[meet screenshot]

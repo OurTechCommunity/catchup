@@ -18,7 +18,7 @@ Duration: 6 hr 45 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * @*Tushar Nankani* shared a project which allows users to download chats from https://meet.jit.si/[Jitsi Meet]
 https://github.com/tusharnankani/download-jitsi-chat[Repository].

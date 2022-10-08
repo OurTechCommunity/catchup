@@ -1,6 +1,6 @@
 Date: 16-01-2021
 
-Duration: 6 hr 50 min 
+Duration: 6 hr 50 min
 
 ==== Topics Discussed
 
@@ -19,7 +19,7 @@ Duration: 6 hr 50 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * https://bitcoinrate.netlify.app[Bitcoinrate], which shows the live Bitcoin rate.
 * @*Manan Gouhari* showed us his project called https://nuggets.vercel.app/[Nuggets], which creates a summary for any selected text. Really nice project!
@@ -31,13 +31,3 @@ Duration: 6 hr 50 min
 
 
 A special thank you to the two new admins of OTC, @*sirus* and @*Dheeraj Lalwani* for hosting the session for some time while @*Harsh Kapadia* was not available! :praise:
-
-See you all next Saturday (23rd Jan 2021) at 10:30 PM IST!
-
-link:/user_uploads/29573/nQsPxFzHXfuXTWRWukCOnYpL/image.png[Meet screenshot]
-
-
-
-____
-PS: Do watch @*Harsh Kapadia* and @*Seema Saharan*'s short interview with @*Syed Zubair Ahmed* on their Dev journey and difficulties: https://www.youtube.com/watch?v=3sySfAUmiOA[DevStory Ep. 2]
-____

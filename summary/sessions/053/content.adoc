@@ -1,6 +1,6 @@
 Date: 13-11-2021
 
-Duration: 6 hr 4 min 
+Duration: 6 hr 4 min
 
 ==== Topics Discussed
 
@@ -20,7 +20,3 @@ Duration: 6 hr 4 min
 == Project Showcased
 
 * https://twitter.com/skxrxn[Sreekaran] showcased the working of dasha.ai by making a call to https://twitter.com/ashfaq_ulhaq[Ashfaq] using it.
-
-
-
-https://otc.zulipchat.com/user_uploads/29573/NKrk-2tWSuZmS_qLqAz3fv-U/image.png[Meet screenshot]

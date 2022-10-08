@@ -1,6 +1,6 @@
 Date: 07-08-2021
 
-Duration: 09 hr 44 min 
+Duration: 09 hr 44 min
 
 ==== Topics Discussed
 
@@ -8,15 +8,7 @@ Duration: 09 hr 44 min
 * @*Rishit Dagli* talked a lot about his published paper on machine learning.
 * @*Jay Kaku* asked about the difference between TF and TFJS.
 * @*Sanni Prasad* gave a detailed explanation about https://about.gitlab.com[GitLab's] CI/CD, and gave a walkthrough of the code for setting up CI/CD for a Flutter project.
-* {blank}
-+
-[cols=3*]
-|===
-| @*Dheeraj Lalwani* introduced everyone to https://www.navidrome.org[Navidrome - An Open Source,  Self Hosted Music Server]
-| https://demo.navidrome.org[demo]
-| https://github.com/navidrome/navidrome[repo]
-|===
-
+* @*Dheeraj Lalwani* introduced everyone to https://www.navidrome.org[Navidrome - An Open Source,  Self Hosted Music Server], https://demo.navidrome.org[demo], https://github.com/navidrome/navidrome[repo]
 * Aryan asked for some advice on an ECommerce Project idea for learning. He wanted to build something like https://strapi.io[Strapi] or  https://woocommerce.com[Woocommerce]
 * @*Sanni Prasad* discussed about HarmonyOS & its future!
 * @*Aryan Chavan* shared a https://www.youtube.com/watch?v=-Otg7JFMuVw[video] in which a guy virtualized macOS on arch Linux and got better performance than the starting mac pro at approx 2/3 the cost.

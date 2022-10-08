@@ -1,6 +1,6 @@
 Date: 18-09-2021
 
-Duration: 6 hr 
+Duration: 6 hr
 
 ==== Topics Discussed
 
@@ -23,14 +23,7 @@ Duration: 6 hr
 
 * Mayur shared a script that he had written in Python that was sending Tweets with random quotes.
 * @*Pranav Dani* showcased the projects he created as a part of https://javascript30.com[JavaScript30]. (https://pranavdani.github.io/JS30[Web app])
-* {blank}
-+
-[cols=2*]
-|===
-| @*Rishit Dagli* shared his Computer Vision Swin Transformer model that was featured on TensorFlow Hub and on the Keras web site. (https://tfhub.dev/rishit-dagli/swin-transformer/1[TF Hub]
-| https://keras.io/examples/vision/swin_transformers[keras.io])
-|===
-
+* @*Rishit Dagli* shared his Computer Vision Swin Transformer model that was featured on TensorFlow Hub and on the Keras web site. (https://tfhub.dev/rishit-dagli/swin-transformer/1[TF Hub], https://keras.io/examples/vision/swin_transformers[keras.io])
 * https://twitter.com/DeepankarBhade[Deepankar Bhade] showcased his project _Emoticon_, which lets one encrypt and decrypt messages in emojis. (https://emoticon.vercel.app[Web App])
 * Shrinath Gupta showcased his Disaster Management Android project.
 

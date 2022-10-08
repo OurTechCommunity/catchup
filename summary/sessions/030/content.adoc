@@ -1,6 +1,6 @@
 Date: 05-06-2021
 
-Duration: 6 hr 45 min 
+Duration: 6 hr 45 min
 
 ==== Topics Discussed
 
@@ -15,17 +15,10 @@ Duration: 6 hr 45 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * @*ishandeveloper* and @*Himanshu Sharma* shared https://www.youtube.com/watch?v=dinzfBUDqi0[Swaasthy - GDSC Solution Challenge 2021 Project Submission] and asked for advice to make their presentation better.
-* {blank}
-+
-[cols=2*]
-|===
-| @*sirus* showcased a To Do app that he made using Flutter Web and https://appwrite.io/[Appwrite]. (https://siruscodes.github.io/todo_appwrite/[Live demo]
-| https://github.com/siruscodes/todo_appwrite/[GitHub repo])
-|===
-
+* @*sirus* showcased a To Do app that he made using Flutter Web and https://appwrite.io/[Appwrite]. (https://siruscodes.github.io/todo_appwrite/[Live demo], https://github.com/siruscodes/todo_appwrite/[GitHub repo])
 * @*ishandeveloper* showcased his project that is a clone of Google Meet. (https://meet.ishandeveloper.com[Live demo])
  It has a whiteboard feature as well :point_down:
  link:/user_uploads/29573/fwt644k4AFHq0lehJYS07oZU/image.png[Meet clone whiteboard]

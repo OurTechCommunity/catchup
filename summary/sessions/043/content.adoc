@@ -1,6 +1,6 @@
 Date: 04-09-2021
 
-Duration: 11 hr 
+Duration: 11 hr
 
 ==== Topics Discussed
 
@@ -17,14 +17,7 @@ Duration: 11 hr
 * @*Hriday Keswani* showcased his 9x9 TicTacToe Android game he made using Java. (https://github.com/hridayK/9x9ticTacToe[GitHub])
 * @*Rishav Thakur* showcased
  ** His project _Voccapp_, which is a word flashcard web app like https://apps.ankiweb.net[Anki]. (https://www.voccapp.com[Web app])
- ** {blank}
-+
-[cols=2*]
-|===
-| He also made a spaced repetition algorithm package that he used in Voccapp as well. (https://github.com/StTronn/leitner-spaced-rep-js[GitHub]
-| https://www.npmjs.com/package/lt-spaced-repetition-js[NPM])
-|===
-
+ ** He also made a spaced repetition algorithm package that he used in Voccapp as well. (https://github.com/StTronn/leitner-spaced-rep-js[GitHub], https://www.npmjs.com/package/lt-spaced-repetition-js[NPM])
  ** An advanced https://sttronn.github.io/Drums-2.0[Drum machine]
  ** A https://sttronn.github.io/d3-music-viz[Music Visualizer].
 * @*ishandeveloper* is an inetrn at HackerRank and he showcased the HackerRank interns web site made using Three.js and React.js. It is CRAZY amazing! (https://www.hackerrank.com/interns[Web site])

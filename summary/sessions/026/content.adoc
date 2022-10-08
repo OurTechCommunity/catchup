@@ -1,6 +1,6 @@
 Date: 08-05-2021
 
-Duration: 10 hr 
+Duration: 10 hr
 
 ==== Topics Discussed
 
@@ -17,33 +17,12 @@ Duration: 10 hr
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * @*vedant jumle* shared a the files to his first game. (https://drive.google.com/file/d/1l0NbPBm9byKi7P65Sl0R5tDJuq9koXN4/view?usp=sharing[Game files])
-* {blank}
-+
-[cols=2*]
-|===
-| @*Gayatri Joshi* showcased her GitHub Home Page (old) clone. (https://gayatrivjoshi.github.io/github-home-page-clone/[Web site]
-| https://github.com/gayatrivjoshi/github-home-page-clone[GitHub repo])
-|===
-
-* {blank}
-+
-[cols=2*]
-|===
-| @*Harsh Kapadia* showed the static site he made for @*sirus*'s mobile app https://app.heartry.tk/[Heartry]. (https://www.heartry.tk/[Web site]
-| https://github.com/SirusCodes/Heartry/tree/gh-pages[GitHub repo])
-|===
-
-* {blank}
-+
-[cols=2*]
-|===
-| @*Dheeraj Lalwani* gave us updates on his URL shortener. (https://kata-flask.herokuapp.com/[Web app]
-| https://github.com/dheerajdlalwani/url-shortener[GitHub repo])
-|===
-
+* @*Gayatri Joshi* showcased her GitHub Home Page (old) clone. (https://gayatrivjoshi.github.io/github-home-page-clone/[Web site], https://github.com/gayatrivjoshi/github-home-page-clone[GitHub repo])
+* @*Harsh Kapadia* showed the static site he made for @*sirus*'s mobile app https://app.heartry.tk/[Heartry]. (https://www.heartry.tk/[Web site], https://github.com/SirusCodes/Heartry/tree/gh-pages[GitHub repo])
+* @*Dheeraj Lalwani* gave us updates on his URL shortener. (https://kata-flask.herokuapp.com/[Web app], https://github.com/dheerajdlalwani/url-shortener[GitHub repo])
 * Some of @*ishandeveloper*'s projects
  ** https://githubwrapped.tech
  ** https://airwatt.ishandeveloper.com

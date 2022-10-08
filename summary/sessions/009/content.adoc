@@ -1,6 +1,6 @@
 Date: 09-01-2021
 
-Duration: 8 hr 
+Duration: 8 hr
 
 ==== Topics Discussed
 
@@ -22,7 +22,7 @@ Duration: 8 hr
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * @*Fab* showcased her https://github.com/fabcodingzest/React-Movie-Library[React Movie Library] web app made using React.js, Tailwind CSS and https://www.themoviedb.org/documentation/api[The Movie DB API].
 * @*Preet Parekh* showed us a project on Devfolio that won a hackathon. The project is called https://devfolio.co/submissions/teleport[Teleport] and uses WebRTC, React.js, Node.js and other technologies.
@@ -36,11 +36,3 @@ Duration: 8 hr
 * @*sirus* and @*Kartik Soneji* debated on Flutter vs React Native.
 * Android vs iOS (and Apple's ecosystem).
 * GitHub vs GitLab: @*Kartik Soneji*, @*Preet Parekh* and @*Daksh Miglani* had a long conversation comparing the CI/CD process of these two web apps.
-
-
-
-A big thank you to everyone who attended! It means a lot! We hope to see you all in next week's CatchUp (Saturday, 16th Jan 2021, 10:30 PM IST)! :smiley:
-
-link:/user_uploads/29573/RZ-Tzbk-P9tduHTrLT5lEecR/image.png[Meet screenshot]
-
-

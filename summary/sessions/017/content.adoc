@@ -32,7 +32,7 @@ Duration: 7 hr 23 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * @*Saurabh Daware* gave a demo of his Static Site Generator https://abelljs.org/[Abell.js].
 * @*Aayush Pal* showed us a demo of a project that he is building for a client.

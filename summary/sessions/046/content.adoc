@@ -1,6 +1,6 @@
 Date: 25-09-2021
 
-Duration: 7 hr 30 min 
+Duration: 7 hr 30 min
 
 ==== Topics Discussed
 
@@ -25,14 +25,7 @@ Duration: 7 hr 30 min
 
 * https://twitter.com/KRISHNAGADIA[Krishna Gadia] showcased his hardware project using which he had made two games (_Car Racer_ and _Frog_). He had used a https://www.raspberrypi.org/[RPi] with a https://www.raspberrypi.org/products/sense-hat/[Sense HAT] mounted on it.
 * @*Pranav Dani* showcased his hackathon group project in Flutter, Firebase, Razorpay's SDK and Google ML Kit called _MedEasey_. (https://github.com/prasad1909/Bits-Bytes_3[GitHub])
-* {blank}
-+
-[cols=2*]
-|===
-| @*Rishit Dagli* showcased his NNCLR pre-trained models that he had implemented from a research paper. (https://github.com/tensorflow/tfhub.dev/pull/86[GitHub]
-| https://keras.io/examples/vision/nnclr[keras.io])
-|===
-
+* @*Rishit Dagli* showcased his NNCLR pre-trained models that he had implemented from a research paper. (https://github.com/tensorflow/tfhub.dev/pull/86[GitHub], https://keras.io/examples/vision/nnclr[keras.io])
 * https://twitter.com/gupta_shrinath[Shrinath Gupta] showcased updated to his Disaster Management Android app. He had used the https://developer.android.com/training/data-storage/room[Room] database.
 * @*sachin jangir* showcased his hackathon group project, which was an e-learning web app.
 

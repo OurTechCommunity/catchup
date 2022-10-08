@@ -18,7 +18,7 @@ Duration: 11 hr
 * @*sirus* asked whether joining a start-up as an intern was worth it, which lead everyone into a rabbit hole of discussing the state of start ups and why sometimes asking for equity is not worth it.
 * We helped @*Kartik Soneji* and @*Sreekaran Srinath* to plan a project for a hackathon.
 
-== Projects showcased
+==== Projects Showcased
 
 * @*jaden furtado* showed us a virus that he is building. (The reference video that he used: https://www.youtube.com/watch?v=2Ra1CCG8Guo[Writing Viruses for Fun, not Profit])
 * @*ishandeveloper* showcased his project *Airwatt* which amazed a lot of people! (https://airwatt.ishandeveloper.com/[Project demo])

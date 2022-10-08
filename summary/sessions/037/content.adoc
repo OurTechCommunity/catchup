@@ -16,7 +16,7 @@ Duration: 7 hr
 
 
 
-==== Projects showcased
+====== Projects Showcased
 
 * @*Pranav Dani* showcased a few projects that he was building while pursuing https://javascript30.com[JS30] course. https://pranavdani.github.io/JS30[Link To Project]
 

@@ -26,7 +26,7 @@ Duration: 5 hr 30 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * @*Harsh Kapadia* showed an amazing portfolio site: https://logartis.info, which uses https://threejs.org/[Three.js] and https://get.webgl.org/[WebGL] to generate an amazing experience! (Credits for Tweet: @*Saurabh Daware*)
 * @*Sreekaran Srinath*'s portfolio site: https://skrn.ml

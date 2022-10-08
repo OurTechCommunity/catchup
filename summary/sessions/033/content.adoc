@@ -19,7 +19,7 @@ Duration: 7 hr 45 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
 * @*Chirag Nayyar* shared his link:chiragnayyar.com[portfolio] site made using Wordpress.
 * @*Pranav Dani* showcased his https://pranavdani.github.io[portfolio]

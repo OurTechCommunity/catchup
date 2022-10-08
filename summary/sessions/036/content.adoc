@@ -1,6 +1,6 @@
 Date: 17-07-2021
 
-Duration: 6 hr 50 min 
+Duration: 6 hr 50 min
 
 ==== Topics Discussed
 
@@ -17,14 +17,6 @@ Duration: 6 hr 50 min
 
 
 
-== Projects showcased
+==== Projects Showcased
 
-* {blank}
-+
-[cols=2*]
-|===
-| Avikant Srivastava Shared his Project - AI Generated Faces - he made using https://github.com/streamlit/streamlit[Streamlit] -
-| http://face-gan-avikant.herokuapp.com[Live Demo]
-|===
-
-
+* Avikant Srivastava Shared his Project - AI Generated Faces - he made using https://github.com/streamlit/streamlit[Streamlit] - http://face-gan-avikant.herokuapp.com[Live Demo]

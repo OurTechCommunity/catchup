@@ -1,6 +1,6 @@
 Date: 12-12-2020
 
-Duration: 5 hr 
+Duration: 5 hr
 
 ==== Topics Discussed
 
@@ -19,6 +19,3 @@ Duration: 5 hr
 * GitHub vs GitLab vs BitBucket
 * Darshan told us about the Pavan Kumar live stream with Thomas.
 * We ended with the AIB placement series vids lol
-
-link:/user_uploads/29573/Zp-QE_YexfFxxttz5m5wN7_U/otc_catchup_5.jpeg[otc_catchup_5.jpeg]
-(PS: These are not all the people who joined in.)

@@ -1,6 +1,6 @@
 Date: 06-11-2021
 
-Duration: 5 hr 32 min 
+Duration: 5 hr 32 min
 
 ==== Topics Discussed
 
@@ -31,7 +31,3 @@ Duration: 5 hr 32 min
  ** _Colllab .so_ is a Figma-like implementation built using https://nextjs.org[Next.js] (React.js-based frontend framework), https://www.radix-ui.com[Radix UI] (unstyled and accessible components), https://tailwindcss.com[Tailwind CSS] (CSS library), https://yjs.dev[Yjs] (shared editing docs and other things), https://fly.io[fly.io] (edge deployment), https://livekit.io[LiveKit] (real-time audio communication), https://nodejs.org[Node.js] (JavaScript runtime on the server) and https://www.postgresql.org[PostgreSQL] (DB).
  ** _BMC_ is a Cryptocurrency sponsoring platform for creators built using https://soliditylang.org[Solidity] (language for developing smart contracts on Ethereum), https://nodejs.org[Node.js] (JavaScript runtime on the server), https://tailwindcss.com[Tailwind CSS] (CSS library), https://nextjs.org[Next.js] (React.js-based frontend framework), https://headlessui.dev[Headless UI] (unstyled and accessible components)
 * https://twitter.com/omtalk[Omkar Khair] shared his project _Dopemin_, which helps tag e-mails from different sources and turn them off. (https://dopemin.com[Web app])
-
-
-
-link:/user_uploads/29573/r-3-ED4WNxfoRlMM069unRxx/image.png[Meet screenshot]

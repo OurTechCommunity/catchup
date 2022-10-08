@@ -1,6 +1,6 @@
 Date: 11-09-2021
 
-Duration: 7 hr 55 min 
+Duration: 7 hr 55 min
 
 ==== Topics Discussed
 
@@ -35,15 +35,7 @@ Duration: 7 hr 55 min
  ** The working of his Next.js blog and the customizations that he made made.
  ** The https://www.100ms.live[100ms] documentation that he is building.
  ** His CLI Blog Store in Go.
-* {blank}
-+
-[cols=2*]
-|===
-| @*Pulkit Singh* showcased his _Voice Based Pacman_ group project. (https://pulkitsinghdev.tech/Voice-Based-Pacman[Web app]
-| https://github.com/devshub21/Voice-based-Pacman[GitHub])
-|===
-
-
+* @*Pulkit Singh* showcased his _Voice Based Pacman_ group project. (https://pulkitsinghdev.tech/Voice-Based-Pacman[Web app], https://github.com/devshub21/Voice-based-Pacman[GitHub])
 
 == OTC's Web Site!
 

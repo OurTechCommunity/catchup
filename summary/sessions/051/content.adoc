@@ -1,6 +1,6 @@
 Date: 30-10-2021
 
-Duration: 5 hr 27 min 
+Duration: 5 hr 27 min
 
 ==== Topics Discussed
 
@@ -25,7 +25,3 @@ Duration: 5 hr 27 min
  ** https://twitter.com/DhiruCodes/status/1455545450690318337[Details]
  ** https://github.com/navidrome/navidrome/pull/1379[Pull Request]
 * @*jaden furtado* showcased a single page social portfolio web app that he is building using a https://en.wikipedia.org/wiki/WYSIWYG[WYSIWYG editor].
-
-
-
-link:/user_uploads/29573/EU_b-2UtM3GfgCHIeCI00o-u/image.png[Meet screenshot]
