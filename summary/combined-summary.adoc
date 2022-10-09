@@ -3,7 +3,7 @@ Our Tech Community
 v1
 :toc:
 :favicon:				/public/img/favicon.ico
-:imagesdir: 			public/img/summary
+:imagesdir: 			/public/img/summary
 :icons:					image
 :iconsdir:				/public/img/summary/admonition_icons
 :docinfo:				private-head, shared
