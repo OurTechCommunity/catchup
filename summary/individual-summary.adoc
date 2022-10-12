@@ -11,6 +11,7 @@ v1
 :nofooter:
 :catchup_number:			000
 :catchup_display_number:	0
+:combined_summary_file:		combined-summary-template.adoc
 
 NOTE: For all summaries, please visit link:https://catchup.ourtech.community/summary[catchup.ourtech.community/summary].
 
@@ -24,17 +25,7 @@ NOTE: link:https://catchup.ourtech.community/showcase[Showcase a project on OTC 
 
 '''
 
-=== OTC CatchUp #{catchup_display_number} Summary
-
-include::sessions/{catchup_number}/content.adoc[]
-
-include::sessions/{catchup_number}/attendees.adoc[]
-
-==== Meet Screenshot
-
-image::{catchup_number}.jpg[alt="Meet screenshot", 600, 600]
-
-'''
+include::{combined_summary_file}[]
 
 NOTE: For all summaries, please visit link:https://catchup.ourtech.community/summary[catchup.ourtech.community/summary].
 

@@ -3,9 +3,9 @@
 
 Nice! 😉
 
-include::sessions/{catchup_number}/content.adoc[]
+include::content.adoc[]
 
-include::sessions/{catchup_number}/attendees.adoc[]
+include::attendees.adoc[]
 
 ==== Meet Screenshot
 
