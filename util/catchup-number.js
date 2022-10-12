@@ -1,4 +1,4 @@
-const { readdir } = require("fs/promises");
+const { readdir, readFile } = require("fs/promises");
 
 const path = __dirname + "/../summary/sessions";
 
@@ -30,7 +30,39 @@ async function getCatchupNumber(getNextCatchupNumber, addSuffix) {
     let catchUpNumber = allCatchUpNumbers[0];
 
     // Add one if need next catchup number
-    if (getNextCatchupNumber) catchUpNumber = catchUpNumber + 1;
+    if (getNextCatchupNumber) {
+        let lastCatchupPath =
+            path +
+            "/" +
+            catchUpNumber.toString().padStart(3, "0") +
+            "/content.adoc";
+        // Get number of weeks since last CatchUp
+        let lastCatchupContent = await readFile(lastCatchupPath);
+
+        let weeksElapsed = 1;
+        let dateMatch = lastCatchupContent
+            .toString()
+            .match(/^Date:\s*(\d{2}-\d{2}-\d{4})/i);
+        if (dateMatch) {
+            let [dd, mm, yyyy] = dateMatch[1].split("-");
+            // get time elapsed from last catchup date, 10:45pm IST
+            let lastCatchupDate = new Date(`${yyyy}-${mm}-${dd}T22:45+0530`);
+            let now = new Date();
+
+            let difference = now.getTime() - lastCatchupDate.getTime();
+            const ONE_WEEK = 7 * 24 * 60 * 60 * 1000;
+            if (difference > 0) weeksElapsed = Math.ceil(difference / ONE_WEEK);
+            else
+                console.warn(
+                    `warning: now < last catchup date: ${now} < ${lastCatchupDate}`
+                );
+        } else
+            console.warn(
+                `warning: could not parse date for catchup: ${lastCatchupPath}`
+            );
+
+        catchUpNumber += weeksElapsed;
+    }
 
     catchUpNumber = catchUpNumber.toString();
 
