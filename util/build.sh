@@ -45,14 +45,16 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 		catchup_image_folder="${summary_dir}/static/img";
 		catchup_image_extension="";
 		for image in "${catchup_image_folder}/${catchup_number}."*; do
-			if [ -z "${catchup_image_extension}" ]; then
-				# remove `${catchup_image_folder}/${catchup_number}.` from path,
-				# leaving only the extension
-				catchup_image_extension=${image##*${catchup_image_folder}/${catchup_number}.};
-			else
-				echo "warning: found multiples images for catchup #${catchup_number}, ignoring ${image}";
-			fi
-		done
+			if [ -e "${image}" ]; then
+				if [ -z "${catchup_image_extension}" ]; then
+					# remove `${catchup_image_folder}/${catchup_number}.` from path,
+					# leaving only the extension
+					catchup_image_extension=${image##*"${catchup_image_folder}"/"${catchup_number}".};
+				else
+					echo "warning: found multiple images for catchup #${catchup_number}, ignoring ${image}";
+				fi;
+			fi;
+		done;
 		if [ -z "${catchup_image_extension}" ]; then
 			echo "error: could not find image for catchup #${catchup_number} in: ${catchup_image_folder}";
 			exit 1;
