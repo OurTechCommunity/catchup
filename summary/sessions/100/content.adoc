@@ -1,0 +1,26 @@
+Date: 08-10-2022
+
+Duration: 9 hrs 48 mins
+
+==== Topics Discussed
+
+* We completed OTC CatchUps for 100 consecutive weeks 🥳
+* Anil Harwani shared the https://github.com/esnet/iperf[github.com/esnet/iperf] repository which is a measurement of TCP, UDP and SCTP network bandwidth.
+* Anil Harwani explained how a packet travels from the network card to application. https://www.cs.dartmouth.edu/~sergey/netreads/path-of-packet/Network_stack.pdf["Path of a packet in the Linux kernel stack"] explains it in-depth.
+* Anil Harwani shared how https://www.dpdk.org/[DPDK (Data plane development kit)] handles the networking in most mainframes.
+* Anil Harwani showed us some of the lesser known Linux commands.
+    ** https://man7.org/linux/man-pages/man1/lscpu.1.html[`lscpu`] - lscpu gathers CPU architecture information sysfs, /proc/cpuinfo and any applicable architecture-specific libraries (e.g. Librtas on PowerPC).
+    ** https://man7.org/linux/man-pages/man1/w.1.html[`w`] - w displays the information about the users currently on the machine, and their processes.
+    ** https://man7.org/linux/man-pages/man1/wall.1.html[`wall`] -  wall displays a message, or the contents of a file, or otherwise its standard input, on the terminals of all currently logged in users.
+* Anil Harwani spoke about https://www.techtarget.com/searchnetworking/definition/jumbo-frames[jumbo frames] which makes transmission fasters as the frame size are bigger which in turn takes less time to process.
+* Anil Harwani shared how a https://www.phoronix.com/news/Linux-AMD-Old-Chipset-WA[workaround in Linux Kernel was hurting modern AMD's performance].
+* Anil Harwani showed how https://www.geeksforgeeks.org/screen-command-in-linux-with-examples/[`screen` command] in Linux helps him in his workflow.
+    ** `screen` command in Linux provides the ability to launch and use multiple shell sessions from a single ssh session.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared https://missing.csail.mit.edu/[Missing semester] by MIT which is a course to learn the basics of Linux and networking.
+* We watched a https://www.youtube.com/watch?v=AnxrJiS5uKU[funny video] where an old finance minister of India talks about Tech and the Cloud.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] pointed out an issue with '/' at the end of the https://catchup.ourtech.community[CatchUp summary] page.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^], link:https://twitter.com/SirusTweets[Darshan Rander^], link:https://twitter.com/t3_pat[Pratik Thakare^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] voted, discussed, argued, and decided on contracting a multimillion-dollar corporation to deliver heat-sterilized dough and cheese discs with an industry-standard pipeline. Optimized the landing cost to area ratio of aforementioned discs.
+
+==== Projects Showcased
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his "Socket Programming: Measuring RTT and Throughput of a network connection" where he is measuring https://www.cloudflare.com/learning/cdn/glossary/round-trip-time-rtt/[RTT] and https://en.wikipedia.org/wiki/Network_throughput[throughput] using Java for his college assignment.
