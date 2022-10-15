@@ -1,4 +1,4 @@
-= OTC CatchUp #{catchup_display_number} Summary
+= link:/summary/{catchup_display_number}[OTC CatchUp #{catchup_display_number} Summary]
 Our Tech Community
 v1
 :favicon:					/public/img/favicon.ico
@@ -12,8 +12,6 @@ v1
 :catchup_number:			000
 :catchup_display_number:	0
 :combined_summary_file:		combined-summary-template.adoc
-
-'''
 
 == About OTC CatchUp
 

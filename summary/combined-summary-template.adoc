@@ -1,5 +1,7 @@
+ifndef::building_combined_summary[]
 [#{catchup_display_number}]
 === link:/summary/{catchup_display_number}[OTC CatchUp #{catchup_display_number}]
+endif::[]
 
 include::sessions/{catchup_number}/content.adoc[]
 

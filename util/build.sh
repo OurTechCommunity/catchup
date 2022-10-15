@@ -71,6 +71,7 @@ done;
 # Build combined summary site
 asciidoctor \
 	-a webfonts! \
+	-a building_combined_summary \
 	-o "${public_dir}/html/summary/combined-summary.html" \
 	"${summary_dir}/combined-summary.adoc";
 # Lazy load images
