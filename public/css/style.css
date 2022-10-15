@@ -168,15 +168,15 @@ button {
 }
 
 #showcase-form {
-  background-color: #f6f6f6;
-  border-radius: 5px;
-  color: #e0e0e0;
-  width: 50vw;
-  min-height: 2600px;
-  margin: 0;
-  border: none;
+	background-color: #f6f6f6;
+	border-radius: 5px;
+	color: #e0e0e0;
+	width: 50vw;
+	min-height: 2600px;
+	margin: 0;
+	border: none;
 }
-  
+
 @media screen and (max-width: 460px) {
 	h1 {
 		font-size: 60px;
@@ -189,7 +189,7 @@ button {
 
 	input {
 		padding: 0.2em 0.4em;
-  }
+	}
 }
 
 @media screen and (max-width: 1200px) {
