@@ -31,7 +31,7 @@ Duration: 7 hr 30 min
 
 
 
-== OTC's Web Site!
+==== OTC's Web Site!
 
 We have a web site now! :tada:
 
@@ -39,7 +39,7 @@ Please visit https://ourtech.community[ourtech.community]!
 
 
 
-== Moving from Zulip to Telegram
+==== Moving from Zulip to Telegram
 
 We are moving away from Zulip back to our original chat group on Telegram.
 

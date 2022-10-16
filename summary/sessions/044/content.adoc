@@ -37,7 +37,7 @@ Duration: 7 hr 55 min
  ** His CLI Blog Store in Go.
 * @*Pulkit Singh* showcased his _Voice Based Pacman_ group project. (https://pulkitsinghdev.tech/Voice-Based-Pacman[Web app], https://github.com/devshub21/Voice-based-Pacman[GitHub])
 
-== OTC's Web Site!
+==== OTC's Web Site!
 
 We have a web site now! :tada:
 
@@ -45,7 +45,7 @@ Please visit https://ourtech.community[ourtech.community]!
 
 
 
-== Moving from Zulip to Telegram
+==== Moving from Zulip to Telegram
 
 We are moving away from Zulip back to our original chat group on Telegram.
 

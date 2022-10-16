@@ -31,7 +31,7 @@ Duration: 8 hr
 
 
 
-== Debates
+==== Debates
 
 * @*sirus* and @*Kartik Soneji* debated on Flutter vs React Native.
 * Android vs iOS (and Apple's ecosystem).

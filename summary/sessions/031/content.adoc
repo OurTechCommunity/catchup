@@ -33,7 +33,7 @@ https://harshkapadia2.github.io/preview-markdown[Live Demo] | https://github.com
 
 
 
-== Past 3AM talks
+==== Past 3AM talks
 
 * @*Himanshu Sharma* shared his life experiences.
 * We also talked about issues we face such as burning out and how sometimes we need some spark/goal in life to get ourselves going.

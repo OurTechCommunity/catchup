@@ -26,7 +26,7 @@ Duration: 11 hr
  ** The PPT that he had made using MS PowerPoint really shocked everyone. It was SO good!
 * https://twitter.com/code_magician[Viranchee] showed us his first ever web site that he made using Next.js and https://chakra-ui.com/[Chakra UI]. (https://manasi.viranchee.com/[Project demo])
 
-== Communities
+==== Communities
 
 * @*kartikey rawat* shared links for various communities.
  ** https://linktr.ee/kugdurg[Kotlin User Group Kurg]

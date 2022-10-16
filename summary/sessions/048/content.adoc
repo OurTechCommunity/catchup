@@ -21,17 +21,17 @@ Duration: 7 hr 30 min
 
 
 
-== Advanced Git Workshop
+==== Advanced Git Workshop
 
 Here are the links to the talks and articles of our Hacktoberfest 2021 sessions!
 
-=== Git Basics - The Basics of Git and GitHub
+===== Git Basics - The Basics of Git and GitHub
 
 * Talk: https://youtube.com/watch?v=OmZHKCg7qf4
 * Web site: https://harshkapadia2.github.io/git_basics
 * Talk details: https://harshkapadia2.github.io/talks/git_basics
 
-=== Git Internals - How Does Git Work!?
+===== Git Internals - How Does Git Work!?
 
 * Talk: https://youtube.com/watch?v=cwnj8N8t46s
 * Articles
@@ -39,7 +39,7 @@ Here are the links to the talks and articles of our Hacktoberfest 2021 sessions!
  ** Git Objects: https://harshkapadia2.github.io/git_basics/#_git_objects
 * Talk details: https://harshkapadia2.github.io/talks/git_internals
 
-=== Working with CI/CD
+===== Working with CI/CD
 
 * Agenda:
  ** Testing
@@ -48,7 +48,7 @@ Here are the links to the talks and articles of our Hacktoberfest 2021 sessions!
 
 
 
-== OTC's Web Site!
+==== OTC's Web Site!
 
 We have a web site now! :tada:
 
@@ -56,7 +56,7 @@ Please visit https://ourtech.community[ourtech.community]!
 
 
 
-== Moving from Zulip to Telegram
+==== Moving from Zulip to Telegram
 
 We are moving away from Zulip back to our original chat group on Telegram.
 

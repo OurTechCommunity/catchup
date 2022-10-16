@@ -18,7 +18,7 @@ Duration: 7 hr 37 min
 
 
 
-== Resources shared
+==== Resources shared
 
 * https://www.evernote.com/shard/s295/client/snv?noteGuid=6da607c7-338a-4879-9ca0-3831ba21c164&noteKey=d5d85de9f50f7c16&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs295%2Fsh%2F6da607c7-338a-4879-9ca0-3831ba21c164%2Fd5d85de9f50f7c16&title=ML%2BWorkshop%2B20%2BJun%2B2020%2B-%2Bhttps%253A%252F%252Fis.gd%252Fvusate[Machine Learning Resources]
 by @*AYUSH BHOSLE*
