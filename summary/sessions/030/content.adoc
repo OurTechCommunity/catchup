@@ -1,0 +1,26 @@
+Date: 05-06-2021
+
+Duration: 6 hr 45 min
+
+==== Topics Discussed
+
+* General introductions.
+* @*Prateek Pardeshi* asked about a hosting issue that he was facing with his URL shortener. He wanted a TLS certificate. @*ishandeveloper* and @*Kartik Soneji* helped him out with proxying his custom domain through https://www.cloudflare.com/[Cloudflare].
+* @*Kartik Soneji* completely ripped apart a web app due to its lax security. He had complete access to their Firebase Realtime DB. The web app was built in React.js and the developers had not disabled their source maps as well.
+* @*Harsh Kapadia* asked @*Kartik Soneji* a doubt that he had in the https://www.youtube.com/watch?v=n0UqAXu_GAI&list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8&index=21[NAT] protocol.
+* https://twitter.com/anuraghazru[Anurag Hazra] shared his talk on https://www.youtube.com/watch?v=aKKbxfaCp5o[Advanced TypeScript].
+* @*Kartik Soneji* helped @*Prateek Pardeshi* with Cloudflare DNS routing.
+* We helped one of the members with NodeJS.
+* Also we shared our opinions on how we should learn new tech and everyone agreed on https://pbs.twimg.com/media/EySY8grUcAQxnNz?format=jpg[this] chart which was shared by @*Prateek Pardeshi*.
+
+
+
+==== Projects Showcased
+
+* @*ishandeveloper* and @*Himanshu Sharma* shared https://www.youtube.com/watch?v=dinzfBUDqi0[Swaasthy - GDSC Solution Challenge 2021 Project Submission] and asked for advice to make their presentation better.
+* @*sirus* showcased a To Do app that he made using Flutter Web and https://appwrite.io/[Appwrite]. (https://siruscodes.github.io/todo_appwrite/[Live demo], https://github.com/siruscodes/todo_appwrite/[GitHub repo])
+* @*ishandeveloper* showcased his project that is a clone of Google Meet. (https://meet.ishandeveloper.com[Live demo])
+ It has a whiteboard feature as well :point_down:
+ link:/user_uploads/29573/fwt644k4AFHq0lehJYS07oZU/image.png[Meet clone whiteboard]
+
+

@@ -1,0 +1,17 @@
+Date: 17-04-2021
+
+Duration: 5 hr 40 min 
+
+==== Topics Discussed
+
+* We discussed about the project idea which @*Shreesh Srivastava* had and wanted to work on. We concluded that he should start small.
+* @*Pranav Dani* asked why games are popular and why people pay for them.
+* @*ishandeveloper* told some stories (how he learned each stack he know 😜)
+* @*ishandeveloper* also showed his project (https://hotspoter.en.softonic.com/[hotspoter]) which he made years ago and which blew up.
+* We also had a small poetry session. @*sirus* @*ishandeveloper* @*Tushar Nankani* recited their poems.
+* @*ishandeveloper* and @*Himanshu Sharma* shared their project which also went viral (https://githubwrapped.tech/)
+* We talked about GitHub Externship and GSoC.
+* @*Jay Kaku* explained his project which he applied for GSoC. (navidrome)
+* We thought that https://github.com/marmelab/react-admin[react-admin] has implemented navigation rail incorrectly, so to find correct implementation we searched about it on material.io but we couldn't find it finally we verified it on gmail and other google services.
+
+

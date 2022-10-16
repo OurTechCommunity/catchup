@@ -1,0 +1,22 @@
+Date: 13-11-2021
+
+Duration: 6 hr 4 min
+
+==== Topics Discussed
+
+* General introductions.
+* We talked about how Microsoft is competing with link:notion.so[Notion] with it's latest offering called https://www.microsoft.com/en-us/microsoft-loop[Microsoft Loop], which has a similar look to Notion.
+* @*ishandeveloper* told us about his favourite https://www.reactindia.io[React India] talks. (Watch the conference: https://www.youtube.com/watch?v=fhfR8xDQrO0[Day 1] and https://www.youtube.com/watch?v=_JuLIGeXsxI[Day 2])
+* We had a long discussion on Macbook Air M1 and its capabilities, mainly discussing whether it is sufficient for all kinds of development.
+* We also talked the future of Gene Editing. https://en.wikipedia.org/wiki/CRISPR[CRISPR] is currently the only thing close to it.
+* @*Kartik Soneji* annoyed us by sending Base64 and other encoded texts on chats instead talking. :joy:
+* https://twitter.com/skxrxn[Sreekaran] had a giveaway of his powerbank with 4 participants.
+* https://twitter.com/ashfaq_ulhaq[Ashfaq] shared a video by Gaurav Sen on https://www.youtube.com/watch?v=vvhC64hQZMk[WhatsApp System Design].
+* https://twitter.com/code_magician[Viranchee] shared a playlist on https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_uej3aY39YB5pfW4SJ7LlN[Digital Design and Computer Architecture].
+* https://twitter.com/ashfaq_ulhaq[Ashfaq] shared a book reading club he found on Twitter. (https://twitter.com/ReademyHQ[ReademyHQ])
+
+
+
+== Project Showcased
+
+* https://twitter.com/skxrxn[Sreekaran] showcased the working of dasha.ai by making a call to https://twitter.com/ashfaq_ulhaq[Ashfaq] using it.

@@ -1,0 +1,46 @@
+Date: 18-09-2021
+
+Duration: 6 hr
+
+==== Topics Discussed
+
+* General introductions.
+* @*Rishit Dagli* shared his talk in which he explained a research paper (Perceiver General Perception with Iterative Attention by DeepMind). (https://www.youtube.com/watch?v=Ur0HHfQzg78[Talk])
+* To implement research papers, @*Rishit Dagli* advised checking for papers with some code on https://paperswithcode.com and then build up from there.
+* We talked about about https://www.guru99.com/mvc-vs-mvvm.html[MVC & MVVM architechtures].
+* https://twitter.com/DeepankarBhade[Deepankar Bhade] shared https://github.com/keroserene/rickrollrc[a bash script which Rick Rolls] by playing Rick Astley's 'Never Gonna Give You Up' on the terminal.
+* @*Rishit Dagli* talked about image classification using Swin Transformers, a general-purpose backbone for computer vision.
+* @*sirus* & Shrinath Gupta talked about Android.
+* https://twitter.com/code_magician[Viranchee] and @*Harsh Kapadia* talked about Cloudflare Workers & Cloudflare Pages.
+* @*Pranav Dani* talked about VirtualBox vs Docker.
+* @*Harsh Kapadia* suggested browser extensions for GitHub. (https://harshkapadia2.github.io/git_basics/#_browser_extensions_for_github[Octotree, Refined GitHub and GitZip for GitHub])
+* Shrinath Gupta talked about ROS (Robot Operating System) and showed a simple GUI he made on his laptop using ROS stuff.
+* @*Sreekaran Srinath* and https://twitter.com/code_magician[Viranchee] advised Shrinath Gupta on job salaries.
+
+
+
+==== Projects Showcased
+
+* Mayur shared a script that he had written in Python that was sending Tweets with random quotes.
+* @*Pranav Dani* showcased the projects he created as a part of https://javascript30.com[JavaScript30]. (https://pranavdani.github.io/JS30[Web app])
+* @*Rishit Dagli* shared his Computer Vision Swin Transformer model that was featured on TensorFlow Hub and on the Keras web site. (https://tfhub.dev/rishit-dagli/swin-transformer/1[TF Hub], https://keras.io/examples/vision/swin_transformers[keras.io])
+* https://twitter.com/DeepankarBhade[Deepankar Bhade] showcased his project _Emoticon_, which lets one encrypt and decrypt messages in emojis. (https://emoticon.vercel.app[Web App])
+* Shrinath Gupta showcased his Disaster Management Android project.
+
+
+
+== OTC's Web Site!
+
+We have a web site now! :tada:
+
+Please visit https://ourtech.community[ourtech.community]!
+
+
+
+== Moving from Zulip to Telegram
+
+We are moving away from Zulip back to our original chat group on Telegram.
+
+Please download Telegram and then click on the link: https://t.me/OurTechComm[t.me/OurTechComm]
+
+

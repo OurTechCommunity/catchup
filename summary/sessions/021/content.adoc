@@ -1,0 +1,18 @@
+Date: 03-04-2021
+
+Duration: 9 hr 12 min 
+
+==== Topics Discussed
+
+* @*sirus* and @*Sreekaran Srinath* discussed their thoughts about being inclusive.
+* We were later joined by Andrew Brown and we talked a lot about cloud services and #100DaysOfCloud.
+ ** He also showed his https://github.com/100DaysOfCloud/RealWorldCloudProject[RealWorldCloudProject] which will show employers that you can build an actual scalable project that demonstrates real world skills.
+* @*Chirag Nayyar* explained the importance of domain names and what kind of domain names we should have.
+* @*Sreekaran Srinath* shared his internship story like how he spammed 2000 companies.
+* We also talked rejection rules for job applicants.
+ ** Employers can't reject applications without having a look at it.
+* We also confirmed that there is a mini Punjab in Canada :laughing:.
+* We were disappointed how Gumroad tried to capitalize on #BlackLifesMatter.
+* Later @*sirus* and @*Kartik Soneji* stretched the session to setup the Chromium build dependencies and built Cronet, which is an optimised network library used in Chromium.
+
+

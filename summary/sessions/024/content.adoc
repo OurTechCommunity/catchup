@@ -1,0 +1,15 @@
+Date: 24-04-2021
+
+Duration: 7 hr 
+
+==== Topics Discussed
+
+* @*Himanshu Sharma* explained what is GitHub Externship program.
+* @*Himanshu Sharma* shared some reddit thread for preparing for interviews (https://www.reddit.com/r/cscareerquestions/[r/cscarrerquestions]) and getting freelance projects (https://www.reddit.com/r/forhire/[r/forhire]).
+* @*sirus* explained what are reputation(points) on StackOverflow.
+* @*Rishit Dagli* shared his project https://github.com/Rishit-dagli/Perceiver.
+* @*Rishit Dagli* told his story how he got chance to give a talk at TedX.
+* @*ishandeveloper* showed his project which he is working.
+* @*Shreesh Srivastava* had a confusion about how should he encrypt a cookiee, which ended up a conclusion that encrypting cookkie is really bad idea.
+
+

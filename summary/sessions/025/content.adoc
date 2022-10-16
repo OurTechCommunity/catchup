@@ -1,0 +1,32 @@
+Date: 01-05-2021
+
+Duration: 11 hr 47 min
+
+==== Topics Discussed
+
+* General introductions.
+* @*Jay Kaku* shared a GitHub repository for learning React.js step-by-step: https://github.com/Asabeneh/30-Days-Of-React[Asabeneh/30-Days-Of-React]
+* @*Dheeraj Lalwani* and @*Himanshu Sharma* talked about https://lingoport.com/what-is-i18n/[Internationalization (i18n)].
+* @*Chirag Nayyar* told us about a live session on getting started with certifications in Cloud. (https://www.youtube.com/watch?v=Y7fUa2N3Z8s[YouTube live stream])
+* @*Himanshu Sharma* and @*sirus* explained what https://developer.android.com/jetpack/compose[Jetpack Compose] is.
+* @*Chirag Nayyar* and Abhishek talked about https://spark.apache.org/[Spark] and https://hadoop.apache.org/[Hadoop].
+* @*Sreekaran Srinath* and @*Kartik Soneji* tried to use the CoWIN API to build a Twitter bot and web app.
+* @*ishandeveloper* and others had a discussion on the purpose of studying Computer Science and on the ways to go about deciding one's area of interest.
+* @*Gargi Sathe* asked @*sirus* about the target audience for his project. It spawned a good discussion on project building.
+* @*sirus* and @*Kartik Soneji* helped @*Shreesh Srivastava* with his React.js project.
+* @*sirus* and @*Kartik Soneji* were figuring out Google Drive integration in mobile apps. That helped @*sirus* answer his own question on https://stackoverflow.com/q/67344313/13268307[StackOverflow]. :joy:
+
+
+
+==== Projects Showcased
+
+
+* @*sirus* released his Flutter app _Heartry_! It is an app for poets and writers to seamlessly write and share their work in plain text or as images! (https://play.google.com/store/apps/details?id=com.darshan.heartry[Play Store], https://github.com/SirusCodes/heartry[GitHub repo])
+* @*Pranav Dani* showed us his budget tracker project that he made using Flask, PostgreSQL and Chart.js. (https://expense-tracker03.herokuapp.com/[Live demo], https://github.com/Pranav1642/Expense-Tracker[GitHub repo])
+* @*Yash Khatwani* showed us his Coin Hunter game the he made using the `pygame` package in Python. (https://github.com/YashKhatwani/Yash-_Coin_Hunter[GitHub repo])
+* @*Yash Khatwani* also showed us his web sites
+ ** https://project-for-bootcamp.yashkhatwani.repl.co/#[John Cena tribute page]
+ ** https://codepen.io/Yash_04/full/vYNQKeM[Documentation site]
+* @*Dheeraj Lalwani* showcased his URL shortener project made using Flask and MongoDB. (https://url-shortener-flask-mongodb.herokuapp.com[Live demo], https://github.com/dheerajdlalwani/url-shortener[GitHub repo])
+* @*Dheeraj Lalwani* also showcased his e-Commerce web app _Equipstat_ which he built with @*Chirag Lulla*. They have used Django and TailwindCSS to build their web app. (https://github.com/EquipstatTSEC/webstore[GitHub repo])
+* @*vedant jumle* showed us his remote code execution project that he made in Python. (https://github.com/maxDeCoder/remote_code_execution[GitHub repo])

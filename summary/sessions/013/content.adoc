@@ -1,0 +1,25 @@
+Date: 06-02-2021
+
+Duration: 7 hr 37 min
+
+==== Topics Discussed
+
+* General introductions
+* https://github.com/daviddao/awful-ai[Very wrong use of AI which is  currently on] was shared by @*Tushar Nankani*
+* What is GSOC?
+* How to apply for GSOC?
+* @*sirus*  took a tutorial on Git and showed the use of basic git commands.
+* https://docs.google.com/document/d/1FterAnph8iQyFWUyxfErwHiP4Q3yxY1qFkhxm5jTBPI/edit?usp=sharing[@*Kartik Soneji* 's proposal for MariaDB]
+
+==== Projects Showcased
+
+* https://sweetsbyroshan.github.io[A portfolio/projects site] which have flutter templates made by Roshan.
+* @*sirus* also showed his WIP portfolio site.
+
+
+
+== Resources shared
+
+* https://www.evernote.com/shard/s295/client/snv?noteGuid=6da607c7-338a-4879-9ca0-3831ba21c164&noteKey=d5d85de9f50f7c16&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs295%2Fsh%2F6da607c7-338a-4879-9ca0-3831ba21c164%2Fd5d85de9f50f7c16&title=ML%2BWorkshop%2B20%2BJun%2B2020%2B-%2Bhttps%253A%252F%252Fis.gd%252Fvusate[Machine Learning Resources]
+by @*AYUSH BHOSLE*
+* https://docs.google.com/document/d/11cTp4nzfPrwhu04_8hkNeFYCmNmUEsnyraXNIKsKwXc/edit?usp=sharing[@*Tushar Nankani* 's proposal for Winter Of Code]

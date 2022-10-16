@@ -1,0 +1,21 @@
+Date: 12-12-2020
+
+Duration: 5 hr
+
+==== Topics Discussed
+
+* Saurabh's job as a front end engg at Razorpay (the interview process, the languages and frameworks used there, etc).
+* Saurabh also told us how he made a compiler for a small language of his own! (It's available on NPM!) Milan gave his inputs on the topic as well.
+* www.pointerpointer.com intrigued us for some time lol
+* What is Svelte and how it compares with React.js.
+* JSX
+* Obscure languages like Haskell and Prolog.
+* Kartik's GSoC at MariaDB experience and story.
+* How MariaDB started, Oracle DB and the problems with MySQL.
+* Saket showed us his Quick Sort visualizer and his new AVL trees visualizer that is under development.
+* Darshan showed us his portfolio that is under development. He made it using Flutter Web.
+* DB engines like InnoDB.
+* What is Firebase, what are the services it has and what is Heroku in comparison.
+* GitHub vs GitLab vs BitBucket
+* Darshan told us about the Pavan Kumar live stream with Thomas.
+* We ended with the AIB placement series vids lol

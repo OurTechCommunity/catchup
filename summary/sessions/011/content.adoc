@@ -1,0 +1,31 @@
+Date: 23-01-2021
+
+Duration: 7 hr 20 min 
+
+==== Topics Discussed
+
+* General introductions.
+* @*Saurabh Daware* talked about an NPM package that he had made called https://www.npmjs.com/package/pwainit[PWAinit], which initializes the PWA development process without having to write basic service worker, `manifest.json`, push api and `index.html` code.
+* @*Harsh Kapadia* and @*Aayush Pal* talked about templating engines like https://ejs.co/[EJS], https://handlebarsjs.com/[Handlebars], https://jinja2docs.readthedocs.io/en/stable/[Jinja2] and http://mustache.github.io/[Mustache]. @*Saurabh Daware* talked about https://github.com/abelljs/abell-renderer[Abell Renderer], a templating engine that he built for a static site generator called https://abelljs.org/[Abell.js] that he is building!
+* @*Aayush Pal* talked about the tech stack of a product that he is building with someone. He is using https://gofiber.io/[Fiber] (An Express-inspired web framework written in Go.), Tailwind CSS and Handlebars. @*Harsh Kapadia* and @*Kartik Soneji* have been helping him with his doubts.
+* TSEC alum and @*Harsh Kapadia*'s neighbour https://www.linkedin.com/in/priyanka-agrawal-38556a133/[Priyanka Agrawal], who works as an Assistant Manager at PwC India (Cyber Security domain) also came in to answer some questions related to Cyber Security.
+ ** @*Harsh Kapadia*'s https://github.com/HarshKapadia2/networking['netwroking' repo] for resources on Networking, Network Security and Cryptography.
+ ** https://owasp.org/www-project-top-ten/[OWASP Top Ten] for web application security.
+ ** https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html[CCNA certification]
+* Priyanka, @*sirus* and @*Aayush Pal* talked about companies vs start ups and bootstrapped vs investor start ups.
+* @*Harsh Kapadia* talked about two resources that he has been referring to and really liking
+ ** https://learn.redoyourcss.com/[Redo Your CSS] for CSS basics. (https://www.redoyourcss.com/[Main web site])
+ ** https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1[Namaste 🙏 JavaScript] for JavaScript internals.
+* https://twitter.com/fahaad_abbadi[Fahaad] asked for advice on how to go about building projects.
+* @*Ashish Bhogesara*, @*Kartik Soneji* and @*Harsh Kapadia* talked about vanilla CSS, CSS frameworks (Bootstrap, Tailwind CSS, etc) and CSS pre-processors (SASS, LESS, etc). @*Ashish Bhogesara* shared an article that he wrote on https://geekyants.com/blog/building-your-own-css-framework-373[Building Your Own CSS Framework] as well.
+
+
+
+==== Projects Showcased
+
+* https://github.com/saideepesh000/I-remembered-only[I Remembered Only] by @*Sai Deepesh*. He made a pattern-remembering web app using React.
+* @*sirus* showed us the updates that he made to his Flutter poem-writing app _Heartry_. @*Aayush Pal* gave some good tips to improve the UI and UX!
+
+
+
+Thank you for coming!

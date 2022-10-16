@@ -1,0 +1,38 @@
+Date: 09-01-2021
+
+Duration: 8 hr
+
+==== Topics Discussed
+
+* General introductions
+* With WhatsApp changing its privacy policy, there was a lot of talk about privacy.
+ ** @*Preet Parekh* told us that https://www.gstatic.com/duo/papers/duo_e2ee.pdf[Google Duo uses one of Signal's encryption APIs]. (https://signal.org/docs/[Signal's encryption docs] - pretty interesting stuff.)
+ ** We talked about https://www.youtube.com/watch?v=YFFIbtvphpw[DEPA].
+ ** @*sirus* told us about a privacy focused app like https://www.signal.org/[Signal], called https://github.com/bcmapp/bcm-android[BCM].
+* @*Kartik Soneji* and @*Daksh Miglani* talked about https://www.youtube.com/watch?v=FExZvpVvYxA[WebRTC]. (https://www.notion.so/WebRTC-81aa14b8cd57447dac90d61bb1e68020[Daksh's notes])
+* While browsing through https://devfolio.co/[Devfolio]'s parent company https://2586labs.com/[2586Labs'] web site, I came across a nice article on https://www.notion.so/Why-your-application-didn-t-make-the-cut-9cbe1dcf2eea4bd8b8e62a200e04c2fb[Why your application didn't make the cut], by Devfolio. *Do make sure to have a read!*
+* @*sirus* gave us an update on the https://github.com/flutter/flutter/pull/73205[PR that he had opened] on the Flutter repo.
+* @*Harsh Kapadia*, @*Preet Parekh* and @*sirus* talked about https://twitter.com/BehereBaba/status/1347612366884593664?s=20[#SastaClubhouse meetups] and why everyone should attend them!
+* @*Harsh Kapadia* asked @*Saurabh Daware* and @*Preet Parekh* about PWAs and whether it was worthwhile to convert his web app to a PWA. They told him to beware of the caching problems with PWAs. They said that it was easy to get a PWA very wrong, so one should be cautious while building them.
+* @*Kartik Soneji* showed us an app of the company he is interning at, which he is trying to build for Android using React Native.
+* @*Harsh Kapadia* talked about his Imposter Syndrome.
+* @*Kartik Soneji* told us the story about the formation of MariaDB from MySQL after Oracle acquired it. He also told us how Oracle's DBs are really performant, but are propriety and are required to be run only on Oracle's hardware.
+* We reviewed a poorly written paper on reducing Bubble Sort's time complexity.
+* We talked about teaching as a profession.
+
+
+
+==== Projects Showcased
+
+* @*Fab* showcased her https://github.com/fabcodingzest/React-Movie-Library[React Movie Library] web app made using React.js, Tailwind CSS and https://www.themoviedb.org/documentation/api[The Movie DB API].
+* @*Preet Parekh* showed us a project on Devfolio that won a hackathon. The project is called https://devfolio.co/submissions/teleport[Teleport] and uses WebRTC, React.js, Node.js and other technologies.
+* @*Preet Parekh* also showed us his work at https://devfolio.co/[Devfolio] which involved https://github.com/gitcoinco/quadratic-funding[quadratic funding].
+* @*Dheeraj Lalwani* showed us a freelance project that he had worked on, called https://marathicomprehension.ml/[Marathi Comprehension].
+
+
+
+== Debates
+
+* @*sirus* and @*Kartik Soneji* debated on Flutter vs React Native.
+* Android vs iOS (and Apple's ecosystem).
+* GitHub vs GitLab: @*Kartik Soneji*, @*Preet Parekh* and @*Daksh Miglani* had a long conversation comparing the CI/CD process of these two web apps.

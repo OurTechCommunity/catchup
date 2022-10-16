@@ -1,0 +1,10 @@
+[#47]
+=== link:/summary/47[OTC CatchUp #47]
+
+include::content.adoc[]
+
+==== Meet Screenshot
+
+image::047.jpg[alt="Meet #47 screenshot", 600, 600]
+
+'''

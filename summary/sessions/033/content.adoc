@@ -1,0 +1,29 @@
+Date: 26-06-2021
+
+Duration: 7 hr 45 min 
+
+==== Topics Discussed
+
+* General introductions.
+* @*Rishit Dagli* shared his research paper https://www.youtube.com/watch?v=hWGcAgA0xFA[presentation] where he talked about deep learning models using BERT.
+* @*Ayush Bhosle* talked about how we spent 15+hrs to train an ML model on his local system.
+* @*Ayush Bhosle* also shared a course on https://courses.nvidia.com/courses/course-v1:DLI+L-GX-04+V1/about[Analogous Image Generation using CycleGAN]
+* @*Puru Vijay* shared https://win11.vercel.app/ which was inspired by his https://macos.vercel.app project.
+* We also talked about computer networking and how everything is working.
+* @*Tushar Nankani* talked about https://spennyapp.com/[spenny] which is an app that helps you to invest your change which you sent on mutual funds.
+* @*sirus* and @*Kartik Soneji* tried to see how spenny works and is our data secured with them or they are tracking our spending habits.
+* @*Chirag Nayyar* explained us all about DNS and hosting.
+* @*Chirag Nayyar* also explained us the benefits of https://www.cloudflare.com/en-gb[Cloudflare] DNS
+* @*Chirag Nayyar* shared is https://www.youtube.com/watch?v=HE9JP5-BdBg[talk] on how to set up a free custom email account.
+* @*Rishit Dagli* shared his https://www.youtube.com/watch?v=LTtgaJLo378&t=7624s[talk] on how to host ML Models
+
+
+
+==== Projects Showcased
+
+* @*Chirag Nayyar* shared his link:chiragnayyar.com[portfolio] site made using Wordpress.
+* @*Pranav Dani* showcased his https://pranavdani.github.io[portfolio]
+* @*Shreesh Srivastava* showcased his https://neo945.github.io/Portfolio[portfolio]
+* @*Ayush Bhosle* showcased his Machine Learning Project
+
+

@@ -1,0 +1,33 @@
+Date: 06-11-2021
+
+Duration: 5 hr 32 min
+
+==== Topics Discussed
+
+* General introductions.
+* @*Rishit Dagli* showcased his collection of six new pre-trained ConvMixer models that he https://tfhub.dev/rishit-dagli/collections/convmixer/1[published on TensorFlow Hub].
+* @*Rishit Dagli* also showcased a paper in which he invented a new Math theorem. (https://figshare.com/articles/preprint/A_Short_but_Interesting_Number_Theory_Theorem_pdf/16903252[Paper])
+* https://twitter.com/0xDaksh[Daksh Miglani]'s https://www.notion.so/WebRTC-81aa14b8cd57447dac90d61bb1e68020[WebRTC notes] were shared.
+* @*ishandeveloper* talked about his journey building https://www.hackerresume.com[HackerResume] at https://www.hackerrank.com[HackerRank] and how he brought down the live HackerResume web app down for about 10 minutes.
+* @*Rutvik J* talked about his work analysing transaction volume and other KPIs (Key Performance Indices) on Polygon. (https://dune.xyz/Orion/Polygon-projects[His Dune Analytics dashboard])
+* https://twitter.com/tweetmehrab[Salil Bajaj] shared a few podcast links pertaining to the Web3 domain
+ ** https://open.spotify.com/episode/3U4wMKyvMUhB83qf8FaA3I?si=biMddovqTPOJC0KyS53GFA[The Wonders of Web3, Finding the Right Amount of Crypto Regulation, the Untapped Potential of NFTs, etc.]
+ ** https://open.spotify.com/episode/5fuiS0ZmMxuUp7kpbO0M8J?si=tlZl-RJRStWcaB3W8wDvYQ[The creator of Ethereum on understanding Ethereum, NFTs, etc.]
+* https://twitter.com/omtalk[Omkar Khair] talked about how he got interested in Networking protocols and how he studies them from RFCs. He got particularly interested in e-mail related protocols like POP3, SMTP and DKIM.
+ ** @*Preet Parekh* shared a site explaining the working of e-mails in general. (https://explained-from-first-principles.com/email[Email explained from first principles])
+* https://twitter.com/omtalk[Omkar Khair] also talked about how https://www.cnet.com/news/how-pakistan-knocked-youtube-offline-and-how-to-make-sure-it-never-happens-again[Pakistan brought down YouTube] in 2008 by hijacking IP addresses.
+* @*Harsh Kapadia* shared a mind-boggling talk on https://www.youtube.com/watch?v=QjvyiyH4rr0[Scaling hotstar.com for 25 million concurrent viewers].
+* @*Jay Kaku* talked about how he has been exploring hardware languages and design.
+* @*Hardik Raheja* asked about the optimizations required to make apps perform better for newer OSs/processors/architectures.
+* https://twitter.com/omtalk[Omkar Khair] told us about FPGA chips https://www.forbes.com/sites/aarontilley/2016/10/17/iphone-7-fpga-chip-artificial-intelligence[that Apple uses in the iPhone camera], whose architecture is programmable.
+* @*sirus* asked for common architecture (Eg: MVC, MVVM, etc) and Design Patterns that people use, to improve his code style.
+* @*jaden furtado* showed us a https://resources.infosecinstitute.com/topic/what-is-nosql-injection[NoSQL Injection] and shared https://github.com/swisskyrepo/GraphQLmap[GraphQLmap], a scripting engine to interact with GraphQL endpoints for pentesting purposes.
+
+
+
+==== Projects Showcased
+
+* @*Preet Parekh* showcased two projects, _Colllab. so_ and _BMC_.
+ ** _Colllab .so_ is a Figma-like implementation built using https://nextjs.org[Next.js] (React.js-based frontend framework), https://www.radix-ui.com[Radix UI] (unstyled and accessible components), https://tailwindcss.com[Tailwind CSS] (CSS library), https://yjs.dev[Yjs] (shared editing docs and other things), https://fly.io[fly.io] (edge deployment), https://livekit.io[LiveKit] (real-time audio communication), https://nodejs.org[Node.js] (JavaScript runtime on the server) and https://www.postgresql.org[PostgreSQL] (DB).
+ ** _BMC_ is a Cryptocurrency sponsoring platform for creators built using https://soliditylang.org[Solidity] (language for developing smart contracts on Ethereum), https://nodejs.org[Node.js] (JavaScript runtime on the server), https://tailwindcss.com[Tailwind CSS] (CSS library), https://nextjs.org[Next.js] (React.js-based frontend framework), https://headlessui.dev[Headless UI] (unstyled and accessible components)
+* https://twitter.com/omtalk[Omkar Khair] shared his project _Dopemin_, which helps tag e-mails from different sources and turn them off. (https://dopemin.com[Web app])
