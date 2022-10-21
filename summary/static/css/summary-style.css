@@ -73,9 +73,9 @@ h1,
 
 .theme-switcher {
 	padding: 1.5em;
-	position: absolute;
-	top: 2.5vh;
-	right: 2vw;
+	position: fixed;
+	top: 3vh;
+	right: 1.5vw;
 	background: url("../../img/summary/moon.svg") no-repeat center;
 }
 
