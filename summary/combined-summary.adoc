@@ -1,6 +1,4 @@
 = OTC CatchUp Summaries
-Our Tech Community
-v1
 :toc:
 :favicon:				/public/img/favicon.ico
 :imagesdir: 			/public/img/summary
