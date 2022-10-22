@@ -1,0 +1,49 @@
+Date: 15-10-2022
+
+Duration: 4 hrs 42 mins
+
+==== Topics Discussed
+
+* We talked about Hacktoberfest and contributions to get started with.
+    ** `Good First Issue` tags on GitHub can help in finding good issues to contribute to.
+* link:https://twitter.com/VinatGoyal[Vinat Goyal^] shared his experience with ML at his internship.
+    ** He worked on an annotation tool for OCR.
+        *** Documents are treated as images for extracting data.
+        *** link:https://tesseract-ocr.github.io[Tessaract^] is used to extract text from documents and create word embeddings.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about SSH as a user application in the OSI (Open Systems Interconnection) layers and how the OS (Operating System) handles it.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his approach to implementing AI and ML papers. Most of his time is spent solving the problem at hand using mathematics and tools can vary based on their implementation.
+    ** Software stack could be based on link:https://www.python.org[Python^] or link:https://developer.mozilla.org/en-US/docs/Web/JavaScript[JS^].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about OS modes to justify the reasons behind not installing link:https://playvalorant.com/en-us[Valorant^] on local devices. OS runs on two modes: The User mode and the Kernel mode.
+    ** Processes running in kernel mode have unrestricted access to the hardware. Processes running in user mode have limited access to the CPU and the memory.
+    ** Most applications run in user mode, and core operating system components run in kernel mode.
+    ** link:https://playvalorant.com/en-us[Valorant^] asks for user permissions to attach itself with the kernel mode to verify the device and "prevent cheating" during online matches.
+        *** Since the game drivers have kernel mode access, they can potentially send any data about the local system to its servers that could not be trusted.
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about SMM - System Management Mode (Also known as ring -2) while explaining how the concept of Hypervisor and Virtual machines was established.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about his way of approaching reference books and articles, where he tends to read more about a term or topic that he doesn't understand and then return to the text for better context.
+    ** link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] suggested a more efficient way to separate the forest and the trees by putting bookmarks on the topics which one doesn't understand and then batching all the bookmarks and re-reading the text.
+    ** Some intriguing points to think about:
+        *** Incentive motivates people to do some work.
+        *** Learn to let go.
+        *** Intent can't be separated from perception.
+* We talked about inefficiencies in link:https://en.wikipedia.org/wiki/Transmission_Control_Protocol[TCP^], but the practice of using it stuck since it was easier to learn and implement for novice users.
+    ** The problem with link:https://www.techtarget.com/searchnetworking/definition/UDP-User-Datagram-Protocol[UDP^] is that data might not be received in sequence.
+    ** The advantage of using link:https://www.techtarget.com/searchnetworking/definition/UDP-User-Datagram-Protocol[UDP^] is the ability to broadcast packets over the subnet.
+    ** Harsh shared a video that talks about the inefficiencies of link:https://en.wikipedia.org/wiki/Transmission_Control_Protocol[TCP^] in detail by Hussein Nasser -  link:https://www.youtube.com/watch?v=CZw57SIwgiE[Threads and Connections].
+* link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about the link:https://en.wikipedia.org/wiki/Yellow_pages[yellow book (yellow pages)^] and how phone operators redirected users to common requirements. This issue was later fixed by an undertaker in the form of automatic telephone number routing. 
+    ** A pictorial representation for link:https://s3.amazonaws.com/theoatmeal-img/comics/minor_differences3/phonebook1.png[yellow books^].  
+* link:https://twitter.com/SirusTweets[Darshan Rander^] validated the credibility of Linux Kernel documentation resources for reading sensor data.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida] talked about JWT tokens and how he handles the expiry limit.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about project idea a project idea about performing analysis on the front end.
+* link:https://twitter.com/poonmjha[Poonam Jha^] and link:https://twitter.com/SirusTweets[Darshan Rander^] talked about work at MNC.
+    ** Transition from MNC to startup is difficult since work pressure increases.
+* We talked about the "apparent" discrepancy between "Think thrice before you say something" and how it might separate someone from their true nature.
+    ** Kindness is important, and sometimes being kind is a default nature for people.
+* link:https://twitter.com/poonmjha[Poonam Jha^] talked about writing an article for documenting roles existing in the IT industry so that it could help people in becoming aware of the various opportunities available.
+
+==== Projects Showcased
+
+* Harsh demonstrated packet tracing (ACK) for link:https://www.ssh.com/academy/ssh/protocol[SSH^] applications using link:https://www.wireshark.org[Wireshark^].
+    ** He talked about how handshakes work.
+    ** Every keystroke in link:https://www.ssh.com/academy/ssh/protocol[SSH^] terminal is synchronized with the server after which a response is sent back.
+    ** Harsh shared an article where he documented his learnings about SSH - link:https://networking.harshkapadia.me/ssh[SSH].
+        *** He demonstrated this behavior by pressing `l` and `s` and verifying it with link:https://www.wireshark.org[Wireshark^].
