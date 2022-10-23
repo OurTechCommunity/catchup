@@ -11,4 +11,8 @@ include::attendees.adoc[]
 
 image::{catchup_number}.jpg[alt="Meet #{catchup_display_number} screenshot", 600, 600]
 
+==== Special 69th CatchUp poster
+
+image::/public/img/69th-catchup.png[alt="69th CatchUp special poster", 600, 600]
+
 '''
