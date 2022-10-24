@@ -79,6 +79,12 @@ h1,
 	background: url("../../img/summary/moon.svg") no-repeat center;
 }
 
+@media screen and (max-width: 425px) {
+  .theme-switcher {
+    position: absolute;
+  }
+}
+
 .hidden {
 	display: none;
 }
