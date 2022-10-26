@@ -7,20 +7,20 @@ Duration: 5 hrs 11 mins
 * Happy Diwali 🪔
 * Anil Harwani asked link:https://twitter.com/KartikSoneji_[Kartik Soneji^] not to copy code from others as by just copying code you will never learn to do it by yourself.
 * link:https://twitter.com/mustafasaifee_[Mustafa Saifee^] shared his plans with AWS's upcoming student program.
-    ** The main points he is trying to target is many students are not getting proper guidance.
-    ** He is trying to tackle that by connecting AWS empolyees with the Students.
-    ** Currently the program is in focused groups, where they are trying to find what are students expecting and their motivation for joining.
+    ** The main point he is trying to target is many students are not getting proper guidance.
+    ** He is trying to tackle that by connecting AWS employees with the Students.
+    ** Currently the program is in focus groups, where they are trying to find what are students expecting and their motivation for joining.
 * link:https://twitter.com/mustafasaifee_[Mustafa Saifee^] shared about his experiences
     ** How he started with Mechanical Engineering and then dropped to start again with Computer Science Engineering.
-    ** Later how he got job at Microsoft and now in AWS.
+    ** Later how he got a job at Microsoft and now in AWS.
 * link:https://twitter.com/mustafasaifee_[Mustafa Saifee^], link:https://twitter.com/KartikSoneji_[Kartik Soneji^] and link:https://twitter.com/SirusTweets[Darshan Rander^] talked about contributing.
-    ** link:https://twitter.com/mustafasaifee_[Mustafa Saifee^] said that making a PR to the project even if they don't accept it you have learnt from it and you can also talk about it in your interviews.
-    ** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] disagreed by saying it's better to know if the projects actually needs it or not. This will show how you team skills are and you will also get the feeling of accomplishment.
+    ** link:https://twitter.com/mustafasaifee_[Mustafa Saifee^] said that making a PR to the project even if they don't accept it you have learned from it and you can also talk about it in your interviews.
+    ** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] disagreed by saying it's better to know if the projects need it or not. This will show how your team skills are and you will also get the feeling of accomplishment.
 * link:https://twitter.com/jai_dewani[Jai Dewani^] shared that he got promoted to Design Engineer at link:https://www.zeiss.co.in/corporate/home.html[Carl Zeiss].
 * link:https://twitter.com/KartikSoneji_[Kartik Soneji^] helped link:https://twitter.com/jai_dewani[Jai Dewani^] to reverse engineer link:https://get.interviewready.io[get.interviewready.io] so that he can use link:https://www.w3.org/TR/picture-in-picture/[PiP (Picture in picture)] mode in it.
-* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] shared link:https://www.tampermonkey.net[Tampermonkey] a browser extension which is used to inject JS in websites.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] shared link:https://www.tampermonkey.net[Tampermonkey] a browser extension that is used to inject JS in websites.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] helped link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida] to figure out state management dependency issue in his Flutter app.
 
 ==== Projects Showcased
 
-* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] showed us his implemenation of link:https://en.wikipedia.org/wiki/Minimum_spanning_tree[MST (Minimum Spanning Tree)^] where he generates link:https://mermaid-js.github.io/[MermaidJs] code to show his final MST.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] showed us his implementation of link:https://en.wikipedia.org/wiki/Minimum_spanning_tree[MST (Minimum Spanning Tree)^] where he generates link:https://mermaid-js.github.io/[MermaidJs] code to show his final MST.
