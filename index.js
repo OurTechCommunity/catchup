@@ -7,8 +7,22 @@ require("dotenv").config();
 
 const app = express();
 
-const deta = Deta(process.env.DETA_PROJECT_KEY);
-const db = deta.Base(process.env.DATABASE_NAME);
+let db = null;
+if (process.env.DETA_PROJECT_KEY) {
+	const deta = Deta(process.env.DETA_PROJECT_KEY);
+	db = deta.Base(process.env.DATABASE_NAME);
+} else {
+	db = {
+		async put(value, key) {
+			this[key] = value;
+		},
+		async get(key) {
+			return {
+				value: this[key]
+			};
+		}
+	};
+}
 
 // Static files
 app.use("/public", express.static(__dirname + "/public"));
