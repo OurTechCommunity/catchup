@@ -1,0 +1,25 @@
+Date: 22-10-2022
+
+Duration: 5 hrs 11 mins
+
+==== Topics Discussed
+
+* Happy Diwali 🪔
+* Anil Harwani asked link:https://twitter.com/KartikSoneji_[Kartik Soneji^] to not copy code for assignments from others since by copying code, we will never learn to do it by ourselves.
+* link:https://twitter.com/mustafasaifee_[Mustafa Saifee^] shared his plans with AWS's upcoming student program.
+    ** The problem being targeted is students not being able to proper guidance.
+    ** With the program, they will try to tackle it by connecting AWS employees with the students.
+    ** Currently, the program is in focus groups where they are trying to learn more about what students expect and what motivates them to enroll.
+* link:https://twitter.com/mustafasaifee_[Mustafa Saifee^] shared about his life experiences:
+    ** How he started with Mechanical Engineering and then dropped out to start again with Computer Science Engineering.
+    ** Later, he described how he got a job at Microsoft and now working in AWS.
+* link:https://twitter.com/mustafasaifee_[Mustafa Saifee^], link:https://twitter.com/KartikSoneji_[Kartik Soneji^] and link:https://twitter.com/SirusTweets[Darshan Rander^] talked about contributing in Open Source Softwares.
+    ** link:https://twitter.com/mustafasaifee_[Mustafa Saifee^] said that making a PR to the project - even if it is not accepted - we would have learned a lot from it and that we could talk about it in interviews.
+    ** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] disagreed by saying that it would be better to know if the projects need it or not. This will show how an individual's team skills are and you will also get the feeling of accomplishment that your code is running on thousands/millions of devices and helping others.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] helped link:https://twitter.com/jai_dewani[Jai Dewani^] to reverse engineer link:https://get.interviewready.io[get.interviewready.io] so that he can use link:https://www.w3.org/TR/picture-in-picture/[PiP (Picture in picture)] mode in it.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] shared link:https://www.tampermonkey.net[Tampermonkey] a browser extension that is used to inject JS in websites.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] helped link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida] to figure out state management dependency issue in his Flutter app.
+
+==== Projects Showcased
+
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] showcased his implementation of link:https://en.wikipedia.org/wiki/Minimum_spanning_tree[MST (Minimum Spanning Tree)^] where he generates link:https://mermaid-js.github.io/[MermaidJs] code to show his final MST.
