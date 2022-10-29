@@ -42,6 +42,7 @@ jobs:
               run: npm run lint:check
 
     build:
+        needs: lint
         if: startsWith(github.ref, 'refs/pull/')
         runs-on: ubuntu-latest
         container: "docker://asciidoctor/docker-asciidoctor:latest"
@@ -53,6 +54,7 @@ jobs:
               run: ./util/build.sh
 
     build-and-deploy:
+        needs: lint
         if: startsWith(github.ref, 'refs/heads/')
         runs-on: ubuntu-latest
         container: "docker://asciidoctor/docker-asciidoctor:latest"
