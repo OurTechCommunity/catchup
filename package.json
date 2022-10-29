@@ -5,7 +5,9 @@
 	"main": "index.js",
 	"scripts": {
 		"start": "sh util/build.sh && nodemon index.js",
-		"alt-start": "./util/build.sh && nodemon index.js"
+		"alt-start": "./util/build.sh && nodemon index.js",
+		"lint:check": "prettier --check .",
+		"lint": "prettier --write ."
 	},
 	"repository": {
 		"type": "git",

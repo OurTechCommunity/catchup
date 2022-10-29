@@ -27,6 +27,20 @@ on:
     workflow_dispatch: # Allows manual execution of workflow
 
 jobs:
+    lint:
+        if: startsWith(github.ref, 'refs/pull/') || startsWith(github.ref, 'refs/heads/')
+        runs-on: ubuntu-latest
+        container: "docker://node:18"
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Install dev (including linting) dependencies
+              run: npm install --only=dev
+
+            - name: Perform linting check
+              run: npm run lint:check
+
     build:
         if: startsWith(github.ref, 'refs/pull/')
         runs-on: ubuntu-latest
