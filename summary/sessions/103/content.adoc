@@ -1,0 +1,25 @@
+Date: 29-10-2022
+
+Duration: 3 hrs 39 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/AnxKhn[Anas Khan^] asked link:https://twitter.com/furtado_jaden[Jaden Furtado^] how one can submit IP address in link:https://github.com/JadenFurtado/geoAbuseIPDB[AbuseIP DB^].
+    ** AbuseIP DB is a DB of IP address that tried to attack a system in past.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] pointed him to the the link:https://www.abuseipdb.com/report[reporting page^] on site.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared his recent contributions to link:https://github.com/microsoft/winget-cli/pull/2650[winget-cli] and link:https://github.com/fluttercommunity/plus_plugins/pull/1295[plus_plugins].
+    ** In the link:https://github.com/microsoft/winget-cli/pull/2650[winget-cli] he created a spec for a selector while installing a package if there are multiple matches.
+    ** In the link:https://github.com/fluttercommunity/plus_plugins/pull/1295[plus_plugins] he replaced link:https://pub.dev/packages/url_launcher[url_launcher (Flutter plugin)] with it's platform specific versions.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] asked link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] when you should clean your laptop from inside.
+    ** link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] suggested doing it once in 6 months.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared the link:https://research.ibm.com/blog/ibm-artificial-intelligence-unit-aiu[blog] of IBM releasing a new chip for ML training.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] asked what is the difference between NVIDIA's GPU, Google's Tensor and this chip. To which link:https://twitter.com/kaku_jay[Jay Kaku^] said the use cases of them are very different. NVIDIA is general, Tensor is for running the model and this one is for training them.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared a link:https://github.com/IBM/aihwkit[IBM's Analog Hardware Acceleration Kit^] a project for AI development.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^], link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about link:https://deta.space[deta.space^] and what is the future of it.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared link:http://github.com/kubernetes/test-infra[testing infra^] and link:http://testgrid.k8s.io[tests site^] of kubernetes.
+
+==== Projects Showcased
+
+* link:https://twitter.com/AnxKhn[Anas Khan^], link:https://twitter.com/NinadNaik07[Ninad Naik^] and Ayesha Nagdawala showcased "Passvault - Password Manager" as password manager made using Java Swing and MySQL.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased link:https://github.com/JadenFurtado/geoAbuseIPDB[geo AbuseIP DB^].
+    ** It is wrapper around https://www.abuseipdb.com/[AbuseIP DB^] which helps him to plot IPs into maps using http://iplocation.com/[IPlocation]
