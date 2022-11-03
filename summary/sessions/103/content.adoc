@@ -5,8 +5,8 @@ Duration: 3 hrs 39 mins
 ==== Topics Discussed
 
 * link:https://twitter.com/AnxKhn[Anas Khan^] asked link:https://twitter.com/furtado_jaden[Jaden Furtado^] how one can submit IP address in link:https://github.com/JadenFurtado/geoAbuseIPDB[AbuseIP DB^].
-    ** AbuseIP DB is a DB of IP address that tried to attack a system in past.
-    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] pointed him to the the link:https://www.abuseipdb.com/report[reporting page^] on site.
+    ** AbuseIP DB is a DB of IP addresses that have tried to attack a system in the past.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] pointed him to the the link:https://www.abuseipdb.com/report[reporting page of AbuseIP DB^].
 * link:https://twitter.com/SirusTweets[Darshan Rander^] shared his recent contributions to link:https://github.com/microsoft/winget-cli/pull/2650[winget-cli] and link:https://github.com/fluttercommunity/plus_plugins/pull/1295[plus_plugins].
     ** In the link:https://github.com/microsoft/winget-cli/pull/2650[winget-cli] he created a spec for a selector while installing a package if there are multiple matches.
     ** In the link:https://github.com/fluttercommunity/plus_plugins/pull/1295[plus_plugins] he replaced link:https://pub.dev/packages/url_launcher[url_launcher (Flutter plugin)] with it's platform specific versions.
@@ -19,7 +19,7 @@ Duration: 3 hrs 39 mins
     ** link:https://dev.to/byteslash/deta-space-what-is-it-and-why-is-it-the-future-52fj[More on Deta Space^]
 * link:https://kubernetes.io[Kubernetes^] (K8s)
     ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about his experience at link:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america[KubeCon and CloudNativeCon North America 2022^].
-    ** Rishit talked about the cost of running the K8s project and the improvements to the project's registry in upcoming versions to make it more efficient, so that all requests for packages are not made to the main K8s registry.
+    ** Rishit talked about the cost of running the K8s project and the improvements to the project's registry in upcoming versions to make it more efficient so that all requests for packages are not made to the main K8s registry.
     ** Rishit also told us about Release Engineering at K8s which handles all release procedures such as identifying flaky tests, deciding how to release a particular version, in what manner (phased or all at once), etc.
     ** Rishit shared tests of some of the K8s projects
         *** link:https://testgrid.k8s.io[testgrid.k8s.io^]
@@ -34,7 +34,7 @@ Duration: 3 hrs 39 mins
     ** Transitioning (fitting) employees, laying come employees off, handling employee stock conversions, deciding salaries, etc.
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about the hostile takeover of Twitter, how the firing of Twitter higher-ups is not related to Recession, corporate buyouts and link:https://corporatefinanceinstitute.com/resources/knowledge/deals/golden-parachute[Golden Parachutes^].
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how we all are too harsh on ourselves and how we need to understand ourselves better.
-* Aditya also touched upon the fact that good advice is nice to have, but one should understand the context in which it is presented. He talked about the importance of context to be able to understand multiple things, and interpret and apply things well.
+* Aditya also touched upon the fact that good advice is nice to have, but one should understand the context in which it is presented. He talked about the importance of context to be able to understand multiple things and interpret and apply things well.
 
 ==== Projects Showcased
 
