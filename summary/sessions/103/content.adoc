@@ -16,10 +16,28 @@ Duration: 3 hrs 39 mins
     ** link:https://twitter.com/SirusTweets[Darshan Rander^] asked what is the difference between NVIDIA's GPU, Google's Tensor and this chip. To which link:https://twitter.com/kaku_jay[Jay Kaku^] said the use cases of them are very different. NVIDIA is general, Tensor is for running the model and this one is for training them.
 * link:https://twitter.com/kaku_jay[Jay Kaku^] shared a link:https://github.com/IBM/aihwkit[IBM's Analog Hardware Acceleration Kit^] a project for AI development.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^], link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about link:https://deta.space[deta.space^] and what is the future of it.
-* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared link:http://github.com/kubernetes/test-infra[testing infra^] and link:http://testgrid.k8s.io[tests site^] of kubernetes.
+    ** link:https://dev.to/byteslash/deta-space-what-is-it-and-why-is-it-the-future-52fj[More on Deta Space^]
+* link:https://kubernetes.io[Kubernetes^] (K8s)
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about his experience at link:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america[KubeCon and CloudNativeCon North America 2022^].
+    ** Rishit talked about the cost of running the K8s project and the improvements to the project's registry in upcoming versions to make it more efficient, so that all requests for packages are not made to the main K8s registry.
+    ** Rishit also told us about Release Engineering at K8s which handles all release procedures such as identifying flaky tests, deciding how to release a particular version, in what manner (phased or all at once), etc.
+    ** Rishit shared tests of some of the K8s projects
+        *** link:https://testgrid.k8s.io[testgrid.k8s.io^]
+        *** link:https://github.com/kubernetes/test-infra[github.com/kubernetes/test-infra^]
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] told us some of the matters that have to be decided upon when a company acquires another company and how complex they are.
+    ** User migration from one service to another
+    ** Codebase linting, policies and styling consistencies
+    ** Branding decisions and alignment
+    ** Service Level Agreement (SLA) changes
+    ** Business goals re-alignment
+    ** Independence level of the company getting acquired
+    ** Transitioning (fitting) employees, laying come employees off, handling employee stock conversions, deciding salaries, etc.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about the hostile takeover of Twitter, how the firing of Twitter higher-ups is not related to Recession, corporate buyouts and link:https://corporatefinanceinstitute.com/resources/knowledge/deals/golden-parachute[Golden Parachutes^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how we all are too harsh on ourselves and how we need to understand ourselves better.
+* Aditya also touched upon the fact that good advice is nice to have, but one should understand the context in which it is presented. He talked about the importance of context to be able to understand multiple things, and interpret and apply things well.
 
 ==== Projects Showcased
 
 * link:https://twitter.com/AnxKhn[Anas Khan^], link:https://twitter.com/NinadNaik07[Ninad Naik^] and Ayesha Nagdawala showcased "Passvault - Password Manager" as password manager made using Java Swing and MySQL.
 * link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased link:https://github.com/JadenFurtado/geoAbuseIPDB[geo AbuseIP DB^].
-    ** It is wrapper around https://www.abuseipdb.com/[AbuseIP DB^] which helps him to plot IPs into maps using http://iplocation.com/[IPlocation]
+    ** It is wrapper around https://www.abuseipdb.com[AbuseIP DB^] which helps him to plot IPs into maps using http://iplocation.com/[IPlocation]
