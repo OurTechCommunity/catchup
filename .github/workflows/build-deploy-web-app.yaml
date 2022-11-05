@@ -27,6 +27,18 @@ on:
     workflow_dispatch: # Allows manual execution of workflow
 
 jobs:
+    lint:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Install dependencies
+              run: npm install
+
+            - name: Perform linting check
+              run: npm run lint:check
+
     build:
         if: startsWith(github.ref, 'refs/pull/')
         runs-on: ubuntu-latest
@@ -39,6 +51,7 @@ jobs:
               run: ./util/build.sh
 
     build-and-deploy:
+        needs: lint
         if: startsWith(github.ref, 'refs/heads/')
         runs-on: ubuntu-latest
         container: "docker://asciidoctor/docker-asciidoctor:latest"
