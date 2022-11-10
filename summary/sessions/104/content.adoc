@@ -36,7 +36,7 @@ Duration: 4 hrs 47 mins
     ** A company should be selected after weighing all the pros and cons.
 * link:https://twitter.com/guyinthecape[Vatsal Patel^] shared his experience with releasing link:https://www.callofduty.com/modernwarfare2[Call of Duty: Modern Warfare 2^] at Activision and all the challenges encountered in the process including team management.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he's going to give a talk about "Server Side Dart" at link:https://www.meetup.com/mumbai-women-coders/events/289400920[MWC Meetup^].
-    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared link:https://github.com/mcollina/autocannon[HTTP/1.1 benchmarking tool] to better benchmark server in a range of load on it.** link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared link:https://github.com/mcollina/autocannon[HTTP/1.1 benchmarking tool] to better benchmark server in a range of load on it.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared link:https://github.com/mcollina/autocannon[HTTP/1.1 benchmarking tool] to better benchmark server in a range of load on it.
     ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared that he would like to give a talk about how to approach a new codebase.
 * link:https://twitter.com/kaku_jay[Jay Kaku^] talked about the process behind building his final-year hardware project in which he had to learn about how most basic components work.
 * We talked about the ostensibly sad state of the USA's gun laws and how it is a major reason behind the high number of deaths due to gun violence.
