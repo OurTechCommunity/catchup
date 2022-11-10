@@ -7,7 +7,7 @@ Duration: 4 hrs 47 mins
 * We discussed how college examinations might be starting late for the students in autonomous and colleges under Mumbai University.
 * link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared his learnings from an article that pushed him to read more about cores, processors, threads, cache and sockets.
     ** Article links for "Twisted" and the first installment: 
-        ***link:https://krondo.com/an-introduction-to-asynchronous-programming-and-twisted[Asynchronous Programming and the twisted networking framework^] 
+        *** link:https://krondo.com/an-introduction-to-asynchronous-programming-and-twisted[Asynchronous Programming and the Twisted networking framework^] 
         *** link:https://krondo.com/in-which-we-begin-at-the-beginning[In which we begin at the beginning^]
     ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about the correlation between cores and threads. For instance, a 4-core 8-thread processor has 4 physical cores and each core can run 2 threads in parallel. 
     ** We discussed the difference between Concurrency and Parallelism and why using them interchangeably is wrong.
@@ -42,7 +42,27 @@ Duration: 4 hrs 47 mins
 * We discussed how multiple customers tend to compare cars based on vibrations and the kind of sound that it makes which seems redundant, especially when talking about electric cars.
 * link:https://twitter.com/kaku_jay[Jay Kaku^] talked about AMD's latest CPU lineup with a 5nm process and how the graphics technology with RDNA3 competes with Nvidia's RTX 30 and 40 series. 
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about his setup of cameras and monitors and how he uses his green screen as a background.
-
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^], link:https://twitter.com/tusharnankanii[Tushar Nankani^] and link:https://twitter.com/guyinthecape[Vatsal Patel^] discussed about differences in engagements on social media platforms like Twitter and TikTok.
+    ** Twitter gives lower engagement for a new user with less/no followers.
+    ** Whereas, TikTok boosts their engagements to a great extent for new users and creators.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] asked about how to not get demotivated when preparing for DSA in interviews.
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] shared some strategies and insisted on getting the theory right. 
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] shared a link:https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed[resource on finding patterns in coding problems^].
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] insisted to keep having fun in the process and focus on problem solving.
+* We discussed how we can find some good tech discussions and take value from these perspectives on Twitter. 
+    ** Tushar Nankani pointed out how we can leverage Tech Twitter and what we see on our "feed" is not the Tech Twitter. He mentioned that he uses Twitter in a chronological order of the specific people for whom the notifications are turned on. "Doesn't let the algorithm fool you."    
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared a few recommendations for whom the notifications should be turned on: 
+        *** https://twitter.com/dan_abramov
+        *** https://twitter.com/addyosmani
+        *** https://twitter.com/simonw
+        *** https://twitter.com/steveruizok
+        *** https://twitter.com/MicheBarks
+        *** https://twitter.com/vponamariov
+        *** https://twitter.com/mhevery
+        *** https://twitter.com/Grady_Booch
+        *** https://twitter.com/kocienda
+        *** https://twitter.com/matteocollina
+        
 ==== Projects Showcased
 
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his process of learning frontend where he tried to build a web project for converting English to banana language (Minion language).
