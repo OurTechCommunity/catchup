@@ -1,0 +1,70 @@
+Date: 05-11-2022
+
+Duration: 4 hrs 47 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared his learnings from an article that pushed him to read more about cores, processors, threads, cache and sockets.
+    ** Article links for "Twisted" and the first installment: 
+        *** link:https://krondo.com/an-introduction-to-asynchronous-programming-and-twisted[Asynchronous Programming and the Twisted networking framework^] 
+        *** link:https://krondo.com/in-which-we-begin-at-the-beginning[In which we begin at the beginning^]
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about the correlation between cores and threads. For instance, a 4-core 8-thread processor has 4 physical cores and each core can run 2 threads in parallel. 
+    ** We discussed the link:https://twitter.com/tusharnankanii/status/1588639999972761600[difference between Concurrency and Parallelism^] and why using them interchangeably is wrong.
+        *** Concurrency is the composition of independently executing processes.
+        *** Parallelism is the simultaneous execution of multiple (possibly related) processes.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared a video about link:https://youtu.be/_3LpJ6I-tzc[Async I/O in Depth^]
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida] talked about problems he was facing with link:https://en.wikipedia.org/wiki/Advanced_Encryption_Standard[AES ciphers^] and its use case in one of his projects. 
+* We talked about link:https://meltdownattack.com[Meltdown and Spectre^] which are vulnerabilities in modern processors.
+    ** Meltdown is patched in all the major OS.
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about the thought process behind writing the link:https://twitter.com/tusharnankanii/status/1579943971648045058[tweet] regarding his recent project link:https://github.com/tusharnankani/blurrit[blurrit^].
+    ** He talked about how the tweet and the poster seemed clickbait-ey to some since it did not elaborate on its functionality, as it only talked about how it might make someone feel. (Safer in this case)
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested that marketing a product in this way isn't wrong, since one isn't selling the product, but the impact it creates.
+* We talked about recent layoffs and the potential reasons for the overvaluation of companies during the pandemic which led to the layoffs. A good example could be Signal.
+    ** Twitter recently underwent many changes in leadership and as a result, many employees were laid off.
+    ** link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^] and link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared link:https://layoffs.fyi/[layoffs.fyi^] as a resource to find out about layoffs in tech companies.
+    ** Decrease in business could be a potential reason for layoffs since it results in a decrease in revenue.
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about how stock prices for companies were decreasing in value.
+* We talked about some platforms such as link:https://www.microsoft.com/en-in/microsoft-teams/group-chat-software[MS Teams^] and link:https://zoom.us[Zoom^] that gained traction over the pandemic period and now serves as an integral part of the system.
+    ** link:https://www.microsoft.com/en-in/microsoft-teams/group-chat-software[MS Teams^] is catered towards enterprises with its tight integration with Office365 tools and provides a relatively better experience in terms of handling bandwidth at even lower tiers. 
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] talked about link:https://dyte.io[Dyte^] and its functionalities while comparing it with link:https://www.100ms.live[100ms^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about how some layoff panics are a part of the echo chamber, where the layoff news seems to be exaggerated and amplified by multiple people.
+    ** Layoffs might hurt less when you are early in your career without many dependencies.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about potential reasons behind not choosing a startup, where one does not get any form of guidance or a course correction wherever the candidate might go wrong.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about the status of an individual contributor that is allowed by startups which helps with a personal brand.
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] talked about the importance of feedback from seniors and how it might be lacking in startups.
+    ** When upper management isn't there to guide, one could also work at their own pace and reduce bureaucracy.
+    ** A company should be selected after weighing all the pros and cons.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] shared his experience with releasing link:https://www.callofduty.com/modernwarfare2[Call of Duty: Modern Warfare 2^] at Activision and all the challenges encountered in the process including team management.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he's going to give a talk about "Server Side Dart" at link:https://www.meetup.com/mumbai-women-coders/events/289400920[MWC Meetup^].
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared link:https://github.com/mcollina/autocannon[HTTP/1.1 benchmarking tool] to better benchmark server in a range of load on it.** link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared link:https://github.com/mcollina/autocannon[HTTP/1.1 benchmarking tool] to better benchmark server in a range of load on it.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared that he would like to give a talk about how to approach a new codebase.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] talked about the process behind building his final-year hardware project in which he had to learn about how most basic components work.
+* We talked about the ostensibly sad state of the USA's gun laws and how it is a major reason behind the high number of deaths due to gun violence.
+* We discussed how multiple customers tend to compare cars based on vibrations and the kind of sound that it makes which seems redundant, especially when talking about electric cars.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] talked about AMD's latest CPU lineup with a 5nm process and how the graphics technology with RDNA3 competes with Nvidia's RTX 30 and 40 series. 
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^], link:https://twitter.com/tusharnankanii[Tushar Nankani^] and link:https://twitter.com/guyinthecape[Vatsal Patel^] discussed differences in engagements on social media platforms like Twitter and TikTok.
+    ** Twitter gives lower engagement for a new user with fewer/no followers.
+    ** Whereas, TikTok boosts their engagements to a great extent for new users and creators.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] asked about how to not get demotivated when preparing for DSA in interviews.
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] shared some strategies and insisted on getting the theory right. 
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] shared a link:https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed[resource on finding patterns in coding problems^].
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] insisted to keep having fun in the process and focusing on problem-solving.
+* We discussed how we can find some good tech discussions and take value from these perspectives on Twitter. 
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^] pointed out how we can leverage Tech Twitter and what we see on our "feed" is not the Tech Twitter. He mentioned that he uses Twitter in chronological order of the specific people for whom the notifications are turned on. "Doesn't let the algorithm fool you."    
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared a few recommendations for whom the notifications should be turned on: 
+        *** link:https://twitter.com/dan_abramov[дэн^]
+        *** link:https://twitter.com/addyosmani[Addy Osmani^]
+        *** link:https://twitter.com/simonw[Simon Willison^]
+        *** link:https://twitter.com/steveruizok[Steve Ruiz^]
+        *** link:https://twitter.com/MicheBarks[Michelle Barker^]
+        *** link:https://twitter.com/vponamariov[Victor^]
+        *** link:https://twitter.com/mhevery[Miško Hevery^]
+        *** link:https://twitter.com/Grady_Booch[Grady Booch^]
+        *** link:https://twitter.com/kocienda[Ken Kocienda^]
+        *** link:https://twitter.com/matteocollina[Matteo Collina^]
+        
+==== Projects Showcased
+
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his process of learning frontend where he tried to build a web project for converting English to banana language (Minion language).
+    ** Project Demo: link:https://adityaoberai.github.io/banana-speak/[Banana Speak^]
+    ** link:https://github.com/adityaoberai/banana-speak[GitHub Repo^]
