@@ -1,0 +1,61 @@
+Date: 12-11-2022
+
+Duration: 4 hrs 10 mins
+
+==== Topics Discussed
+
+* General Introductions.
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared his experience as a panelist in the discussions at HackTheLeague conducted in Mumbai. 
+    ** He also pointed out how many discussions tend to avoid talking about failures.
+    ** Failures could be a great learning experience and should be discussed.
+    ** link:https://twitter.com/I_am_prathik[Prathik Shetty^] shared a link:https://twitter.com/I_am_prathik/status/1591393689506840576?s=20&t=FMsoUQhTamSCYVbdd^m6Nsw[tweet^] referencing this talk.
+* link:https://twitter.com/anushkasb2001[Anushka Bhagchandani^], link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about link:https://twitter.com[Twitter^]'s current situation and how not addressing them is having catastrophic effects on the stock market for companies due to scams.
+    ** The policy of paying 8$ for account verification leads to "Blue tick scams" where fake replicas of accounts tweeting wrong information dwindle the company's reputation and stock value.
+        *** link:https://analyticsindiamag.com/twitter-blue-tick-fiasco-eli-lilly-lockheed-martin-others-lose-billions[Article^] discussing more losses caused due to link:https://twitter.com[Twitter^].
+    ** This issue creates obscurity in who one is supposedly following.
+    ** The Accessibility team was fired along with many other important teams.
+* link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] shared his experiences with communities and how he wants to create a precedent for students in Lucknow.
+    ** We talked about how signing bonds for companies might be illegal.
+        *** link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] shared that he was placed at his company with a training period of 3 months and hasn't been asked to sign a bond yet.
+    ** He also talked about how he feels that metros seem to be more privileged in terms of opportunities.
+        *** While location can provide some benefits initially, skills tend to overpower the parameter of location over a longer period.
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about how "connections" as a term while talking about meetups feels a bit artificial since it should be a byproduct of getting to know a person as a "friend".
+    ** Although LinkedIn is a platform for connections, it skimps on the part of creating friends.
+* We talked about how one could access link:https://twitter.com[Twitter^] to learn something new.
+    ** Reference: link:https://catchup.ourtech.community/summary#104:~:text=We%20discussed%20how%20we%20can%20find%20some%20good%20tech%20discussions%20and%20take%20value%20from%20these%20perspectives%20on%20Twitter.[Summary^] from the last CatchUp.
+* We discussed the feature of link:https://blog.whatsapp.com/communities-now-available[announcement channels^] introduced in link:https://www.whatsapp.com[WhatsApp^] and issues that could be potentially worked upon.
+    ** It links multiple groups together and doesn't provide the feature of keeping private groups which could be useful for admins.
+    ** link:https://telegram.org[Telegram^] currently provides a feature to integrate APIs with bots which are helpful for the automation of regular tasks.
+    ** link:https://www.whatsapp.com[WhatsApp^] web and the desktop app for windows feel incomplete with many broken and unpolished features.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^]talked about his experience around link:https://embeddedsecurityctf2022.ctfd.io[CTF embedded security^]
+    ** His team stood eighth in the competition. link:https://twitter.com/furtado_jaden/status/1590662547853971458?s=20&t=rZGnzQddQ6zwy7bbVsM0dw[Link^] to the tweet.
+    ** He also shared some interesting questions that were asked in the test. 
+        *** Questions had embedded passwords in some form.
+        *** Some had passwords embedded in MP3 waveform which he deciphered using link:https://www.audacityteam.org[Audacity^].
+        *** Some passwords were reverse-engineered in the executable file.
+        *** Some were also hidden under a seemingly innocuous executable file which was deciphered using the link:https://www.ibm.com/docs/en/aix/7.2?topic=files-displaying-file-type-file-command[file command^].
+    ** He shared a telnet-based problem, where the username was supposed to be sent as a request to the open port which he sent using flask.
+        *** link:https://twitter.com/PranavDani3[Pranav Dani^] shared a Telnet command for link:https://www.geeksforgeeks.org/playing-star-wars-in-command-prompt[Star Wars in cmd^].
+    ** link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] shared a similar type of competition that was conducted at his college where the student had to guess the code using output. 
+        *** No test case was provided.
+        *** Input and output is the only thing provided, based on which the student had to guess the code.
+        *** link:https://colab.research.google.com/drive/11mHcdkTOkEhib-sdWBOhdnyYnan3U8Mt?authuser=4#scrollTo=UJ8Fljl9NeII[Sample file^] for the same.
+* link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] talked about an accident detection and prevention system based on OpenCV for his IoT project. 
+* link:https://twitter.com/_SaketThota[Saket Thota^] talked about his BE project where he wanted to decide to scale his projects. 
+    ** He thought of using AWS for React and Deep learning projects.
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] suggested that scaling should start when the number of users increases beyond the capacity of the free tier for any hosting platform.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^]suggested writing it in the form of microservices and making each of the services asynchronous.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] suggested link:https://theodinproject.com[thodinproject.com^] to link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] for learning react and web development.
+* We talked about the effects of the recession in India based on its dependence on countries.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^]shared his talk experience about cybersecurity in college where the crowd was majorly first-year students who were novices in coding and development. This led to an unpleasant talk experience where many students zoned out of the talk.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] shared how uploading an mp4 or mkv video format file takes a long time to upload on google drive, whereas uploading the same file with a random renamed extension takes very less time.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^]suggested that this was a case of mime file type where google avoids further scanning of the file and Hardik suggested that it just adds it to the drive without bothering about its playability.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^]explained the process of data transmission over the network and how anomaly or noise is expected in such transmissions since one cannot send complete data over the air.
+    ** He talked about the journey of electric waves where multiple data streams are combined into a Fourier transform and then smashed into a single sine wave stream and sent over the network.
+    ** link:https://resources.infosecinstitute.com/topic/pdf-file-format-basic-structure/[PDF file format^] was discussed and he said that most PDF tools do not follow this structure.
+
+==== Projects Showcased
+
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^]showcased his project _Static Analysis_ which identifies and records vulnerabilities in the code on GitHub or GitLab.
+    ** It was built with scaling in mind.
+        *** He used celery for task queueing and processing sequentially.
