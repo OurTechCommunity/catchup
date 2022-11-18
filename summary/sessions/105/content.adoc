@@ -8,9 +8,9 @@ Duration: 4 hrs 10 mins
 * link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared his experience as a panelist in the discussions at HackTheLeague conducted in Mumbai. 
     ** He also pointed out how many discussions tend to avoid talking about failures.
     ** Failures could be a great learning experience and should be discussed.
-    ** link:https://twitter.com/I_am_prathik[Prathik Shetty^] shared a link:https://twitter.com/I_am_prathik/status/1591393689506840576?s=20&t=FMsoUQhTamSCYVbdd^m6Nsw[tweet^] referencing this talk.
-* link:https://twitter.com/anushkasb2001[Anushka Bhagchandani^], link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about link:https://twitter.com[Twitter^]'s current situation and how not addressing them is having catastrophic effects on the stock market for companies due to scams.
-    ** The policy of paying 8$ for account verification leads to "Blue tick scams" where fake replicas of accounts tweeting wrong information dwindle the company's reputation and stock value.
+    ** link:https://twitter.com/I_am_prathik[Prathik Shetty^] shared a link:https://twitter.com/I_am_prathik/status/1591393689506840576[tweet^] referencing this talk.
+* link:https://twitter.com/anushkasb2001[Anushka Bhagchandani^], link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about link:https://twitter.com[Twitter's^] current situation and how not addressing them is having catastrophic effects on the stock market for companies due to scams.
+    ** The policy of paying $8 for account verification leads to "Blue tick scams" where fake replicas of accounts tweeting wrong information dwindle the company's reputation and stock value.
         *** link:https://analyticsindiamag.com/twitter-blue-tick-fiasco-eli-lilly-lockheed-martin-others-lose-billions[Article^] discussing more losses caused due to link:https://twitter.com[Twitter^].
     ** This issue creates obscurity in who one is supposedly following.
     ** The Accessibility team was fired along with many other important teams.
@@ -28,7 +28,7 @@ Duration: 4 hrs 10 mins
     ** link:https://telegram.org[Telegram^] currently provides a feature to integrate APIs with bots which are helpful for the automation of regular tasks.
     ** link:https://www.whatsapp.com[WhatsApp^] web and the desktop app for windows feel incomplete with many broken and unpolished features.
 * link:https://twitter.com/furtado_jaden[Jaden Furtado^]talked about his experience around link:https://embeddedsecurityctf2022.ctfd.io[CTF embedded security^]
-    ** His team stood eighth in the competition. link:https://twitter.com/furtado_jaden/status/1590662547853971458?s=20&t=rZGnzQddQ6zwy7bbVsM0dw[Link^] to the tweet.
+    ** His team stood eighth in the competition. link:https://twitter.com/furtado_jaden/status/1590662547853971458[Link^] to the tweet.
     ** He also shared some interesting questions that were asked in the test. 
         *** Questions had embedded passwords in some form.
         *** Some had passwords embedded in MP3 waveform which he deciphered using link:https://www.audacityteam.org[Audacity^].
