@@ -4,7 +4,7 @@ Duration: 4 hrs 10 mins
 
 ==== Topics Discussed
 
-* General Introductions.
+* OTC CatchUp completes 2 years 🥳
 * link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared his experience as a panelist in the discussions at HackTheLeague conducted in Mumbai. 
     ** He also pointed out how many discussions tend to avoid talking about failures.
     ** Failures could be a great learning experience and should be discussed.
@@ -40,6 +40,7 @@ Duration: 4 hrs 10 mins
         *** No test case was provided.
         *** Input and output is the only thing provided, based on which the student had to guess the code.
         *** link:https://colab.research.google.com/drive/11mHcdkTOkEhib-sdWBOhdnyYnan3U8Mt?authuser=4#scrollTo=UJ8Fljl9NeII[Sample file^] for the same.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared his a [blog](https://blog.darshanrander.com/posts/diary/otc-and-me/) where he wrote about his experience and learning with OTC.
 * link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] talked about an accident detection and prevention system based on OpenCV for his IoT project. 
 * link:https://twitter.com/_SaketThota[Saket Thota^] talked about his BE project where he wanted to decide to scale his projects. 
     ** He thought of using AWS for React and Deep learning projects.
@@ -47,7 +48,6 @@ Duration: 4 hrs 10 mins
     ** link:https://twitter.com/furtado_jaden[Jaden Furtado^]suggested writing it in the form of microservices and making each of the services asynchronous.
 * link:https://twitter.com/PranavDani3[Pranav Dani^] suggested link:https://theodinproject.com[thodinproject.com^] to link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] for learning react and web development.
 * We talked about the effects of the recession in India based on its dependence on countries.
-* link:https://twitter.com/furtado_jaden[Jaden Furtado^]shared his talk experience about cybersecurity in college where the crowd was majorly first-year students who were novices in coding and development. This led to an unpleasant talk experience where many students zoned out of the talk.
 * link:https://twitter.com/PranavDani3[Pranav Dani^] shared how uploading an mp4 or mkv video format file takes a long time to upload on google drive, whereas uploading the same file with a random renamed extension takes very less time.
     ** link:https://twitter.com/furtado_jaden[Jaden Furtado^]suggested that this was a case of mime file type where google avoids further scanning of the file and Hardik suggested that it just adds it to the drive without bothering about its playability.
 * link:https://twitter.com/furtado_jaden[Jaden Furtado^]explained the process of data transmission over the network and how anomaly or noise is expected in such transmissions since one cannot send complete data over the air.
