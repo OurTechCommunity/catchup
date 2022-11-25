@@ -1,0 +1,58 @@
+Date: 19-11-2022
+
+Duration: 7 hrs 15 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed the banal Page rules and CNAME configuration for Cloudflare which might be new for most users. 
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared a link:https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012[Udacity Course^] for Android dev resources since Sadik wanted some resources.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] discussed link:https://openai.com/blog/dall-e[Dall E^] and its use cases for AI and ML applications.
+* link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] shared Holopin tags and created a new GitHub repository for showcasing them on his profile.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] unknowingly ran a FUD (Fully Undetectable) malware multiple times thinking that it was a library for his use case. 
+    ** The malware essentially steals files from the host machine and sends them to a remote server.
+    ** Link for the virus -> link:https://github.com/joewalnes/websocketd[Websocketd^] (Do not run ⚠️).
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] modified the wiki for the repository with the malicious links.
+* We discussed how doing assignments diligently could be beneficial for most students.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/t3_pat[Pratik Thakare^] shared that they were working on a WhatsApp chat analysis web app using link:https://nuxtjs.org[Nuxt 3^] for the front end and link:https://www.rust-lang.org[Rust^] for its backend which is supposed to compile in link:https://webassembly.org[Wasm^] and run on the client side to reduce server load.
+    ** They took reference from Tushar's WhatsApp chat analysis project.
+        *** link:https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30[Medium Article^]
+        *** link:https://github.com/tusharnankani/whatsapp-chat-data-analysis[GitHub Repo^]
+* We talked about the working behind link:https://webassembly.org[Wasm^]. 
+    ** WebAssembly (Wasm) is a binary instruction format for a stack-based virtual machine.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared the link:https://developer.mozilla.org/en-US/docs/WebAssembly/Understanding_the_text_format[MDN docs^] to refer syntax for Wasm.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared how a processor is initialized in the bootloader while he was talking about his BE project.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared that the Passport office screens still use Java-based applets which can be accessed by anyone near the screen through a browser.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about the approach that he used in designing the structure for the java based game he link:https://catchup.ourtech.community/summary/106#_projects_showcased[showcased^] today.
+    ** link:https://www.gitpod.io[Gitpod^] was using Java 8 which was not able to directly compile the `.java` files, so he found an link:https://www.infoq.com/articles/single-file-execution-java11[article^] that suggests that Java 11 supports direct execution of `.java` files.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] compared NS2 with link:https://groups.geni.net/geni[GENI^], but link:https://groups.geni.net/geni[GENI^] does not simulate the network but rather provides the actual computers that could be logged into to check the network status.
+    ** We can also check the router tables for each router.
+* We talked about the link:https://en.wikipedia.org/wiki/Pegasus_(spyware)[Pegasus spyware^] and how it has been used to spy on critics and opponents.
+    ** link:https://twitter.com/internetfreedom/status/1593573552485437443[A Short Statement by IFF]. 
+* Notion recently introduced AI which helps to generate the text content based on the pointers that the user provides in the document.
+    ** We talked about an AI system for generating research papers which failed miserably since its output was biased and gibberish.
+    ** link:https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science[Article^]
+        *** One tagline for Galactica was: “Type a text and Galactica will generate a paper with relevant references, formulas, and everything.”
+* link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about how they use link:https://obsidian.md[Obsidian^] and txt files for storing notes and information.
+    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] suggested the use of tags and a combination of folders over the graph view since it helps in easily segregating the notes.
+    ** link:https://github.com/badrbouslikhin/obsidian-vault-changelog[Changelog Plugin^] for Obsidian.
+* We talked about the Twitter issues and profitability of Twitter blue.
+    ** Recent impersonation of fake accounts such as Lockheed Martin, the government contractor, for weapons manufacturing and drones for the US led to the suspension of contracts since the sales and stock prices dropped after false messages were spread.
+    ** Someone suggested that Elon Musk plans to create a Twitter superapp, similar to WeChat in China.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about Mastodon servers and how they are decentralized. 
+    ** One needs to set up accounts on link:https://fosstodon.org[Fosstodon^] and link:https://social.tchncs.de[Social.tchncs.de^] to get the full experience of Mastodon.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] showcased his new drone: link:https://www.dji.com/mini-2[DJI Mavic Mini 2^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] shared his project called _Anchor Tsmodel Transpiler_ built using link:https://www.typescriptlang.org[TypeScript^] and Shell. 
+    ** It is a transpiler that converts anchor programs from `idl` to typescript `models/interfaces. It helps with the conversion of JSON to TS.
+    ** link:https://github.com/cdhiraj40/anchor-tsmodel-transpiler[GitHub Repo^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased _Legends: Monsters and Heroes_ built using link:https://www.java.com/en/[Java^].
+    ** It is a terminal-based RPG with a Pokémon-type exploratory world board. Heroes can move across the board to battle with monsters and access markets to buy items. 
+    ** The game is designed to explore Object Oriented Principles.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] also showcased _Reliable Transport Protocols_ built using link:https://www.java.com/en/[Java^].
+    ** It is a simulator implementing Stop-and-Wait (Alternating-Bit) Protocol, Selective-Repeat Protocol (with Cumulative Acknowledgements) and Go-Back-N Protocol (with Selective Acknowledgements). 
+    ** The implementation has to handle a lossy and corrupting medium while implementing the protocols. The assignment instruction and starter code can be found here: link:https://networking.harshkapadia.me/tcp[networking.harshkapadia.me/tcp^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased a project based on link:https://groups.geni.net/geni[GENI^] to showcase _Designing Subnets_.
+    ** It is a GENI project that aims at creating subnets and assigning IP addresses based on those subnets to routers and hosts, making hosts within a LAN and hosts across LANs communicate with each other.
+    ** The lab instructions are available at link:https://witestlab.poly.edu/blog/designing-subnets[witestlab.poly.edu/blog/designing-subnets^].
