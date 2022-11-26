@@ -13,7 +13,7 @@ Duration: 7 hrs 15 mins
     ** Link for the virus -> link:https://github.com/joewalnes/websocketd[Websocketd^] (Do not run ⚠️).
     ** link:https://twitter.com/SirusTweets[Darshan Rander^] modified the wiki for the repository with the malicious links.
 * We discussed how doing assignments diligently could be beneficial for most students.
-* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/t3_pat[Pratik Thakare^] shared that they were working on a WhatsApp chat analysis web app using link:https://nuxtjs.org[Nuxt 3^] for the front end and link:https://www.rust-lang.org[Rust^] for its backend which is supposed to compile in link:https://webassembly.org[Wasm^] and run on the client side to reduce server load.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/t3_pat[Pratik Thakare^] shared that they were working on a WhatsApp chat analysis web app using link:https://nuxt.com[Nuxt 3^] for the front end and link:https://www.rust-lang.org[Rust^] for its backend which is supposed to compile in link:https://webassembly.org[Wasm^] and run on the client side to reduce server load.
     ** They took reference from Tushar's WhatsApp chat analysis project.
         *** link:https://medium.com/@tusharnankani/an-exhaustive-whatsapp-chat-data-analysis-f8421a845c30[Medium Article^]
         *** link:https://github.com/tusharnankani/whatsapp-chat-data-analysis[GitHub Repo^]
