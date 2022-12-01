@@ -1,0 +1,29 @@
+Date: 26-11-2022
+
+Duration: 5 hrs 17 mins
+
+==== Topics Discussed
+
+* We talked about how everyone feels about link:https://twitter.com/gdgmad[GDG MAD^]'s tweet on Devfest Mumbai.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] shared about his CFP (Call for Proposal) he submitted for Devfest Mumbai.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] was curious to explore how he can run games in link:https://github.com/features/codespaces[GitHub Codespaces^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] asked others about how they feel using online code editor tools like link:https://gitpod.io[GitPod^], or link:https://github.com/features/codespaces[GitHub Codespaces^] as he doesn't feel natural while using them.
+    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared that it is really good for beginners as they don't need to take that extra effort to setup the environment.
+    ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] uses them for projects where he might do a contribution once and might not want to setup everything for that.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked how one can run GUI apps in these online code editors.
+    ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared how he can use link:https://dev.to/lowlighter/using-github-codespaces-with-vncflexbox-to-create-pokemon-maps-from-a-web-browser-3ch6[VNC^] to run GUI apps.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared about link:https://neverinstall.com[neverinstall^] a service that allows you to run a few applications such as Android Studio, VSCode and more on the cloud with GUI on the browser.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared about https://flipperzero.one/[Flipper Zero^]
+    ** A pen-testing tool that can capture and transmit certain radio frequencies.
+    ** We talked about how one can use NFCs their get data from NFC-enabled cards.
+* We talked about the link:https://www.atlasrfidstore.com/rfid-insider/rfid-vs-nfc/[difference between RFID and NFC^].
+    ** TLDR; NFC is a branch of High-Frequency (HF) RFID and you can have p2p communication in NFC but not in RFID.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked how he can have security in UDP.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] said that he can look at link:https://en.wikipedia.org/wiki/QUIC[QUIC protocol^] as it is also based on UDP.
+    ** link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] has already made a UDP server.
+    ** UDP is used to share data such as game streaming and sending application logs to the server as it eliminates the need to have a TCP handshake which takes a lot of time.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared his talk on link:https://youtu.be/B0SC-IzK0PQ?t=18799[Web Animations] from Devfest Chennai.
+    ** He gave a quick walkthrough of the talk on catchup.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked him what inspired him to go deeper into the Web Animations APIs and when one should know that they should stop.
+        *** link:https://twitter.com/ishandeveloper[Ishan Sharma^] said he was always curious about animations on the web and this gave him a nudge to learn them. He suggested stopping when it starts to become boring for you.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared that he would be speaking at link:https://xtremejs.dev/2022/speakers/[xtremejs.dev] next month.
