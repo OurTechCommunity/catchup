@@ -13,7 +13,7 @@ Duration: 5 hrs 17 mins
 * link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked how one can run GUI apps in these online code editors.
     ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared how he can use link:https://dev.to/lowlighter/using-github-codespaces-with-vncflexbox-to-create-pokemon-maps-from-a-web-browser-3ch6[VNC^] to run GUI apps.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] shared link:https://neverinstall.com[neverinstall^], a service that allows you to run a few applications such as Android Studio, VSCode and more on the cloud with GUI on the browser.
-* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared about https://flipperzero.one/[Flipper Zero^]
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared https://flipperzero.one/[Flipper Zero^].
     ** A pen-testing tool that can capture and transmit certain radio frequencies.
     ** We talked about how one can use NFC on their phone to get data from NFC-enabled cards.
     ** We talked about the link:https://www.atlasrfidstore.com/rfid-insider/rfid-vs-nfc/[difference between RFID and NFC^].
