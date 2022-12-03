@@ -66,6 +66,6 @@ jobs:
               uses: HarshKapadia2/deta-deploy@v1.0.2
               with:
                   deta-access-token: ${{ secrets.DETA_TOKEN }}
-                  deta-name: catchup
-                  deta-project: otc
+                  deta-name: web-app-micro
+                  deta-project: catchup
                   deta-project-dir: "."
