@@ -93,7 +93,9 @@ app.get("/showcase", (req, res) => {
 });
 
 app.get("/cfp", (req, res) => {
-	res.sendFile(__dirname + "/public/html/talks-cfp.html");
+	res.redirect(
+		"https://talks.ourtech.community/cfp"
+	);
 });
 
 app.get("/ideas", (req, res) => {
