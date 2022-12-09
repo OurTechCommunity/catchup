@@ -1,0 +1,36 @@
+Date: 03-12-2022
+
+Duration: 3 hrs 12 mins
+
+==== Topics Discussed
+
+* We helped Atharva Jadhav in figuring out how to begin backend development.
+    ** We suggested he either start with Flask or Express as a beginner.
+    ** We asked him to learn through YouTube instead of a course as it is free and he might learn something new while looking it up on YouTube instead of following a course.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested a few YouTube Channels —
+        *** link:https://www.youtube.com/@TraversyMedia[Traversy Media^]
+        *** https://www.youtube.com/@WebDevSimplified[Web Dev Simplified^]
+        *** https://www.youtube.com/@developedbyed[developedbyed^] 
+    ** Yash Pimple suggested https://www.youtube.com/@javascriptmastery[JavaScript Mastery] channel.
+* We announced link:https://talks.ourtech.community[OTC Talks^], talks which will happen before catchup once or twice a month.
+    ** You can submit your talk at link:https://talks.ourtech.community/cfp[talks.ourtech.community/cfp^]
+* link:https://twitter.com/SirusTweets[Darshan Rander^], link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about the difference between link:https://stackoverflow.com/questions/25991367/difference-between-throttling-and-debouncing-a-function[throttling and debouce].
+    ** Throttling is when you intentionally delay a call.
+    ** Debouce will merge multiple calls into a single one following some rules.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his https://github.com/Rishit-dagli/cs-theory-notes[CS theory notes].
+* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about an link:https://www.reddit.com/r/india/comments/n3b9jc/jiofiber_blocked_access_to_rawgithubusercontentcom/[issue^] he was facing with JioFiber, where he couldn't make a request to https://raw.githubusercontent.com domain.
+    ** He fixed it by changing his DNS to 1.1.1.1
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked link:https://twitter.com/tusharnankanii[Tushar Nankani^] to write a blog from his tweets about his projects based on Web Animations.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] said that blogs and Twitter are two different places as one caters to long-form content and the other short-form.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] added that how basics things might look there is someone out there who might need help with it.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] explained why link:https://appwrite.io[Appwrite] has documentation to work with Docker. As it is easier to start with for beginners and Docker is also OCI compliant so if anyone else wants to use it somewhere else they can easily work with images as well.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared his experience at a CTF where they had a consistent rank of 8 in the first two rounds and could make it to finals because of semester exams.
+* We talked about the link:https://techgenix.com/warp-vs-vpn-online-security[difference between VPN and WARP].
+    ** link:https://1.1.1.1/[WARP] finds a route to the destination server with lesser congestion.
+
+==== Project showcase
+
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] showcased two of his projects he made while experimenting with web animations — 
+    ** https://tusharnankani.github.io/patternistic[patternistic^]
+    ** https://tusharnankani.github.io/resonating-circles[Resonating Circles^]
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased a project where he was making an image with radiowaves, https://wiki.gnuradio.org/index.php/Simulation_example:_AM_transmitter_and_receiver[for more information].
