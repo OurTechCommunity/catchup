@@ -93,9 +93,7 @@ app.get("/showcase", (req, res) => {
 });
 
 app.get("/cfp", (req, res) => {
-	res.redirect(
-		"https://talks.ourtech.community/cfp"
-	);
+	res.redirect("https://talks.ourtech.community/cfp");
 });
 
 app.get("/ideas", (req, res) => {
