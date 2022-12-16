@@ -1,0 +1,51 @@
+Date: 10-12-2022
+
+Duration: 4 hrs 32 mins
+
+==== Topics Discussed
+
+* General Introductions.
+* We talked about people's views and opinions about link:https://chat.openai.com[ChatGPT^].
+    ** link:https://chat.openai.com[ChatGPT^] knows the structure of how a sentence or a conversation should be formed but it lacks specificity and hence falls short.
+    ** We also talked about how it might eliminate some jobs in the future.
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared his experience of trying to write a professional document using link:https://chat.openai.com[ChatGPT^] and the result was quite convincing.
+        *** He also said that he wrote the privacy policy statement for his project link:https://chrome.google.com/webstore/detail/blurrit/idknnkkejgomjlgbdpoblkfhhicekdjl[Blurrit^] using link:https://chat.openai.com[ChatGPT^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a link:https://youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq[Youtube Playlist^] by _thenewboston_ for Manas to learn C programming.
+* We discussed some ways for how one could manage college and coding simultaneously.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared how he gets to learn a lot from lectures in his master's program and thus suggested trying sitting for lectures and if the teaching is good then finish it there.
+    ** Handle all the assignments and complete tasks in college itself and do whatever you want to do at home.
+* We talked about what TCP and HTTP are before link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his project.
+    ** The Transmission Control Protocol (TCP) is one of the most widely used protocols on the internet for reliable data transfer.
+    ** HTTP is an application layer protocol for fetching resources such as HTML documents.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] suggested some resources to learn CSS for Chiranjeev to solve his issues with CSS.
+    ** link:https://www.youtube.com/watch?v=1Rs2ND1ryYc[CSS Tutorial - Zero to Hero (Complete Course)^] by freecodecamp.
+    ** link:https://youtube.com/playlist?list=PL4cUxeGkcC9hhNl8shRf6TIL-dNkpSRV0[Coding Challenges playlist^] by thenetninja.
+* link:https://twitter.com/SirusTweets[Darshan Rander^]
+ shared an article about link:https://medium.com/dartlang/the-road-to-dart-3-afdd580fbefa[Dart Beta 3] release.
+* We officially Announced link:https://talks.ourtech.community[OTC Talks^] on link:https://twitter.com/OurTechComm/status/1601847953701863424?s=20[Twitter^] and link:https://t.me/OurTechComm[Telegram^].
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] tried to debug his project, link:https://chrome.google.com/webstore/detail/blurrit/idknnkkejgomjlgbdpoblkfhhicekdjl[Blurrit^].
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] and link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] talked about how manifest v3 for chrome extensions lacks community support.
+    ** One potential reason behind pushing manifest v3 could be related to reducing support for adblockers as most of the revenue comes from ads.
+* link:https://twitter.com/hardikraheja[Hardik Raheja^] and link:https://twitter.com/SirusTweets[Darshan Rander^] talked about CBDC complementing, rather than replacing current forms of money.
+    ** We also discussed how UPI works offline and the differences between e-Rupee and UPI.
+* We discussed our experiences with link:https://gdg.community.dev/events/details/google-gdg-cloud-mumbai-presents-devfest-mumbai-2022[DevFest Mumbai Meetup^].
+    ** Replit and GHFD meetup was referenced again.
+        *** For more context link:https://catchup.ourtech.community/summary#:~:text=Harsh%20Kapadia%20shared%20his,proficient%20in%20their%20domains.[check this part of the 89th CatchUp Summary^]. 
+    ** We discussed multiple perspectives about DevFest while trying to understand who the meetup was oriented towards.
+        *** The event was mostly attended by students, and what differed were the intentions, motivation and expectations of the attendees.
+    ** Overall, the meetup was a good experience with a sophisticated setting.
+* link:https://twitter.com/PranavDani3[Pranav Dani^], link:https://twitter.com/tusharnankanii[Tushar Nankani^] and link:https://twitter.com/hardikraheja[Hardik Raheja^] talked about human tendencies to click photos and videos and how it might affect one's experience.
+    ** Building upon its implications, we talked about how FOMO (Fear of Missing Out) is one of the factors that drive social media images.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] and link:https://twitter.com/t3_pat[Pratik Thakare^] talked about the subject of scrapping your old work.
+
+==== Projects Showcased
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his rendition and _Performance Comparison of TCP Versions_.
+    ** The project is about learning and comparing how different TCP versions respond to network congestion, and about comparing how fair different TCP versions are to each other.
+    ** link:https://harshkapadia2.github.io/tcp-version-performance-comparison[Hosted link^] for his notes.
+    ** link:https://github.com/HarshKapadia2/tcp-version-performance-comparison[GitHub Repository^].
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] showcased his _Portfolio website_.
+    ** link:https://tusharnankani.github.io[Tushar's Portfolio^].
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] also showcased his Chrome Extension, _Blurrit_.
+    ** link:https://chrome.google.com/webstore/detail/blurrit/idknnkkejgomjlgbdpoblkfhhicekdjl[Blurrit^].
+* link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] showcased improvements in his _Personal Portfolio_.
