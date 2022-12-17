@@ -44,8 +44,8 @@ Duration: 4 hrs 32 mins
     ** The project is about learning and comparing how different TCP versions respond to network congestion, and about comparing how fair different TCP versions are to each other.
     ** link:https://harshkapadia2.github.io/tcp-version-performance-comparison[Hosted link^] for his notes.
     ** link:https://github.com/HarshKapadia2/tcp-version-performance-comparison[GitHub Repository^].
-* link:https://twitter.com/tusharnankanii[Tushar Nankani^] showcased his _Portfolio website_.
-    ** link:https://tusharnankani.github.io[Tushar's Portfolio^].
-* link:https://twitter.com/tusharnankanii[Tushar Nankani^] also showcased his Chrome Extension, _Blurrit_.
-    ** link:https://chrome.google.com/webstore/detail/blurrit/idknnkkejgomjlgbdpoblkfhhicekdjl[Blurrit^].
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] showcased _void in the wild_.
+    ** link:https://tusharnankani.github.io[Tushar Nankani's inner void^].
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] also showcased his Chrome Extension, _blurrit_.
+    ** link:https://chrome.google.com/webstore/detail/blurrit/idknnkkejgomjlgbdpoblkfhhicekdjl[blurrit^], link:http://tusharnankani.github.io/blurrit[documentation].
 * link:https://twitter.com/chiranjeevVsri[Chiranjeev Srivastava^] showcased improvements in his _Personal Portfolio_.
