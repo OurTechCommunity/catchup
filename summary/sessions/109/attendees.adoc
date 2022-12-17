@@ -16,7 +16,6 @@
 . link:https://twitter.com/skxrxn[Sreekaran Srinath^]
 . link:https://twitter.com/tusharnankanii[Tushar Nankani^]
 . link:https://twitter.com/TweeterDowny[Vedant Panchal^]
-. Sarvesh Shukla
 . Amit
 . Anil Gohan
 . Atharva
@@ -34,5 +33,6 @@
 . Saachi Kokate
 . Sagnik Tarafdar
 . Sarvesh Parab
+. Sarvesh Shukla
 . Utkarsh Mhatre
 . Vaidehi Purohit
