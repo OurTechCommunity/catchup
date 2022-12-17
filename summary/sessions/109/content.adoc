@@ -22,7 +22,7 @@ Duration: 4 hrs 32 mins
     ** link:https://youtube.com/playlist?list=PL4cUxeGkcC9hhNl8shRf6TIL-dNkpSRV0[Coding Challenges playlist^] by thenetninja.
 * link:https://twitter.com/SirusTweets[Darshan Rander^]
  shared an article about link:https://medium.com/dartlang/the-road-to-dart-3-afdd580fbefa[Dart Beta 3] release.
-* We officially Announced link:https://talks.ourtech.community[OTC Talks^] on link:https://twitter.com/OurTechComm/status/1601847953701863424?s=20[Twitter^] and link:https://t.me/OurTechComm[Telegram^].
+* We officially Announced link:https://talks.ourtech.community[OTC Talks^] on link:https://twitter.com/OurTechComm/status/1601847953701863424[Twitter^] and link:https://t.me/OurTechComm[Telegram^].
 * link:https://twitter.com/tusharnankanii[Tushar Nankani^] tried to debug his project, link:https://chrome.google.com/webstore/detail/blurrit/idknnkkejgomjlgbdpoblkfhhicekdjl[Blurrit^].
 * link:https://twitter.com/tusharnankanii[Tushar Nankani^] and link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] talked about how manifest v3 for chrome extensions lacks community support.
     ** One potential reason behind pushing manifest v3 could be related to reducing support for adblockers as most of the revenue comes from ads.
