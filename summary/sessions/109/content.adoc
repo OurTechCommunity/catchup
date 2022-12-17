@@ -9,7 +9,7 @@ Duration: 4 hrs 32 mins
     ** link:https://chat.openai.com[ChatGPT^] knows the structure of how a sentence or a conversation should be formed but it lacks specificity and hence falls short.
     ** We also talked about how it might eliminate some jobs in the future.
     ** link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared his experience of trying to write a professional document using link:https://chat.openai.com[ChatGPT^] and the result was quite convincing.
-        *** He also said that he wrote the privacy policy statement for his project link:https://chrome.google.com/webstore/detail/blurrit/idknnkkejgomjlgbdpoblkfhhicekdjl[Blurrit^] using link:https://chat.openai.com[ChatGPT^].
+        *** He also said that he wrote the link:https://tusharnankani.github.io/blurrit/privacy[privacy policy statement] for his project link:https://chrome.google.com/webstore/detail/blurrit/idknnkkejgomjlgbdpoblkfhhicekdjl[blurrit^] using link:https://chat.openai.com[ChatGPT^].
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a link:https://youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq[Youtube Playlist^] by _thenewboston_ for Manas to learn C programming.
 * We discussed some ways for how one could manage college and coding simultaneously.
     ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared how he gets to learn a lot from lectures in his master's program and thus suggested trying sitting for lectures and if the teaching is good then finish it there.
