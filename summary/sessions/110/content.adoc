@@ -1,0 +1,24 @@
+Date: 17-12-2022
+
+Duration: 4 hrs 24 mins
+
+==== Topics Discussed
+
+* General Introductions.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] spoke about link:https://en.wikipedia.org/wiki/Stable_Diffusion[Stable Diffusion^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] also spoke about link:https://wasi.dev[WASI - The WebAssembly System Interface^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^]
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked what does it mean to run an application or a server "as a service" and how to restart a link:https://nodejs.org[Node.js^] server which is running as a process.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] replied said that it is used to make the servers run as a background process and to avoid deadlocks.
+    ** link:https://pm2.keymetrics.io[PM2 - A process manager for Node.js]
+    ** Command to restart a service: pm2 restart <application name>
+* link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^] spoke about his company's plan for secure phones.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested that they also take into consideration hardware level security.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested that the issue is getting requests on an Android Device
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared a news article link:https://news.umich.edu/smartphone-security-hole-open-port-backdoors-are-widespread[Smartphone security hole: 'Open port' backdoors are widespread^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared an interesting link:https://twitter.com/drcoderz/status/1601592574027841537[tweet^] by link:https://twitter.com/drcoderz[Roman Jaquez^] which showcases link:https://flutter.dev[Flutter^] apps being run on various "unconventional" displays.
+*  link:https://twitter.com/t3_pat[Pratik Thakare^] spoke about link:https://www.cloudflare.com/learning/network-layer/what-is-tunneling[Tunneling^].
+    ** link:https://www.cloudflare.com/products/tunnel[Cloudflare Tunnel^].
+* We then helped link:https://twitter.com/code_magician[Viranchee Lotia^] with some link:https://www.docker.com[Docker^] config.
+* link:https://twitter.com/t3_pat[Pratik Thakare^] then spoke about link:https://www.cloudflare.com/learning/bots/what-is-rate-limiting[Rate Limiter^] on link:https://en.wikipedia.org/wiki/Load_balancing_(computing)[Load Balancer].
+* We talked about why we should learn networking.
