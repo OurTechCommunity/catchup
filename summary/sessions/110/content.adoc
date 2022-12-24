@@ -9,7 +9,7 @@ Duration: 4 hrs 24 mins
 * link:https://twitter.com/rishit_dagli[Rishit Dagli^] also spoke about link:https://wasi.dev[WASI - The WebAssembly System Interface^].
 * link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked what does it mean to run an application or a server "as a service" and how to restart a link:https://nodejs.org[Node.js^] server which is running as a process.
     ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] replied that it is used to make the servers run as a background process and to avoid deadlocks.
-    ** link:https://pm2.keymetrics.io[PM2 - A process manager for Node.js]
+    ** link:https://pm2.keymetrics.io[PM2 - A process manager for Node.js] - PM2 is a daemon process manager that will help you manage and keep your application online.
     ** Command to restart a service: `pm2 restart <application name>`
 * link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^] spoke about his company's plan for secure phones.
     ** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested that they also take into consideration hardware level security.
