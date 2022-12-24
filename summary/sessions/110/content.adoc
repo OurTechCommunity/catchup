@@ -19,5 +19,5 @@ Duration: 4 hrs 24 mins
 *  link:https://twitter.com/t3_pat[Pratik Thakare^] spoke about link:https://www.cloudflare.com/learning/network-layer/what-is-tunneling[Tunneling^].
     ** link:https://www.cloudflare.com/products/tunnel[Cloudflare Tunnel^].
 * We helped link:https://twitter.com/code_magician[Viranchee Lotia^] with some link:https://www.docker.com[Docker^] config.
-* link:https://twitter.com/t3_pat[Pratik Thakare^] spoke about link:https://www.cloudflare.com/learning/bots/what-is-rate-limiting[Rate Limiter^] on link:https://en.wikipedia.org/wiki/Load_balancing_(computing)[Load Balancer].
+* link:https://twitter.com/t3_pat[Pratik Thakare^] spoke about link:https://www.cloudflare.com/learning/bots/what-is-rate-limiting[Rate Limiter^] on link:https://en.wikipedia.org/wiki/Load_balancing_(computing)[Load Balancer^].
 * We talked about why we should learn networking.
