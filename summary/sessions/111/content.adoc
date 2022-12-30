@@ -4,7 +4,7 @@ Duration: 5 hrs 32 mins
 
 ==== Topics Discussed
 
-* We held our first link:https://talks.ourtech.community[OTC Talks^] session with link:https://twitter.com/rishit_dagli[Rishit Dagli^] giving a talk 'Supercharge your deployments with WASM'.
+* We held our first link:https://talks.ourtech.community[OTC Talks^] session with link:https://twitter.com/rishit_dagli[Rishit Dagli^] giving a talk on 'Supercharge your deployments with WASM'.
     ** The excellent talk led to an excellent discussion on Operating Systems (OSs), Processors, Virtual Machines (VMs) and hardware in general. Some of the things we talked about are listed in points below.
 * link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] talked about how link:https://en.wikipedia.org/wiki/Ahead-of-time_compilation[Ahead-of-Time (AoT) compilation^] can have security implications on the client, because although storage and network is monitored, compute access is allowed, so Cryptocurrency mining can be done.
 * link:https://www.linkedin.com/in/anilharwani[Anil Harwani^] told us to think about the scale of an application before thinking about link:https://kubernetes.io[Kubernetes (K8s)^] and things which have elaborate pipelines.
