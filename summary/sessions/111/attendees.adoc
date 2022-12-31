@@ -2,7 +2,6 @@
 
 . link:https://twitter.com/adityaoberai1[Aditya Oberai^]
 . link:https://twitter.com/anaskhan_28[Anas Khan^]
-. link:https://www.linkedin.com/in/anilharwani[Anil Harwani^]
 . link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^]
 . link:https://twitter.com/ayushb_tweets[Ayush Bhosle^]
 . link:https://twitter.com/heyayushh[Ayush Chauhan^]
@@ -30,6 +29,7 @@
 . Aditya Tripathi
 . Akhil Sahu
 . Aman Raj
+. Anil Harwani
 . Chinmay Tullu
 . Farhan Khan
 . Harsh Sharma
