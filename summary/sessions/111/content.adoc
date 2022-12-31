@@ -1,0 +1,33 @@
+Date: 24-12-2022
+
+Duration: 5 hrs 32 mins
+
+==== Topics Discussed
+
+* We held our first link:https://talks.ourtech.community[OTC Talks^] session with link:https://twitter.com/rishit_dagli[Rishit Dagli^] giving a talk on 'Supercharge your deployments with WASM'.
+    ** The excellent talk led to an excellent discussion on Operating Systems (OSs), Processors, Virtual Machines (VMs) and hardware in general. Some of the things we talked about are listed in points below.
+* Anil Harwani talked about how link:https://en.wikipedia.org/wiki/Ahead-of-time_compilation[Ahead-of-Time (AoT) compilation^] can have security implications on the client, because although storage and network is monitored, compute access is allowed, so Cryptocurrency mining can be done.
+* Anil Harwani told us to think about the scale of an application before thinking about link:https://kubernetes.io[Kubernetes (K8s)^] and things which have elaborate pipelines.
+    ** K8s is usually required only for applications that have to handle a lot of network traffic and thus have to load balance the traffic and/or auto-scale the number of servers required depending on the load.
+    ** To figure out scale, Anil told us to calculate the data flow (bandwidth) required for the application using the following steps
+        *** For every request and/or action, figure out how much bandwidth is required.
+            **** An action can consist of multiple requests on the front end and/or back end.
+        *** Calculate how many requests might be required per action and how many actions can be executed by a user.
+        *** Then multiply that with the number of concurrent users expected.
+        *** Then add monitoring, logging and other overhead costs to get an accurate account of the resources required.
+* Anil Harwani said that he really sees WASM being used for compute-intensive tasks on the client, like audio-intensive web apps.
+* Anil Harwani introduced us to link:https://www.man7.org/linux/man-pages/man1/objdump.1.html#DESCRIPTION[`objdump`^], a Linux command line utility that displays raw Assembly link:https://en.wikipedia.org/wiki/Opcode[Opcodes^]/instructions that are executed when a particular action has to be carried out for a program.
+    ** link:https://www.geeksforgeeks.org/objdump-command-in-linux-with-examples/#:~:text=To%20print%20the%20assembler%20content%20of%20the%20sections%20capable%20of%20execution.%20This%20command%20will%20print%20the%20content%20of%20the%20assembler%20of%20sections%20that%20are%20executable.[The `objdump -d` command that Anil explained^]
+* Operating Systems (OSs) and Central Processing Units (CPUs)
+    ** link:https://cs.stanford.edu/people/eroberts/courses/soco/projects/risc/risccisc[Reduced Instruction Set Computers (RISC) vs Complex Instruction Set Computers (CISC)^]
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] showed us the link:https://madhuakula.com/content/linux-security-internals/linuxarch/protectionrings.html[Protection Rings in Linux^] during his talk and Anil Harwani told us about link:http://www.n0code.net/wp/csci342/2017/06/04/kernel-mode-user-mode-and-system-calls-2[System Calls (`syscalls`) and the need for User Mode and Kernel Mode^] to be able to improve security, crash handling and minimize the number of CPU interrupts and disk I/Os.
+        *** In the same vein, Anil told us how link:https://www.packetcoders.io/what-is-dpdk[Data Plane Development Kit (DPDK)^] and link:https://spdk.io/doc/about.html[Storage Performance Development Kit (SPDK)^] which are suites of User Mode drivers and software that were created to reduce network packet processing delays and reduce the delay in storing data to disk respectively.
+    ** Anil talked about the link:https://www.amd.com/en/technologies/zen-core-3[AMD 'Zen 3' Core Architecture^]. (link:https://www.cosfone.com/wp-content/uploads/2021/11/zen31.webp[Image^])
+        *** He also talked link:https://en.wikipedia.org/wiki/Profile-guided_optimization[Feedback Driven Optimization (FDO)^] here.
+    ** Anil told us about the link:https://en.wikipedia.org/wiki/Row_hammer[Row Hammer exploit^].
+* We talked about how Garbage Collectors work.
+    ** Some link:https://www.youtube.com/watch?v=xm5AlNj-I5M[Garbage Collection Basics^]
+    ** link:https://lichess.org[Lichess^] also had some link:https://news.ycombinator.com/item?id=34002526[Garbage Collection-related issues^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared link:https://people.idsia.ch/~juergen/deep-learning-history.html[Annotated History of Modern AI and Deep Learning^]
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared an extremely relevant article on link:https://biswabandan.medium.com/ms-ph-d-interviews-on-computer-systems-and-the-sorry-state-of-computer-systems-education-in-india-5e431f6064b1[MS/Ph.D. interviews on Computer Systems and the Sorry State of Computer Systems Education in India^].
+    ** In the same vein, link:https://www.cs.utexas.edu/users/EWD[Prof. E. W. Dijkstra^] imparted some good principles in link:https://www.cs.utexas.edu/users/EWD/ewd13xx/EWD1305.PDF[Answers to questions from students of Software Engineering^].
