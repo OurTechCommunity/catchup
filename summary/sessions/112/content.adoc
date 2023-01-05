@@ -4,7 +4,7 @@ Duration: 2 hrs 55 mins
 
 Happy New Year 🎉🎉
 
-Fun fact: There are 14.3% chances that we will have Saturday 31st December.
+Fun fact: There are 14.3% chances that we will have Saturday on December 31st.
 
 ==== Topics Discussed
 
@@ -21,6 +21,6 @@ Fun fact: There are 14.3% chances that we will have Saturday 31st December.
 
 ==== Project Showcased
 
-* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased an update to link:https://heartry.darshanrander.com[Heartry^] where he migrated the app from Material 2 to Material 3.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased an update to link:https://heartry.darshanrander.com[Heartry^] where he migrated the app from [Material 2 to Material 3](https://developer.android.com/jetpack/compose/designsystems/material2-material3).
 
 image:112-watch-party.jpg[Watching 'Writing a compiler with LLVM' at OTC CatchUp #112]
