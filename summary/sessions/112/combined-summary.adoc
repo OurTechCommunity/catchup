@@ -3,6 +3,8 @@
 
 include::content.adoc[]
 
+include::attendees.adoc[]
+
 ==== Meet Screenshot
 
 image:112-watch-party.jpg[Watching 'Writing a compiler with LLVM' at OTC CatchUp #112]
