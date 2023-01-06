@@ -17,8 +17,8 @@ Fun fact: There are 14.3% chances that we will have Saturday on December 31st.
         *** Warn them and help them if they are facing issues in their personal life.
         *** Replace them.
 * We talked about link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida]'s link:https://blog.wilfredalmeida.com/mobxcess-purpose[MobXcess] project, it's used to run predetermined commands on the server from the mobile app.
-    ** link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] suggested him to build something over SSH as it is already an industry standard.
+    ** ** link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] suggested building his idea over SSH, as it is already an industry standard.
 
 ==== Project Showcased
 
-* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased an update to link:https://heartry.darshanrander.com[Heartry^] where he migrated the app from [Material 2 to Material 3](https://developer.android.com/jetpack/compose/designsystems/material2-material3).
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased an update to link:https://heartry.darshanrander.com[Heartry^] where he migrated the app from link:https://developer.android.com/jetpack/compose/designsystems/material2-material3[Material 2 to Material 3^].
