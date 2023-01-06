@@ -16,7 +16,7 @@ Fun fact: There are 14.3% chances that we will have Saturday on December 31st.
         *** Train them if they are facing any technical issues.
         *** Warn them and help them if they are facing issues in their personal life.
         *** Replace them.
-* We talked about link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida]'s link:https://blog.wilfredalmeida.com/mobxcess-purpose[MobXcess] project, it's used to run predetermined commands on the server from the mobile app.
+* We talked about link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida]'s link:https://blog.wilfredalmeida.com/mobxcess-purpose[MobXcess], a mobile app used to run predetermined commands on the server.
     ** ** link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] suggested building his idea over SSH, as it is already an industry standard.
 
 ==== Project Showcased
