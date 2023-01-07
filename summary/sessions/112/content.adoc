@@ -8,8 +8,9 @@ Fun fact: There are 14.3% chances that we will have Saturday on December 31st.
 
 ==== Topics Discussed
 
-* We watched https://www.youtube.com/watch?v=vrRXIQDCCEk[Writing a compiler with LLVM - Cailin Smith - NDC Oslo 2022^], it's a talk about https://llvm.org/[LLVM^] and how one can write a compiler using it.
-    ** After the talk we had a small discussion about it.
+* We watched https://www.youtube.com/watch?v=vrRXIQDCCEk[Writing a compiler with LLVM^], it's a talk about https://llvm.org[LLVM^] and how one can write a compiler using it.
+    ** We talked about how LLVM acts as a middleman (link:https://en.wikipedia.org/wiki/Intermediate_representation[Intermediate Representation^]) for compilers, which makes the job of compilers easier as they don't have to handle different architectures like ARM, x86, etc. themselves and just need to compile to LLVM, which in turn handles all other architectures.
+    ** We all were awed on seeing how LLVM understands and reduces unnecessary complications in code by using various optimization techniques.
 * link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] shared about the ownership problems he is facing at the workplace.
     ** The issue he is facing is that people are not able to complete a task on their own without disturbing others.
     ** He said there could be three ways to deal with this:
