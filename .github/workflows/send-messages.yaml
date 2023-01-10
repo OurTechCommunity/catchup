@@ -43,7 +43,7 @@ jobs:
                   echo "CATCHUP_DATE=${catchup_date}" >> ${GITHUB_ENV}
 
                   message_template=${{ inputs.message-template }}
-                  if [ "${message_template}" == "automatic" ]; then
+                  if [ "${message_template}" = "automatic" ]; then
                       message_template=$(node util/get-current-message-template.js)
                   fi
                   echo "MESSAGE_TEMPLATE=${message_template}" >> ${GITHUB_ENV}
