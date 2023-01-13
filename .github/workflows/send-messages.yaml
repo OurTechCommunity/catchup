@@ -2,10 +2,11 @@ name: Reminder Tweet
 
 on:
     schedule:
-        # Every Saturday at 11:30 AM UTC ( 5 PM IST), and
-        # Every Saturday at  4:30 PM UTC (10 PM IST)
         # Schedule job 10 minutes before time to account for delays
-        - cron: "20 11,16 * * SAT"
+        # Every Saturday at 11:20 AM UTC (05:00 PM IST - 10 min)
+        - cron: "20 11 * * SAT"
+        # Every Saturday at 04:30 PM UTC (10:10 PM IST - 10 min)
+        - cron: "30 16 * * SAT"
     workflow_dispatch:
         inputs:
             message-template:
@@ -92,9 +93,9 @@ jobs:
                   TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
 
             # Joining messages
-            - name: Wait until 22:00 IST
+            - name: Wait until 22:10 IST
               if: ${{ env.MESSAGE_TEMPLATE }} == 'joining'
-              run: sleep $(node util/get-seconds-until-ist-time.js 22:00)
+              run: sleep $(node util/get-seconds-until-ist-time.js 22:10)
 
             - name: Send joining Telegram message
               if: ${{ env.MESSAGE_TEMPLATE }} == 'joining'
