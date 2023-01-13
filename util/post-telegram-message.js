@@ -68,25 +68,13 @@ async function main() {
 		return 1;
 	}
 
-	const MESSAGE_TEMPLATE_VALUES = ["reminder", "joining"];
-	let messageTemplate = process.env.MESSAGE_TEMPLATE;
-	if (typeof messageTemplate !== "string") {
-		console.error("missing value for env variable: MESSAGE_TEMPLATE");
-		return 1;
-	} else if (!MESSAGE_TEMPLATE_VALUES.includes(messageTemplate)) {
-		console.error(`invalid value for MESSAGE_TEMPLATE: ${messageTemplate}`);
-		console.error(`must be one of: ${MESSAGE_TEMPLATE_VALUES.join(", ")}`);
-		return 1;
-	}
 	let message = process.env.TELEGRAM_MESSAGE;
 	if (typeof message !== "string") {
 		console.error("missing value for env variable: TELEGRAM_MESSAGE");
 		return 1;
 	}
 
-	if (messageTemplate == "joining")
-		await sendAndPinMessageToChat(CHAT_ID, message);
-	else await sendMessageToChat(CHAT_ID, message);
+	await sendAndPinMessageToChat(CHAT_ID, message);
 }
 
 if (require.main)
