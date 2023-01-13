@@ -1,0 +1,49 @@
+Date: 07-01-2023
+
+Duration: 4 hrs 2 mins
+
+==== Topics Discussed
+
+* General Introductions.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about C programming concepts that are ostensibly simple yet difficult to apply. 
+	** The most basic concepts include strings and pointers.
+	** He specifically talked about functions with similar applications such as `gets()` and `fgets()`. The difference is small yet a new user might get confused at first. 
+    	*** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an article about link:https://www.cisa.gov/uscert/bsi/articles/knowledge/coding-practices/fgets-and-gets_s[Security issues^] pertaining to these functions.
+* Re-learning C after using higher-level languages is an arduous process since these languages spoil the need to handle certain conditions. 
+    ** C and C++ should be learned properly since they are still preferred for performance and latency-sensitive tasks.
+* Anil Gohan talked about multiple reasons behind C's importance in the industry. 
+	** Embedded systems support C because they have a bad performance in general and cannot accommodate resources for higher-level languages.
+* Anil Gohan exemplified how a normal person might select a language to add a million numbers.
+	** If people use C, then they might end up writing inefficient code which doesn't leverage most of the computer resources.
+	** The ironic thing is that link:https://www.python.org[python^] would end up performing better because people would end up using libraries such as link:https://numpy.org[NumPy^] which do a relatively decent job of utilizing most of the resources.
+	** The answer to such questions changes based on the situation. For instance, how quickly and how often one needs to solve the question and what's the scale of the problem?
+		*** Do you really need to solve the question as fast as possible?
+	** This is a fallacy that a lot of people get trapped in.
+* Last catchup we had put up a watch party about link:https://catchup.ourtech.community/summary#:~:text=We%20watched%20Writing%20a%20compiler%20with%20LLVM%2C%20it%E2%80%99s%20a%20talk%20about%20LLVM%20and%20how%20one%20can%20write%20a%20compiler%20using%20it.[how to build a compiler using LLVM^]. 
+	** Anil Gohan showcased the compilation of a program to Assembly code.
+		*** We also talked about the process of loop unrolling, and vectorization.
+* We looked at link:https://spec.org[spec.org^] which showcases CPU spec scores and the procedures that were followed to get those results.
+	** CPU manufacturers use these scores to estimate where improvements are possible.
+* We talked about physical and virtual memory and how the address is calculated.
+	** This evolved into a conversation about how programs separate their execution blocks in the memory. 
+		*** Concepts of link:https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2016/02/Translation.png[Segmentation^] and fragmentation are utilized in the physical memory and Hard drives as well to allocate storage and prevent overriding data during execution.
+		*** This led to the creation of something called as link:https://www.geeksforgeeks.org/multilevel-paging-in-operating-system[paging^]. The OS handles the page table and generates a virtual address and this address is mapped and converted into a physical address by the OS.
+		*** Paging became critical since virtual and physical addresses could be guessed by programs easily, but link:https://en.wikipedia.org/wiki/Row_hammer[Row Hammer^] was the new problem.
+			**** A ram is organized in rows and columns and Row hammer is a technique to flip bits in the same row by bit-banging a specific pattern of bits which causes the flip.
+* Anil Gohan shared link:https://chipsandcheese.com/memory-latency-test[Chips and Cheese^] - a tool to measure the memory latency in computers.
+	** It tries to check the latency of the link:https://www.makeuseof.com/tag/what-is-cpu-cache[CPU cache for L1, L2 and L3 (levels of Cache in the processor)^] by running the test.
+	** We checked the difference between two PCs by overlaying and comparing the values in the graph. This showcased the developments made in the newer devices.
+* We talked about the differences between a Telephone cable and an ethernet cable.
+	** Ethernet cable is more sheathed than a normal cable since it needs to handle high speeds of data connection and having a thin sheath might create an EMF enough to distort the data being sent. 
+* We tried to evaluate the code for chipsandcheese.com.
+    ** Compute with memory access.
+* STREAM understanding homework
+* link:https://twitter.com/jaganijainam300[Jainam Jagani^] and link:https://twitter.com/furtado_jaden[Jaden Furtado^] tried to debug a web extension for link:https://developer.chrome.com/docs/extensions/mv3/intro[manifest V3^].
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared that the report of his vulnerability was compensated with only 50$.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] also shared that his final year project was about scanning GitHub repositories to find vulnerabilities link:https://github.com/JadenFurtado/ScanRE[ScanRE^].
+	** He is actively using one of his idle PCs to run this project and find any vulnerabilities.
+
+==== Project Showcased
+
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared an article: link:https://medium.com/@furtadojaden/hacking-starbucks-india-to-prove-a-point-to-myself-63bec50b20ef[Hacking Starbucks India to prove a point(to myself)!^].
+    ** He has discussed multiple vulnerabilities that he had found and were fixed by Starbucks.
