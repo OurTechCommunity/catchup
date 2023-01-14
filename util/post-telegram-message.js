@@ -26,7 +26,6 @@ async function fetch(url, options = {}) {
 }
 
 let BOT_TOKEN;
-const CHAT_ID = "@OurTechComm";
 
 const BASE_URL = "https://api.telegram.org";
 async function sendApiRequestRaw(method, body = {}) {
@@ -68,13 +67,19 @@ async function main() {
 		return 1;
 	}
 
+	let chat_id = process.env.TELEGRAM_CHAT_ID;
+	if (typeof chat_id !== "string") {
+		console.error("missing value for env variable: TELEGRAM_CHAT_ID");
+		return 1;
+	}
+
 	let message = process.env.TELEGRAM_MESSAGE;
 	if (typeof message !== "string") {
 		console.error("missing value for env variable: TELEGRAM_MESSAGE");
 		return 1;
 	}
 
-	await sendAndPinMessageToChat(CHAT_ID, message);
+	await sendAndPinMessageToChat(chat_id, message);
 }
 
 if (require.main)
