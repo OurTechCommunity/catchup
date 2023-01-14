@@ -1,0 +1,50 @@
+Date: 07-01-2023
+
+Duration: 4 hrs 2 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about C programming concepts that are ostensibly simple yet difficult to apply. 
+	** The most basic and confusing concepts include Strings and Pointers.
+	** He specifically talked about how numerous functions with similar applications existed such as `gets()`, `fgets()`, `getline()`, etc for String input. The difference is small and a new user usually gets confused at first. 
+    	*** He shared an article about a link:https://www.cisa.gov/uscert/bsi/articles/knowledge/coding-practices/fgets-and-gets_s[Buffer Overflow Attack^] that can take place using some of the aforementioned String functions.
+			**** Explanation of Buffer Overlfow: link:https://www.youtube.com/watch?v=fjMrDDj47E8&list=PLc7W4b0WHTAWusrFLTv8abWMIYFimp7bi&index=16[strings in C are getting people HACKED^]
+			**** Demonstration of a Buffer Overflow Attack: link:https://www.youtube.com/watch?v=qpyRz5lkRjE&list=PLc7W4b0WHTAWusrFLTv8abWMIYFimp7bi&index=17[exploiting a CRITICAL flaw in my server^]
+* Re-learning C after using higher-level languages is an arduous process since these languages abstract away the need to handle certain conditions, especially memory management.
+    ** C and C++ should be learned properly since they are still preferred for performance and latency-sensitive tasks.
+* Anil Harwani talked about multiple reasons behind C's importance in the industry. 
+	** Embedded Systems support C because they have a bad performance in general and cannot accommodate resources for higher-level languages.
+* Anil Harwani exemplified how a normal person might select a language to add a million numbers.
+	** If people use C, then they might end up writing inefficient code which doesn't leverage most of the computer resources, because most people don't know how to manage memory properly.
+	** Due to this, the ironic thing is that link:https://www.python.org[Python^] would end up performing better.
+		*** People would end up using libraries such as link:https://numpy.org[NumPy^] which do a relatively decent job of utilizing most of the resources.
+	** One important thing to remember though is that the answer to such questions changes based on the situation. These are questions that should be asked before jumping to solving the presented problem/question. For instance
+		*** What kind of input numbers are these? Integers? Decimals?
+		*** How quickly does the problem need to be solved?
+		*** How often does one need to solve the question?
+		*** What is the scale of the problem?
+		*** Does the question really need to be solved as fast as possible?
+* In the last CatchUp (link:https://catchup.ourtech.community/summary/112[\#112]) we had a watch party on link:https://catchup.ourtech.community/summary#:~:text=We%20watched%20Writing%20a%20compiler%20with%20LLVM%2C%20it%E2%80%99s%20a%20talk%20about%20LLVM%20and%20how%20one%20can%20write%20a%20compiler%20using%20it.[How to build a compiler using LLVM].
+	** Anil Harwani talked about the compilation of a program to link:https://en.wikipedia.org/wiki/Assembly_language[Assembly^] code.
+		*** We also talked about the process of link:https://en.wikipedia.org/wiki/Loop_unrolling[Loop Unrolling^] and Vectorization.
+* We looked at link:https://spec.org[spec.org^] which showcases CPU benchmark scores and the procedures that were followed to get those results.
+	** CPU manufacturers use these scores to estimate where improvements are possible and compare processors.
+* We talked about physical and virtual memory and how the address is calculated.
+	** This evolved into a conversation about how programs separate their execution blocks in the memory.
+		*** The concept of link:https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2016/02/Translation.png[Segmentation^] is utilized in the physical memory and hard drive as well, to allocate a data storage range and prevent overriding other process' data during execution.
+		*** Then there came a need for Physical and Virtual Memory.
+		*** There were attacks that exploited virtual memory as well and it gave a rise to link:https://www.geeksforgeeks.org/multilevel-paging-in-operating-system[Paging^]. The OS handles the page table and generates a virtual address and this address is mapped and converted into a physical address by the OS.
+		*** Paging became critical since virtual addresses could be guessed by programs easily, but link:https://en.wikipedia.org/wiki/Row_hammer[Row Hammer^] was an attack that still caused issues.
+			**** A RAM is organized in rows and columns of bits, and Row Hammer is a technique to flip bits in the same row by bit-banging a specific pattern of bits which causes bits to flip, which can causes issues.
+* Anil Harwani shared a link:https://chipsandcheese.com/memory-latency-test[Memory Latency Test by Chips and Cheese^] - a tool to measure the memory latency in computers.
+	** It tries to check the latency of the link:https://www.makeuseof.com/tag/what-is-cpu-cache[L1, L2 and L3 CPU Caches^].
+	** We checked the difference between two PCs by overlaying and comparing the values in the graph. This showcased the developments made in the newer devices and how the graph for latency over time was smoother for newer processors while older processors had erratic graphs with sharp curves.
+* We talked about the difference between a Telephone Cable and an Ethernet Cable.
+	** An Ethernet Cable is more sheathed than a Telephone Cable since it needs to handle higher currents, which link:https://en.wikipedia.org/wiki/Electromagnetic_induction[induces a larger EMF^] than in Telephone wires. The thicker sheath in Ethernet Cables reduces the chance of data corruption through EMF interference and induced current problems.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] tried to help link:https://twitter.com/jaganijainam300[Jainam Jagani^] with debugging his web extension with link:https://developer.chrome.com/docs/extensions/mv3/intro[Manifest v3^] issues.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared link:https://medium.com/@furtadojaden/hacking-starbucks-india-to-prove-a-point-to-myself-63bec50b20ef[how he hacked Starbucks India and had access to the online and offline payment data of **all** Indian customers^] due to API keys hard-coded in their app's source code.
+	** He found quite a few other vulnerabilities as well.
+	** Starbucks India acknowledged his responsible disclosure, fixed the problems he had pointed out and compensated him with far less than he deserved, due to 'a change in their policies'.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] also shared that his final year project link:https://github.com/JadenFurtado/ScanRE[ScanRE^] was about scanning GitHub repositories to find vulnerabilities.
+	** He is using one of his idle PCs to run this project and find any vulnerabilities.
