@@ -1,0 +1,53 @@
+Date: 14-01-2023
+
+Duration: 4 hrs 32 mins
+
+==== Topics Discussed
+
+* We discussed how link:https://openai.com/blog/chatgpt[ChatGPT^] is gaining popularity.
+    ** Microsoft has acquired the majority stake in the company.
+        ** This could also imply that Microsoft services such as the Bing search engine might use link:https://openai.com/blog/chatgpt[ChatGPT^] to provide better search results.
+    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared a VS code extension for link:https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt[ChatGPT^].
+* link:https://twitter.com/KarkeraNikshita[Nikshita Karkera^] shared a video about how link:https://www.youtube.com/shorts/aO1qDzkU9o0[Artificial Intelligence follows a set of rules^] to generate response and why it isn't sentient at this point.
+* After link:https://twitter.com/AnxKhn[Anas Khan^]'s project showcase, Anil Harwani talked about how everyone trying to build something should understand how things work.
+    ** The reason is that whenever something goes wrong in a tool, you should be able to understand the problem and debug it, or even better contribute to its functionality.
+    ** Once the size of the code base starts increasing, it becomes difficult to handle the code.
+        *** So he suggested everyone to read and understand a lot of code.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] and link:https://twitter.com/AnxKhn[Anas Khan^] talked about how they feel comfortable using a certain library and the reason for working on a project with the same.
+    ** Anil Harwani added that a tool should be used when it solves the complete purpose and provides the necessary fallback actions.
+* We talked about databases and the use case for SQL and NoSQL.
+    ** NoSQL databases are fast and scalable for average use cases.
+    ** Relational databases can be optimized for most of the use cases but they have a lot of overhead on the data modeling side and maintaining these databases is a hassle.
+        *** For instance, updates and inserts in Relational databases can be very expensive from time to time.
+    ** We talked about how link:https://www.sqlite.org/docs.html[SQLite^] might be one of the biggest database engines and it is known to be notoriously stable and simple to use.
+        *** Also, the documentation is simple and easy to understand.
+* link:https://www.sqlite.org/index.html[SQLite^] is a single-person endeavor and the server is written in C and self-hosted.
+    ** We discussed how people can also write servers in C and link:https://www.gnu.org/software/bash[bash^]. Anil Harwani shared an article about link:https://funprojects.blog/2021/04/11/a-web-server-in-1-line-of-bash[writing a server in 1 line^].
+* We talked about certain use cases for the project that Wilfred showcased.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed how the application could be improved by addressing the reliability issue for link:https://oauth.net[OAuth^] where someone could link:https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack[DDOS^] the application in its current state.
+* We discussed how link:https://www.ssh.com/academy/ssh/protocol[SSH (Secure Shell)^] came into the existence.
+    ** A precursor to SSH was the link:https://en.wikipedia.org/wiki/Telnet[Telnet^] which enables connection with a remote server but it does it in plain text which can be deciphered by anyone.
+    ** SSH was defined for maintenance tasks where the term "maintenance" never had a boundary.
+    ** Since SSH is open source, it is as secure for any user as it is for any company using it.
+* Anil Harwani suggested reading link:https://sre.google/books[Site Reliability Engineering^] reference books for understanding the points to keep in mind while building a secure application.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about the Alumni meeting at his college where he and Anil Harwani talked about how to approach reading reference books. The difference between reading and comprehension makes all the difference in whether one has understood a concept.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^]link:https://twitter.com/skxrxn[Sreekaran Srinath^], link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about Forex transaction rates and which banks provide good deals.
+    ** We discussed the most annoying things about forex transactions which pertain to not receiving an OTP for any transaction on the card.
+    ** Apparently Apple card is causing losses since it is an average card with not a lot of benefits.
+    ** People don't handle credit cards properly and hence banks end up making more money.
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^]link:https://twitter.com/skxrxn[Sreekaran Srinath^] talked about credit card churning to get the most benefits out of a card.
+
+==== Projects Showcased
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased his project _Custom Tkinter Calculator_ that he built using link:https://www.python.org[Python^], link:https://docs.python.org/3/library/tkinter.html[Tkinter^], link:https://pypi.org/project/customtkinter/0.3[Custom Tkinter^].
+    ** It is a calculator built with a unique GUI library known as link:https://pypi.org/project/customtkinter/0.3[Custom Tkinter^] which helps with a better-looking interface while keeping the code mostly the same. 
+    ** link:https://github.com/TomSchimansky/CustomTkinter[Github Repository^]
+* link:https://twitter.com/AnxKhn[Anas Khan^] showcased his project _CodeClip_ built using link:https://flask.palletsprojects.com/en/2.2.x[Flask^], link:https://getbootstrap.com[Bootstrap^] and link:https://jquery.com[jQuery^].
+    ** It is an online clipboard service to save the work in progress.
+    ** Project demo: link:http://boreni2604.pythonanywhere.com[CodeClip^]
+    ** link:github.com/anxkhn/codeclip[GitHub Repository^]
+* Wilfred showcased his project _MobXcecss_, secure server access from mobile devices.
+	** It is an App for handling some server commands and the use case pertains to frequent actions for a server.
+	** Article link: link:https://blog.wilfredalmeida.com/mobxcess-purpose[MobXcess: Secure Server Access from Mobile Devices^]
+        *** Frontend: link:https://github.com/WilfredAlmeida/MobXcess-Frontend-Flutter[GitHub Repository^]
+        *** Backend: link:https://github.com/WilfredAlmeida/MobXcess-Backend-Golang[GitHub Repository^]
