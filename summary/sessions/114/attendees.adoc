@@ -12,6 +12,7 @@
 . link:https://twitter.com/clumsy_coder[Kaushal Joshi^]
 . link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^]
 . link:https://twitter.com/KarkeraNikshita[Nikshita Karkera^]
+. link:https://twitter.com/poojagera0_0[Pooja Gera^]
 . link:https://twitter.com/PranavDani3[Pranav Dani^]
 . link:https://twitter.com/t3_pat[Pratik Thakare^]
 . link:https://twitter.com/rishit_dagli[Rishit Dagli^]
@@ -19,12 +20,12 @@
 . link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^]
 . link:https://twitter.com/5arahkhan[Sarah Khan^]
 . link:https://twitter.com/shreyal_gupta[Shreyal Gupta^]
-. link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^]
+. link:https://twitter.com/SiddharthCoding[Siddharth Bhatia^]
 . link:https://twitter.com/jethwa_smit[Smit Jethva^]
 . link:https://twitter.com/skxrxn[Sreekaran Srinath^]
 . link:https://twitter.com/TweeterDowny[Vedant Panchal^]
 . link:https://twitter.com/code_magician[Viranchee Lotia^]
-. link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida]
+. link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^]
 . link:https://twitter.com/furtado_jaden[Jaden Furtado^]
 . Anil Harwani
 . Arun Kumar
@@ -47,7 +48,6 @@
 . Navya Agarwal
 . Neetika Tandon
 . Payal Narwal
-. Pooja Gera
 . Priyanshu Gupta
 . Rashid Aziz
 . Shreya
