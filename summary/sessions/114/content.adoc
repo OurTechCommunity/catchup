@@ -50,3 +50,7 @@ Duration: 4 hrs 32 mins
 	** Article link: link:https://blog.wilfredalmeida.com/mobxcess-purpose[MobXcess: Secure Server Access from Mobile Devices^]
     ** link:https://github.com/WilfredAlmeida/MobXcess-Frontend-Flutter[Front end GitHub repository^]
     ** link:https://github.com/WilfredAlmeida/MobXcess-Backend-Golang[Back end GitHub repository^]
+* Rishit showcased _Invariant Point Attention_, a machine learning model that he implemented using Python, and the Math library.
+    ** It uses Alphafold2 which introduces a nice form of attention mechanism that allows you to see 3D models as the same object across transformations.
+    ** This project is modified to be a standalone Deep Learning model that you can use for any kind of 3D tasks.
+    ** link:https://github.com/Rishit-dagli/Invariant-Attention[GitHub repository^]
