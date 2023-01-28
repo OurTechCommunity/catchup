@@ -17,6 +17,7 @@ link:https://ourtech.community/three-years[OTC is officially 3 years old^]! 🎉
     ** It is a method of encoding real numbers within the limits of finite precision available on computers.
 * link:https://twitter.com/furtado_jaden[Jaden Furtado^] explained how an SQL injection works and also how _ScanRE_, the project he showcased, uses Regex to find vulnerabilities in the GitHub repositories.
     ** PhP implements sanitization in the form of a function called `mysqli_escape_string()` which was updated to `mysqli_real_escape_string()`, which could be used to mitigate SQL injection, although both versions have vulnerabilities.
+        *** Since these functions add a `\` before the special characters in the code (for instance: `'SELECT * from TABLE where id='.$var`, where var is a set of special characters), it is possible to bypass the sanitization by using `\\` instead of `\` which is one of the major vulnerabilities.
 * link:https://twitter.com/furtado_jaden[Jaden Furtado^] talked about how _ScanRE_ is split into four stages: Fetch, ScanCode, StoreResults and Delete.
     ** None of these parts are dependent on each other and can be run independently.
     ** Since they are independent, he is using link:https://docs.celeryq.dev/en/stable/getting-started/introduction.html[Celery^] to queue and run the tasks asynchronously.
