@@ -7,7 +7,7 @@ link:https://ourtech.community/three-years[OTC is officially 3 years old^]! 🎉
 ==== Topics Discussed
 
 * General introductions.
-* link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] discussed today's link:https://twitter.com/WomenCoders01/status/1616951942588280834?s=20&t=WAjkgENi4zpp6W7PVWKs3g[MWC meetup^] in Churchgate.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] discussed about link:https://twitter.com/WomenCoders01/status/1616951942588280834[MWC meetup^] in Churchgate, held on that day.
     ** Overall, it was a good meetup. While most of the talks were aimed at "beginners", link:https://twitter.com/malkani_faiz[Faiz Malkani^]'s talk was more inclusive and talked about how one can find their foot in a world that seems enormous.    
 * We discussed how GPUs are not always faster than CPUs in every scenario. 
     ** CPUs have a lower latency due to faster access to the cache memory.
