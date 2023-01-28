@@ -1,0 +1,39 @@
+Date: 21-01-2023
+
+Duration: 2 hrs 53 mins
+
+link:https://ourtech.community/three-years[OTC is officially 3 years old^]! 🎉🎉🎉 
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] discussed today's link:https://twitter.com/WomenCoders01/status/1616951942588280834?s=20&t=WAjkgENi4zpp6W7PVWKs3g[MWC meetup^] in Churchgate.
+    ** Overall, it was a good meetup. While most of the talks were aimed at "beginners", link:https://twitter.com/malkani_faiz[Faiz Malkani^]'s talk was more inclusive and talked about how one can find their foot in a world that seems enormous.    
+* We discussed how GPUs are not always faster than CPUs in every scenario. 
+    ** CPUs have a lower latency due to faster access to the cache memory.
+    ** GPUs have a higher bandwidth.
+    ** Harsh shared a video regarding the same: link:https://www.youtube.com/watch?v=xi-wTlVUZsQ[Are GPUs Faster than CPUs?^]
+* We talked about (link:https://en.wikipedia.org/wiki/FLOPS[FLOPS^]) Floating Point Operations Per Second, and how it affects the performance of a CPU.
+    ** It is a method of encoding real numbers within the limits of finite precision available on computers.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] explained how an SQL injection works and also how _ScanRE_, the project he showcased, uses Regex to find vulnerabilities in the GitHub repositories.
+    ** PhP implements sanitization in the form of a function called `mysqli_escape_string()` which was updated to `mysqli_real_escape_string()`, which could be used to mitigate SQL injection, although both versions have vulnerabilities.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] talked about how _ScanRE_ is split into four stages: Fetch, ScanCode, StoreResults and Delete.
+    ** None of these parts are dependent on each other and can be run independently.
+    ** Since they are independent, he is using link:https://docs.celeryq.dev/en/stable/getting-started/introduction.html[Celery^] to queue and run the tasks asynchronously.
+        *** Anil Harwani suggested that this is essentially an out-of-order pipelining engine that is trying to get done as much work as it can with as much latency it can tolerate.
+    ** Anil Harwani talked about how link:https://docs.celeryq.dev/en/stable/getting-started/introduction.html[Celery^] would act as point of vulnerability since now it is dependent on the developers maintaining link:https://docs.celeryq.dev/en/stable/getting-started/introduction.html[Celery^] to not mess up the codebase.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] suggested that he is essentially scanning the entirety of GitHub to find vulnerabilities in the codebase.
+        *** Anil Harwani suggested that this would require differential scanning since the repositories are constantly changing.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared that his final year project is about making a coprocessor on a link:https://en.wikipedia.org/wiki/Field-programmable_gate_array[FPGA^].
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] asked multiple questions about the feasibility of the project and cooperation from the professors. 
+* We discussed the common issues while switching from android to iOS, out of which WhatsApp migration is the most irritating for most users.
+    ** While there are ways to handle the situation, it isn't user-friendly, which is how Apple locks users into its ecosystem of products and services.
+
+==== Projects Showcased
+
+* Wilfred showcased his link:https://wilfredalmeida.com[Portfolio Website^].
+    ** His portfolio is a fork of link:https://brittanychiang.com[Brittany Chiang^]'s portfolio website which is also used by many people.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his updates on _ScanRE_ - A tool for scanning and finding vulnerabilities in GitHub repositories using static code analysis.
+    ** The tool checks for vulnerabilities in the code by using regex.
+    ** He created a UI for the tool.
+    ** link:https://github.com/JadenFurtado/ScanRE[GitHub repository^]
