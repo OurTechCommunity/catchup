@@ -1,0 +1,48 @@
+Date: 28-01-2023
+
+Duration: 5 hrs 12 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared the portfolio of link:https://swtch.com/~rsc[Russ Cox^], creator of GoLang.
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^]an interesting article: link:https://research.swtch.com/deps[Our Software Dependency Problem^] by link:https://swtch.com/~rsc[Russ Cox^] on link:https://t.me/OurTechComm[OTC's Telegram group^].
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] suggested everyone to go through his blogs for learning some fundamentals.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] asked for resources to learn assembly so Anil Harwani suggested he learn by example.
+    ** link:https://libgen.is/book/index.php?md5=E83AA24553052447687CCBBB72CF96B6[Mastering Turbo Assembler^].
+    ** Anil Harwani shared these articles to get started:
+        *** link:https://www.timdbg.com/posts/fakers-guide-to-assembly[The faker's guide to reading (x86) assembly language^]
+        *** link:https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial[x86 assembly doesn’t have to be scary (interactive)^]
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^], link:https://twitter.com/PranavDani3[Pranav Dani^]and link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] dissected the link:https://github.com/OurTechCommunity/catchup[OTC's CatchUp repository^] to show how everything it works.
+    ** The site uses GitHub workflows to build and deploy the site, and link:https://asciidoctor.org[ascii doctor^] to render the content written in Markdown.
+* We went through link:https://www.cult.fit[cult.fit^]'s design principles.
+** It uses link:https://design.cult.fit[Aurora design principle^] for all of its websites where they divide components into atoms and molecules.
+    ** Many companies have a blog about their design decisions which can be quite insightful.
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^]shared links for link:https://twitter.com/RaunaqShah_[Raunak Shah] (link:https://www.cult.fit[cult.fit^]'s Product Designer).
+* We discussed link:https://razorpay.com[Razorpay^]'s design decisions.
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^]shared his findings related to Razorpay's design decisions in this link:https://twitter.com/tusharnankanii/status/1448959499633520641[Twitter thread^].
+        *** Razorpay uses link:https://gijsroge.github.io/tilt.js[tilt.js^] for their homepage.
+        *** It had the `!important` tag used a lot in their CSS file which is considered bad practice since it might be inconvenient for other people to work with.
+* link:https://devfolio.co[Devfolio^] has a keyboard-friendly UI.
+    ** The rectangle overlaps in the cards have smooth transitions which look seamless.
+    ** Also keyboard shortcuts somehow do not intersect for browser and link:https://devfolio.co[Devfolio^]'s webpage.
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^]also showcased Preet's Portfolio website: link:https://pre.et[pre.et^], which also implements keyboard shortcuts with `CTRL + K`.
+* link:https://twitter.com/PranavDani3[Pranav Dani^]shared that link:https://www.heroku.com[Heroku^] took down the free tier projects.
+    ** We talked about why one should not become dependent on a single platform.
+    ** Rishit suggested some free alternatives such as link:https://railway.app[railway.app^] and link:https://platform.sh[platform.sh^].
+* We talked about how card payments in the US not requiring OTPs seem like a scary thing. Reference: link:https://catchup.ourtech.community/summary#:~:text=Sreekaran%20Srinath%2C%20Pranav%20Dani%20and%20Aditya%20Oberai%20talked%20about%20Forex%20transaction%20rates%20and%20which%20banks%20provide%20good%20deals.[CatchUp 114^]. 
+* We talked about how link:https://www.youtube.com/watch?v=Q5zZzC4wlXs[Google's new search algorithm^] works.
+    ** We discussed some of the quirks that come with using link:https://www.onlinesbi.sbi[SBI^] bank accounts.
+        *** Setting up two passwords for SBI's internet banking is a pain.
+        *** The employees working there figure out the issues and figure things out with the customer.
+    ** link:https://twitter.com/guyinthecape[Vatsal Patel^] shared how he maintains his credit scores.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] talked about the interactive game that he created for his SIH project.
+    ** The game tries to educate the athletes to not use drugs or link:https://en.wikipedia.org/wiki/Doping_in_sport[Doping^] for the athlete's body.
+        *** Many athletes are unaware of the rules such as the link:https://en.wikipedia.org/wiki/Doping_in_sport[Doping^] issue due to which they can be disqualified from the game.
+* We talked about the improvements in link:https://www.irctc.co.in[IRCTC^] after it was privatized and handled by link:https://www.tcs.com[TCS^].
+* link:https://twitter.com/PranavDani3[Pranav Dani^]shared the blog regarding changes in the link:https://blog.google/intl/en-in/updates-to-android-and-google-play-in-india[google play's terms and conditions^].
+    ** link:https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1869748[Google was charged a heavy fine for anti-competitive practices in India^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] showcased _Contacts_, an app that he is making while learning how to use link:https://reactjs.org[React^].
+    ** link:https://github.com/dheerajdlalwani/contacts-app-reactjs[GitHub repository^]
