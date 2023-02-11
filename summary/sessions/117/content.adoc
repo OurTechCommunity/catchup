@@ -1,0 +1,32 @@
+Date: 04-02-2023
+
+Duration: 3 hrs 47 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked everyone if he should continue his internship or drop it off of preparing for off-campus placements and to focus on fitness.
+    **  Everyone suggested he continue his internship till he finds something better.
+    ** link:https://twitter.com/cdhiraj40[Dhiraj Chauhan^] suggested that once he joins the gym, he makes friends with someone over there as an accountability partner.
+* Raghav Rathi shared link:https://gita.kishans.in[Gita GPT^] with everyone.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] talked about link:https://en.wikipedia.org/wiki/Dynamic_programming[Dynamic Programming^].
+    ** link:https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming[The complete beginners guide to dynamic programming]
+* We talked about the tradeoffs between quality of life in India vs Abroad.
+    ** link:https://docs.google.com/spreadsheets/d/18eX90ZnKhd__0MfktFmef_vzZAsdNI8ok8jKDV64fKE/#gid=1722645199[Question: Should an Indian Developer move to EU?] a list of comparisons by link:https://twitter.com/amuldotexe[Amul Badjatya]
+* Jia asked how can we as Indians improve so as to keep people from moving out in search of better opportunities.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] told everyone that surrounding yourself with good influences is super important, especially early on in college.
+* link:https://twitter.com/5arahkhan[Sarah Khan^] shared her experience of participating in the recent hackathon - TSEC Hacks 2023 by TSEC CodeCell
+* link:https://twitter.com/5arahkhan[Sarah Khan^] shared her new project idea - link:https://github.com/Sarahkhan20/Meet-Summarizer[Meet-Summarizer^] and asked everyone for suggestions and advice on how to implement it.
+    ** Rishit shared a similar project - link:https://github.com/Rishit-dagli/slidesmart[slidesmart^] that he was working on.
+    ** Ashwin shared link:https://fireflies.ai[fireflies.ai].
+* Ashwin asked advice on how to scale communities.
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared how they managed 2 offline link:https://meetup.ourtech.community/#past-meetups[OTC MeetUps^].
+    ** Ashwin shared his experience working with link:https://hackerabad.hackclub.com[Hackerabad^].
+* link:https://twitter.com/5arahkhan[Sarah Khan^] discussed her semester 4 subjects and her ambitions for the future.
+* We discussed about COVID and how it has affected many aspects of people's lives, careers and lifestyles.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] shared how he was exploring 3D Printing during COVID using Autocad Fusion 360
+* link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] spoke about winters in Canada and Surviving in -19°C.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] talked about his SIH project asked a few questions on Game Development because he has been reached out by the Government of India to continue the SIH project.
+
+==== Topics Discussed
+
+* Raghav Rathi showcased a link:https://github.com/withrvr/ChatGPT-Gmail-Bot[Chat GPT Gmail Bot^]
