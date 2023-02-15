@@ -27,6 +27,6 @@ Duration: 3 hrs 47 mins
 * link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] spoke about winters in Canada and Surviving in -19°C.
 * link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] talked about his SIH project asked a few questions on Game Development because he has been reached out by the Government of India to continue the SIH project.
 
-==== Topics Discussed
+==== Projects Showcased
 
 * Raghav Rathi showcased a link:https://github.com/withrvr/ChatGPT-Gmail-Bot[Chat GPT Gmail Bot^]

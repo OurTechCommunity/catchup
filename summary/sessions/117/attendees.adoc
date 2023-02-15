@@ -15,6 +15,6 @@
 . link:https://twitter.com/jethwa_smit[Smit Jethva^]
 . link:https://twitter.com/furtado_jaden[Jaden Furtado^]
 . link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^]
-Jia Harisinghani
-Raghav Rathi
-Sriza Sen
+. Jia Harisinghani
+. Raghav Rathi
+. Sriza Sen
