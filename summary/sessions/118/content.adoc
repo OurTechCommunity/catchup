@@ -1,0 +1,44 @@
+Date: 11-02-2023
+
+Duration: 4 hrs 36 mins
+
+==== Topics Discussed
+
+* General introductions
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://networking.harshkapadia.me/bgp[BGP and BGP security (RPKI and BGPSec)^].
+    ** Anil Harwani suggested looking into the (Classic) Berkeley Packet Filter (BPF/cBFP) and the Extended BPF (eBPF).
+        *** link:https://docs.cilium.io/en/stable/bpf[BPF and XDP Reference Guide^]
+        *** link:https://ebpf.io/what-is-ebpf[ebpf.io/what-is-ebpf^]
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked whether he should continue with his internship or not.
+* Anil Harwani suggested planning our weeks and months.
+    ** He talked about how most of us grossly misunderstand our capabilities of getting things done. We usually schedule more than we can do and we can increase that limit only by planning, hitting our limits, and steadily, slowly and consistently working on increasing them.
+    ** He also recommended reading the book link:https://en.wikipedia.org/wiki/The_Mythical_Man-Month[The Mythical Man-Month^].
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] supported the argument by talking about how planning has improved his life. Harsh said that he is more aware of his limits and shortcomings and it helps him try to improve a little everyday.
+* Anil Harwani asked people to learn about Floating Point Arithmetic in computers to explain link:https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004[Why does 0.1 + 0.2 = 0.30000000000000004?^]
+* A few simple portfolios that are soothing to look at.
+    ** link:https://swtch.com/~rsc[Russ Cox^]
+    ** link:https://zmagg.com[Maggie Zhou^]
+    ** link:https://www.cindy-wu.com[Cindy Wu^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] ranted about how complicated and overwhelming the Front End Web Development space has become, where most of the things are not needed by a majority of projects, yet Twitter and other places only talk about those things and create a hype around them, with opinionated fights blooming out of nowhere. Obviously innovation is good and necessary, but still things just seem too overwhelming and everything seems to circle back to the same standard and basic concepts with time.
+    ** The video that triggered this rant: link:https://www.youtube.com/watch?v=2OTq15A5s0Y[7 better ways to create a React app^]
+    ** An example of how complicated things are: link:https://www.lydiahallie.io/blog/rendering-patterns[Modern Rendering Patterns^]
+    ** We need to stop with the 'Shiny Object Syndrome'.
+        *** link:https://andy-bell.co.uk/the-tech-tool-carousel[The tech tool carousel^]
+        *** link:https://mcfunley.com/choose-boring-technology[Choose Boring Technology^]
+* link:https://twitter.com/kaku_jay[Jay Kaku^] talked about how learning about the architecture of something is like learning from a story of learnings and decisions.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] responded to link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] on how not everyone has a natural talent or knack of doing or understanding certain things and that that could be dealt with by learning through a lot of varied experiences.
+* link:https://twitter.com/annshagrawaal[Annsh Agrawaal^], link:https://twitter.com/guyinthecape[Vatsal Patel^] and Anil Harwani talked about the link:https://leetcode.com[Leetcode^] grind.
+    ** Quality of problems over the quantity of problems.
+    ** link:https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed[14 Patterns to Ace Any Coding Interview Question^]
+    ** link:https://neetcode.io/practice[neetcode.io/practice^]
+    ** link:https://leetcode.com/study-plan[leetcode.com/study-plan^]
+    ** link:https://petr-mitrichev.blogspot.com[Algorithms Weekly by Petr Mitrichev^]
+* link:https://twitter.com/kaku_jay[Jay Kaku^] recommended reading link:https://www.amazon.in/Mindset-Changing-think-Fulfil-Potential/dp/1780332009[Mindset^].
+* Anil Harwani told us to strongly question our biases, be aware of them (especially while taking decisions) and understand where they came from, otherwise it might lead to unforeseen outcomes.
+* With time, Anil Harwani has discovered that thinking is expensive and doing is cheap. He strongly recommends that we spend more time thinking, taking a step back and looking at the problem, and asking the correct questions rather than immediately starting to solve a problem.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about how he doesn't think that link:https://openai.com/blog/chatgpt[ChatGPT^] isn't very revolutionary and is more of a well-executed Engineering feat than a research feat.
+    ** We were surprised to learn that opinion, but Anil Harwani told us that people who work in a particular field or on a particular product know more about it and have the knowledge to understand things deeper than the user archetype.
+    ** Rishit added that most of AI/ML stuff is some variant of link:https://deepai.org/machine-learning-glossary-and-terms/backpropagation[Backpropagation^] that is telling one how to do Curve Fitting, because humans don't do the math behind Curve Fitting and gradients very well.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] talked about how reaching out to people in his company to learn more and talk about various things that were at times not that related to his job role has helped him grow, learn more and network.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] shared his job responsibilities working on the automation side of things in Game Development, where he has been unifying Continuous Integration workflows and has been getting used to a Version Control System called link:https://www.perforce.com/products/helix-core[Perforce Helix Core^].
+* Anil Harwani shared link:https://www.youtube.com/watch?v=5ESJH1NLMLs[Children of the Magenta Line^] and told us that a lot of the principles in the video apply to life in general.
