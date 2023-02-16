@@ -26,7 +26,7 @@ Duration: 4 hrs 36 mins
         *** link:https://andy-bell.co.uk/the-tech-tool-carousel[The tech tool carousel^]
         *** link:https://mcfunley.com/choose-boring-technology[Choose Boring Technology^]
 * link:https://twitter.com/kaku_jay[Jay Kaku^] talked about how learning about the architecture of something is like learning from a story of learnings and decisions.
-* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] responded to link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] on how not everyone has the natural talent or nack of doing or understanding certain things and that that could be dealt with by learning through a lot of varied experiences.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] responded to link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] on how not everyone has a natural talent or knack of doing or understanding certain things and that that could be dealt with by learning through a lot of varied experiences.
 * link:https://twitter.com/annshagrawaal[Annsh Agrawaal^], link:https://twitter.com/guyinthecape[Vatsal Patel^] and Anil Harwani talked about the link:https://leetcode.com[Leetcode^] grind.
     ** Quality of problems over the quantity of problems.
     ** link:https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed[14 Patterns to Ace Any Coding Interview Question^]
