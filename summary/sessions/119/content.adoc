@@ -1,0 +1,28 @@
+Date: 18-02-2023
+
+Duration: 3 hrs 30 mins
+
+==== Topics Discussed
+
+* Saifuddin Saifee asked link:https://support.google.com/youtube/answer/12827017[Ambient Mode in YouTube^] works on the backend.
+    ** Most of us presumed the feature would be handled on the fly, on the client side — by picking up a few primary colours from the video.
+    ** However, Ramyak said colours are pre-processed alongside other metadata when a video is being uploaded. 
+* We held our second edition of link:https://talks.ourtech.community[OTC Talks^] session with link:https://twitter.com/omtalk[Omkar Khair^] giving a talk on 'Internals of an Email Relay'. 
+    ** Find Abstract and other relevant links — link:https://talks.ourtech.community/2[OTC Talks #2^]
+    ** The talk covered interesting ideas about Email Relay, Email Meta Data, Signing Keys, Zero Ops approach, and the total cost of building one.
+    ** Omkar also demonstrated the application link:https://dopemin.com[Dopemin - Firewall for your Email^] — that he along with 8 users (friends and family) have been using seamlessly, for the past three years.
+    ** The project was implemented using AWS Lambda Validate, Firebase Functions and the interface was built using Vue.js. 
+    ** We discussed interesting problems around it like how scaling such applications is not a problem, but abuse of such services becomes a problem. 
+    ** Relevant Links
+        *** link:https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email[Self-Hosted email is the hardest it's ever been, but also the easiest.^]
+        *** link:https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html[After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won.^]
+        *** link:https://explained-from-first-principles.com/email[Email - explained from first principles^]
+* Harsh Kapadia asked why people use Public and Private Keys and what the usage is. link:https://alexcabal.com/alex-cabal-gpg-public-key.asc[Example of a GPG Public Key^].
+    ** Anil explained why using the keys is based on need and context.
+    ** Concepts that were mentioned while explaining:
+        *** link:https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange[Diffie–Hellman key exchange^]
+        *** link:https://en.wikipedia.org/wiki/POSIX[POSIX^], link:https://itsfoss.com/posix[What is POSIX?^]
+        *** link:https://en.wikipedia.org/wiki/Pretty_Good_Privacy[PGP^]: Pretty Good Privacy and link:https://en.wikipedia.org/wiki/GNU_Privacy_Guard[GPG^]: GNU Privacy Guard
+        *** GPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP. GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories.
+* Rishit Dagli shared link:https://cs144.github.io[cs144.github.io^] and link:https://2022-cs244.github.io[2022-cs244.github.io^].
+* Anil Harwani shared a blog about https://nullprogram.com/blog/2023/02/11/[Avoiding the standard library libc].
