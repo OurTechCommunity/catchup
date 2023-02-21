@@ -4,7 +4,7 @@ Duration: 3 hrs 30 mins
 
 ==== Topics Discussed
 
-* Saifuddin Saifee asked link:https://support.google.com/youtube/answer/12827017[Ambient Mode in YouTube^] works on the backend.
+* Saifuddin Saifee asked how link:https://support.google.com/youtube/answer/12827017[Ambient Mode in YouTube^] works on the backend.
     ** Most of us presumed the feature would be handled on the fly, on the client side — by picking up a few primary colours from the video.
     ** However, Ramyak said colours are pre-processed alongside other metadata when a video is being uploaded. 
 * We held our second edition of link:https://talks.ourtech.community[OTC Talks^] session with link:https://twitter.com/omtalk[Omkar Khair^] giving a talk on 'Internals of an Email Relay'. 
