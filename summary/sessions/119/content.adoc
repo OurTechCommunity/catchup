@@ -11,7 +11,7 @@ Duration: 3 hrs 30 mins
     ** Find Abstract and other relevant links — link:https://talks.ourtech.community/2[OTC Talks #2^]
     ** The talk covered interesting ideas about Email Relay, Email Meta Data, Signing Keys, Zero Ops approach, and the total cost of building one.
     ** Omkar also demonstrated the application link:https://dopemin.com[Dopemin - Firewall for your Email^] — that he along with 8 users (friends and family) have been using seamlessly, for the past three years.
-    ** The project was implemented using AWS Lambda Validate, Firebase Functions and the interface was built using Vue.js. 
+    ** The project was implemented using AWS Lambda Validate, Firebase Functions, and the interface was built using link:https://vuejs.org[Vue.js^]. 
     ** We discussed interesting problems around it like how scaling such applications is not a problem, but abuse of such services becomes a problem. 
     ** Relevant Links
         *** link:https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email[Self-Hosted email is the hardest it's ever been, but also the easiest.^]
