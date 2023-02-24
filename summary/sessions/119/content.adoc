@@ -1,0 +1,34 @@
+Date: 18-02-2023
+
+Duration: 3 hrs 30 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] asked how link:https://support.google.com/youtube/answer/12827017[Ambient Mode in YouTube^] works on the backend.
+    ** Most of us presumed that the feature would be handled on the fly, on the client side — by picking up a few primary colors from the video.
+    ** However, link:https://twitter.com/mehraramyak[Ramyak Mehra^] suggested that colors are pre-processed alongside other metadata when a video is being uploaded and that data is supplied to the client while streaming. 
+* We held the second edition of link:https://talks.ourtech.community[OTC Talks^] session with link:https://twitter.com/omtalk[Omkar Khair^] giving a talk on 'Internals of an Email Relay'. 
+    ** Find the talk abstract and other relevant links — link:https://talks.ourtech.community/2[OTC Talks #2^]
+    ** The talk covered interesting ideas about an e-mail relay, e-mail metadata, SPF, DKIM, a Zero Ops approach and the total cost of building an e-mail relay.
+    ** Omkar also demonstrated the application link:https://dopemin.com[Dopemin - Firewall for your Email^] — that he along with 8 users (friends and family) have been using seamlessly for the past three years.
+    ** The project was implemented using link:https://aws.amazon.com/lambda[AWS Lambda^], link:https://aws.amazon.com/ses[Amazon SES^], link:https://aws.amazon.com/sns[Amazon SNS^], link:https://firebase.google.com/docs/functions[Cloud Functions for Firebase^], link:https://firebase.google.com/docs/firestore[Cloud Firestore^] and link:https://firebase.google.com/docs/auth[Authentication^] from link:https://firebase.google.com[Firebase^], and the interface was built using link:https://vuejs.org[Vue.js^].
+    ** We discussed interesting problems around it like how scaling such applications is not a problem due to generous limits offered by services like link:https://aws.amazon.com[AWS^], but the abuse of such applications becomes a problem.
+    ** Relevant links
+        *** link:https://explained-from-first-principles.com/email[Email - explained from first principles^]
+        *** link:https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html[After self-hosting my email for twenty-three years I have thrown in the towel. The oligopoly has won.^]
+            **** link:https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email[Self-Hosted email is the hardest it's ever been, but also the easiest.^]
+        *** link:https://www.learndmarc.com[learndmarc.com^]
+        *** link:https://www.thewindowsclub.com/gmail-address-tricks[Awesome Gmail address tricks to get more out of your email ID^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked whether it was more common to have a single keypair for signing and encryption or do people usually have different keypairs for both functions.
+    ** link:https://alexcabal.com/alex-cabal-gpg-public-key.asc[An example of how people share their PGP Public Key^].
+    ** Anil explained why using the keys is based on need and context.
+    ** Concepts that were mentioned while explaining:
+        *** link:https://networking.harshkapadia.me/cryptography#diffie-hellman[Diffie-Hellman Key Exchange^]
+        *** link:https://itsfoss.com/posix[POSIX?^]
+        *** link:https://networking.harshkapadia.me/cryptography#pgp[PGP vs OpenPGP vs GPG/GnuPG^]
+            **** PGP (Pretty Good Privacy) is the scheme of encryption, signing and other functions.
+            **** OpenPGP is a standard that softwares implementing PGP can follow to meet safe and standard practices.
+            **** GPG/GnuPG (GNU [GNU's Not Unix] Privacy Guard) is a tool that implements PGP using the OpenPGP standard and enables encrypting and signing e-mails, files, etc.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared link:https://cs144.github.io[cs144.github.io^] and link:https://2022-cs244.github.io[2022-cs244.github.io^].
+* Anil Harwani shared a blog about https://nullprogram.com/blog/2023/02/11[Avoiding the standard library `libc`].
+* link:https://twitter.com/DSdatsme[Darshit Suratwala^] talked about his work at link:https://www.scale3labs.com[Sacle3^] on products such as link:https://www.scale3labs.com/#autopilot[Autopilot^] (a Blockchain node monitoring solution).
