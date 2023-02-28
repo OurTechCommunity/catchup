@@ -1,14 +1,13 @@
-const fs = require('fs');
+const fs = require("fs");
 
-const twitterLinkJSON = JSON.parse(fs.readFileSync('./map.json'));
+const twitterLinkJSON = JSON.parse(fs.readFileSync("./map.json"));
 
-const SESSION_ATTENDEES_PATH = "./sessions/000/attendees.adoc"
+const SESSION_ATTENDEES_PATH = "./sessions/000/attendees.adoc";
 
 function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
+	const fileContents = fs.readFileSync(filePath, "utf8");
 
-    const fileContents = fs.readFileSync(filePath, 'utf8');
-
-    /**
+	/**
      * fileContents
      * 
     ==== Attendees
@@ -20,16 +19,12 @@ function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
      *
      */
 
-    
-    const FIRST_TWO_LINES = 2;
-    const LAST_LINE_EMPTY = 1;
-    
-    let fileData = fileContents
-    .toString()
-    .replaceAll('. ', '')
-    .split('\n');
-    
-    /**
+	const FIRST_TWO_LINES = 2;
+	const LAST_LINE_EMPTY = 1;
+
+	let fileData = fileContents.toString().replaceAll(". ", "").split("\n");
+
+	/**
      * fileData - [array of strings]
      * 
     [
@@ -42,16 +37,17 @@ function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
     ]
      *
      */
-    
-    let linkedHandles = [],
-    unLinkedHandles = [];
 
-    for(let i = FIRST_TWO_LINES; i < fileData.length - LAST_LINE_EMPTY; ++i) {
+	let linkedHandles = [],
+		unLinkedHandles = [];
 
-        let name = fileData[i].trim();
-        let nameHandleObject = twitterLinkJSON.filter(item => (item.name === name))[0];
-        
-        /**
+	for (let i = FIRST_TWO_LINES; i < fileData.length - LAST_LINE_EMPTY; ++i) {
+		let name = fileData[i].trim();
+		let nameHandleObject = twitterLinkJSON.filter(
+			(item) => item.name === name
+		)[0];
+
+		/**
          * nameHandleObject = {json object}
          * 
         {
@@ -59,22 +55,23 @@ function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
             "handle": "https://twitter.com/ayushb_tweets"
         }
          */
-    
-        if(nameHandleObject !== undefined) {
-           linkedHandles.push(`. link:${nameHandleObject.handle}[${nameHandleObject.name}^]`);
-        }
-        else {
-            unLinkedHandles.push(`. ${name}`);
-        }
-    }
-    
-    fileData = fileData.slice(0, FIRST_TWO_LINES);
-    fileData.push(...linkedHandles);
-    fileData.push(...unLinkedHandles);
-    fileData.push("");
-    fileData = fileData.join('\n');    
-    
-    /**
+
+		if (nameHandleObject !== undefined) {
+			linkedHandles.push(
+				`. link:${nameHandleObject.handle}[${nameHandleObject.name}^]`
+			);
+		} else {
+			unLinkedHandles.push(`. ${name}`);
+		}
+	}
+
+	fileData = fileData.slice(0, FIRST_TWO_LINES);
+	fileData.push(...linkedHandles);
+	fileData.push(...unLinkedHandles);
+	fileData.push("");
+	fileData = fileData.join("\n");
+
+	/**
      * fileData
      * 
     ==== Attendees
@@ -86,7 +83,7 @@ function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
      *
      */
 
-    fs.writeFileSync(filePath, fileData);
+	fs.writeFileSync(filePath, fileData);
 }
 
 mapHandles();
