@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const twitterLinkJSON = JSON.parse(fs.readFileSync("./map.json"));
+const socialLinkJSON = JSON.parse(fs.readFileSync("./map.json"));
 
 const SESSION_ATTENDEES_PATH = "./sessions/000/attendees.adoc";
 
@@ -43,7 +43,7 @@ function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
 
 	for (let i = FIRST_TWO_LINES; i < fileData.length - LAST_LINE_EMPTY; ++i) {
 		let name = fileData[i].trim();
-		let nameHandleObject = twitterLinkJSON.filter(
+		let nameHandleObject = socialLinkJSON.filter(
 			(item) => item.name === name
 		)[0];
 

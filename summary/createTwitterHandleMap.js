@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-let twitterLinkJSON = [];
+let socialLinkJSON = [];
 let globalMap = new Map();
 
 const DIRECTORY_PATH = "./sessions";
@@ -67,7 +67,7 @@ function collectUsernames(data) {
 
 	/**
 	 * newData - [array of strings]
-	 * where string = "twitterLink firstName Lastname"
+	 * where string = "socialLink firstName Lastname"
 	 */
 
 	let newData = fileData.split("\n");
@@ -75,11 +75,11 @@ function collectUsernames(data) {
 	for (let line of newData) {
 		let currentLine = line.split(" ");
 		if (currentLine[0].startsWith("https://")) {
-			let twitterLink = currentLine[0].trim();
+			let socialLink = currentLine[0].trim();
 			let fullName = currentLine.splice(1).join(" ").trim();
 
 			if (!globalMap.has(fullName)) {
-				globalMap.set(fullName, twitterLink);
+				globalMap.set(fullName, socialLink);
 			}
 		}
 	}
@@ -92,14 +92,14 @@ function writeToMap() {
 	 *
 	 * (not key value; a little unintutive)
 	 */
-	globalMap.forEach((twitterLink, fullName) => {
-		twitterLinkJSON.push({
+	globalMap.forEach((socialLink, fullName) => {
+		socialLinkJSON.push({
 			"name": fullName,
-			"handle": twitterLink
+			"handle": socialLink
 		});
 	});
 
-	fs.writeFileSync("map.json", JSON.stringify(twitterLinkJSON, null, 4));
+	fs.writeFileSync("map.json", JSON.stringify(socialLinkJSON, null, 4));
 }
 
 parseFilesRecursively(DIRECTORY_PATH);
