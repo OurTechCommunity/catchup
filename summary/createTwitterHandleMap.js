@@ -50,18 +50,15 @@ function collectUsernames(data) {
      * 
      */
 
-	// fileData = fileData.replaceAll('. link:https://twitter.com/', '');
-	fileData = fileData.replaceAll(". link:", "");
-	fileData = fileData.replaceAll(". ", "");
-	fileData = fileData.replaceAll("[", " ");
-	fileData = fileData.replaceAll("^]", "");
+	const attendeePattern = /\. link:|\[|\^]/g;
+	fileData = fileData.replace(attendeePattern, " ");
 
 	/**
      * fileData
      * 
-    https://twitter.com/ayushb_tweets Ayush Bhosle
-    https://twitter.com/annshagrawaal Annsh Agrawaal 
-    https://twitter.com/DhiruCodes Dheeraj Lalwani
+     https://twitter.com/ayushb_tweets Ayush Bhosle 
+     https://twitter.com/annshagrawaal Annsh Agrawaal 
+     https://twitter.com/DhiruCodes Dheeraj Lalwani 
      * 
      */
 
@@ -73,7 +70,7 @@ function collectUsernames(data) {
 	let newData = fileData.split("\n");
 
 	for (let line of newData) {
-		let currentLine = line.split(" ");
+		let currentLine = line.trim().split(" ");
 		if (currentLine[0].startsWith("https://")) {
 			let socialLink = currentLine[0].trim();
 			let fullName = currentLine.splice(1).join(" ").trim();
