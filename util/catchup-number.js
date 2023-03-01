@@ -18,8 +18,10 @@ async function getDirectoryNames(path) {
 
 function getSuffix(catchUpNumber) {
 	const lastChar = catchUpNumber.slice(-1);
+	const secondLastChar = catchUpNumber.slice(-2, -1);
 
-	if (lastChar === "1") return "st";
+	if (secondLastChar === "1") return "th";
+	else if (lastChar === "1") return "st";
 	else if (lastChar === "2") return "nd";
 	else if (lastChar === "3") return "rd";
 	else return "th";
