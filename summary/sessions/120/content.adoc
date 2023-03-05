@@ -32,7 +32,7 @@ Duration: 4 hrs 12 mins
     ** link:https://support.google.com/meet/answer/10090454?hl=en[Google Meet supports native attendance recording^] but only for the Enterprise or Business users.
 * We talked about companies like Amazon coming to college with roles providing lower packages.
     ** While these companies are facing overhiring issues, colleges use the company names in their favor.
-* link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^]shared that Google Campus Expert had some internal security issues recently due to which one of the contractors had complete access to Campus Expert's portals.
+* link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^]shared that GitHub Campus Expert had some internal security issues recently due to which one of the contractors had complete access to Campus Expert's portals.
     ** This led to the removal of most members from the portal, but this issue was soon fixed.
     ** He also said that he was not able to access `raw.githubusercontent.com` on Jio network.
         *** We have also discussed about it in link:https://catchup.ourtech.community/summary#:~:text=Pranav%20Dani%20talked%20about%20an%20issue%20he%20was%20facing%20with%20JioFiber%2C%20where%20he%20couldn%E2%80%99t%20make%20a%20request%20to%20https%3A//raw.githubusercontent.com%20domain.[one of the previous cathups^].
