@@ -5,6 +5,7 @@ let socialLinkJSON = [];
 let globalMap = new Map();
 
 const DIRECTORY_PATH = "./sessions";
+const MAP_PATH = "./map.json";
 
 function parseFilesRecursively(directoryPath = "./") {
 	const files = fs.readdirSync(directoryPath);
@@ -21,74 +22,37 @@ function parseFilesRecursively(directoryPath = "./") {
 			if (filePath.endsWith("attendees.adoc")) {
 				const fileContents = fs.readFileSync(filePath, "utf8");
 				console.log(`Parsing file ${filePath}`);
-				collectUsernames(fileContents);
+				collectUsernames(fileContents, filePath);
 			}
 		}
 	});
 }
 
-function collectUsernames(data) {
-	/**
-     * fileData
-     * 
-    ==== Attendees
+function collectUsernames(fileContents, filePath) {
+	const attendeePattern = /\. link:(.*)\[(.*?)\^?\]|\. (.+)/;
 
-    . link:https://twitter.com/ayushb_tweets[Ayush Bhosle^]
-    . link:https://twitter.com/annshagrawaal[Annsh Agrawaal^]
-    . link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
-     *
-     */
+	for (let line of fileData) {
+		if (!line) continue; // skip empty lines
+		let [, link, name, onlyName] = line.match(attendeePattern) ?? [];
 
-	let fileData = data.toString().split("\n").slice(2).join("\n");
-
-	/**
-     * fileData
-     * 
-    . link:https://twitter.com/ayushb_tweets[Ayush Bhosle^]
-    . link:https://twitter.com/annshagrawaal[Annsh Agrawaal^]
-    . link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
-     * 
-     */
-
-	const attendeePattern = /\. link:|\[|\^]/g;
-	fileData = fileData.replace(attendeePattern, " ");
-
-	/**
-     * fileData
-     * 
-     https://twitter.com/ayushb_tweets Ayush Bhosle 
-     https://twitter.com/annshagrawaal Annsh Agrawaal 
-     https://twitter.com/DhiruCodes Dheeraj Lalwani 
-     * 
-     */
-
-	/**
-	 * newData - [array of strings]
-	 * where string = "socialLink firstName Lastname"
-	 */
-
-	let newData = fileData.split("\n");
-
-	for (let line of newData) {
-		let currentLine = line.trim().split(" ");
-		if (currentLine[0].startsWith("https://")) {
-			let socialLink = currentLine[0].trim();
-			let fullName = currentLine.splice(1).join(" ").trim();
-
-			if (!globalMap.has(fullName)) {
-				globalMap.set(fullName, socialLink);
-			}
+		if (link && name) {
+			globalMap.set(name, link);
+		} else if (onlyName) {
+			globalMap.set(onlyName, null);
+		} else {
+			console.warn(`Error parsing line: ${line}, filePath: ${filePath}`);
 		}
 	}
 }
 
-function writeToMap() {
+function writeToMap(mapPath = "map.json") {
 	/**
 	 * NOTE: the forEach syntax
 	 * forEach((value, key) => {  } )
 	 *
-	 * (not key value; a little unintutive)
+	 * (not key, value; a little unintutive)
 	 */
+
 	globalMap.forEach((socialLink, fullName) => {
 		socialLinkJSON.push({
 			"name": fullName,
@@ -96,8 +60,8 @@ function writeToMap() {
 		});
 	});
 
-	fs.writeFileSync("map.json", JSON.stringify(socialLinkJSON, null, 4));
+	fs.writeFileSync(mapPath, JSON.stringify(socialLinkJSON, null, 4));
 }
 
 parseFilesRecursively(DIRECTORY_PATH);
-writeToMap();
+writeToMap(MAP_PATH);

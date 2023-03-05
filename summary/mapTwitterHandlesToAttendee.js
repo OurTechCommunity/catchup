@@ -44,16 +44,16 @@ function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
 	for (let i = FIRST_TWO_LINES; i < fileData.length - LAST_LINE_EMPTY; ++i) {
 		let name = fileData[i].trim();
 		let nameHandleObject = socialLinkJSON.filter(
-			(item) => item.name === name
+			(item) => item.name === name && item.handle !== null
 		)[0];
 
 		/**
          * nameHandleObject = {json object}
          * 
-        {
-            "name": "Ayush Bhosle",
-            "handle": "https://twitter.com/ayushb_tweets"
-        }
+          {
+               "name": "Ayush Bhosle",
+               "handle": "https://twitter.com/ayushb_tweets"
+          }
          */
 
 		if (nameHandleObject !== undefined) {
