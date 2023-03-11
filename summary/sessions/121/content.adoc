@@ -1,0 +1,28 @@
+Date: 04-03-2023
+
+Duration: 3 hrs 4 mins
+
+==== Topics Discussed
+
+* link:https://www.linkedin.com/in/rishabhbansal1[Rishabh Bansal^] talked about his plans on conducting a meetup on cloud native and no code.
+    ** He is currently working at Oracle and had a long discussion on the link:https://en.wikipedia.org/wiki/Storage_area_network[SAN (Storage Area Network)^].
+    ** He talked about link:https://en.wikipedia.org/wiki/Dell_EMC[Dell EMC^] which can handle storage allocation automatically for VMs
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his link:https://rishit-dagli.github.io/cs-theory-notes/[CS Theory Note^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his desire wants to publish a paper on the link:https://iclr.cc/[ICLR^]
+* We discussed link:https://twitter.com/SirusTweets[Darshan Rander^]'s final year engineering project which is using templating to generate backend API routes.
+    ** Anil Harwani gave a situation gave him, the situation was "If your company asked you to build such a system, what tech stack would you use?"
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared about link:https://networking.harshkapadia.me/homa[Homa^] which is a replacement for TCP on the server side to solve link:https://networking.harshkapadia.me/homa#problems-with-tcp[problems] faced because of TCP.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he is trying to learn link:https://helix-editor.com[Helix^], it is a terminal editor similar to vim.
+    ** He also shared a CLI named link:https://github.com/maaslalani/slides[slides^] which helps you to make presentation slides using markdown files and present them on the terminal.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about what is ARP and how insecure it is and no one is fixing it.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] mentioned that most of the sites are using TLS and ARP poisoning is not possible in sites where you have a TLS connection.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared a few projects which you can use to benchmark ML models.
+    ** link:https://github.com/open-mmlab/mmdetection[open-mmlab/mmdetection^]
+    ** link:https://github.com/huggingface/pytorch-image-models[huggingface/pytorch-image-models^]
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared how he has implemented adding metadata in a live stream video.
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] and link:https://twitter.com/SirusTweets[Darshan Rander^] talked about the state of Flutter.
+    ** Flutter team has decided not to make it indexable and going to make it a framework where faster interactions and performance are needed.
+        *** Addition of a garbage collector in WASM would make it a better option as currently more than 3MB WASM file is downloaded to run Flutter Web.
+    ** Flutter Team started working on Impeller (A custom-made graphical engine for Flutter) which is meant to replace skia.
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared about his 2 job options one of which seems more comfortable to him, to which Anil Harwani asked him to not consider comfort as a variable at this age as this is the age where he should struggle.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] asked Anil Harwani how he assigns weights to things while making a decision.
