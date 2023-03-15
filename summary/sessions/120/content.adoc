@@ -1,0 +1,90 @@
+Date: 25-02-2023
+
+Duration: 4 hrs 12 mins
+
+==== Topics Discussed
+
+* Upgrading SSDs does not necessarily mean better performance since it is dependent on various factors such as processor and motherboard support.
+    ** link:https://twitter.com/JiaHarisinghani[Jia Harisinghani^] recently upgraded her SSD and the result was not much noticeable.
+        *** link:https://twitter.com/PranavDani3[Pranav Dani^] suggested she use a Linux distro since it uses fewer resources generally.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about his recent meeting with Steve Wozniak.
+* We discussed the application of 3D transforms in computer graphics after link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased his project.
+    ** We delved a bit into the math behind the representation of link:https://en.wikipedia.org/wiki/Tensor[tensors^] and what link:https://math.hws.edu/graphicsbook/c4/s3.html#:~:text=A%20texture%2C%20in%20general%2C%20is,the%20image%20onto%20the%20surface.[texture^] means. Most of it revolves around Matrices.
+    ** The operations revolving around matrix calculations in his project are performed using GPU.
+    ** We discussed some ways to imagine higher dimensions.
+        *** Relevant links: 
+            **** link:https://www.popularmechanics.com/science/math/a27737/visualize-higher-dimensions[Ways to visualize higher dimensions^]
+            **** link:https://youtu.be/zwAD6dRSVyI[Thinking outside the 10-dimensional box^] - a video by 3Blue1Brown.
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^]talked about the previous instances where we discussed stable diffusion and how it works.
+    ** link:https://stablediffusionweb.com[Stable Diffusion Web^] is one such example that uses a latent text-to-image diffusion model capable of generating photo-realistic images given any text input. 
+        *** link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested that this might be a spinoff and that the real researchers who built it were link:https://stability.ai[Stability AI^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared link:https://iclr.cc/Conferences/2023/CallForTinyPapers[Call For Tiny Papers^] for ICLR 2023.
+    ** The deadline is 15th March 2023.
+    ** The link:https://iclr.cc/Conferences/2023/CallForTinyPapers[Call For Tiny Papers^] is a good way to get started with research.
+* We discussed two methods in JS - link:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice[Slice^] and link:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice[Splice^] - for creating a temporary copy of an array. 
+    ** This discussion was engendered after link:https://twitter.com/tusharnankanii[Tushar Nankani^]showcased link:https://github.com/tusharnankani/jsonexp[jsonxp^] since we were discussing some ways in which the arrays could be handled.
+* Google has shut down multiple `prestigious` coding competitions.
+    ** Affected coding competitions include link:https://codingcompetitions.withgoogle.com/codejam[code jam^], link:https://codingcompetitions.withgoogle.com/kickstart[kick start^], link:https://codingcompetitions.withgoogle.com/hashcode[hash code^], and more.
+    ** link:https://twitter.com/jonathanirvings/status/1622075521487208449?s=20[Codejam Program Manager and team was laid off^].
+    ** link:https://news.abplive.com/technology/alphabet-fires-100-robots-that-cleaned-cafs-shuts-down-everyday-robots-project-1584488[Alphabet fires 100 robots that cleaned cafés, shuts down Everyday Robots project^]
+    ** Other coding competitions like ICPC and CodeChef are still going strong.
+* We discussed some ways in which link:https://catchup.ourtech.community/summary[CatchUp Summaries^] could be automated.
+    ** link:https://support.google.com/meet/answer/10090454?hl=en[Google Meet supports native attendance recording^] but only for the Enterprise or Business users.
+* We talked about companies like Amazon coming to college with roles providing lower packages.
+    ** While these companies are facing overhiring issues, colleges use the company names in their favor.
+* link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^]shared that GitHub Campus Expert had some internal security issues recently due to which one of the contractors had complete access to Campus Expert's portals.
+    ** This led to the removal of most members from the portal, but this issue was soon fixed.
+    ** He also said that he was not able to access `raw.githubusercontent.com` on Jio network.
+        *** We have also discussed about it in link:https://catchup.ourtech.community/summary#:~:text=Pranav%20Dani%20talked%20about%20an%20issue%20he%20was%20facing%20with%20JioFiber%2C%20where%20he%20couldn%E2%80%99t%20make%20a%20request%20to%20https%3A//raw.githubusercontent.com%20domain.[one of the previous cathups^].
+* link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^]shared that his browser (Safari) was consuming a lot of resources for the meet.
+    ** Browsers might be using more resources due to more available resources.
+        *** link:https://twitter.com/PranavDani3[Pranav Dani^] talked about link:https://asana.com/resources/parkinsons-law[Parkinson's law^] for people to relate with the computer resource issue where the device might use more memory only because it has the luxury to access it.
+* link:https://twitter.com/ashwinexe[Ashwin Kumar Uppala^]talked about how it is difficult to find good first issues on GitHub since Twitter bots swoop them and it becomes difficult to find and contribute.
+    ** He also shared a blog about - link:https://opensauced.pizza/blog/good-first-issues-dont-exist[Good First Issues Don't Exist^].
+* While on the topic of companies like Google shutting down multiple coding competitions, Anil Harwani tried to explain how companies are trying to effectively increase income by reducing expenses that don't generate income (or potential income).
+    ** Based on the math of inflation, one has to earn 10% more every year to maintain the same standard of living (Assuming that the rate of inflation is 10%).
+        *** This issue can be tackled either by increasing income or decreasing expenses.
+    ** Periods of austerity are good for innovation.
+* Anil Harwani described how a computer works based on the link:https://en.wikipedia.org/wiki/Von_Neumann_architecture[Von Neumann architecture^] to later discuss the differences between CPU and GPU.
+    ** A modern CPU can have multiple cores which are good at performing general-purpose tasks, but a CPU is not good at performing extremely parallel operations.
+        *** Some CPUs might have accelerators for performing parallel operations on an order of magnitude of maybe 100s of threads, but they are not as good as GPUs.
+    ** Every processor has I/O buses (could be link:https://en.wikipedia.org/wiki/PCI_Express[PCIe^] (X4) links) that talks with NVMe(Non-Volatile Memory Express, a storage protocol running on top of link:https://en.wikipedia.org/wiki/PCI_Express[PCIe^]) and a GPU can have a link:https://en.wikipedia.org/wiki/PCI_Express[PCIe^] (x16) link, which translates into 4 times more bandwidth than the storage.
+        *** When a GPU is triggered, the OS triggers link:https://www.techopedia.com/definition/2767/direct-memory-access-dma[DMA (Direct Memory Access)^] which is a hardware mechanism that allows bypassing CPU so that the GPU can directly talk with the memory.
+            **** We used link:https://www.techpowerup.com/gpuz[GPUz^] to determine our GPU specifications. Interesting fact - This tool was built by a single person.
+* We discussed the differences between PCIe versions and the link transfer speeds that come with them.
+    ** Speed differences are huge if we compare PC GPUs and commercial GPUs like link:https://www.acecloudhosting.com/public-cloud/gpu/nvidia-a100/?utm_source=google&utm_medium=cpc&utm_campaign=Cloud_GPU_India&utm_term=nvidia%20a100&utm_content=g&utm_adgroup=NVIDIA_Series&gclid=EAIaIQobChMIho-j8vDB_QIVGpNmAh0KpQAOEAAYASAAEgJ9lfD_BwE[NVIDIA A100^].
+        *** link:https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf[This^] is a whitepaper that talks about the architecture of the A100 GPU.
+* Anil Harwani talked about the function of the voltage regulators on the GPU.
+    ** Those little devices can suck power that is equivalent to or even more than a small refrigerator or an AC.
+        *** Images are available in link:https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf[this^] whitepaper.
+* We zoomed into GPU cores where we talked about shader modules which can essentially do fast math operations.
+    ** Memory Controllers and L2 Cache help in loading the code in GPU which is then executed through the shader modules.
+    ** All the shader cores are clubbed into units called Warps.
+        *** Each warp can execute 32 threads.
+            **** Each thread can be a different instance of the same program.
+* Anil Harwani shared that he designed link:https://www.nvidia.com/en-in/data-center/dgx-a100[Nvidia's DGX 100^] which uses link:https://en.wikipedia.org/wiki/NVLink[NVLink^] to connect 1120 GPUs which act as a single system.
+    ** This system has a very high bandwidth, memory and lots of tensor cores.
+    ** These types of systems are used to train things like ChatGPT.
+    ** He also shared link:https://en.wikipedia.org/wiki/Rack_unit[Rack Units^] and how they are used to allocate systems in a server.
+    ** We discussed what a link:https://www.techtarget.com/searchstorage/definition/DIMM[DIMM^] is.
+* We learned why mainframes are still used for handling transactions.
+    ** Reason being - Business logic hasn't changed for a long time.
+    ** It is a very stable and trustworthy system.
+    ** Anil Harwani shared a list of software practices required by nasa:
+        *** link:https://swehb.nasa.gov/display/SWEHBVB/SRS+-+Software+Requirements+Specification?desktop=true&macroName=div[Software Requirements Specification^]
+        *** link:https://nodis3.gsfc.nasa.gov/displayAll.cfm?Internal_ID=N_PR_7150_002A_&page_name=all[Software Engineering Requirements^]
+        *** link:https://swehb.nasa.gov/display/swehbvc/software+design+principles[Design Principles^]
+* Singapore does not follow its geographical time zone mostly because of financial reasons.
+    ** It tries to match the time with Japan which has adverse effects on the circadian rhythm of the people.
+* Anil Harwani suggested a podcast by BBC World Service - _13 minutes to the Moon_
+    ** link:https://www.bbc.co.uk/programmes/w13xttx2/episodes/downloads[Download link^]
+    ** link:https://open.spotify.com/show/36P6Xk2292DapFNerkRbDw?si=3ccc7eb2fade427c[Spotify link^]
+
+==== Projects Showcased
+
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased _3D Transforms_ - a library to easily work with 3D data and make 3D transformations.
+    ** link:https://rishit-dagli.github.io/3d-transforms[Demo^]
+    ** link:https://github.com/Rishit-dagli/3d-transforms[GitHub Repository^]
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^]showcased _jsonexp_ a JS script for linking Twitter attendees using the attendance list generated by the chrome extension.
+    ** It uses an attendee list to generate a map of attendees for `attendees.adoc`.
+    ** link:https://github.com/tusharnankani/jsonexp[GitHub Repository^]
