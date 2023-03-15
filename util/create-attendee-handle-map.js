@@ -14,8 +14,8 @@ const path = require("path");
 let socialLinkJSON = [];
 let globalMap = new Map();
 
-const DIRECTORY_PATH = "../summary/sessions";
-const MAP_PATH = "../summary/map.json";
+const DIRECTORY_PATH = __dirname + "/../summary/sessions";
+const MAP_PATH = __dirname + "/../summary/map.json";
 
 function parseFilesRecursively(directoryPath = "./") {
 	const files = fs.readdirSync(directoryPath);

@@ -7,7 +7,9 @@
 const fs = require("fs");
 const catchupNumber = require("./catchup-number");
 
-const socialLinkJSON = JSON.parse(fs.readFileSync("../summary/map.json"));
+const mapFile = __dirname + "/../summary/map.json"
+
+const socialLinkJSON = JSON.parse(fs.readFileSync(mapFile));
 
 /**
  * The `process.argv` contains an array where:
@@ -22,7 +24,7 @@ if (SESSION_NUMBER === undefined) {
 		`Enter CatchUp Session Number.\n> node map-handles-to-catchup-attendees.js <catchup-number>`
 	);
 } else {
-	let SESSION_ATTENDEES_PATH = `../summary/sessions/${SESSION_NUMBER}/attendees.adoc`;
+	let SESSION_ATTENDEES_PATH = `${__dirname}/../summary/sessions/${SESSION_NUMBER}/attendees.adoc`;
 	mapHandles(SESSION_ATTENDEES_PATH);
 }
 
@@ -98,5 +100,3 @@ function mapHandles(filePath) {
 
 	fs.writeFileSync(filePath, fileData);
 }
-
-// mapHandles();
