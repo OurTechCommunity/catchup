@@ -1,39 +1,53 @@
+/**
+ * > node map-handles-to-catchup-attendees.js <catchup-number>
+ * 
+ * This maps a list of names to the required format of the attendees file.
+ */
+
 const fs = require("fs");
+const catchupNumber = require("./catchup-number");
 
-const socialLinkJSON = JSON.parse(fs.readFileSync("./map.json"));
+const socialLinkJSON = JSON.parse(fs.readFileSync("../summary/map.json"));
 
-const SESSION_ATTENDEES_PATH = "./sessions/000/attendees.adoc";
 
-function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
+/**
+ * The `process.argv` contains an array where: 
+ * 0th index contains the node executable path
+ * 1st index contains the path to your current file and then the rest index contains the passed arguments.
+*/
+const ARGS = process.argv;
+
+let SESSION_NUMBER = ARGS[2];
+if(SESSION_NUMBER === undefined) {
+     console.warn(`Enter CatchUp Session Number.\n> node map-handles-to-catchup-attendees.js <catchup-number>`)
+}
+else {
+     let SESSION_ATTENDEES_PATH = `../summary/sessions/${SESSION_NUMBER}/attendees.adoc`;
+     mapHandles(SESSION_ATTENDEES_PATH);
+}
+
+
+function mapHandles(filePath) {
 	const fileContents = fs.readFileSync(filePath, "utf8");
 
 	/**
-     * fileContents
+     * fileContents - initally, a list of names pasted from CSV
      * 
-    ==== Attendees
-
-    . Ayush Bhosle
-    . Annsh Agrawaal
-    . Dheeraj Lalwani
-
-     *
+     Ayush Bhosle
+     Annsh Agrawaal
+     Dheeraj Lalwani
      */
 
-	const FIRST_TWO_LINES = 2;
-	const LAST_LINE_EMPTY = 1;
-
-	let fileData = fileContents.toString().replaceAll(". ", "").split("\n");
+	let fileData = fileContents.toString().split("\n");
 
 	/**
      * fileData - [array of strings]
      * 
     [
-        '==== Attendees',
-        '',
         'Ayush Bhosle',
         'Annsh Agrawaal',
         'Dheeraj Lalwani',
-        ''
+        ...
     ]
      *
      */
@@ -41,7 +55,7 @@ function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
 	let linkedHandles = [],
 		unLinkedHandles = [];
 
-	for (let i = FIRST_TWO_LINES; i < fileData.length - LAST_LINE_EMPTY; ++i) {
+	for (let i = 0; i < fileData.length; ++i) {
 		let name = fileData[i].trim();
 		let nameHandleObject = socialLinkJSON.filter(
 			(item) => item.name === name && item.handle !== null
@@ -65,10 +79,10 @@ function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
 		}
 	}
 
-	fileData = fileData.slice(0, FIRST_TWO_LINES);
+	fileData = ['==== Attendees', ''];
 	fileData.push(...linkedHandles);
 	fileData.push(...unLinkedHandles);
-	fileData.push("");
+	fileData.push('');
 	fileData = fileData.join("\n");
 
 	/**
@@ -86,4 +100,4 @@ function mapHandles(filePath = SESSION_ATTENDEES_PATH) {
 	fs.writeFileSync(filePath, fileData);
 }
 
-mapHandles();
+// mapHandles();

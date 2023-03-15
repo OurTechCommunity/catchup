@@ -1,11 +1,21 @@
+/**
+ * > node create-attendee-handle-map.js
+ * 
+ * This command could be run once on:
+ * attendees.adoc files from `./../summary/sessions` directory 
+ * 
+ * Creates a `map.json` which can be used to link handles by running:
+ * > node map-handles-to-catchup-attendees.js <catchup-number>
+ */
+
 const fs = require("fs");
 const path = require("path");
 
 let socialLinkJSON = [];
 let globalMap = new Map();
 
-const DIRECTORY_PATH = "./sessions";
-const MAP_PATH = "./map.json";
+const DIRECTORY_PATH = "../summary/sessions";
+const MAP_PATH = "../summary/map.json";
 
 function parseFilesRecursively(directoryPath = "./") {
 	const files = fs.readdirSync(directoryPath);
@@ -30,11 +40,10 @@ function parseFilesRecursively(directoryPath = "./") {
 
 function collectUsernames(fileContents, filePath) {
 	const attendeePattern = /\. link:(.*)\[(.*?)\^?\]|\. (.+)/;
-
-	for (let line of fileData) {
+	fileContents = fileContents.split("\n").slice(2); // Remove first 2 lines of attendees.adoc: ['==== Attendees', ''];
+	for (let line of fileContents) {
 		if (!line) continue; // skip empty lines
 		let [, link, name, onlyName] = line.match(attendeePattern) ?? [];
-
 		if (link && name) {
 			globalMap.set(name, link);
 		} else if (onlyName) {
@@ -45,7 +54,7 @@ function collectUsernames(fileContents, filePath) {
 	}
 }
 
-function writeToMap(mapPath = "map.json") {
+function writeToMap(mapPath = "./map.json") {
 	/**
 	 * NOTE: the forEach syntax
 	 * forEach((value, key) => {  } )
