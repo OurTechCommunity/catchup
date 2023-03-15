@@ -1,6 +1,6 @@
 /**
  * > node map-handles-to-catchup-attendees.js <catchup-number>
- * 
+ *
  * This maps a list of names to the required format of the attendees file.
  */
 
@@ -9,23 +9,22 @@ const catchupNumber = require("./catchup-number");
 
 const socialLinkJSON = JSON.parse(fs.readFileSync("../summary/map.json"));
 
-
 /**
- * The `process.argv` contains an array where: 
+ * The `process.argv` contains an array where:
  * 0th index contains the node executable path
  * 1st index contains the path to your current file and then the rest index contains the passed arguments.
-*/
+ */
 const ARGS = process.argv;
 
 let SESSION_NUMBER = ARGS[2];
-if(SESSION_NUMBER === undefined) {
-     console.warn(`Enter CatchUp Session Number.\n> node map-handles-to-catchup-attendees.js <catchup-number>`)
+if (SESSION_NUMBER === undefined) {
+	console.warn(
+		`Enter CatchUp Session Number.\n> node map-handles-to-catchup-attendees.js <catchup-number>`
+	);
+} else {
+	let SESSION_ATTENDEES_PATH = `../summary/sessions/${SESSION_NUMBER}/attendees.adoc`;
+	mapHandles(SESSION_ATTENDEES_PATH);
 }
-else {
-     let SESSION_ATTENDEES_PATH = `../summary/sessions/${SESSION_NUMBER}/attendees.adoc`;
-     mapHandles(SESSION_ATTENDEES_PATH);
-}
-
 
 function mapHandles(filePath) {
 	const fileContents = fs.readFileSync(filePath, "utf8");
@@ -79,10 +78,10 @@ function mapHandles(filePath) {
 		}
 	}
 
-	fileData = ['==== Attendees', ''];
+	fileData = ["==== Attendees", ""];
 	fileData.push(...linkedHandles);
 	fileData.push(...unLinkedHandles);
-	fileData.push('');
+	fileData.push("");
 	fileData = fileData.join("\n");
 
 	/**

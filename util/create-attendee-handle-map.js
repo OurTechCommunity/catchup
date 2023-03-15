@@ -1,9 +1,9 @@
 /**
  * > node create-attendee-handle-map.js
- * 
+ *
  * This command could be run once on:
- * attendees.adoc files from `./../summary/sessions` directory 
- * 
+ * attendees.adoc files from `./../summary/sessions` directory
+ *
  * Creates a `map.json` which can be used to link handles by running:
  * > node map-handles-to-catchup-attendees.js <catchup-number>
  */
