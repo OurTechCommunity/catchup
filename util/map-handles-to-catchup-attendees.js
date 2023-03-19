@@ -5,9 +5,8 @@
  */
 
 const fs = require("fs");
-const catchupNumber = require("./catchup-number");
 
-const mapFile = __dirname + "/../summary/map.json"
+const mapFile = __dirname + "/../summary/map.json";
 
 const socialLinkJSON = JSON.parse(fs.readFileSync(mapFile));
 
@@ -18,14 +17,21 @@ const socialLinkJSON = JSON.parse(fs.readFileSync(mapFile));
  */
 const ARGS = process.argv;
 
-let SESSION_NUMBER = ARGS[2];
-if (SESSION_NUMBER === undefined) {
+const SESSION_NUMBER = ARGS[2];
+if (SESSION_NUMBER !== undefined) {
+	const SESSION_ATTENDEES_PATH = `${__dirname}/../summary/sessions/${SESSION_NUMBER}/attendees.adoc`;
+	if (fs.existsSync(SESSION_ATTENDEES_PATH)) {
+		console.log(
+			`Mapping handles at Path: ${SESSION_ATTENDEES_PATH}For CatchUp Session Number: ${SESSION_NUMBER}`
+		);
+		mapHandles(SESSION_ATTENDEES_PATH);
+	} else {
+		console.warn(`File Path Not Found: ${SESSION_ATTENDEES_PATH}`);
+	}
+} else {
 	console.warn(
 		`Enter CatchUp Session Number.\n> node map-handles-to-catchup-attendees.js <catchup-number>`
 	);
-} else {
-	let SESSION_ATTENDEES_PATH = `${__dirname}/../summary/sessions/${SESSION_NUMBER}/attendees.adoc`;
-	mapHandles(SESSION_ATTENDEES_PATH);
 }
 
 function mapHandles(filePath) {
@@ -75,7 +81,7 @@ function mapHandles(filePath) {
 			linkedHandles.push(
 				`. link:${nameHandleObject.handle}[${nameHandleObject.name}^]`
 			);
-		} else {
+		} else if (name !== "") {
 			unLinkedHandles.push(`. ${name}`);
 		}
 	}
