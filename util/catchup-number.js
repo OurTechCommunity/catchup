@@ -36,7 +36,7 @@ async function getCatchupNumber(getNextCatchupNumber, addSuffix) {
 		let lastCatchupPath =
 			path +
 			"/" +
-			normalizeCatchupNumber(catchUpNumber) +
+			catchUpNumber.toString().padStart(3, "0") +
 			"/content.adoc";
 		// Get number of weeks since last CatchUp
 		let lastCatchupContent = await readFile(lastCatchupPath);
