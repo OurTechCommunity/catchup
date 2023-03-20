@@ -12,7 +12,7 @@ Duration: 3 hrs 4 mins
 * link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his final year engineering project _BackGen_, which helps in creating a foundational backend code for API routes using OpenAPI specifications in link:https://go.dev[GoLang^]. This project assumes the user to be proficient with GoLang, since frontend and database is supposed to be handled by them.
     ** Anil Harwani gave a situation — "If your company asked you to build such a system, what tech stack would you use?"
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://networking.harshkapadia.me/homa[Homa^], a replacement for TCP on the server side to solve link:https://networking.harshkapadia.me/homa#problems-with-tcp[problems] faced due to TCP.
-* link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he is trying to learn link:https://helix-editor.com[Helix^], it is a terminal editor similar to vim.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he is trying to learn link:https://helix-editor.com[Helix^], which is a terminal editor similar to vim.
     ** He also shared a CLI named link:https://github.com/maaslalani/slides[slides^] which helps you to make presentation slides using markdown files and present them on the terminal.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about what is ARP, how unsecured it is and it is not being fixed.
     ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] mentioned that most of the sites are using TLS and ARP poisoning is not possible in sites where you have a TLS connection.
