@@ -7,7 +7,10 @@
 const fs = require("fs/promises");
 const path = require("path");
 
-const { getAllCatchUpNumbers } = require("./catchup-number");
+const {
+	getAllCatchUpNumbers,
+	normalizeCatchupNumber
+} = require("./catchup-number");
 
 const ATTENDEES_HEADER = "==== Attendees";
 const SESSIONS_FOLDER = path.join(__dirname, "../summary/sessions");
@@ -78,12 +81,9 @@ async function main() {
 		process.exit(1);
 	}
 
-	const sessionNumberNormalized = parseInt(SESSION_NUMBER, 10)
-		.toString()
-		.padStart(3, "0");
 	const SESSION_ATTENDEES_PATH = path.join(
 		SESSIONS_FOLDER,
-		sessionNumberNormalized,
+		normalizeCatchupNumber(SESSION_NUMBER),
 		"attendees.adoc"
 	);
 	let attendeesData = await fs

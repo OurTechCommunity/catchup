@@ -3,6 +3,8 @@ const fs = require("fs");
 const express = require("express");
 const { Deta } = require("deta");
 
+const { normalizeCatchupNumber } = require("./util/catchup-number");
+
 require("dotenv").config();
 
 const app = express();
@@ -75,11 +77,10 @@ app.get("/summary/:catchupNumber", (req, res) => {
 		return;
 	}
 
-	let parsedCatchupNumber = parseInt(catchupNumber).toString();
-	let normalizedCatchupNumber = parsedCatchupNumber.padStart(3, "0");
-
+	let parsedCatchupNumber = parseInt(catchupNumber, 10).toString();
 	const path =
-		__dirname + `/public/html/summary/${normalizedCatchupNumber}.html`;
+		__dirname +
+		`/public/html/summary/${normalizeCatchupNumber(catchupNumber)}.html`;
 	if (fs.existsSync(path)) {
 		// if entered path is not canonical, redirect to the canonical path
 		if (catchupNumber !== parsedCatchupNumber)

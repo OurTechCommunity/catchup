@@ -76,7 +76,14 @@ async function getCatchupNumber(getNextCatchupNumber, addSuffix) {
 	return catchUpNumber;
 }
 
+
+function normalizeCatchupNumber(numberOrString) {
+	let number = parseInt(numberOrString.toString(), 10);
+	return number.toString(10).padStart(3, "0");
+}
+
 module.exports = {
 	getAllCatchUpNumbers,
-	getCatchupNumber
+	getCatchupNumber,
+	normalizeCatchupNumber
 };
