@@ -4,105 +4,105 @@
  * This maps a list of names to the required format of the attendees file.
  */
 
-const fs = require("fs");
+const fs = require("fs/promises");
+const path = require("path");
 
-const mapFile = __dirname + "/../summary/map.json";
+const { getAllCatchUpNumbers } = require("./catchup-number");
 
-const socialLinkJSON = JSON.parse(fs.readFileSync(mapFile));
+const ATTENDEES_HEADER = "==== Attendees";
+const SESSIONS_FOLDER = path.join(__dirname, "../summary/sessions");
+const mapFile = path.join(__dirname, "../summary/map.json");
 
-/**
- * The `process.argv` contains an array where:
- * 0th index contains the node executable path
- * 1st index contains the path to your current file and then the rest index contains the passed arguments.
- */
-const ARGS = process.argv;
+async function mapHandles(filePath) {
+	const socialLinkJSON = JSON.parse((await fs.readFile(mapFile)).toString());
 
-const SESSION_NUMBER = ARGS[2];
-if (SESSION_NUMBER !== undefined) {
-	const SESSION_ATTENDEES_PATH = `${__dirname}/../summary/sessions/${SESSION_NUMBER}/attendees.adoc`;
-	if (fs.existsSync(SESSION_ATTENDEES_PATH)) {
-		console.log(
-			`Mapping handles at Path: ${SESSION_ATTENDEES_PATH}For CatchUp Session Number: ${SESSION_NUMBER}`
+	let csvData = (await fs.readFile(filePath, "utf8")).toString().split("\n");
+	let linkedHandles = [];
+	let unLinkedHandles = [];
+	for (let i = 0; i < csvData.length; ++i) {
+		let attendeeName = csvData[i].trim();
+		let nameHandleObject = socialLinkJSON.find(
+			({ name, handle }) => name === attendeeName && handle !== null
 		);
-		mapHandles(SESSION_ATTENDEES_PATH);
-	} else {
-		console.warn(`File Path Not Found: ${SESSION_ATTENDEES_PATH}`);
-	}
-} else {
-	console.warn(
-		`Enter CatchUp Session Number.\n> node map-handles-to-catchup-attendees.js <catchup-number>`
-	);
-}
-
-function mapHandles(filePath) {
-	const fileContents = fs.readFileSync(filePath, "utf8");
-
-	/**
-     * fileContents - initally, a list of names pasted from CSV
-     * 
-     Ayush Bhosle
-     Annsh Agrawaal
-     Dheeraj Lalwani
-     */
-
-	let fileData = fileContents.toString().split("\n");
-
-	/**
-     * fileData - [array of strings]
-     * 
-    [
-        'Ayush Bhosle',
-        'Annsh Agrawaal',
-        'Dheeraj Lalwani',
-        ...
-    ]
-     *
-     */
-
-	let linkedHandles = [],
-		unLinkedHandles = [];
-
-	for (let i = 0; i < fileData.length; ++i) {
-		let name = fileData[i].trim();
-		let nameHandleObject = socialLinkJSON.filter(
-			(item) => item.name === name && item.handle !== null
-		)[0];
 
 		/**
-         * nameHandleObject = {json object}
-         * 
-          {
-               "name": "Ayush Bhosle",
-               "handle": "https://twitter.com/ayushb_tweets"
-          }
-         */
+		 * nameHandleObject = {json object}
+		 * 
+		  {
+			   "name": "Ayush Bhosle",
+			   "handle": "https://twitter.com/ayushb_tweets"
+		  }
+		 */
 
 		if (nameHandleObject !== undefined) {
 			linkedHandles.push(
 				`. link:${nameHandleObject.handle}[${nameHandleObject.name}^]`
 			);
-		} else if (name !== "") {
-			unLinkedHandles.push(`. ${name}`);
+		} else if (attendeeName) {
+			unLinkedHandles.push(`. ${attendeeName}`);
 		}
 	}
 
-	fileData = ["==== Attendees", ""];
-	fileData.push(...linkedHandles);
-	fileData.push(...unLinkedHandles);
-	fileData.push("");
-	fileData = fileData.join("\n");
-
 	/**
-     * fileData
-     * 
-    ==== Attendees
+	 * fileData
+	 * 
+	==== Attendees
 
-    . link:https://twitter.com/ayushb_tweets[Ayush Bhosle^]
-    . link:https://twitter.com/annshagrawaal[Annsh Agrawaal^]
-    . link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
+	. link:https://twitter.com/ayushb_tweets[Ayush Bhosle^]
+	. link:https://twitter.com/annshagrawaal[Annsh Agrawaal^]
+	. link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
     
-     *
-     */
+	 *
+	 */
 
-	fs.writeFileSync(filePath, fileData);
+	await fs.writeFile(
+		filePath,
+		["==== Attendees", "", ...linkedHandles, ...unLinkedHandles, ""].join(
+			"\n"
+		)
+	);
 }
+
+async function main() {
+	let SESSION_NUMBER = process.argv[2];
+
+	if (SESSION_NUMBER == undefined) {
+		console.warn(`no catchup number specified`);
+		let catchupNumbers = await getAllCatchUpNumbers();
+		SESSION_NUMBER = catchupNumbers.sort().at(-1).toString();
+	}
+	if (SESSION_NUMBER == undefined) {
+		console.warn(
+			`could not autodetect summary folder, please specify as first argument`
+		);
+		process.exit(1);
+	}
+
+	const sessionNumberNormalized = parseInt(SESSION_NUMBER, 10)
+		.toString()
+		.padStart(3, "0");
+	const SESSION_ATTENDEES_PATH = path.join(
+		SESSIONS_FOLDER,
+		sessionNumberNormalized,
+		"attendees.adoc"
+	);
+	let attendeesData = await fs
+		.readFile(SESSION_ATTENDEES_PATH)
+		.then((buffer) => buffer.toString())
+		.catch(() => null);
+	if (!attendeesData) {
+		console.warn(`could not open ${SESSION_ATTENDEES_PATH}`);
+		process.exit(1);
+	} else if (attendeesData.includes(ATTENDEES_HEADER)) {
+		console.warn(
+			`looks like ${SESSION_ATTENDEES_PATH} is alreadly\n` +
+				`processed since it contains "${ATTENDEES_HEADER}",\n` +
+				"please remove if incorrect"
+		);
+		process.exit(1);
+	}
+
+	await mapHandles(SESSION_ATTENDEES_PATH);
+}
+
+if (require.main) main();
