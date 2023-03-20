@@ -9,7 +9,7 @@ Duration: 3 hrs 4 mins
     ** He talked about link:https://en.wikipedia.org/wiki/Dell_EMC[Dell EMC^] which can handle storage allocation automatically for VMs.
 * link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his link:https://rishit-dagli.github.io/cs-theory-notes/[CS Theory Notes^]
 * link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared about his aspiration to publish a paper on the link:https://iclr.cc/[ICLR^]
-* We discussed link:https://twitter.com/SirusTweets[Darshan Rander^]'s final year engineering project which is using templating to generate backend API routes.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about his final year engineering project _BackGen_, which helps in creating a foundational backend code for API routes using OpenAPI specifications in link:https://go.dev[GoLang^]. This project assumes the user to be proficient with GoLang, since frontend and database is supposed to be handled by them.
     ** Anil Harwani gave a situation — "If your company asked you to build such a system, what tech stack would you use?"
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared about link:https://networking.harshkapadia.me/homa[Homa^] which is a replacement for TCP on the server side to solve link:https://networking.harshkapadia.me/homa#problems-with-tcp[problems] faced because of TCP.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he is trying to learn link:https://helix-editor.com[Helix^], it is a terminal editor similar to vim.
