@@ -15,7 +15,7 @@ Duration: 3 hrs 4 mins
 * link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he is trying to learn link:https://helix-editor.com[Helix^], which is a terminal editor similar to vim.
     ** He also shared a CLI named link:https://github.com/maaslalani/slides[slides^] which helps the user to make presentation slides using markdown files and present them on the terminal.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about what is ARP, how unsecure it is and why isn't it being fixed.
-    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] mentioned that most of the sites are using TLS and ARP poisoning is not possible in sites where you have a TLS connection.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] mentioned that most of the sites are using TLS, and ARP poisoning is not possible in sites where you have a TLS connection.
 * link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared a few projects which you can use to benchmark ML models.
     ** link:https://github.com/open-mmlab/mmdetection[open-mmlab/mmdetection^]
     ** link:https://github.com/huggingface/pytorch-image-models[huggingface/pytorch-image-models^]
