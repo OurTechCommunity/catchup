@@ -5,7 +5,7 @@ Duration: 2 hrs 30 mins
 ==== Topics Discussed
 
 * Hrishikesh Dhuri explained his startup idea for an e-commerce platform and what he is trying to build.
-    ** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] asked a few questions regarding the delivery, and return policy and how they are going to tackle it.
+    ** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] asked a few questions regarding the delivery,  return policy and how they were going to tackle it.
     ** link:https://www.linkedin.com/in/pijamo-ngullie-9a5971b5[Pijamo Ngullie^] gave amazing insights on how the concerned industry works.
 * link:https://www.linkedin.com/in/pijamo-ngullie-9a5971b5[Pijamo Ngullie^] shared a badly designed site and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] tried to find security vulnerablities in it.
 * link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared a paper on link:https://arxiv.org/abs/2212.08073[Constitutional AI: Harmlessness from AI Feedback^].
