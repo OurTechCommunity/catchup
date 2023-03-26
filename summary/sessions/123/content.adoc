@@ -1,0 +1,40 @@
+Date: 18-03-2023
+
+Duration: 4 hrs 10 mins
+
+==== Topics Discussed
+
+* [Dheeraj] asked everyone for weighing in on his Startup VS MNC decision.
+    ** He said he considered factors like mentorship, code reviews, having an actual team to work with and pay into consideration when making the decision.
+    ** It was also agreed upon by everyone that going from an MNC to a StartUp is easier compared to going from a StartUp to an MNC.
+    ** [Wilfred] said that he hasn't figured what tech/domain he wants to work full time on, so he prefers a startup because it's relatively easy to jump work. Now people who've taken a gist of my skills recommend him to work at an MNC because they'll groom him and he can polish his skill set.
+    ** [Darshit] suggested that when it comes to learning, there are better opportunities in a StartUp but he agreed to the concerns raised by [Dheeraj] and we came to a decision to choose MNC over a StartUp.
+* [Darshit] told everyone about link:https://github.com/microsoft/visual-chatgpt[Visual ChatGPT^].
+* [Dheeraj] shared how he tried generating some beautiful imaginary art images with link:https://discord.com/invite/midjourney[Midjourney^] bot on Discord.
+* [Wilfred] shared link:https://github.com/cocktailpeanut/dalai[Dalai^] which helps Run link:https://ai.facebook.com/blog/large-language-model-llama-meta-ai[LLaMA^] and link:https://crfm.stanford.edu/2023/03/13/alpaca.html[Alpaca^] on your computer.
+    ** link:https://arxiv.org/abs/2302.13971[LLaMA: Open and Efficient Foundation Language Models^]
+    ** link:https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md[LLaMA Model Card^]
+    ** [Wilfred] claimed that it promises sort of GPT like functions without the need of a GPU.
+* We talked about link:https://en.wikipedia.org/wiki/ControlNet[ControlNet^] and link:https://stablediffusionweb.com[Stable Diffusion^]
+* [Ishan] showcased his new portfolio which contains 3D elements which he designed on link:https://spline.design[Spline^]
+* [Dheeraj] shared a few link:http://www.paulgraham.com/articles.html[essays^] by link:http://www.paulgraham.com[Paul Graham^]
+    ** link:http://www.paulgraham.com/think.html[How To Think For Yourself^]
+    ** link:http://www.paulgraham.com/hackpaint.html[Hackers & Painters^]
+    ** link:http://www.paulgraham.com/getideas.html[How To Get New Ideas^]
+* [Jaden] asked an question: Say someone comes up with an idea. And they discuss it with a couple of friends and the friends start working on the idea and the person who came up with the idea stays in the feedback loop and keeps giving their input. Who would own the product/idea?
+    ** Many people weighed in with their opinions.
+    ** Someone suggested the idea belongs to the person who patented it first.
+    ** Eventually we concluded with a shared ownership between the partners the ratio on which needs to be discussed contextually.
+* [Darshan] shared with everyone that he started interning as a Full Stack App Developer at link:https://stratzy.in[Stratzy].
+
+==== Projects Showcased
+
+* [Darshan] showcased newer updates to link:https://play.google.com/store/apps/details?id=com.darshan.heartry[Heartry - An App for Writers^]
+    ** link:https://heartry.darshanrander.com[Website^]
+    ** link:https://github.com/SirusCodes/Heartry[GitHub Repository]
+* [Siddharth] showcased Tkinter Demos which is a collection of Tkinter Programs that he has written.
+    ** link:https://github.com/Welding-Torch/Tkinter[GitHub Repository]
+    ** He primarily showcased the Simple Calculator, the Image Viewer, the CRUD Database App, and the Weather App.
+    ** All these apps are written in Python using the Tkinter GUI Library.
+    ** The purpose of doing this was for me to learn Tkinter.
+    ** I learn by doing, and I followed along with FreeCodeCamp's Tkinter Course linked here: https://www.youtube.com/watch?v=YXPyB4XeYLA
