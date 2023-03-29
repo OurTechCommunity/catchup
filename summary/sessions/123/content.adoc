@@ -26,6 +26,11 @@ Duration: 4 hrs 10 mins
     ** Someone suggested the idea belongs to the person who patented it first.
     ** Eventually we concluded with a shared ownership between the partnersich needs  the ratio on whto be discussed contextually.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] shared with everyone that he started interning as a Full Stack App Developer at link:https://stratzy.in[Stratzy].
+* link:https://twitter.com/kaku_jay[Jay Kaku^] talked about his project where he is talked about pipelining at hardware level and uses link:https://en.wikipedia.org/wiki/Fast_Fourier_transform[Fast Fourier Transform (FFT)^] for better throughput.
+* link:https://twitter.com/DSdatsme[Darshit Suratwala^] talked link:https://www.scale3labs.com/[scale3labs^] which is a tool for montinoring blockchain nodes and networks.
+* We talked about link:https://stackoverflow.com/questions/71944390/how-are-cpu-resource-units-millicore-millicpu-calculated-under-the-hood[milliCPU^] a unit for measure CPU resource ie. 1000 milliCPU = 1 core.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared that he is interested in apply at link:https://beagleboard.org/[beagleboard.org^] for this year's GSoC.
+    ** Beagleboard is similar to link:https://raspberrypi.com[Raspberry Pi] but it is more focused on optimizing machine learning processes on smaller hardware.
 
 ==== Projects Showcased
 
