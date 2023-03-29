@@ -1,0 +1,24 @@
+Date: 25-03-2023
+
+Duration: 03 hrs 10 mins
+
+==== Topics Discussed
+
+* We conducted our third installment of OTC talks - link:https://talks.ourtech.community/3[OTC Talks #3] - Routing Using IP and MAC Addresses - with link:https://twitter.com/harshgkapadia[Harsh Kapadia^] as our speaker. 
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^], link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about ChatGPT, GPT-4 and the future of AI.
+    ** We tried to compare link:https://bard.google.com/[Google's BARD] and link:https://www.openai.com/blog/chatting-with-ai/[OpenAI's ChatGPT], standard text models for generating text completions.
+        *** link:https://youtu.be/xW9DJTvB3NI[Google Bard… the ChatGPT killer?^] - a video by link:https://www.youtube.com/@Fireship[Fireship^].
+    ** We discussed the differences between GPT-4 and ChatGPT-4.
+        *** GPT-4 is currently allowing its users to make requests through its API.
+        *** ChatGPT-4 requires the link:https://openai.com/blog/chatgpt-plus[ChatGPT Plus^] subscription.
+    ** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] discussed the experiments with Microsoft integrating AI into its search bar, which also integrates link:https://www.bing.com[bing^].
+* We discussed how tools like ChatGPT and BARD might have the potential to eliminate the need for people to study subjects or topics in depth.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] discussed one of his professor's perspectives who has worked on GPT and suggested that if something is answerable by ChatGPT or any other AI models, then it's not a skill worth developing or spending a lot of time on.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about how people might lose on the thinking part of the learning process which one goes through when they write, question and think about the topics objectively.
+        *** To refine something and add subtle nuances, one needs to think and write slowly for the realizations to hit since eureka moments are rare.
+    ** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] compared AI and calculators in terms of how either took over jobs.
+        *** Since calculators executed instructions on predefined rules, the chances of failure were negligible. This led to people losing their jobs as human calculators overnight.
+        *** Outcomes of tasks handed to AI in current scenarios are subjective since the right answer is not clear.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] discussed why laws aren't written in first-order logic, since people can have multiple interpretations of what the current laws mean, hence having a single interpretation of the law will lead to less confusion.
+* We talked about quantum computers and how they might pose a threat to current forms of encryption systems since they can break the ciphers in a very short time.
+    ** link:https://www.youtube.com/watch?v=-UrdExQW0cs[How Quantum Computers Break The Internet... Starting Now^] - a video by link:https://www.youtube.com/@veritasium[Veritasium^]
