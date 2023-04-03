@@ -1,0 +1,20 @@
+Date: 01-04-2023
+
+Duration: 04 hrs 23 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] gave a brief of this week's tech news.
+    ** link:https://telecom.economictimes.indiatimes.com/news/mvas-apps/apple-wins-appeal-against-uks-decision-to-investigate-its-mobile-browser/99159663[Apple wins appeal against UK's decision to investigate its mobile browser^]
+    ** link:https://www.darkreading.com/application-security/github-private-rsa-ssh-key-mistakenly-exposed-public-repository[GitHub's Private RSA SSH Key Mistakenly Exposed in Public Repository^] and it's security implications.
+    ** Twitter open-sourced it's algorithm on GitHub at link:https://github.com/twitter/the-algorithm[twitter/the-algorithm^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared a few funny PR's from link:https://github.com/twitter/the-algorithm[twitter/the-algorithm^] repository.
+    ** A PR which removed link:https://github.com/twitter/the-algorithm/issues/236[author_is_elon^] which priorities Elon Musk's tweets.
+    ** link:https://github.com/twitter/the-algorithm/pull/774[Humra change merge karo!^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^], and link:https://twitter.com/kaku_jay[Jay Kaku^] cleared our confusion between what link:https://en.wikipedia.org/wiki/Bit_numbering[Most Significant Bit and Least Significant^], link:https://stackoverflow.com/a/19063231/13268307[Higher Order Bit and Lower Order Bit^], and link:https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/[Little Endian and Big Endian^].
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared link:https://youtu.be/iCI3B5eT9NA[Paul Horowitz's Interview^] who is the author of link:https://www.amazon.in/Art-Electronics-Paul-Horowitz/dp/0521809266[The Art of Electronics^] which is a considered as the bible for people working with electronics.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared slides of link:https://docs.google.com/presentation/d/1eRUOqLul90ipgj-Uku-pswtSrwdZHXj9QAin-NNQKMc/edit#slide=id.g4a66e23a62_2_343[best practices for making figures].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:http://wasmio.tech/[WASM IO 2023].
+    ** How it is a new upcoming field and so many companies are building tools around it.
+    ** Garbage collector in WASM is near and already available for beta users of Chrome users.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared about a new kind of cab booking service link:https://nammayatri.in/[Namma Yatri^] which is based on link:https://en.wikipedia.org/wiki/Open_Network_for_Digital_Commerce[ONDC's Beckn Protocol^].
