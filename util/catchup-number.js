@@ -77,5 +77,6 @@ async function getCatchupNumber(getNextCatchupNumber, addSuffix) {
 }
 
 module.exports = {
+	getAllCatchUpNumbers,
 	getCatchupNumber
 };
