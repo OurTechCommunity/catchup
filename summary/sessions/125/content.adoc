@@ -18,3 +18,10 @@ Duration: 04 hrs 23 mins
     ** How it is a new upcoming field and so many companies are building tools around it.
     ** Garbage collector in WASM is near and already available for beta users of Chrome users.
 * link:https://twitter.com/kaku_jay[Jay Kaku^] shared about a new kind of cab booking service link:https://nammayatri.in/[Namma Yatri^] which is based on link:https://en.wikipedia.org/wiki/Open_Network_for_Digital_Commerce[ONDC's Beckn Protocol^].
+
+==== Project Showcased
+
+* link:https://twitter.com/___LUNAGOK___[Kalpesh Jangir^] showcased link:https://github.com/LUNAGOK23/Attend-Assist[Attendance Assist] which is an app that allows user to mark their attendance with a to-do list feature for assignment.
+* link:https://twitter.com/JiaHarisinghani[Jia Harisinghani^] showcased an HTML website where she is trying to learn Web Dev basics.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased his final year project, which is building a tool that checks for security vulnerabilities in your code.
+    ** He has also built it in a way where someone can deploy it to their CI/CD pipeline and get a vulnerability report.
