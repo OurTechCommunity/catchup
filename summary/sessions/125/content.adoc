@@ -1,0 +1,43 @@
+Date: 01-04-2023
+
+Duration: 04 hrs 23 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] gave a brief of the week's tech news.
+    ** link:https://telecom.economictimes.indiatimes.com/news/mvas-apps/apple-wins-appeal-against-uks-decision-to-investigate-its-mobile-browser/99159663[Apple wins appeal against UK's decision to investigate its mobile browser^]
+    ** link:https://www.darkreading.com/application-security/github-private-rsa-ssh-key-mistakenly-exposed-public-repository[GitHub's Private RSA SSH Key Mistakenly Exposed in Public Repository^] and link:https://www.youtube.com/watch?v=WUNu24bM9sE[it's security implications^].
+    ** Twitter open-sourced it's recommendation algorithm on GitHub at link:https://github.com/twitter/the-algorithm[twitter/the-algorithm^] and link:https://github.com/twitter/the-algorithm-ml[twitter/the-algorithm-ml^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared a few funny Pull Requests (PRs) from the link:https://github.com/twitter/the-algorithm[twitter/the-algorithm^] repository.
+    ** A PR which removed link:https://github.com/twitter/the-algorithm/issues/236[author_is_elon^] which prioritizes Elon Musk's tweets.
+    ** link:https://github.com/twitter/the-algorithm/pull/774[Humra change merge karo!^] was unfortunately another PR title.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] and link:https://twitter.com/kaku_jay[Jay Kaku^] cleared our confusion between link:https://en.wikipedia.org/wiki/Bit_numbering[Most Significant Bit and Least Significant Bit^], link:https://stackoverflow.com/a/19063231/13268307[Higher Order Bit and Lower Order Bit^], and link:https://www.section.io/engineering-education/what-is-little-endian-and-big-endian[Little Endian and Big Endian^].
+* link:https://twitter.com/kaku_jay[Jay Kaku^] talked about his final year project. He is building a Fast Fourier Transform Core (Processor) on link:https://en.wikipedia.org/wiki/Field-programmable_gate_array[FPGA^] with link:https://en.wikipedia.org/wiki/Fixed-point_arithmetic[Fixed point representation^].
+    ** One of its use cases is for timbre or tone detection of an instrument.
+		*** link:https://audiouniversityonline.com/why-do-instruments-sound-different[Why Do Instruments Sound Different?^]
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared link:https://youtu.be/iCI3B5eT9NA[Paul Horowitz's Interview^], the author of link:https://www.amazon.in/Art-Electronics-Paul-Horowitz/dp/0521809266[The Art of Electronics^] which is considered as the Bible for people working with electronics.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared slides of link:https://docs.google.com/presentation/d/1eRUOqLul90ipgj-Uku-pswtSrwdZHXj9QAin-NNQKMc/edit#slide=id.g4a66e23a62_2_343[best practices guidelines for SIGGRAPH figures^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:http://wasmio.tech[WASM I/O 2023^].
+    ** It is a new field, and many companies are building tools around it.
+    ** The general availability of a Garbage Collector in the WebAssembly (WASM) ecosystem is fairly near, as it is already available for Google Chrome's beta users.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] shared a new kind of cab booking service called link:https://nammayatri.in[Namma Yatri^], which is based on link:https://en.wikipedia.org/wiki/Open_Network_for_Digital_Commerce[ONDC^]'s link:https://en.wikipedia.org/wiki/Open_Network_for_Digital_Commerce#Beckn_Protocol[Beckn Protocol^].
+* link:https://twitter.com/_SaketThota[Saket Thota^], link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about the benefits of Competitive Programming (CP) and discussed how it helps with quick thinking and writing optimized code. Obviously just like everything else, CP has its own drawbacks in writing unreadable and overly-optimized code.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] encouraged link:https://twitter.com/_SaketThota[Saket Thota^] to use his experience to bring experienced Competitive Programmers together to talk about topics deeper than the usual 'Getting Started with Competitive Programming' topics. He also suggested talking about how problems are made and the rationale behind certain ways of solving problems.
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] recommended reading link:https://www.crackingthecodinginterview.com[Cracking the Coding Interview^] to do well in interviews, because even if Competitive Programming (CP) is not what will be done on the job, problem solving (which is essentially CP), is what is done daily on the job.
+	** CP is an easier way to test problem solving skills than solving a real-world (on-the-job) problem.
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] and Anil Harwani talked about how one should cope with leaving jobs by taking a small break (if financially affordable), looking for jobs through friends and interviewing at multiple places.
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] asked link:https://twitter.com/harshgkapadia[Harsh Kapadia^] to name the activities in his life that take up a lot of time and Harsh struggled to name all of them, leading both to realise that he needs to measure his time use better.
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] also talked about link:https://www.tipsforassistants.com/post/2016/05/13/importance-vs-urgency[the difference between Importance and Urgency^] to have the correct priorities in life. Harsh talked about how he has only been able to partially implement this in his life.
+* link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] advised link:https://twitter.com/harshgkapadia[Harsh Kapadia^] to reduce unnecessary brain engagement to free mental capacity to be able to think more and with clarity.
+	** Things like always playing music while working and continuously watching engaging content during breaks leads to brain capacity being used quite a bit.
+	** Being present in the moment, link:https://www.merriam-webster.com/dictionary/mindful[mindful^] and cognizant can help a lot.
+	** Meditating or just sitting and focusing on one's breath while not thinking of anything else is one way to calm oneself and reduce engagement.
+
+==== Projects Showcased
+
+* link:https://twitter.com/___LUNAGOK___[Kalpesh Jangir^] showcased _Attendance Assist_, an app allowing users to mark their attendance with a to-do list feature for assignments.
+       ** link:https://github.com/LUNAGOK23/Attend-Assist[GitHub repository^]
+* link:https://twitter.com/JiaHarisinghani[Jia Harisinghani^] showcased a HTML web site where she is trying to learn the basics of Web Development.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased his final year project which is a tool that checks for security vulnerabilities in code.
+    ** He built it in a way such that someone can deploy it to their CI/CD pipeline and get a vulnerability report.
