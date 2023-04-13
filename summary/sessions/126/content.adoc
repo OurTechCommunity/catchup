@@ -1,0 +1,39 @@
+Date: 08-04-2023
+
+Duration: 5 hrs 23 mins
+
+==== Topics Discussed
+
+* General Introductions.
+* After link:https://twitter.com/ambitions2003[Siddharth Kaduskar^]'s project showcase, we gave feedback about how he could approach the project to make it more meaningful.
+    ** link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] talked about the reasons behind using link:https://nanonets.com[Nanonets OCR^] for splitting the timetable PDF into rows and columns to identify lectures.
+* Anil Harwani suggested a different way to scan the timetable using computer graphics without using OCR or any other AI/ML library.
+    ** Assumptions include: 
+        *** Single consistent font. 
+        *** Consistent binary colors. (Black and white)
+        *** Time slots for rows and columns are fairly static.
+        *** Consistent format with double-sided arrows where the upper part is the subject and the bottom part is the teacher's initials.
+    ** Using computer graphics, we can identify vectors and convert them into strings and then create a bitmap from the bottom section for analyzing subject initials.
+        *** These initials can be used as a mask while offsetting pixel values in each grid to identify the subject.
+    ** This approach can be used to identify the subject and teacher's initials for each lecture thus creating a map for each subject.
+    ** Difference between bitmap and OCR boils down to the text format since OCR is generally trained to identify handwriting and various texts and since this was a simple text format, bitmap seems like a more efficient approach.
+* We talked about how the human optical system perceives and interprets vision.
+    ** Computer graphics is an ambitious field of development that aims at recreating the world digitally.
+    ** Humans are trying to reproduce a similar process while capturing images from the cameras.
+        *** The pixel count in the phones is not the major issue but the pipeline or the processing of how the image is perceived and interpreted.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about bitwise operations and how shifting works. 
+    ** He said that after searching, he found that the operations depend on the implementation based on if the number is signed or unsigned.
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] and link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about different OCR libraries like link:https://nanonets.com[Nanonets OCR^] and link:https://www.abbyy.com/ocr-sdk[ABBYY OCR^].
+* We talked about the process of making an Indian savory made with a crispy shell filled with spiced potatoes, chickpeas, onions, and tamarind chutney, and dunked into a tangy and spicy mint water.
+    ** The water used in the savory can be sourced from dubious locations. Imagine the sweat, grime, and germs that could be present on their hands. Not to mention, the ingredients themselves might not always be stored or handled properly, leading to contamination and foodborne illnesses.
+    ** However, don't let these potential hygiene issues scare you away from enjoying this delicious treat!
+    ** This technical discussion was aimed at analyzing and evaluating the food safety and hygiene practices among pani puri vendors.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about shifting from link:https://open.spotify.com[Spotify^] to link:https://music.youtube.com[Youtube Music^] after the link:https://www.deccanherald.com/business/business-news/spotify-takes-down-zee-music-songs-amid-licensing-dispute-1202347.html[license dispute between Spotify and Zee music^].
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested that he might use some service or link:https://powerautomate.microsoft.com/en-us[powerautmate^] to transfer playlists from Spotify to Youtube Music.
+* While we were discussing Schrodinger's cat, the discussion LEAD (poison) to how levels of radiation might be higher at altitudes at which planes fly.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about fitness and workout, where link:https://twitter.com/skxrxn[Sreekaran Srinath^] shared how his Apple Watch helps him track all the data using link:https://www.apple.com/apple-fitness-plus[Apple Fit^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] showcased _Bunker_, an attendance tracker using OCR to scan timetables.
+* Jainam showcased his portfolio website that he is currently working on.
