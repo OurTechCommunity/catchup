@@ -10,7 +10,7 @@ Duration: 6 hrs 15 mins
 * link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] showcased his link:https://wilfredalmeida.com/resume[Resume^] that he had self-hosted on a Debian-11 instance on a remote workstation on link:https://www.hetzner.com[Hetzner^] for learning purposes.
     ** He embedded the PDF in the HTML with tags, which results in a cleaner URL.
     ** We discussed the "/" problem, where a URL might not be redirected to the correct location sometimes. 
-        *** Generally Flask and Django applications are affected.
+        *** Generally link:https://palletsprojects.com/p/flask[Flask^] and link:https://djangoproject.com[Django^] applications are affected.
         *** link:https://flask.palletsprojects.com/en/2.2.x/quickstart/#unique-urls-redirection-behavior[Unique URLs / Redirection Behavior^]
 * link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared a link:https://www.alumni.hbs.edu/Documents/careers/ActionVerbsList.pdf[Action Verbs List^] and a guide for writing link:https://www.alumni.hbs.edu/careers/job-search/Pages/resumes-and-cover-letters.aspx[Resume and cover letter^] that he found on the Harvard Business School website.
 * We had a short discussion about the skewed gender ratio in colleges and the tech industry which results in interesting observations such as:
