@@ -1,0 +1,48 @@
+Date: 22-04-2023
+
+Duration: 6 hrs 15 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about an issue that he encountered while building Homa Module in Ubuntu.
+    ** The issue: link:https://github.com/PlatformLab/HomaModule/issues/30[Build error: `cpu_khz` undeclared^].
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] showcased his link:https://wilfredalmeida.com/resume[Resume^] that he had self-hosted on a Debian-11 instance on a remote workstation on link:https://www.hetzner.com[Hetzner^] for learning purposes.
+    ** He embedded the PDF in the HTML with tags, which results in a cleaner URL.
+    ** We discussed the "/" problem, where a URL might not be redirected to the correct location sometimes. 
+        *** Generally link:https://palletsprojects.com/p/flask[Flask^] and link:https://djangoproject.com[Django^] applications are affected.
+        *** link:https://flask.palletsprojects.com/en/2.2.x/quickstart/#unique-urls-redirection-behavior[Unique URLs / Redirection Behavior^]
+* link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared a link:https://www.alumni.hbs.edu/Documents/careers/ActionVerbsList.pdf[Action Verbs List^] and a guide for writing link:https://www.alumni.hbs.edu/careers/job-search/Pages/resumes-and-cover-letters.aspx[Resume and cover letter^] that he found on the Harvard Business School website.
+* We had a short discussion about the skewed gender ratio in colleges and the tech industry which results in interesting observations such as:
+    ** The gender with lower representation is often given more opportunities (equity) to improve the gender ratio (equality).
+    ** The gender with lower representation might feel uncomfortable around the higher ones which could be an exaggerated link:https://en.wikipedia.org/wiki/Spotlight_effect[spotlight effect^].
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] talked about getting ghosted by recruiters during applications for internships and full-time roles.
+    ** Anil Harwani talked about his internship experience during his bachelors degree and suggested link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] look for different domains and change up the job description by a bit.
+        *** When looking for a job, just keep the job description and technology aside and look for the right people and the culture. 
+        *** You cannot control your starting position on the chess board, the only thing you can control is where you're trying to get to.
+            **** Students passing from college are at the starting point on the chess board, whereas others have a lot to lose. Hence students can afford to lose and start again.
+        *** Finding an internship or a job on some level is making the right set of compromises that one is willing to live with.
+        *** A person's value is generally measured in three dimensions:
+            **** Your skillset and abilities.
+            **** Your network.
+            **** Your risk-taking ability.
+        *** Foundational rule of saving money is to spend less than what you make or try to live as minimalistically as you can because there's a lot of value in that.
+        *** There's a job out there that someone's not willing to do.
+            **** Cobol - People don't want to touch mainframe programming because it is presumed to be difficult. Over time, this type of knowledge becomes invaluable because very less people are willing to work with it.
+* We discussed how some colleges or universities carry a certain prestige with them which gives an edge to the students during recruitment.
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] asked why some people prefer finding friends or partners while solving CP (Competetive Programming) or for hackathons.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] suggested that most such groups are meant as accountability partners.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] offered link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] to work on additional features for link:https://github.com/SirusCodes/Heartry/issues[Heartry^] to evaluate if he wants to work with someone or not.
+* We talked about how one can find good partners for Hackathons. 
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared their experiences from link:https://mlh.io[MLH^] and individual indie hacking.
+* We had a chat about credit cards (link:https://www.discover.com/credit-cards/card-smarts/what-is-credit-card-churning[Credit Card Churning^]) and the perks that come with good credit scores and better cards.
+* Apple stores launched in India are well equipped for the experience but seems like the policies differ quite a bit from its stores in the US.
+    ** The function of these stores mostly seems to align with prestige and trust.
+* link:https://twitter.com/Aryannayakk[Aryan Nayak^] talked about his routine for solving link:https://leetcode.com[Leetcode problems^].
+    ** We talked about health, gym and fitness. This conversation culminated in a discussion about insulin resistance and how strenuous activities might eat up the insulin in the blood which also reduces the risk of diabetes.
+    ** He shared a book that he was currently reading: link:https://www.amazon.co.uk/Outlive-Science-Longevity-Peter-Attia/dp/1785044540[Outlive: The Science and Art of Longevity^]
+* link:https://twitter.com/PranavDani3[Pranav Dani^] suggested a good podcast: link:https://catchup.ourtech.community/summary#:~:text=Anil Harwani%20Harwani%20suggested%20a%20podcast%20by%20BBC%20World%20Service%20%2D%2013%20minutes%20to%20the%20Moon[13 minutes to the moon^].
+    ** He also talked about error codes (link:https://history.nasa.gov/alsj/a11/a11.1201-pa.html#:~:text=So%20what%20was,a%20VAC%20area.[Error code: 1202 - issues with ∆H and Error code: 1201 - Landing Point Designator^]) and the creation of programming languages in now familiar link:https://www.discovermagazine.com/the-sciences/how-verbs-and-nouns-got-apollo-to-the-moon[verb and noun^] fashion.
+    ** He talked about link:https://www.rankred.com/what-hardware-software-does-spacex-use-to-power-its-rockets[the computations and issues like bitflip in Falcon 9^].
+        *** These issues are solved by having multiple computers running the same calculations so that even if one or two are wrong, the majority will be right.
+        *** Bitflip generally happens due to radiation in space. There are ways to prevent it, but the methods are costly, so having multiple systems perform the same task is a better solution.
