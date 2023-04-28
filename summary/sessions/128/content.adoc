@@ -4,7 +4,7 @@ Duration: 6 hrs 15 mins
 
 ==== Topics Discussed
 
-* General Introductions.
+* General introductions.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about an issue that he encountered while building Homa Module in Ubuntu.
     ** The issue: link:https://github.com/PlatformLab/HomaModule/issues/30[Build error: `cpu_khz` undeclared^].
 * link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] showcased his link:https://wilfredalmeida.com/resume[Resume^] that he had self-hosted on a Debian-11 instance on a remote workstation on link:https://www.hetzner.com[Hetzner^] for learning purposes.
