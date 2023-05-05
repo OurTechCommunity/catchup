@@ -21,11 +21,11 @@ Duration: 3 hrs 22 mins
     ** Companies with multiple divisions can afford the revenue crunch and still keep the flying compensation.
 * We talked about why the US economy and the job market took a hit.
     ** Many reasons are dug up in the political history of the US and the decisions that it took in recent years.
-        *** Last few years when inflation wasn't too high, banks were lending money at low-interest rates, basically like free money. This results in people taking loans and buying houses, cars, etc. This increases the demand for these products and hence the prices of these products go up. And guess what, ironically this is called inflation. 
+        *** Last few years when inflation wasn't too high, banks were lending money at low-interest rates. This results in people taking loans and buying houses, cars, etc. Which in turn increases the demand for these products and hence the prices of these products go up. And guess what, ironically this is called inflation. 
         *** Tech-first companies made the mistake of predicting their user patterns and growth patterns to remain similar to the pandemic where most people were obliged to work from home in front of their computers.
             **** This problem can be solved in two ways, either by increasing the revenue or by cutting down on expenses.
             **** link:https://www.microsoft.com/en-us/hololens[Microsoft Hololens^] division was shut down because it wasn't generating revenue and similarly many other companies had to cut down on such expenses since they were not generating revenue. 
-* link:https://twitter.com/adityaoberai1[Aditya Oberai^] experimented with link:https://svelte.dev[svelte^] and an ML model to create a project for generating alt texts for images.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] experimented with link:https://svelte.dev[svelte^] and an ML model to create a link:https://github.com/adityaoberai/Alt-Text-Generator[project for generating alt texts for images^].
     ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about different edge cases and some ways in which they could be resolved. For instance, by using the subset of the dataset only relevant to the use case for the alt text.
     ** He was learning link:https://svelte.dev[svelte^], since link:https://appwrite.io[appwrite^] uses it.
 * The link:https://www.bbc.com/news/entertainment-arts-65378617[acquisition deal between Microsoft and Activision fell apart^] due to concerns that it would alter the future of the fast-growing cloud gaming market, leading to reduced innovation and fewer choices for the UK gamers over the years to come. 
@@ -40,5 +40,5 @@ Duration: 3 hrs 22 mins
         *** Serverless compute services are relatively cheaper because the resources that are not running load all the time are repurposed for other workloads.
         *** In the case of ML queries to be used in the serverless form, one needs to inject the model into the compute unit, which requires multiple GPUs to handle. This is when the latency is affected and the execution almost imitates a real server which is undesirable.
 * We talked about how we can maintain a balance between toxic productivity and rest.
-    ** We also discussed mindfulness and meditation.
+    ** We also discussed about mindfulness and meditation.
 * link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about his plans for link:https://newsletter.oberai.dev[ARCC newsletter^].
