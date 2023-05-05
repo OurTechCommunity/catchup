@@ -1,0 +1,44 @@
+Date: 29-04-2023
+
+Duration: 3 hrs 22 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared his recent internship experience where he has learned to be comfortable with not having answers to issues and people there to help him out.
+    ** It has been a good learning experience for him overall.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] shared his fitness goals for running and lifting which he is currently working towards.
+    ** He aims to clear the link:https://www.army.mil/acft[US army fitness test^] by end of the year.
+        *** 2.4km under 13 minutes.
+        *** 5km in under 37 mins.
+* We talked about some internship opportunities and how one could upskill themselves to get ready for them.
+    * Balancing competitive programming for critical thinking and working with projects on the weekdays to maintain familiarity with tools, seems to be a good enough approach.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared that he was going through the link:https://missing.csail.mit.edu[missing semester^] since he would require core knowledge while he will be interning at AMD for the summer with Anil Harwani.
+    ** link:https://missing.csail.mit.edu[Missing semester^] is a course by MIT that teaches you the basics of using a computer.
+    ** It talks about the history of compilers and dives deep into their functionalities, so it is a good resource for people interested in learning about it.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared his skydiving experience.
+    ** Blog: link:https://blog.ishandeveloper.com/leap-of-faith[Leap of Faith^]
+* Multiple conferences are cutting down on flying compensation and sending free tickets due to potential budgeting issues.
+    ** Companies with multiple divisions can afford the revenue crunch and still keep the flying compensation.
+* We talked about why the US economy and the job market took a hit.
+    ** Many reasons are dug up in the political history of the US and the decisions that it took in recent years.
+        *** Last few years when inflation wasn't too high, banks were lending money at low-interest rates, basically like free money. This results in people taking loans and buying houses, cars, etc. This increases the demand for these products and hence the prices of these products go up. And guess what, ironically this is called inflation. 
+        *** Tech-first companies made the mistake of predicting their user patterns and growth patterns to remain similar to the pandemic where most people were obliged to work from home in front of their computers.
+            **** This problem can be solved in two ways, either by increasing the revenue or by cutting down on expenses.
+            **** link:https://www.microsoft.com/en-us/hololens[Microsoft Hololens^] division was shut down because it wasn't generating revenue and similarly many other companies had to cut down on such expenses since they were not generating revenue. 
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] experimented with link:https://svelte.dev[svelte^] and an ML model to create a project for generating alt texts for images.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about different edge cases and some ways in which they could be resolved. For instance, by using the subset of the dataset only relevant to the use case for the alt text.
+    ** He was learning link:https://svelte.dev[svelte^], since link:https://appwrite.io[appwrite^] uses it.
+* The link:https://www.bbc.com/news/entertainment-arts-65378617[acquisition deal between Microsoft and Activision fell apart^] due to concerns that it would alter the future of the fast-growing cloud gaming market, leading to reduced innovation and fewer choices for the UK gamers over the years to come. 
+    ** Like cloud gaming, many companies are pushing their solutions on the cloud.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about the feasibility of building a product just for the sake of learning.
+    ** Companies in the current situation might not have the room to fund and experiment with new technologies.
+    ** When getting into companies and working for the market, one needs to think if the solution already exists or if could it be optimized.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about a company link:https://www.inferless.com[inferless^] providing serverless ML inferencing on GPUs and also has good backing. (GPU as a service.)
+    ** Like other serverless services that utilize CPU threads, this service utilizes plans using GPUs for running ML workloads.
+    ** Anil Harwani talked about what makes something serverless.
+        *** Compute can be made in a way where it's scalable and you don't care about where the compute happens as long as each compute is an atomic unit, which has no state whatsoever. Making every transaction as if it's the only transaction, so there's no state to be maintained.
+        *** Serverless compute services are relatively cheaper because the resources that are not running load all the time are repurposed for other workloads.
+        *** In the case of ML queries to be used in the serverless form, one needs to inject the model into the compute unit, which requires multiple GPUs to handle. This is when the latency is affected and the execution almost imitates a real server which is undesirable.
+* We talked about how we can maintain a balance between toxic productivity and rest.
+    ** We also discussed mindfulness and meditation.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about his plans for link:https://newsletter.oberai.dev[ARCC newsletter^].
