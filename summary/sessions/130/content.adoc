@@ -1,0 +1,30 @@
+Date: 06-05-2023
+
+Duration: 4 hrs 30 mins
+
+==== Topics Discussed
+
+* General introductions.
+* Devarshi Shah, link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about their Web Development journeys till date.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://www.growth-rocket.com/blog/a-closer-look-at-client-side-server-side-rendering[Client-Side Rendering vs Server-Side Rendering^] and link:https://www.freecodecamp.org/news/next-vs-react[React.js vs Next.js^].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] talked about link:https://github.com/navidrome/navidrome/pull/1379[his Open Source contribution of adding lyrics support^] to a self-hosted music server and streaming service, link:https://www.navidrome.org[Navidrome^], as a part of a college project.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and Anil Harwani talked about how helpful link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^] is and recommended that everyone should do it.
+* Anil Harwani shared link:https://www.semianalysis.com/p/google-we-have-no-moat-and-neither[Google "We Have No Moat, And Neither Does OpenAI"^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] told us how he uses link:https://slurm.schedmd.com[Slurm^], a Workload Manager to schedule jobs via a command line.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how helpful link:https://harshkapadia2.github.io/regex[Regular Expressions (RegEx)^] are and link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about link:https://www.cs.toronto.edu/~rishit/CSC240.pdf#page=233[the equivalence between RegEx and Finite State Automata^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed how some people take certain courses in college mainly to interact with the brilliant professor teaching it, so that they're able to work with them in the future on a research paper, pick their brains for knowledge or to just get noticed by the professor. Everyone has a different perspective on the matter and none of them are better than the other. Everyone's opinion is valid in some way.
+* Anil Harwani, link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about the blog link:https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90[Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%^] by link:https://www.primevideotech.com[Amazon Prime Video Tech^] and how it is causing an uproar in the Cloud community.
+    ** link:https://www.youtube.com/watch?v=dV3wAe8HV7Q[Prime Video Swaps Microservices for Monolith: 90% Cost Reduction^]
+    ** link:https://www.youtube.com/watch?v=qQk94CjRvIs[Serverless was a big mistake... says Amazon^]
+    ** Anil told us to be aware of veiled agendas and marketing while reading such Engineering blogs by companies, because 'Time is money' and if companies are allowing Engineers to put in time into writing blogs rather than work on their unending tasks, then there is something in it for the company as well.
+        *** trying to figure out and break down the reason for putting out a blog is one way to try to figure out the veiled agenda being pushed.
+        *** A lot of these posts also generate a lot of uproar, which brings eyes to certain products that the company might be wanting to market as a better and more cost efficient solution.
+        *** Anil advised us to follow more of core Engineering people who are known to be about the Engineering aspect of things.
+            **** An example he gave: link:https://pauley.me/post/2023/spot-price-trends[Farewell to the Era of Cheap EC2 Spot Instances^]
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared link:https://github.com/xwmx/nb[nb^], a CLI and local web plain text note-taking, bookmarking and archiving program that can version using link:https://git-scm.com[Git^]. It has a LOT of features!
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^], link:https://twitter.com/rishit_dagli[Rishit Dagli^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about House Leasing red flags, how mistakes help in learning and how experienced people's opinions and advice are helpful.
+    ** Harsh talked about how he has been realising the importance of listening to experienced people more and more throughout the years. In the end decisions definitely have to be made on one's terms, but it is wise to at least seek out an experienced opinion before taking a huge decision.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about his 'Alt Text Generator' project (link:https://alttext.in[alttext.in^]) and how he plans to use link:https://openai.com/product/gpt-4[GPT-4^]'s image input API for the alt text generation once it releases.
+    ** link:https://www.howtogeek.com/821673/what-is-alt-text-why-you-should-use-it-and-how-to-write-it[What Is Alt Text? Why You Should Use It, and How to Write It^]
+* link:https://twitter.com/PranavDani3[Pranav Dani^]'s laptop broke down during the session and while debugging the issue Anil Harwani shared link:http://www.alexander-miles.com/?p=200["Reboot Even If System Utterly Broken"^].
+* Anil Harwani advised us to think more about the direction of our careers, about exactly what we plan to achieve by doing something (why, how, exactly what, etc.), and think and research more before investing heaps of money on something, for example, higher education.
