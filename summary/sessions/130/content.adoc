@@ -17,7 +17,7 @@ Duration: 4 hrs 30 mins
     ** link:https://www.youtube.com/watch?v=dV3wAe8HV7Q[Prime Video Swaps Microservices for Monolith: 90% Cost Reduction^]
     ** link:https://www.youtube.com/watch?v=qQk94CjRvIs[Serverless was a big mistake... says Amazon^]
     ** Anil told us to be aware of veiled agendas and marketing while reading such Engineering blogs by companies, because 'Time is money' and if companies are allowing Engineers to put in time into writing blogs rather than work on their unending tasks, then there is something in it for the company as well.
-        *** trying to figure out and break down the reason for putting out a blog is one way to try to figure out the veiled agenda being pushed.
+        *** Trying to figure out and break down the reason for putting out a blog is one way to try to figure out the veiled agenda being pushed.
         *** A lot of these posts also generate a lot of uproar, which brings eyes to certain products that the company might be wanting to market as a better and more cost efficient solution.
         *** Anil advised us to follow more of core Engineering people who are known to be about the Engineering aspect of things.
             **** An example he gave: link:https://pauley.me/post/2023/spot-price-trends[Farewell to the Era of Cheap EC2 Spot Instances^]
