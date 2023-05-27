@@ -1,0 +1,69 @@
+Date: 20-05-2023
+
+Duration: 4 hrs
+
+==== Topics Discussed
+
+* Saurabh and Pranav distilled different types of jobs available based on need and skills.
+    ** We discussed the specifics about different domains like cloud, frontend, backend.
+    ** There's no right time to make a switch in job roles. Changing roles can help prevent mental stagnation.
+    ** Darshit talked about how banks work on different projects.
+* Saurabh shared how his team works with the frontend by creating and maintaining react libraries for the organisation.
+* Rishit shared his experience with attending Google I/O extended.
+    ** We discussed the multiple announcements that Google recently made during I/O.
+    ** Linux foundation conferences seem to be professional and do not involve any sort of marketing whatsoever.
+* Dheeraj shared his progress for _Vaulter_. 
+    ** Darshit and Dheeraj discussed the specifics of the implementation.
+        *** Implementation of chunked uploads to avoid bandwidth wastage.
+        *** They discussed the link:https://www.samba.org[Samba^] server implementation.
+        *** His previous project, chunks video upload, ffmpeg, manifest, deta
+    ** https://www.asus.com/support/FAQ/1045089
+
+    ** How will the self-hosting happen - Saurabh
+        *** Run binary on their own server, choice for user where to run. EC2, raspberry bla bla
+    ** Scope down and get the bare bones ready - Saurabh
+        *** Optimize the system and work on edge cases.
+    ** https://github.com/bashbaugh/cloud-storage-file-browser
+    ** Similar thing deta spaces, play store for webapps
+        *** Blackhole is on deta
+    https://deta.space/
+Dheeraj Lalwani23:48
+https://deta.space/discovery/@gyrooo/filebox
+
+* Dheeraj plan to understand distributed systems
+* Discussion about books
+* https://www.allthingsdistributed.com
+    ** Acche cheez ka kachra + video
+    ** https://transitiontech.ca/random/RIIR
+* Computer graphics, course selection
+    ** Quantum computing is misleading
+    ** Check instructors
+    ** Google scholar not ratemyprofessor
+* Don't eat packed food
+* Lab work for hardware, now I know why US colleges are so good, Jay Kaku
+    ** Specsheet, make a prototype, find where it fails and then make it again.
+    ** Voltage control, veritasium video, details
+    ** Low Level Programming
+    ** Division operation
+        *** https://en.m.wikipedia.org/wiki/Division_algorithm
+        *** https://youtu.be/ssDBqQ5f5_0
+    ** https://events.linuxfoundation.org/open-source-finance-forum-new-york/register/#registration-rates
+* Nothing and teenage engineering
+* Touch typing independent finger.
+    ** 1 month if hands are trained
+    ** Mac and windows touch typing
+* Leetcode, karo why?
+    ** 
+* Aditya, FOSSUnited Bangalore meetup.
+    ** Good points, nice feedback, nice points
+    ** Alt text generator talk, about what web accessibility is.
+* MITM attack, wireshark beech me, encrypt and just pray.
+    ** SSL, TLS certificates
+    ** sending requests but cannot read the content since encrypted. ISP track.
+
+
+==== Projects Showcased
+
+* Dheeraj shared his progress on _Vaulter_.
+    ** It is a simple file sharing and self-hosted storage server, inspired by an open source web based collection server and streamer, link:https://www.navidrome.org[Navidrome^] that Dheeraj had earlier worked with.
+    ** link:https://github.com/Chirag-And-Dheeraj/vaulter[GitHub Repository^]
