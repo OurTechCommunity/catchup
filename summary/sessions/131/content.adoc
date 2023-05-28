@@ -29,6 +29,11 @@ Duration: 4 hrs 41 mins
 	** link:https://wccftech.com[wccftech.com^]
 	** link:https://slashdot.org[slashdot.org^]
 	** link:https://daniel.haxx.se/blog[Daniel Stenberg's blog^] (creator of link:https://curl.se[curl^])
+		*** Related article: link:https://github.com/readme/podcast/curl-25-years[curl: 25 years and 200 releases later^]
+	** link:https://www.youtube.com/@TechTechPotato[TechTechPotato^]
+* An interesting utility link:https://github.com/robherley/snips.sh[snips.sh] was shared, which is a password-less, anonymous SSH-powered pastebin with a human-friendly TUI and web UI.
+* link:https://semiwiki.com/events/314964-a-crisis-in-engineering-education-where-are-the-microelectronics-engineers[A Crisis in Engineering Education - Where are the Microelectronics Engineers?^]
+* Anil Harwani shared link:https://chipsandcheese.com/2023/03/12/a-peek-at-sapphire-rapids[Sapphire Rapids: Golden Cove Hits Servers^].
 * We talked about how Imposter Syndrome and the fear of not knowing something are things that are going to stay with us forever and how it gets easier to handle these feelings with time. We all talked about how messing up and keeping on going forward after that is good.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] wanted to conduct a backend-focused OTC CatchUp session. Everyone pitched in and it was suggested that certain areas in the wide backend domain should be pre-decided to start the discussion and the session should then be opened up. Another idea was to try to approach experienced people to join the session and share their knowledge.
 * link:https://twitter.com/SirusTweets[Darshan Rander^], link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about whether OTC requires analytics on its web pages, whether all web pages should have it or just a certain sub-set of pages, and which analytics solutions can be considered. It has to be decided whether it is worth for the OTC team to invest time into adding analytics to the web pages. Some of the self-hosted analytics solutions considered were link:https://plausible.io[Plausible^], link:https://mixpanel.com[Mixpanel^] and link:https://umami.is[Umami^].
