@@ -71,6 +71,23 @@ h1,
 	right: 2vw;
 }
 
+.improve-heading p{
+	font-size: 1.25rem;
+	margin-bottom: 0.5rem;
+}
+
+.improve-buttons a{
+	font-size: 1rem;
+}
+
+.improve-buttons li:last-child{
+	margin-bottom: 0.75rem;
+}
+
+.contribute p {
+	font-size: 1rem;
+}
+
 .theme-switcher {
 	padding: 1.5em;
 	position: absolute;
