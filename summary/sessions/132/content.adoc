@@ -4,16 +4,16 @@ Duration: 4 hrs
 
 ==== Topics Discussed
 
-* Saurabh and Pranav distilled different types of jobs available based on need and skills.
+* link:https://twitter.com/saurabhdawaree[Saurabh Daware^] and link:https://twitter.com/PranavDani3[Pranav Dani^] distilled different types of jobs available based on need and skills.
     ** We discussed the specifics of different domains like cloud, frontend, and backend.
         *** There's no right time to make a switch in job roles. 
         *** Changing roles can help prevent mental stagnation.
-    ** Darshit talked about how banks work on different projects.
-* Saurabh shared how his team works with the front end by creating and maintaining react libraries for the organization.
+    ** Darshit Suratwala talked about how banks work on different projects.
+* link:https://twitter.com/saurabhdawaree[Saurabh Daware^] shared how his team works with the front end by creating and maintaining react libraries for the organization.
 * We discussed potential improvements and similar implementations for _Vaulter_. 
-    ** Darshit said that in the case of link:https://cloud.google.com[GCP^], the libraries support chunked uploads and the user can avoid the server and directly upload in the bucket.
+    ** Darshit Suratwala said that in the case of link:https://cloud.google.com[GCP^], the libraries support chunked uploads and the user can avoid the server and directly upload in the bucket.
     ** They discussed the link:https://www.samba.org[Samba^] server and link:https://en.wikipedia.org/wiki/File_Transfer_Protocol[FTP^] implementations.
-    ** Anil talked about how file chunks are processed and saved in a drive.
+    ** Anil Harwani talked about how file chunks are processed and saved in a drive.
         *** How does block storage ensure that you never lose data? Is it storing all the data in one single hard drive?
             **** Many cases implement sequential file chunking and saving.
             **** Either store the data in a single hard drive or save multiple copies of it across multiple hard drives.
@@ -26,16 +26,16 @@ Duration: 4 hrs
             **** Differences in latency in the hierarchy of storage from the CPU cache to the hard drive range from nanoseconds to milliseconds.
     ** How will the self-hosting happen?
         *** The idea is to create a simple executable for users to run on their server of choice.
-            **** Saurabh suggested that he should first get the bare bones ready and then scale up from there.
+            **** link:https://twitter.com/saurabhdawaree[Saurabh Daware^] suggested that he should first get the bare bones ready and then scale up from there.
             **** By this time, work on optimizing the system and working on edge cases.
     ** link:https://github.com/bashbaugh/cloud-storage-file-browser[GCP Storage Browser^], link:https://deta.space/discovery/@gyrooo/filebox[Filebox^] have similar implementations.
 * We discussed some struggles of students living abroad.
     ** Choosing the right professors for courses based on link:https://scholar.google.com[Google Scholar^] and not link:https://www.ratemyprofessors.com[Ratemyprofessor^].
     ** Handling food and cooking.
-* Dheeraj shared some links about the community around languages:
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared some links about the community around languages:
     ** link:https://www.allthingsdistributed.com[All Things Distributed^], blogs by Werner Vogels, CTO of Amazon.
     ** link:https://transitiontech.ca/random/RIIR[RIIR^], considering rewriting stuff in Rust.
-* Jay and Pranav talked about system circuits and the evolution of binary.
+* link:https://twitter.com/kaku_jay[Jay Kaku^] and link:https://twitter.com/PranavDani3[Pranav Dani^] talked about system circuits and the evolution of binary.
     ** link:https://youtu.be/FU_YFpfDqqA[Why Lightbulbs Might Be The Best Invention Ever^] - a video by link:https://www.youtube.com/@veritasium[Veritasium^] which talks about the usage of light bulbs and circuits to explain the evolution of circuits.
         *** Bulbs and vacuum tubes used up a lot of power and required frequent replacements. This is what rendered them impractical and unreliable. 
     ** Division operation is a pain for ARM processors since most don't have a dedicated circuit that can deal with FPU (Floating Point Unit) division operations.
@@ -44,15 +44,12 @@ Duration: 4 hrs
 * link:https://in.nothing.tech[Nothing^] has a collaboration with link:https://teenage.engineering[teenage engineering^] for their products.
 * Touch typing can be helpful for easily and optimally typing on keyboards.
     ** Most people can learn touch typing within 1 month if they had some experience with using musical instruments since that involves using multiple fingers simultaneously.
-* Aditya, FOSSUnited Bangalore meetup.
-    ** Good points, nice feedback, nice points
-    ** Alt text generator talk, about what web accessibility is.
-* Aditya and Darshit talked about potential MITM (Man in the Middle) attacks using link:https://www.wireshark.org[Wireshark^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and Darshit Suratwala talked about potential MITM (Man in the Middle) attacks using link:https://www.wireshark.org[Wireshark^].
     ** Wireshark is a packet analyzer that can be used to analyze network traffic, but most of the times the data is encrypted and hence it cannot alter requests with positive outcomes.
     ** ISPs use similar ways to analyze traffic.
 
 ==== Projects Showcased
 
-* Dheeraj shared his progress on _Vaulter_, a self-hosted storage server.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared his progress on _Vaulter_, a self-hosted storage server.
     ** It is a simple file-sharing and self-hosted storage server, inspired by an open-source web-based collection server and streamer, link:https://www.navidrome.org[Navidrome^] that he had earlier worked with.
-    ** link:https://github.com/Chirag-And-Dheeraj/vaulter[GitHub Repository^]
+    ** link:https://github.com/Chirag-And-link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]/vaulter[GitHub Repository^]
