@@ -9,8 +9,8 @@ Duration: 4 hrs
         *** There's no right time to make a switch in job roles. 
         *** Changing roles can help prevent mental stagnation.
     ** Darshit Suratwala talked about how banks work on different projects.
-* link:https://twitter.com/saurabhdawaree[Saurabh Daware^] shared how his team works with the front end by creating and maintaining react libraries for the organization.
-* We discussed potential improvements and similar implementations for _Vaulter_. 
+* link:https://twitter.com/saurabhdawaree[Saurabh Daware^] shared how his team works with the frontend by creating and maintaining React libraries for the organization.
+* We discussed potential improvements and similar implementations for link:https://github.com/Chirag-And-Dheeraj/vaulter[Vaulter^] — A WIP project by link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/_chiraglulla_[Chirag Lulla^].
     ** Darshit Suratwala said that in the case of link:https://cloud.google.com[GCP^], the libraries support chunked uploads and the user can avoid the server and directly upload in the bucket.
     ** They discussed the link:https://www.samba.org[Samba^] server and link:https://en.wikipedia.org/wiki/File_Transfer_Protocol[FTP^] implementations.
     ** Anil Harwani talked about how file chunks are processed and saved in a drive.
@@ -29,7 +29,7 @@ Duration: 4 hrs
         *** The idea is to create a simple executable for users to run on their server of choice.
             **** link:https://twitter.com/saurabhdawaree[Saurabh Daware^] suggested that he should first get the bare bones ready and then scale up from there.
             **** By this time, work on optimizing the system and working on edge cases.
-    ** link:https://github.com/bashbaugh/cloud-storage-file-browser[GCP Storage Browser^], link:https://deta.space/discovery/@gyrooo/filebox[Filebox^] have similar implementations.
+    ** link:https://github.com/bashbaugh/cloud-storage-file-browser[GCP Storage Browser^] and link:https://deta.space/discovery/@gyrooo/filebox[Filebox^] have similar implementations.
 * We discussed some struggles of students living abroad.
     ** Choosing the right professors for courses based on link:https://scholar.google.com[Google Scholar^] and not link:https://www.ratemyprofessors.com[Ratemyprofessor^].
     ** Handling food and cooking.
@@ -53,4 +53,4 @@ Duration: 4 hrs
 
 * link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared his progress on _Vaulter_, a self-hosted storage server.
     ** It is a simple file-sharing and self-hosted storage server, inspired by an open-source web-based collection server and streamer, link:https://www.navidrome.org[Navidrome^] that he had earlier worked with.
-    ** link:https://github.com/Chirag-And-link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]/vaulter[GitHub Repository^]
+    ** link:https://github.com/Chirag-And-Dheeraj/vaulter[GitHub Repository^]
