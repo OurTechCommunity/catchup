@@ -22,7 +22,8 @@ Duration: 4 hrs
             **** Check parity between each chunk and store it across multiple drives.
         *** The working is similar to link:https://www.westerndigital.com/en-in/solutions/raid[RAID storage^].
             **** Each system has a fault tolerance limit for drive failure.
-        *** Databases require high read speeds.
+        *** Metadata databases require high read speeds because a delay in response from the metadata database can lead to a ripple of delays in subsequent calls for file chunks/blocks from the block storage.
+        *** This leads to poor performance, eventually causing poor user experience.
             **** Differences in latency in the hierarchy of storage from the CPU cache to the hard drive range from nanoseconds to milliseconds.
     ** How will the self-hosting happen?
         *** The idea is to create a simple executable for users to run on their server of choice.
