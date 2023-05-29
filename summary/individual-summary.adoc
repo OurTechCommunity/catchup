@@ -41,7 +41,17 @@ Kindness always wins.
 Alone we can do so little; together we can do so much.
 
 '''
+[.improve-heading]
+Want to improve the content of this page?
 
+[.improve-buttons]
+* link:https://github.com/OurTechCommunity/catchup/tree/main/summary/sessions/{catchup_display_number}[Edit this summary on GitHub.^]
+* link:https://github.com/OurTechCommunity/catchup/issues/new?title=Improve%20%3C{catchup_display_number}%3E%20summary&body=Enter%20summary%20URL%20and%20changes%20to%20be%20made[Report the content issue.^]
+* link:https://github.com/OurTechCommunity/catchup/blob/main/summary/sessions/{catchup_display_number}/content.adoc[View the source on GitHub.^]
+
+
+[.contribute]
+Want to get more involved? link:https://github.com/OurTechCommunity/catchup/blob/main/CONTRIBUTING.md[Learn how to contribute.^]
 ++++
 <button class="btn hidden back-to-top-btn" aria-label="Scroll to top"><img src="../public/img/summary/up-arrow.svg" alt="Top"></button>
 ++++
