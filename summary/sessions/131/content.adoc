@@ -1,0 +1,42 @@
+Date: 13-05-2023
+
+Duration: 4 hrs 41 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] talked about his learnings at his workplace and how he is currently working with different teams to understand how they are working.
+	** He told us how he has been practising not asking someone to give him direct answers, but to only review his work, give him feedback and point him in the correct direction.
+		*** If someone is very busy and stressed, they may give direct answers when asked for help, without having time for a detailed discussion. So, it's important to ask the right questions to get the specific information one needs. It is our own responsibility to seek the type of mentorship we want and not entirely rely on someone else to provide it.
+	** He has also started not directly handing off work that he doesn't understand to someone else. He tries to understand it as much as he can and ask for help.
+	** He has been trying to dig deeper into concepts and his work, to be able to understand things better.
+	** He also shared a talk on link:https://www.youtube.com/watch?v=8d0wzyiikXM[Automated Testing and Profiling for Call of Duty^]. 
+* We talked about how link:https://escorenews.com/en/csgo/news/44667-source-2-code-lines-possibly-imply-tickless-server-system-for-future-counter-strike-2-instead-of-128-tick-here-s-how-it-might-change-the-game[CS:GO Source 2 might have Tickless servers^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how Google introducing `.zip`, `.mov` and `.foo` link:https://www.cloudflare.com/learning/dns/top-level-domain[Top Level Domains (TLDs)^] could cause security and convenience problems for end users.
+	** link:https://twitter.com/hnasr/status/1658853944037351424[The danger of `.zip` domains^]
+	** link:https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5[The Dangers of Google's `.zip` TLD^]
+	** link:https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually[New TLDs: Not Bad, Actually^]
+* We talked about how link:https://www.youtube.com/watch?v=cNfINi5CNbY&list=PL590L5WQmH8dAqv03RCMbZrbzxqCn6W3O[Google I/O 2023^] hardly talked about Artificial Intelligence. 😉
+	** link:https://www.youtube.com/watch?v=nmfRDRNjCnM&pp=ygUXZ29vZ2xlIGlvIDIwMjMgZmlyZXNoaXA%3D[10 crazy announcements from Google I/O^]
+* We talked about the release of the new Zelda game link:https://www.zelda.com/tears-of-the-kingdom[The Legend of Zelda: Tears of the Kingdom^] and how people are really excited for it.
+* Some people were surprised to know that Amazon has a Cloud Gaming service called link:https://www.aboutamazon.com/news/entertainment/what-is-amazon-luna[Amazon Luna^].
+* Anil Harwani talked about how link:https://learn.microsoft.com/en-us/previous-versions/windows/desktop/axe/support-processidletasks[ProcessIdleTasks^] in Windows can be used to complete all tasks that the CPU usually only performs while idle before starting a benchmarking test, so that the assessment is not affected.
+* Anil Harwani told us some of the websites that he keeps a watch on to learn about new happenings on the hardware side of things
+	** link:https://reddit.com/r/sysadmin[r/sysadmin^]
+	** link:https://news.ycombinator.com[Hacker News^]
+	** link:https://phoronix.com[phoronix.com^]
+	** link:https://chipsandcheese.com[chipsandcheese.com^]
+	** link:https://wccftech.com[wccftech.com^]
+	** link:https://slashdot.org[slashdot.org^]
+	** link:https://daniel.haxx.se/blog[Daniel Stenberg's blog^] (creator of link:https://curl.se[curl^])
+		*** Related article: link:https://github.com/readme/podcast/curl-25-years[curl: 25 years and 200 releases later^]
+	** link:https://www.youtube.com/@TechTechPotato[TechTechPotato^]
+* An interesting utility link:https://github.com/robherley/snips.sh[snips.sh] was shared, which is a password-less, anonymous SSH-powered pastebin with a human-friendly TUI and web UI.
+* link:https://semiwiki.com/events/314964-a-crisis-in-engineering-education-where-are-the-microelectronics-engineers[A Crisis in Engineering Education - Where are the Microelectronics Engineers?^]
+* Anil Harwani shared link:https://chipsandcheese.com/2023/03/12/a-peek-at-sapphire-rapids[Sapphire Rapids: Golden Cove Hits Servers^].
+* We talked about how Imposter Syndrome and the fear of not knowing something are things that are going to stay with us forever and how it gets easier to handle these feelings with time. We all talked about how messing up and keeping on going forward after that is good.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] wanted to conduct a backend-focused OTC CatchUp session. Everyone pitched in and it was suggested that certain areas in the wide backend domain should be pre-decided to start the discussion and the session should then be opened up. Another idea was to try to approach experienced people to join the session and share their knowledge.
+* link:https://twitter.com/SirusTweets[Darshan Rander^], link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about whether OTC requires analytics on its web pages, whether all web pages should have it or just a certain sub-set of pages, and which analytics solutions can be considered. It has to be decided whether it is worth for the OTC team to invest time into adding analytics to the web pages. Some of the self-hosted analytics solutions considered were link:https://plausible.io[Plausible^], link:https://mixpanel.com[Mixpanel^] and link:https://umami.is[Umami^].
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about the business model of Open Source companies and how it includes people buying their products and support, scaling and upgrading their services, public maintenance and support work, and more.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] also talked about the link:https://dev.to/appwrite/announcing-the-appwrite-cloud-hackathon-42o7[Appwrite Cloud Hackathon^], a month-long hackathon for people to build interesting products using link:https://cloud.appwrite.io[Appwrite Cloud^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] talked about how moving to a new city can be scary.
