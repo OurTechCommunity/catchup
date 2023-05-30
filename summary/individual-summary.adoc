@@ -30,17 +30,6 @@ include::{combined_summary_file}[]
 NOTE: For all summaries, please visit link:https://catchup.ourtech.community/summary[catchup.ourtech.community/summary].
 
 '''
-
-[quote, Robert Ingersoll]
-We rise by lifting others.
-
-[quote, Selena Gomez]
-Kindness always wins.
-
-[quote, Helen Keller]
-Alone we can do so little; together we can do so much.
-
-'''
 [.improve-heading]
 Want to improve the content of this page?
 
@@ -52,6 +41,20 @@ Want to improve the content of this page?
 
 [.contribute]
 Want to get more involved? link:https://github.com/OurTechCommunity/catchup/blob/main/CONTRIBUTING.md[Learn how to contribute.^]
+
+'''
+
+[quote, Robert Ingersoll]
+We rise by lifting others.
+
+[quote, Selena Gomez]
+Kindness always wins.
+
+[quote, Helen Keller]
+Alone we can do so little; together we can do so much.
+
+'''
+
 ++++
 <button class="btn hidden back-to-top-btn" aria-label="Scroll to top"><img src="../public/img/summary/up-arrow.svg" alt="Top"></button>
 ++++
