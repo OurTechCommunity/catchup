@@ -7,7 +7,7 @@ Duration: 4 hrs 41 mins
 * General introductions.
 * link:https://twitter.com/guyinthecape[Vatsal Patel^] talked about his learnings at his workplace and how he is currently working with different teams to understand how they are working.
 	** He told us how he has been practising not asking someone to give him direct answers, but to only review his work, give him feedback and point him in the correct direction.
-		*** A caveat to that is that if the person whom one asks for help is undress stress, they might just provide direct answers as they don't have the time to have an elaborate discussion, so asking correct questions is important to get exactly what one wants. The responsibility of getting the type of mentorship one wants lies on oneself and cannot be entirely offloaded on someone else.
+		*** If someone is very busy and stressed, they may give direct answers when asked for help, without having time for a detailed discussion. So, it's important to ask the right questions to get the specific information one needs. It is our own responsibility to seek the type of mentorship we want and not entirely rely on someone else to provide it.
 	** He has also started not directly handing off work that he doesn't understand to someone else. He tries to understand it as much as he can and ask for help.
 	** He has been trying to dig deeper into concepts and his work, to be able to understand things better.
 	** He also shared a talk on link:https://www.youtube.com/watch?v=8d0wzyiikXM[Automated Testing and Profiling for Call of Duty^]. 
