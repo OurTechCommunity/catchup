@@ -13,8 +13,6 @@ v1
 :catchup_display_number:	0
 :catchup_image_extension:	jpg
 :combined_summary_file:		combined-summary-template.adoc
-[.edit-summary-btn]
-link:https://github.com/OurTechCommunity/catchup/tree/main/summary/sessions/{catchup_display_number}[Edit this summary on GitHub^]
 
 '''
 
