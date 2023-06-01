@@ -34,7 +34,7 @@ Want to improve the content of this page?
 [.improve-buttons]
 * link:https://github.com/OurTechCommunity/catchup/tree/main/summary/sessions/{catchup_display_number}[Edit this summary on GitHub.^]
 * link:https://github.com/OurTechCommunity/catchup/issues/new?title=Improve%20Summary%20No.%20{catchup_display_number}&body=%3E%20Please%20describe%20the%20issue%20with%20the%20summary%20content%20and%20the%20changes%20to%20be%20made.[Report the content issue.^]
-* link:https://github.com/OurTechCommunity/catchup/blob/main/summary/sessions/{catchup_display_number}/content.adoc[View the source on GitHub.^]
+* link:https://github.com/OurTechCommunity/catchup/blob/main/summary/sessions/{catchup_display_number}[View the source on GitHub.^]
 
 
 [.contribute]
