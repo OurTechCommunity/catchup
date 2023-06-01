@@ -71,21 +71,17 @@ h1,
 	right: 2vw;
 }
 
-.improve-heading p{
-	font-size: 1.25rem;
-	margin-bottom: 0.5rem;
+.improve-heading p {
+	font-size: 1.25em;
+	margin-bottom: 0.5em;
 }
 
-.improve-buttons a{
-	font-size: 1rem;
-}
-
-.improve-buttons li:last-child{
-	margin-bottom: 0.75rem;
+.improve-buttons a {
+	font-size: 0.94em;
 }
 
 .contribute p {
-	font-size: 1rem;
+	font-size: 1em;
 }
 
 .theme-switcher {
