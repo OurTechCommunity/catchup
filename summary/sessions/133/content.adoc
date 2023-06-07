@@ -14,7 +14,7 @@ Duration: 3 hrs 40 mins
         *** link:https://youtu.be/GpMP6Nh3FvU[The Dark Side Of The Silk Road^]
         *** link:https://youtu.be/XfcvX0P1b5g[Bitcoin - Unmasking Satoshi Nakamoto^]
         *** link:https://youtu.be/_Kav2K1DVWo[The Most Elusive Identity On The Internet - Pt. 1 (Ft. Nexpo)^]
-* We discussed how one can adjust their link:https://twitter.com/i/flow/login[Twitter^] feed using the three-dot menu to avoid irrelevant content on the feed.
+* We discussed how one can adjust their link:https://twitter.com[Twitter^] feed using the three-dot menu to avoid irrelevant content on the feed.
 * link:https://twitter.com/PranavDani3[Pranav Dani^] shared that some routers allow content filtering, blocking keywords, URLs and domains.
     ** link:https://twitter.com/SirusTweets[Darshan Rander^] asked him to block advertising domains.
         *** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://12ft.io[12ft.io^], a service that blocks paywalls.
