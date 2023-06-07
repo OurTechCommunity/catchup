@@ -1,0 +1,43 @@
+Date: 27-05-2023
+
+Duration: 3 hrs 40 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] and link:https://twitter.com/PranavDani3[Pranav Dani^] discussed how some pirated websites also have good infrastructure.
+    ** Piracy is illegal in most countries, but some are very serious about it and penalize it heavily.
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] studied the working of link:https://www.torproject.org[Tor^] in one of his courses.
+        *** link:https://twitter.com/harshgkapadia[Harsh Kapadia^]'s shared his learnings about link:https://networking.harshkapadia.me/tor[Tor^].
+* We talked about link:https://en.wikipedia.org/wiki/Satoshi_Nakamoto[Satoshi Nakamoto^], link:https://bitcoin.org/en[Bitcoin^] and its flaws.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an article - link:https://www.wired.com/story/hansa-dutch-police-sting-operation[Operation Bayonet: Inside the Sting That Hijacked an Entire Dark Web Drug Market^]
+    ** Mohit Gangwani shared:
+        *** link:https://youtu.be/GpMP6Nh3FvU[The Dark Side Of The Silk Road^]
+        *** link:https://youtu.be/XfcvX0P1b5g[Bitcoin - Unmasking Satoshi Nakamoto^]
+        *** link:https://youtu.be/_Kav2K1DVWo[The Most Elusive Identity On The Internet - Pt. 1 (Ft. Nexpo)^]
+* We discussed how one can adjust their link:https://twitter.com[Twitter^] feed using the three-dot menu to avoid irrelevant content on the feed.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] shared that some routers allow content filtering, blocking keywords, URLs and domains.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] asked him to block advertising domains.
+        *** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://12ft.io[12ft.io^], a service that blocks paywalls.
+    ** link:https://www.jio.com[Jio^] disabled link:https://en.wikipedia.org/wiki/File_Transfer_Protocol[FTP^] and media serving on their routers.
+        *** link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] suggested flashing custom firmware like DD-WRT/OpenWRT on the router to enable FTP and/or customize other settings.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] talked about hosting and load balancing.
+    ** He demonstrated his setup using link:https://www.nginx.com[Nginx^] and link:https://kubernetes.io[Kubernetes^].
+        *** link:https://www.nginx.com[Nginx^] is used for web serving, reverse proxying, caching, load balancing and media streaming.
+        *** He shared his blog post on link:https://blog.wilfredalmeida.com/custom-ci-cd-pipeline[Custom CI/CD Pipeline^].
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his link:https://www.cloudflare.com[cloudflare^] DNS records that he set up for redirecting his static sites to his domain. 
+* We talked about link:https://thebrowser.company[the Browser Company^], based on link:https://twitter.com/browsercompany/status/1661724147087450116[this tweet^] and how it looks potentially useful and aesthetically pleasing.
+    ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] tried it out and he did not trust the browser since it wasn't open source.
+        *** Other than that, he suggested the browser had a good design and some useful features like Zap for removing certain elements from a webpage and Boost for color change.
+        *** On these lines, link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about a link:https://chrome.google.com/webstore/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj[browser extension^] that he uses to hide stats on Twitter to avoid bias.
+        *** link:https://twitter.com/PranavDani3[Pranav Dani^] shared link:https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid[Unhook^], a browser for removing YouTube recommendations to avoid the vicious circle of wasting time.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about why companies keep their products closed source.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his premise and thought process behind his recent blog on link:https://newsletter.oberai.dev[ARCC^] about link:https://newsletter.oberai.dev/p/why-im-skeptical-of-web3-an-outsider-perspective[Why I'm Skeptical Of Web3: An Outsider's Perspective^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared his experience of building his development machine with an link:https://www.amd.com/en/processors/epyc-7003-series[AMD EPYC Milan^].
+    ** We talked about PC configuration and building rigs.
+    ** One can use link:https://www.cpuid.com/softwares/cpu-z.html[CPU-Z^] for learning about the important components of a PC.
+
+==== Projects Showcased
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased a game that he built using link:https://flutter.dev[Flutter^] and link:https://docs.flame-engine.org/latest[Flame engine^].
+    ** It is supposed to be a work in progress for the link:https://hashnode.com/hackathons/appwrite[Appwrite hackathon^].
+    ** link:https://github.com/SirusCodes/color_smash[GitHub Repository^]
