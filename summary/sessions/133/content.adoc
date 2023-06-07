@@ -23,7 +23,7 @@ Duration: 3 hrs 40 mins
 * link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] talked about hosting and load balancing.
     ** He demonstrated his setup using link:https://www.nginx.com[Nginx^] and link:https://kubernetes.io[Kubernetes^].
         *** link:https://www.nginx.com[Nginx^] is used for web serving, reverse proxying, caching, load balancing and media streaming.
-        *** He shared his blog post on link:https://blog.link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^]almeida.com/series/custom-ci-cd-pipeline[Custom CI/CD Pipeline^].
+        *** He shared his blog post on link:https://blog.wilfredalmeida.com/custom-ci-cd-pipeline[Custom CI/CD Pipeline^].
     ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his link:https://www.cloudflare.com[cloudflare^] DNS records that he set up for redirecting his static sites to his domain. 
 * We talked about link:https://thebrowser.company[the Browser Company^], based on link:https://twitter.com/browsercompany/status/1661724147087450116[this tweet^] and how it looks potentially useful and aesthetically pleasing.
     ** link:https://twitter.com/skxrxn[Sreekaran Srinath^] tried it out and he did not trust the browser since it wasn't open source.
