@@ -7,7 +7,7 @@ Duration: 3 hrs 40 mins
 * link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] and link:https://twitter.com/PranavDani3[Pranav Dani^] discussed how some pirated websites also have good infrastructure.
     ** Piracy is illegal in most countries, but some are very serious about it and penalize it heavily.
 	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] studied the working of link:https://www.torproject.org[Tor^] in one of his courses.
-        *** link:https://twitter.com/harshgkapadia[Harsh Kapadia^]'s links link:https://networking.harshkapadia.me/tor[Tor^].
+        *** link:https://twitter.com/harshgkapadia[Harsh Kapadia^]'s shared his learnings about link:https://networking.harshkapadia.me/tor[Tor^].
 * We talked about link:https://en.wikipedia.org/wiki/Satoshi_Nakamoto[Satoshi Nakamoto^], link:https://bitcoin.org/en[Bitcoin^] and its flaws.
     ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an article - link:https://www.wired.com/story/hansa-dutch-police-sting-operation[Operation Bayonet: Inside the Sting That Hijacked an Entire Dark Web Drug Market^]
     ** Mohit Gangwani shared:
