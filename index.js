@@ -25,36 +25,16 @@ if (process.env.DETA_PROJECT_KEY) {
 }
 
 // Static files
-app.use("/public", express.static(__dirname + "/public"));
+app.use("/", express.static(__dirname + "/public"));
 
 // Body Parser
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
 // Routes
-app.get("/", (req, res) => {
-	res.sendFile(__dirname + "/public/html/index.html");
-});
-
-app.get("/admin", (req, res) => {
-	res.sendFile(__dirname + "/public/html/admin.html");
-});
-
-app.get("/robots.txt", (req, res) => {
-	res.sendFile(__dirname + "/public/robots.txt");
-});
-
 app.get("/api/catchUpLink", async (req, res) => {
 	const config = await db.get(process.env.DATABASE_OBJ_KEY);
 	res.send(config.value);
-});
-
-app.get("/summary", (req, res) => {
-	res.sendFile(__dirname + "/public/html/summary/combined-summary.html");
-});
-
-app.get("/summaries", (req, res) => {
-	res.redirect("/summary");
 });
 
 app.get("/summary/:catchupNumber", (req, res) => {
@@ -62,7 +42,7 @@ app.get("/summary/:catchupNumber", (req, res) => {
 	if (catchupNumber === "latest" || catchupNumber === "random") {
 		// get summary numbers in descending order
 		let sortedCatchupNumbers = fs
-			.readdirSync(__dirname + `/public/html/summary`)
+			.readdirSync(__dirname + `/public/summary`)
 			.map((file) => parseInt(file.replace(/\.html/, "")))
 			.filter((number) => !Number.isNaN(number))
 			.sort((a, b) => b - a);
@@ -78,18 +58,13 @@ app.get("/summary/:catchupNumber", (req, res) => {
 	let parsedCatchupNumber = parseInt(catchupNumber).toString();
 	let normalizedCatchupNumber = parsedCatchupNumber.padStart(3, "0");
 
-	const path =
-		__dirname + `/public/html/summary/${normalizedCatchupNumber}.html`;
+	const path = __dirname + `/public/summary/${normalizedCatchupNumber}.html`;
 	if (fs.existsSync(path)) {
 		// if entered path is not canonical, redirect to the canonical path
 		if (catchupNumber !== parsedCatchupNumber)
 			res.redirect(`/summary/${parsedCatchupNumber}`);
 		else res.sendFile(path);
-	} else res.status(404).sendFile(__dirname + "/public/html/404.html");
-});
-
-app.get("/showcase", (req, res) => {
-	res.sendFile(__dirname + "/public/html/project-showcase-form.html");
+	} else res.status(404).sendFile(__dirname + "/public/404.html");
 });
 
 app.get("/cfp", (req, res) => {
@@ -160,11 +135,11 @@ app.get("/attend", async (req, res) => {
 		new Date().toLocaleString("en-US", { timeZone: "Asia/Kolkata" })
 	);
 
-	let day = date.getDay(); // 6 is Saturday, 0 is Sunday
 	let redirectUrl = "/?isCatchUpOn=false";
 
+	let day = date.getDay();
+	// 6 is Saturday, 0 is Sunday
 	if (day === 6 || day === 0) {
-		// 6 is Saturday, 0 is Sunday
 		let config = await db.get(process.env.DATABASE_OBJ_KEY);
 		config = JSON.parse(config.value);
 		redirectUrl = config.catchUpLink;
@@ -174,7 +149,7 @@ app.get("/attend", async (req, res) => {
 });
 
 app.get("*", (req, res) => {
-	res.status(404).sendFile(__dirname + "/public/html/404.html");
+	res.status(404).sendFile(__dirname + "/public/404.html");
 });
 
 module.exports = app;

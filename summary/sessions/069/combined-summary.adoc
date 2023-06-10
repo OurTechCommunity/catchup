@@ -13,6 +13,6 @@ image::{catchup_number}.{catchup_image_extension}[alt="Meet #{catchup_display_nu
 
 ==== Special 69th CatchUp poster
 
-image::/public/img/69th-catchup.png[alt="69th CatchUp special poster", 600, 600]
+image::/img/69th-catchup.png[alt="69th CatchUp special poster", 600, 600]
 
 '''

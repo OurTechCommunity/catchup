@@ -2,10 +2,10 @@
 Our Tech Community
 v1
 :toc:
-:favicon:				/public/img/favicon.ico
-:imagesdir: 			/public/img/summary
+:favicon:				/img/favicon.ico
+:imagesdir: 			/img/summary
 :icons:					image
-:iconsdir:				/public/img/summary/admonition_icons
+:iconsdir:				/img/summary/admonition_icons
 :docinfo:				private-head, shared
 :sectanchors:
 :figure-caption!:
@@ -38,5 +38,5 @@ Alone we can do so little; together we can do so much.
 '''
 
 ++++
-<button class="btn hidden back-to-top-btn" aria-label="Scroll to top"><img src="/public/img/summary/up-arrow.svg" alt="Top"></button>
+<button class="btn hidden back-to-top-btn" aria-label="Scroll to top"><img src="/img/summary/up-arrow.svg" alt="Top"></button>
 ++++
