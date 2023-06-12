@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"start": "sh util/build.sh && nodemon index.js",
-		"build": "sh util/build.sh",
+		"build": "apt-get install asciidoctor && sh ./util/build.sh",
 		"lint:check": "prettier --check .",
 		"lint": "prettier --write ."
 	},
