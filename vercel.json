@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
         {
-            "src": "sh ./util/build.sh; ./index.js",
+            "src": "sh ./util/build.sh && ./index.js",
             "use": "@vercel/node"
         }
     ],
