@@ -1,6 +1,5 @@
 {
     "version": 2,
-    "buildCommand": "sh ./util/build.sh",
     "builds": [
         {
             "src": "./index.js",
