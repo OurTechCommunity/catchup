@@ -6,6 +6,7 @@
 	"scripts": {
 		"start": "sh util/build.sh && nodemon index.js",
 		"build": "sh util/build.sh",
+		"vercel-build": "yum install -y ruby && gem install asciidoctor && sh ./util/build.sh",
 		"lint:check": "prettier --check .",
 		"lint": "prettier --write ."
 	},
