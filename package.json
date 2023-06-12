@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"start": "sh util/build.sh && nodemon index.js",
-		"build": "yum install -y ruby && gem install asciidoctor && sh ./util/build.sh",
+		"vercel-build": "yum install -y ruby && gem install asciidoctor && sh ./util/build.sh",
 		"lint:check": "prettier --check .",
 		"lint": "prettier --write ."
 	},
