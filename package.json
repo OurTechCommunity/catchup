@@ -24,7 +24,7 @@
 	},
 	"homepage": "https://github.com/OurTechCommunity/catchup#readme",
 	"dependencies": {
-		"deta": "^1.0.0",
+		"deta": "^1.1.0",
 		"dotenv": "^10.0.0",
 		"express": "^4.17.3"
 	},

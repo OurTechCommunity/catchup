@@ -1,0 +1,16 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: catchup
+    src: ./
+    engine: nodejs16
+    primary: true
+    public: true
+    dev: npm start
+    presets:
+      env:
+        - name: ADMIN_USERNAME
+        - name: ADMIN_PASSWORD
+        - name: DATABASE_NAME
+        - name: DATABASE_OBJ_KEY
+
