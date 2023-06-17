@@ -6,16 +6,16 @@ Duration: 4 hrs 30 mins
 
 * General Introductions
 
-* Reddit's Impact on Ecosystem/Community
-    ** It was discussed how Reddit's recent actions have negatively affected a large ecosystem/community. We discussed the biggest digital protest in Reddit's history.
+* link:https://www.reddit.com[Reddit^]'s Impact on Ecosystem/Community
+    ** We discussed how Reddit's recent actions have negatively affected a large ecosystem/community. We also talked about the biggest digital protest in it's history.
         *** Siddharth Bhatia shared information on the issue: link:https://old.reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating[Reddit Incomplete and Growing List of Participating Mods^].
     ** Siddharth also mentioned that the removal of certain tools from moderators will likely lead to an increase in spam on Reddit.
 
-* We discussed about Apple VR and its Comfort
+* We talked about the new Apple Vision Pro and how comfortable it is to wear.
     ** Mohit Gangwani discussed how Apple's VR technology is uncomfortable for continuous use beyond 30 minutes.
 
-* We discovered the recent developments in the VR field.
-    ** Siddharth mentioned John Carmack, the creator of Doom, and his decade in the VR space after Oculus was acquired by Meta. Source: link:https://kotaku.com/john-carmack-quit-meta-facebook-vr-oculus-rift-doom-1849912694[John Carmack on Meta, Facebook, VR, Oculus Rift, Doom^].
+* We discussed the recent developments in the VR field.
+    ** Siddharth mentioned John Carmack, the creator of Doom, and his decade in the VR space after Oculus was link:https://www.facebook.com/zuck/posts/10101319050523971[acquired^] by link:https://about.meta.com[Meta^]. Source: link:https://kotaku.com/john-carmack-quit-meta-facebook-vr-oculus-rift-doom-1849912694[John Carmack on Meta, Facebook, VR, Oculus Rift, Doom^].
 
 * Mohit shared information about Gigabyte's recent launch of a new server product and their partnership with Nvidia. Video link: link:https://youtu.be/It9D08W8Z7o[Gigabyte's Server Launch^].
 
@@ -25,9 +25,9 @@ Duration: 4 hrs 30 mins
 * Dheeraj asked Rishit about the teaching methodology at the University of Toronto.
     ** Rishit highlighted the autonomy given to professors, which varies from course to course.
 
-* We discussed about dropping out from engineering and clearing backlogs.
+* We discussed about clearing backlogs and dropping out from engineering (which is a very important decision that should not be taken lightly, and completing your degree is more beneficial in _most_ cases).
 
-* Tushar shared about the scale, quality and professionalism of link:https://mumbaihacks.com[MumbaiHacks].
+* Tushar shared the scale, quality and professionalism of link:https://mumbaihacks.com[MumbaiHacks^].
     ** Relevant materials and details about mentors and judges were shared, available in link:https://web.archive.org/web/20230602054829/mumbaihacks.com[this Web Archive^], since they removed the content on the website.
 
 * Recommended Books and Resources were shared.
