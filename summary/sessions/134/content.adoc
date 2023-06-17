@@ -1,0 +1,20 @@
+Date: 03-06-2023
+
+Duration: 4 hrs 51 mins
+
+==== Topics Discussed
+
+* We talked about link:https://mumbaihacks.com[Mumbai Hacks^] when link:https://twitter.com/tusharnankanii[Tushar Nankani^] joined in briefly during the hackathon.
+* Darshit Suratwala shared that he would be talking on Blockchain at KCD Mumbai Meetup.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] and Darshit Suratwala talked about link:https://jsconf.in/[JSConf India^].
+    ** link:https://www.youtube.com/live/Rjv-4aT-_8c?feature=share[JSConf India - Track 2^]
+    ** link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared a talk by Ameer Jhan at JSConf in Bangalore. - link:https://www.youtube.com/watch?v=Rjv-4aT-_8c&t=23624s[Building scalable JS apps^].
+    ** Getting accommodation in Bangalore is difficult, hence Jay and link:https://twitter.com/ishandeveloper[Ishan Sharma^] were discussing potential options.
+    ** We talked about navigating India and differences in the nomenclature of places across the world, where many places end up having similar names. 
+* We discussed options for hosting web apps with a backend specifically for fixing OTC's website after Deta Cloud was shut down.
+    ** Server-based free tier options are not available and hence using serverless seems like the only viable option.
+    ** link:https://www.netlify.com[Netlify^] supports static sites, and link:https://www.heroku.com[Heroku^] has bad pricing after the salesforce acquisition.
+    ** link:https://workers.cloudflare.com[Cloudflare workers^] is a good option.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^]'s link:https://twitter.com/adityaoberai1/status/1664241909009887233?s=20[tweet^] about link:https://appwrite.io[Appwite^] winning the golden kitty awards was up on New York's Times Square.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about visas and passports with the benefits of having dual citizenship.
+* Most discussions were woven around link:https://jsconf.in/[JSConf India^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^]'s internship experience.
