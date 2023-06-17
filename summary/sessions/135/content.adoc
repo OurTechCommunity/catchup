@@ -35,6 +35,16 @@ Duration: 4 hrs 30 mins
     ** link:https://www.goodreads.com/book/show/3828902-thinking-in-systems[Thinking in Systems^] was shared as a valuable resource.
     ** link:https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3[Introduction to Genetic Algorithms^] was also discussed.
 
+* Vatsal Patel met Harsh Kapadia in Austin in the given week.
+
+* Vatsal shared that his workplace — link:https://www.activision.com[Activision^] uses a Centralized Version Control System (CVCS) called link:https://www.perforce.com/products/helix-core[Perforce^].
+    ** Centralized VCS is used a gaming standard for version control. 
+        ** He discussed the utilization of CVCS, specifically for managing build files and fast files.
+        ** CVCS like Perforce provide efficient handling of these types of files and large asset files
+    ** He also discussed about the concept of Presubmit in Perforce.
+        ** The concept of presubmit is similar to pre-commit hooks.
+        ** Presubmit hooks allow for automated checks and validations before committing code changes.
+
 * We discussed about link:https://million.dev[Million^] — The virtual DOM replacement for React.
     ** Fireship.io's Video: link:https://youtu.be/VkezQMb1DHw[High-school student makes React a million times faster^] (which, in fact, is featured on their landing page.)
         *** It explains how React's Virtual DOM is pure overhead and how Million.js reduces overhead by using a fine-tuned, optimized virtual DOM. 
