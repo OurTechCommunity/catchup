@@ -28,7 +28,7 @@ include::{combined_summary_file}[]
 NOTE: For all summaries, please visit link:https://catchup.ourtech.community/summary[catchup.ourtech.community/summary].
 
 '''
-[.improve-heading]
+[#improve-content]
 Want to improve the content of this page?
 
 [.improve-buttons]
