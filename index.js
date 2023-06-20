@@ -6,23 +6,11 @@ const { Deta } = require("deta");
 require("dotenv").config();
 
 const app = express();
+const port = process.env.PORT || 8080;
 
-let db = null;
-if (process.env.DETA_PROJECT_KEY) {
-	const deta = Deta(process.env.DETA_PROJECT_KEY);
-	db = deta.Base(process.env.DATABASE_NAME);
-} else {
-	db = {
-		async put(value, key) {
-			this[key] = value;
-		},
-		async get(key) {
-			return {
-				value: this[key]
-			};
-		}
-	};
-}
+const deta = Deta();
+const db = deta.Base(process.env.DATABASE_NAME);
+
 
 // Static files
 app.use("/public", express.static(__dirname + "/public"));
@@ -179,14 +167,10 @@ app.get("*", (req, res) => {
 
 module.exports = app;
 
-// Listening port
-if (!process.env.DETA_RUNTIME) {
-	const PORT = process.env.PORT || 5000;
-	app.listen(PORT, (err) => {
-		if (err) console.log(err);
-		else
-			console.log(
-				`Server started on port ${PORT}...\nAccess the web app at http://localhost:${PORT}`
-			);
-	});
-}
+app.listen(port, (err) => {
+	if (err) console.log(err);
+	else
+		console.log(
+			`Server started on port ${port}...\nAccess the web app at http://localhost:${port}`
+		);
+});
