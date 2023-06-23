@@ -1,7 +1,7 @@
 ==== Attendees
 
 . link:https://twitter.com/adityaoberai1[Aditya Oberai^]
-. link:https://twitter.com/anushkasb2001[Anushka Bhagchandani^]
+. link:https://twitter.com/itsAnushkasTime[Anushka Bhagchandani^]
 . link:https://twitter.com/Aryannayakk[Aryan Nayak^]
 . link:https://twitter.com/ayushb_tweets[Ayush Bhosle^]
 . link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
@@ -11,9 +11,9 @@
 . link:https://twitter.com/rishit_dagli[Rishit Dagli^]
 . link:https://twitter.com/sailorworks[Sahil Prasad^]
 . link:https://twitter.com/saurabhdawaree[Saurabh Daware^]
+. link:https://twitter.com/DSdatsme[Darshit Suratwala^]
 . Anil Harwani
 . Ayush Chauhan
-. Darshit Suratwala
 . Hiten Gerella
 . Krishana Dave
 . Surya
