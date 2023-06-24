@@ -1,0 +1,49 @@
+Date: 17-06-2023
+
+Duration: 4 hrs 37 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/DSdatsme[Darshit Suratwala^] shared that he recently gave a talk on the topic - "Blockchain Goes Kubernetes" at link:https://kcdmumbai.com[KCD Mumbai^] meetup.
+    ** link:https://kcdmumbai.com[KCD Mumbai^] took a unique approach with link:https://twitter.com/Silly_Strokes/status/1669989162382966786[Visual Summary^] to sum up the event contents.
+* Mohit Gangwani and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed some really good learning resources for Computer Networking.
+    ** link:https://www.youtube.com/@hnasr[Hussein Nasser^]
+    ** link:https://www.youtube.com/@Computerphile[Computerphile^]
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] gave a talk at link:https://kcdmumbai.com[KCD Mumbai^] about "How to Not-Mess-Up Production" server based on his experiences during a meeting.
+* We talked about KMS (Key Management Services) and how companies handle licensing for their products through their servers.
+    ** Most laptops come with OEM (Original Equipment Manufacturer) keys tied to the motherboard of the laptop.
+    ** The discussions were about how link:https://www.microsoft.com/en-in/software-download/windows8ISO[Windows 8^] was a visual overhaul over link:https://learn.microsoft.com/en-in/lifecycle/products/windows-7[Windows 7^], but many people were not in its favor due to its lack of similarity with the previous versions.
+    ** Some people think that Windows phones were ahead of their time.
+* We discussed how link:https://www.spec.org/benchmarks.html[SPEC CPU benchmarks^] are used to compare the CPUs objectively.
+    ** Overclocking a CPU locks the clock frequency of the CPU to a higher value than the default value, so one should be careful while doing it.
+    ** Few people from link:https://twitter.com/harshgkapadia[Harsh Kapadia^]'s team at AMD went for link:https://www.computextaipei.com.tw/en/index.html[Computex^] and they saw some interesting products under development.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and Mohit Gangwani shared some interesting videos:
+        *** link:https://youtu.be/RTA3Ls-WAcw[How AMD Zen Almost Didn't Make It^]. The video is about the Zen architecture which is paramount to the further development of AMD datacenter and consumer-based CPUs.
+        *** link:https://youtu.be/It9D08W8Z7o[NVIDIA Made a CPU.. I'm Holding It.^]
+* link:https://www.cnbc.com/2023/06/01/reddit-eyeing-ipo-charge-millions-in-fees-for-third-party-api-access.html[Reddit will apparently start charging^] hefty costs for third-party API access.
+    ** Many people seem to be unhappy with this decision though.
+    ** Some helpful Reddit communities are private which otherwise would provide efficient and quick solutions to some problems.
+        *** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] and link:https://twitter.com/AnxKhn[Anas Khan^] suggested using archived versions of the pages to get the required information.
+        *** link:https://blog.hubspot.com/marketing/google-cache[Google Cache^] - Cached pages are an undeniably useful tool when you come across a web page that is performing poorly, or temporarily down for some reason.
+* link:https://www.theverge.com/2023/6/16/23763538/reddit-blackout-api-protest-mod-replacement-threat[Reddit threatening moderators^] to re-open their communities.
+    ** Many communities are private indefinitely.
+* link:https://twitter.com/devout_coder[Pranil Chitre^] shared some platforms which provide hosting for free:
+    ** link:https://render.com/pricing[Render^]
+    ** link:https://cyclic.sh/pricing[cyclic.sh^]
+* link:https://twitter.com/AnxKhn[Anas Khan^] and link:https://twitter.com/devout_coder[Pranil Chitre^] talked about link:https://archlinux.org[Arch Linux^] and link:https://fedoraproject.org[Fedora^].
+* Sarah recently took part in the link:https://hashnode.com/hackathons/appwrite[Appwrite Hackathon^] and built _Saathi_.
+    ** link:https://github.com/Sarahkhan20/Saathi[GitHub Repo^] 
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested Joel check out MLH (Major League Hacking) and their hackathons.
+    ** link:https://mlh.io[MLH^]
+* link:https://twitter.com/kaku_jay[Jay Kaku^] talked about flip-flops and how he is writing code in Verilog in link:https://hdlbits.01xz.net/wiki/Main_Page[HDLBits^] to get comfortable in writing Verilog. 
+    ** The code that he writes, generates a circuit that is the logic of the code. He visualized the circuit using link:https://en.wikipedia.org/wiki/Xilinx_Vivado[Vivado^].
+    ** link:https://hdlbits.01xz.net/wiki/Main_Page[HDLBits^] has Verilog and VHDL as the most famous languages used to describe hardware.
+    ** SystemVerilog vs Verilog: page 2 of link:http://www.sunburst-design.com/papers/DAC2009_SystemVerilog_Update_Part2_SutherlandHDL.pdf#page=2[PDF^]
+    ** link:https://www.nand2tetris.org/[Nand2Tetris^] is a course that teaches you how to build a computer from first principles.
+* We discussed what an Ethereum Virtual Machine (eVM) is.
+    ** eVM - has a single core so it's not very performant.
+    ** We then talked about eBPF. It is used to safely and efficiently extend the capabilities of the kernel at runtime without requiring changing kernel source code or load kernel modules.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested that link:https://sysdig.com[Sysdig^] and link:https://falco.org[Falco^] are now powered by eBPF.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/rishit_dagli[Rishit Dagli^] answered - Should one check the ROI of going to conferences?
+    ** It might not be immediate and it's not just about attending talks and learning from that, but it is also about meeting people and learning from them. ROI might not be immediate in those cases. 
+    ** Always checking for ROI is not the best. Some things that don't scale well are okay to do at the start.
