@@ -4,39 +4,28 @@ Duration: 4 hrs 30 mins
 
 ==== Topics Discussed
 
-* General Introductions
-
-* link:https://www.reddit.com[Reddit^]'s Impact on Ecosystem/Community
+* General introductions.
+* link:https://www.reddit.com[Reddit^]'s impact on ecosystem/community.
     ** We discussed how Reddit's recent actions have negatively affected a large ecosystem/community. We also talked about the biggest digital protest in it's history.
-        *** Siddharth Bhatia shared information on the issue: link:https://old.reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating[Reddit Incomplete and Growing List of Participating Mods^].
+        *** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared information on the issue: link:https://old.reddit.com/r/ModCoord/comments/1401qw5/incomplete_and_growing_list_of_participating[Reddit Incomplete and Growing List of Participating Mods^].
     ** Siddharth also mentioned that the removal of certain tools from moderators will likely lead to an increase in spam on Reddit.
-
 * We talked about the new Apple Vision Pro and how comfortable it is to wear.
     ** Mohit Gangwani discussed how Apple's VR technology is uncomfortable for continuous use beyond 30 minutes.
-
 * We discussed the recent developments in the VR field.
-    ** Siddharth mentioned John Carmack, the creator of Doom, and his decade in the VR space after Oculus was link:https://www.facebook.com/zuck/posts/10101319050523971[acquired^] by link:https://about.meta.com[Meta^]. Source: link:https://kotaku.com/john-carmack-quit-meta-facebook-vr-oculus-rift-doom-1849912694[John Carmack on Meta, Facebook, VR, Oculus Rift, Doom^].
-
+    ** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] mentioned John Carmack, the creator of Doom, and his decade in the VR space after Oculus was link:https://www.facebook.com/zuck/posts/10101319050523971[acquired^] by link:https://about.meta.com[Meta^]. Source: link:https://kotaku.com/john-carmack-quit-meta-facebook-vr-oculus-rift-doom-1849912694[John Carmack on Meta, Facebook, VR, Oculus Rift, Doom^].
 * Mohit shared information about Gigabyte's recent launch of a new server product and their partnership with Nvidia. Video link: link:https://youtu.be/It9D08W8Z7o[Gigabyte's Server Launch^].
-
-* Rishit shared his experiences with math exams, specifically in multivariable calculus.
-    ** Jaden asked Rishit about math in engineering versus math in research, focusing on proofs in engineering and computations in research.
-
-* Dheeraj asked Rishit about the teaching methodology at the University of Toronto.
+* link:https://twitter.com/rishit_dagli[link:https://twitter.com/rishit_dagli[Rishit Dagli^]^] shared his experiences with Math exams, specifically in Multi-Variable Calculus.
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] asked Rishit about math in engineering versus math in research, focusing on proofs in engineering and computations in research.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] about the teaching methodology at the University of Toronto.
     ** Rishit highlighted the autonomy given to professors, which varies from course to course.
-
 * We discussed about clearing backlogs and dropping out from engineering (which is a very important decision that should not be taken lightly, and completing your degree is more beneficial in _most_ cases).
-
-* Tushar shared the scale, quality and professionalism of link:https://mumbaihacks.com[MumbaiHacks^].
+* Tushar Nankani shared the scale, quality and professionalism of link:https://mumbaihacks.com[MumbaiHacks^].
     ** Relevant materials and details about mentors and judges were shared, available in link:https://web.archive.org/web/20230602054829/mumbaihacks.com[this Web Archive^], since they removed the content on the website.
-
 * Recommended Books and Resources were shared.
     ** The Phoenix Project and Atomic Habits were mentioned as recommended books.
     ** link:https://www.goodreads.com/book/show/3828902-thinking-in-systems[Thinking in Systems^] was shared as a valuable resource.
     ** link:https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3[Introduction to Genetic Algorithms^] was also discussed.
-
-* Vatsal Patel met Harsh Kapadia in Austin in the given week.
-
+* link:https://twitter.com/guyinthecape[Vatsal Patel^] met link:https://twitter.com/harshgkapadia[Harsh Kapadia^] in Austin in the given week.
 * Vatsal shared that his workplace — link:https://www.activision.com[Activision^] uses a Centralized Version Control System (CVCS) called link:https://www.perforce.com/products/helix-core[Perforce^].
     ** Centralized VCS is used a gaming standard for version control. 
         ** He discussed the utilization of CVCS, specifically for managing build files and fast files.
@@ -44,7 +33,6 @@ Duration: 4 hrs 30 mins
     ** He also discussed about the concept of Presubmit in Perforce.
         ** The concept of presubmit is similar to pre-commit hooks.
         ** Presubmit hooks allow for automated checks and validations before committing code changes.
-
 * We discussed about link:https://million.dev[Million^] — The virtual DOM replacement for React.
     ** Fireship.io's Video: link:https://youtu.be/VkezQMb1DHw[High-school student makes React a million times faster^] (which, in fact, is featured on their landing page.)
         *** It explains how React's Virtual DOM is pure overhead and how Million.js reduces overhead by using a fine-tuned, optimized virtual DOM. 

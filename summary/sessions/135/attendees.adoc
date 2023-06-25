@@ -2,11 +2,13 @@
 
 . link:https://twitter.com/BafnaAbhigyan[Abhigyan Bafna^]
 . link:https://twitter.com/AnxKhn[Anas Khan^]
+. link:https://twitter.com/heyayushh[Ayush Chauhan^]
+. link:https://twitter.com/DSdatsme[Darshit Suratwala^]
 . link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
 . link:https://twitter.com/hardikraheja[Hardik Raheja^]
 . link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
 . link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^]
-. link:https://twitter.com/furtado_jaden[jaden furtado^]
+. link:https://twitter.com/furtado_jaden[Jaden Furtado^]
 . link:https://twitter.com/kaku_jay[Jay Kaku^]
 . link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^]
 . link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^]
@@ -16,8 +18,6 @@
 . link:https://twitter.com/tusharnankanii[Tushar Nankani^]
 . link:https://twitter.com/guyinthecape[Vatsal Patel^]
 . Anil Harwani
-. Ayush Chauhan
-. Darshit Suratwala
 . Fardeeen Samir D
 . Krish Manghani
 . Krishana Dave
