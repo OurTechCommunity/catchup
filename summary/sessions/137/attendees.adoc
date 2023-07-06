@@ -19,7 +19,7 @@
 . Hiten Gerella
 . Krishana Dave
 . Kulkarni Swamini
-. Mohit Gangwani
+. link:https://twitter.com/mohit_explores[Mohit Gangwani^]
 . Mr Raam
 . Parith Garg
 . Piush Paul
