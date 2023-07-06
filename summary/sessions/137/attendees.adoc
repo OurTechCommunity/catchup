@@ -1,5 +1,6 @@
 ==== Attendees
 
+. link:https://www.linkedin.com/in/junnu8[Anush Veeranala^]
 . link:https://twitter.com/SirusTweets[Darshan Rander^]
 . link:https://twitter.com/DSdatsme[Darshit Suratwala^]
 . link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
@@ -14,7 +15,6 @@
 . link:https://twitter.com/code_magician[Viranchee L^]
 . link:https://twitter.com/code_magician[Viranchi Lotia^]
 . link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^]
-. Anush LNU
 . Gunner Gunning
 . Hiten Gerella
 . Krishana Dave

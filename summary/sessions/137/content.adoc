@@ -23,9 +23,9 @@ Duration: 4 hrs 42 mins
 	** Kartik recommended putting the script through link:https://www.shellcheck.net[shellcheck.net^] to iron out issues and that resulted in a few link:https://github.com/HarshKapadia2/dotfiles/commit/486b86ab1dd062a519c6391b902b07aece14b755[safety changes of quoting variables^].
 		*** link:https://unix.stackexchange.com/questions/86800/difference-between-quoting-variables-in-shell-script-if-statements[Difference between quoting variables in shell script "if" statements?^]
 		*** link:https://stackoverflow.com/questions/10067266/when-to-wrap-quotes-around-a-shell-variable[When to wrap quotes around a shell variable?^]
-* Anush showed us how customizable and powerful link:https://www.gnu.org/software/emacs[GNU Emacs^] is, with calendars and planners built into it. It is considered to be an Operating System in itself!
+* link:https://www.linkedin.com/in/junnu8[Anush Veeranala^] showed us how customizable and powerful link:https://www.gnu.org/software/emacs[GNU Emacs^] is, with calendars and planners built into it. It is considered to be an Operating System in itself!
 	** He told us about how link:https://stackoverflow.com/questions/1663627/guile-and-emacs[Emacs supports Elisp and GNU Guile^] for configurations. They are link:https://en.wikipedia.org/wiki/Turing_completeness[Turing Complete^] languages.
-* Anush also showed us his Operating System link:https://guix.gnu.org[GNU Guix^], which is highly customizable.
+* link:https://www.linkedin.com/in/junnu8[Anush Veeranala^] also showed us his Operating System link:https://guix.gnu.org[GNU Guix^], which is highly customizable.
 	** It supports creating a configuration file that one can apply on any Guix install and get a consistent experience.
 	** It can be said that link:https://nixos.org[Nix^] + link:https://www.gnu.org/software/guile[Guile^] = Guix.
 		*** link:https://www.reddit.com/r/GUIX/comments/hxcq7d/guix_vs_nix[Guix vs. Nix^]
