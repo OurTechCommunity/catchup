@@ -21,7 +21,7 @@
 . Fardeeen Samir D
 . Krish Manghani
 . Krishana Dave
-. Mohit Gangwani
+. link:https://twitter.com/mohit_explores[Mohit Gangwani^]
 . Nishant Goel
 . Prateek Pardeshi
 . Priyansh Salian

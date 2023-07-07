@@ -24,6 +24,6 @@
 . Hiten Gerella
 . Krisha Mulgaonkar
 . Meet Morpana
-. Mohit Gangwani
+. link:https://twitter.com/mohit_explores[Mohit Gangwani^]
 . Suraj Kumar
 . Rushil Shrivastava
