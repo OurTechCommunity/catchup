@@ -1,0 +1,21 @@
+Date: 01-07-2023
+
+Duration: 4 hrs 56 mins
+
+==== Topics Discussed
+
+* General introductions.
+// TODO: Harsh add your points here...
+* We talked about link:https://en.wikipedia.org/wiki/Self-XSS[Self-XSS^] where users are persuaded to run malicious code on their browsers by social engineering.
+	** A lot of products like https://meet.google.com[Google Meet^] have warnings written in their console prompting users not to run anything in the console they don't understand.
+* We discussed why someone would save https://jwt.io[JWT^] in the database and how it kills the purpose of not reading the database to get user information.
+	** A potential use case for saving JWT in the database is to invalidate tokens before it expires.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked that is it a good idea to store user status (blocked, admin, etc) in the JWT token.
+	** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] suggested against it as it exposes internal information and if not implemented properly user can change parameters and the whole system can be compromised.
+* Ayush Singh asked for help to deploy his https://react.dev[React.js] and https://expressjs.com[Express.js] apps on VPS for a company, we suggested him to deploy it using a platform like https://vercel.com[vercel] or other platforms as it is much easier to deploy and manage.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] explained about how https://www.mca.gov.in/MinistryV2/incorporation_company.html[company licencing^] works in India.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked how he can build a system where he can find the number of times a request was made by the user and charge them accordingly.
+* We talked about why companies don't update their internal tools and why they are incentivized not to update them.
+	* It's extra work and time for something only with a few hundred users.
+	* Changing UI might affect power users and disturb their workflow.
+	* "Don't change it if it's working" mindset.
