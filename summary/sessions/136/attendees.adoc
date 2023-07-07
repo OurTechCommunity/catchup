@@ -20,7 +20,8 @@
 . Anil Harwani
 . Joel Franklin Stalin Vijayakumar
 . Meet Morpana
-. Mohit Gangwani
+. link:https://twitter.com/mohit_explores[Mohit Gangwani^]
+
 . Rushil Shrivastava
 . Sejal Jain
 . Shreya Shirkar
