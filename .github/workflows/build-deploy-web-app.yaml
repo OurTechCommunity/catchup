@@ -31,7 +31,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout code
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Install dependencies
               run: npm install
@@ -45,7 +45,7 @@ jobs:
         container: "docker://asciidoctor/docker-asciidoctor:latest"
         steps:
             - name: Checkout code
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Build summary pages using Asciidoctor Jet
               run: ./util/build.sh
@@ -57,7 +57,7 @@ jobs:
         container: "docker://asciidoctor/docker-asciidoctor:latest"
         steps:
             - name: Checkout code
-              uses: actions/checkout@v2
+              uses: actions/checkout@v3
 
             - name: Build summary pages using Asciidoctor Jet
               run: ./util/build.sh
