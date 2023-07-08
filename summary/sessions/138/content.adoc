@@ -4,18 +4,19 @@ Duration: 4 hrs 56 mins
 
 ==== Topics Discussed
 
+* We conducted link:https://talks.ourtech.community/4[OTC Talks #4 - Files, DAGs and the Yardstick^], with link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] as our speaker.
 * General introductions.
-// TODO: Harsh add your points here...
-* We talked about link:https://en.wikipedia.org/wiki/Self-XSS[Self-XSS^] where users are persuaded to run malicious code on their browsers by social engineering.
-	** A lot of products like https://meet.google.com[Google Meet^] have warnings written in their console prompting users not to run anything in the console they don't understand.
-* We discussed why someone would save https://jwt.io[JWT^] in the database and how it kills the purpose of not reading the database to get user information.
-	** A potential use case for saving JWT in the database is to invalidate tokens before it expires.
-* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked that is it a good idea to store user status (blocked, admin, etc) in the JWT token.
-	** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] suggested against it as it exposes internal information and if not implemented properly user can change parameters and the whole system can be compromised.
-* Ayush Singh asked for help to deploy his https://react.dev[React.js] and https://expressjs.com[Express.js] apps on VPS for a company, we suggested him to deploy it using a platform like https://vercel.com[vercel] or other platforms as it is much easier to deploy and manage.
-* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] explained about how https://www.mca.gov.in/MinistryV2/incorporation_company.html[company licencing^] works in India.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how he created a link:https://github.com/HarshKapadia2/git-server[basic Git Server^] that uses SSH.
+* We talked about link:https://en.wikipedia.org/wiki/Self-XSS[Self-XSS^], where users are persuaded to run malicious code on their browsers by social engineering.
+	** A lot of products like link:https://meet.google.com[Google Meet^] have warnings written in their console warning users not to run anything in the console they don't understand.
+* We discussed why someone would save link:https://jwt.io[JWT^] in the database and how it kills the purpose of not reading the database to get user information.
+	** A potential use case for saving JWTs in the database is to invalidate tokens before it expires.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked if it is a good idea to store user status (blocked, admin, etc) in the JWT token.
+	** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] was against it, as it exposes internal information and if not implemented properly, a user/an attacker can change parameters and can compromise the whole system.
+* Ayush Singh asked for help to deploy his link:https://react.dev[React.js^] and link:https://expressjs.com[Express.js^] web app on a link:https://aws.amazon.com/what-is/vps[Virtual Private Server (VPS)^] for a company and we suggested deploying it using a platform like link:https://vercel.com[Vercel^] as it is much easier to deploy and manage.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] explained how https://www.mca.gov.in/MinistryV2/incorporation_company.html[company licensing^] works in India.
 * link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked how he can build a system where he can find the number of times a request was made by the user and charge them accordingly.
 * We talked about why companies don't update their internal tools and why they are incentivized not to update them.
-	* It's extra work and time for something only with a few hundred users.
-	* Changing UI might affect power users and disturb their workflow.
-	* "Don't change it if it's working" mindset.
+	** It's extra work and time for something only with a few hundred users.
+	** Changing the UI might affect power users and disturb their workflow.
+	** "Don't change it if it's working" mindset.
