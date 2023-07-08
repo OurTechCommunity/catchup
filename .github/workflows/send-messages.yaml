@@ -52,7 +52,7 @@ jobs:
             # Reminder messages
             - name: Wait until 17:00 IST
               if: ${{ env.MESSAGE_TEMPLATE }} == 'reminder'
-              run: sleep $(node util\get-seconds-until-ist-time.js 17:00)
+              run: sleep $(node util/get-seconds-until-ist-time.js 17:00)
 
             - name: Send reminder Telegram message
               if: ${{ env.MESSAGE_TEMPLATE }} == 'reminder'
