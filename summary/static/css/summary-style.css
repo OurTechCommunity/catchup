@@ -71,6 +71,19 @@ h1,
 	right: 2vw;
 }
 
+#_improve_content p {
+	font-size: 1.25em;
+	margin-bottom: 0.5em;
+}
+
+.improve-buttons a {
+	font-size: 1em;
+}
+
+.contribute p {
+	font-size: 1em;
+}
+
 .theme-switcher {
 	padding: 1.5em;
 	position: absolute;
