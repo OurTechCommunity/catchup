@@ -1,4 +1,4 @@
-name: Reminder Tweet
+name: Send Reminders on Twitter and Telegram
 
 on:
     schedule:
