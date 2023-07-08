@@ -11,7 +11,6 @@ const port = process.env.PORT || 8080;
 const deta = Deta();
 const db = deta.Base(process.env.DATABASE_NAME);
 
-
 // Static files
 app.use("/public", express.static(__dirname + "/public"));
 
