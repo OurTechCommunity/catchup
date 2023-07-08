@@ -1,0 +1,129 @@
+name: Reminder Tweet
+
+on:
+    schedule:
+        # Schedule job 10 minutes before time to account for delays
+        # Every Saturday at 11:20 AM UTC (05:00 PM IST - 10 min)
+        - cron: "20 11 * * SAT"
+        # Every Saturday at 04:30 PM UTC (10:10 PM IST - 10 min)
+        - cron: "30 16 * * SAT"
+    workflow_dispatch:
+        inputs:
+            message-template:
+                type: choice
+                required: true
+                default: automatic
+                options:
+                    - automatic
+                    - reminder
+                    - joining
+                description: |
+                    Which message template to use.
+                    if set to `automatic`, resolves to:
+                      `joining`, if time is after 10pm on Saturday (IST)
+                      `reminder`, otherwise
+
+jobs:
+    send-messages:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v2
+              with:
+                  persist-credentials: false
+
+            - name: Set environment variables
+              run: |
+                  upcoming_catchup_number=$(node util/get-next-catchup-number.js)
+                  echo "UPCOMING_CATCHUP_NUMBER=${upcoming_catchup_number}" >> ${GITHUB_ENV}
+
+                  prev_catchup_number=$(node util/get-latest-catchup-number.js)
+                  echo "PREV_CATCHUP_NUMBER=${prev_catchup_number}" >> ${GITHUB_ENV}
+
+                  catchup_date=$(date +"%b %d")
+                  echo "CATCHUP_DATE=${catchup_date}" >> ${GITHUB_ENV}
+
+                  message_template=${{ inputs.message-template }}
+                  if [ "${message_template}" = "automatic" ]; then
+                      message_template=$(node util/get-current-message-template.js)
+                  fi
+                  echo "MESSAGE_TEMPLATE=${message_template}" >> ${GITHUB_ENV}
+
+            # Reminder messages
+            - name: Wait until 17:00 IST
+              if: ${{ env.MESSAGE_TEMPLATE }} == 'reminder'
+              run: sleep $(node util\get-seconds-until-ist-time.js 17:00)
+
+            - name: Send reminder Telegram message
+              if: ${{ env.MESSAGE_TEMPLATE }} == 'reminder'
+              run: |
+                  export TELEGRAM_MESSAGE="Reminder! 🚨
+
+                  The ${{ env.UPCOMING_CATCHUP_NUMBER }} OTC CatchUp session will be held today (${{ env.CATCHUP_DATE }}) from 10:30 PM IST.
+
+                  Join us for an informal open-to-all Tech discussion!
+
+                  Joining link 👇
+                  https://catchup.ourtech.community/attend
+
+                  Previous session details 👇
+                  https://catchup.ourtech.community/summary/${{ env.PREV_CATCHUP_NUMBER }}"
+
+                  BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }} node util/post-telegram-message.js
+
+            - name: Send reminder Tweet
+              if: ${{ env.MESSAGE_TEMPLATE }} == 'reminder'
+              uses: Eomm/why-don-t-you-tweet@v1
+              with:
+                  tweet-message: |
+                      Reminder! 🚨
+
+                      The ${{ env.UPCOMING_CATCHUP_NUMBER }} OTC CatchUp session will be held today (${{ env.CATCHUP_DATE }}) from 10:30 PM IST.
+
+                      Join us for an informal open-to-all Tech discussion!
+
+                      Previous session details 👇
+                      https://catchup.ourtech.community/summary/${{ env.PREV_CATCHUP_NUMBER }}
+
+                      #OTC #OTCCatchUp #Community #Tech
+              env:
+                  TWITTER_CONSUMER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+                  TWITTER_CONSUMER_API_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
+                  TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+                  TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+
+            # Joining messages
+            - name: Wait until 22:10 IST
+              if: ${{ env.MESSAGE_TEMPLATE }} == 'joining'
+              run: sleep $(node util/get-seconds-until-ist-time.js 22:10)
+
+            - name: Send joining Telegram message
+              if: ${{ env.MESSAGE_TEMPLATE }} == 'joining'
+              run: |
+                  export TELEGRAM_MESSAGE="<b>${{ env.UPCOMING_CATCHUP_NUMBER }} OTC CatchUp</b>
+
+                  An informal open-to-all Tech discussion!
+
+                  We start at 10:30 PM IST.
+
+                  Join in at any time! 👇
+                  https://catchup.ourtech.community/attend"
+
+                  BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }} node util/post-telegram-message.js
+
+            - name: Send joining Tweet
+              if: ${{ env.MESSAGE_TEMPLATE }} == 'joining'
+              uses: Eomm/why-don-t-you-tweet@v1
+              with:
+                  tweet-message: |
+                      Going live in 30 mins!
+
+                      Join us for the ${{ env.UPCOMING_CATCHUP_NUMBER }} #OTCCatchUp, an informal open-to-all Tech discussion.
+
+                      Join in at any time! 👇
+                      https://catchup.ourtech.community/attend
+              env:
+                  TWITTER_CONSUMER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+                  TWITTER_CONSUMER_API_SECRET: ${{ secrets.TWITTER_API_KEY_SECRET }}
+                  TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+                  TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
