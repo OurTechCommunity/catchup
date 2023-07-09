@@ -7,6 +7,8 @@ micros:
     primary: true
     public: true
     dev: npm start
+    commands:
+      - ./utils/build.sh
     presets:
       env:
         - name: ADMIN_USERNAME
