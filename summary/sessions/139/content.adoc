@@ -5,21 +5,21 @@ Duration: 4 hrs 51 mins
 ==== Topics Discussed
 
 * link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] explained how he implemented link:https://firebase.google.com/docs/cloud-messaging/[Firebase Cloud Messaging (FCM)] using Web API's from Firebase instead of SDK.
-* We discussed the autosave feature on a lot of IDEs.
-	** link:https://twitter.com/SirusTweets[Darshan Rander^] finds it annoying as he has enabled format on save enabled as well, so whenever he autosaves it also formats the document.
-	** Also autosave might able be triggered while someone is in between changing an implementation and everything could break because of features like link:https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/[hot-reload^].
-	** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] prefers it as it saves the changes and even if the system crashes the changes are there because autosave might have already saved it.
+* We discussed the `autosave` feature on a lot of IDEs.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] finds it inconvenient as he has `format on save` enabled as well, so the document is formatted as well with every autosave.
+	** Also, `autosave` might be triggered when someone is in making changes to an implementation and everything could break because of features like link:https://devblogs.microsoft.com/dotnet/introducing-net-hot-reload/[hot-reload^].
+	** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] prefers `autosave` as it saves the changes even if the system crashes.
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/rishit_dagli[Rishit Dagli^] helped link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] to add https://stackoverflow.com/questions/1962094/what-is-the-sign-off-feature-in-git-for[sign off^] in his commit messages.
-	** The final solution he ended up with was to create a new PR and link:https://stackoverflow.com/questions/9339429/what-does-cherry-picking-a-commit-with-git-mean[cherry picking^] the changes from old PR.
-* link:https://twitter.com/mehraramyak[Ramyak Mehra^] said that he finds https://www.rust-lang.org/[Rust^] pretty complex the build times are very long.
+	** The final solution he chose to go forward with was to create a new PR and link:https://stackoverflow.com/questions/9339429/what-does-cherry-picking-a-commit-with-git-mean[cherry picking^] the changes from old PR.
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] said that he finds https://www.rust-lang.org/[Rust^] pretty complex and the build times are very long.
 * link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] shared how he broke his TP-Link WiFi router by flashing the wrong custom firmware.
 * link:https://twitter.com/mehraramyak[Ramyak Mehra^] talked about his ISP: link:https://www.netplus.co.in/[Net Plus] where any other Net Plus customer can log in and connect to his WiFi.
-	** Tho this creates a security risk but it's good that the user can disable it.
-* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] asked how he can set up Remote Desktop where a single Windows server could be shared between multiple people.
+	** Although this creates a security risk, however, the user has an option to disable it.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] asked how he can set up a Remote Desktop where a single Windows server could be shared between multiple people.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:https://www.gamingonlinux.com/2023/07/meta-announced-igl-a-high-performance-cross-platform-graphics-library/[Intermediate Graphics Library (IGL)] by Meta.
 	** It is a cross-platform library that commands the GPU. It encapsulates common GPU functionality with a low-level cross-platform interface. IGL is designed to support multiple backends implemented on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan) with a common interface.
-* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about what issues he has faced while working with a Custom Design System in Flutter.
-	** Often it's not well defined so sometimes there are places where it won't fit in.
-	** It's really difficult to implement such things as Flutter is very Material heavy.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about what issues he faced while working with a Custom Design System in Flutter.
+	** Often it's not well defined and sometimes it becomes difficult to keep up with the designs changes and implementation
+	** It's really difficult to implement such things as Flutter is very link:https://docs.flutter.dev/ui/material[Material^] heavy.
 * link:https://twitter.com/SirusTweets[Darshan Rander^], link:https://twitter.com/mehraramyak[Ramyak Mehra^] and link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] talked about the reusability of widgets in Flutter and how it becomes quite difficult to manage lines of code in a single file.
 * We talked about link:https://threads.net[Threads^] and how it accelerated the network effect by leveraging its Instagram users.
