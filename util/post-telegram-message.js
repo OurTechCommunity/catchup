@@ -40,7 +40,16 @@ async function sendApiRequestRaw(method, body = {}) {
 }
 
 async function sendApiRequest(method, body) {
-	return sendApiRequestRaw(method, body).then((e) => e.json());
+	let { ok, result, error_code, description } = await sendApiRequestRaw(
+		method,
+		body
+	).then((e) => e.json());
+	if (!ok) {
+		console.error(`request failed: ${method}`);
+		console.error(`error ${error_code}: ${description}`);
+		console.error(body);
+	}
+	return result;
 }
 
 async function sendMessageToChat(chat_id, text) {
@@ -53,7 +62,7 @@ async function sendMessageToChat(chat_id, text) {
 }
 
 async function sendAndPinMessageToChat(chat_id, text) {
-	let { message_id } = await sendMessageToChat(text);
+	let { message_id } = await sendMessageToChat(chat_id, text);
 	return sendApiRequest("pinChatMessage", {
 		chat_id,
 		message_id
@@ -79,7 +88,11 @@ async function main() {
 		return 1;
 	}
 
-	await sendAndPinMessageToChat(chat_id, message);
+	let response = await sendAndPinMessageToChat(chat_id, message);
+	if (!response) {
+		console.error(`failed to send telegram message`);
+		return 2;
+	}
 }
 
 if (require.main)
