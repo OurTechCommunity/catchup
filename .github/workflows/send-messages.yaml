@@ -54,11 +54,11 @@ jobs:
 
             # Reminder messages
             - name: Wait until 17:00 IST
-              if: ${{ env.MESSAGE_TEMPLATE }} == 'reminder'
+              if: ${{ env.MESSAGE_TEMPLATE == 'reminder' }}
               run: sleep $(node util/get-seconds-until-ist-time.js 17:00)
 
             - name: Send reminder Telegram message
-              if: ${{ env.MESSAGE_TEMPLATE }} == 'reminder'
+              if: ${{ env.MESSAGE_TEMPLATE == 'reminder' }}
               run: |
                   export TELEGRAM_MESSAGE="Reminder! 🚨
 
@@ -75,7 +75,7 @@ jobs:
                   BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }} node util/post-telegram-message.js
 
             - name: Send reminder Tweet
-              if: ${{ env.MESSAGE_TEMPLATE }} == 'reminder'
+              if: ${{ env.MESSAGE_TEMPLATE == 'reminder' }}
               uses: Eomm/why-don-t-you-tweet@v1
               with:
                   tweet-message: |
@@ -97,11 +97,11 @@ jobs:
 
             # Joining messages
             - name: Wait until 22:10 IST
-              if: ${{ env.MESSAGE_TEMPLATE }} == 'joining'
+              if: ${{ env.MESSAGE_TEMPLATE == 'joining' }}
               run: sleep $(node util/get-seconds-until-ist-time.js 22:10)
 
             - name: Send joining Telegram message
-              if: ${{ env.MESSAGE_TEMPLATE }} == 'joining'
+              if: ${{ env.MESSAGE_TEMPLATE == 'joining' }}
               run: |
                   export TELEGRAM_MESSAGE="<b>${{ env.UPCOMING_CATCHUP_NUMBER }} OTC CatchUp</b>
 
@@ -115,7 +115,7 @@ jobs:
                   BOT_TOKEN=${{ secrets.TELEGRAM_BOT_TOKEN }} node util/post-telegram-message.js
 
             - name: Send joining Tweet
-              if: ${{ env.MESSAGE_TEMPLATE }} == 'joining'
+              if: ${{ env.MESSAGE_TEMPLATE == 'joining' }}
               uses: Eomm/why-don-t-you-tweet@v1
               with:
                   tweet-message: |
