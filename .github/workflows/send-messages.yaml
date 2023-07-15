@@ -23,6 +23,9 @@ on:
                       `joining`, if time is after 10pm on Saturday (IST)
                       `reminder`, otherwise
 
+env:
+    TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
 jobs:
     send-messages:
         runs-on: ubuntu-latest
