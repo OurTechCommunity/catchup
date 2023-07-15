@@ -3,9 +3,9 @@ name: Send Reminders on Twitter and Telegram
 on:
     schedule:
         # Schedule job 10 minutes before time to account for delays
-        # Every Saturday at 11:20 AM UTC (05:00 PM IST - 10 min)
+        # Every Saturday at 11:20 AM UTC (05:00 PM IST minus 10 min)
         - cron: "20 11 * * SAT"
-        # Every Saturday at 04:30 PM UTC (10:10 PM IST - 10 min)
+        # Every Saturday at 04:30 PM UTC (10:10 PM IST minus 10 min)
         - cron: "30 16 * * SAT"
     workflow_dispatch:
         inputs:
@@ -47,7 +47,7 @@ jobs:
                   echo "CATCHUP_DATE=${catchup_date}" >> ${GITHUB_ENV}
 
                   message_template=${{ inputs.message-template }}
-                  if [ "${message_template}" = "automatic" ]; then
+                  if [ "${message_template}" = "automatic" ] || [ -z "${message_template}" ]; then
                       message_template=$(node util/get-current-message-template.js)
                   fi
                   echo "MESSAGE_TEMPLATE=${message_template}" >> ${GITHUB_ENV}
