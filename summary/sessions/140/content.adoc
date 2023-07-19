@@ -1,0 +1,44 @@
+Date: 15-07-2023
+
+Duration: 3 hrs 36 mins
+
+==== Topics Discussed
+
+* Sejal Jain talked about her conversion from an intern to a full-time employee at link:https://www.zomato.com[Zomato^] and shared her experience working with link:https://www.php.net[PHP^], link:https://go.dev[Go^], link:https://www.mysql.com[MySQL^] and link:https://aws.amazon.com/dynamodb[DynamoDB^].
+* link:https://twitter.com/code_magician[Viranchee L^] talked about his experience building security features using link:https://www.open-std.org/jtc1/sc22/wg14[C^], link:https://isocpp.org[C++^] and link:https://www.python.org[Python^] as an intern at link:https://www.qualcomm.com[Qualcomm^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how link:https://twitter.com/KartikSoneji_[Kartik Soneji^] improved the GitHub Actions workflow of the link:https://github.com/OurTechCommunity/catchup[OTC CatchUp GitHub repository^] that sends reminder and joining Tweets and Telegram messages for OTC CatchUp sessions.
+    ** link:https://github.com/OurTechCommunity/catchup/blob/main/.github/workflows/send-messages.yaml[`send_messages.yaml` workflow^]
+    ** link:https://github.com/OurTechCommunity/catchup/pull/108[Pull Request^]
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] talked about how his team qualified for the second round of a CTF link:https://itrust.sutd.edu.sg/ciss-2022[CISS 2022^].
+    ** One of the problems they faced looked like link:https://securityintelligence.com/articles/shellshock-vulnerability-in-depth[the Shellshock vulnerability^].
+* link:https://twitter.com/TmPreet[Preet Parekh^] talked about an issue where an update query (using link:https://www.elastic.co/guide/en/elasticsearch/painless/current/painless-guide.html[Painless^]) to around 10 million link:https://www.elastic.co/elasticsearch[Elasticsearch^] documents was taking around eight minutes to reflect to the end user!
+    ** Just inserting new documents and deleting the older documents is one potential solution, as Elasticsearch is able to handle that with much lesser latency.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] talked about how some ISPs use the link:https://www.digitalcitizen.life/simple-questions-what-pppoe-and-what-does-it-do[Point-to-Point Protocol over Ethernet (PPPoE) protocol^] to authenticate users.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how link:https://www.rfc-editor.org/rfc/rfc8952.html#section-2.6[Captive Portals^] are used to display WiFi login screens when a user logs into a WiFi network for the first time.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] talked about his link:https://github.com/orgs/supabase/discussions/526[issues with transactions on Supabase^].
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked whether anyone had used link:https://www.proxmox.com[Proxmox^], a Virtualization management software like link:https://www.vmware.com[VMware^], as he was facing issues with link:https://en.wikipedia.org/wiki/SeaBIOS[SeaBIOS^] and link:https://en.wikipedia.org/wiki/UEFI[UEFI^].
+    ** link:https://www.serverwatch.com/servers/proxmox-vs-vmware[Proxmox vs VMware^]
+* link:https://kubernetes.io[Kubernetes^]
+    ** link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] shared link:https://ieeexplore.ieee.org/document/9582270[HPKS: High Performance Kubernetes Scheduling for Dynamic Blockchain Workloads in Cloud Computing^].
+    ** link:https://twitter.com/DSdatsme[Darshit Suratwala^] shared his KCD Mumbai 2023 talk link:https://www.youtube.com/watch?v=5_dwKZ88G8w[Blockchain goes Kubernetes^].
+    ** Wilfred shared his KCD Mumbai 2023 talk link:https://www.youtube.com/watch?v=wt-LLO5cc5A[How to Not-Mess-Up Production^] as well.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how a lot of people expressed their disdain for the lack of empathy in a Tweet thread by link:https://twitter.com/suumitshah/status/1678460567000850450[Dukaan's CEO marketing a product by boasting about laying off employees^] and for link:https://twitter.com/suumitshah/status/1678503672206983171[dismissing concerns for laid off employees in a very offhand way^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his experimentation with Vim plugins. He started using link:https://github.com/junegunn/vim-plug[vim-plug^] as his plugin manager and the link:https://github.com/editorconfig/editorconfig-vim[EditorConfig^] and the link:https://github.com/z0mbix/vim-shfmt[vim-shfmt^] plugins.
+    ** Harsh's dotfiles: link:https://github.com/HarshKapadia2/dotfiles[HarshKapadia2/dotfiles^]
+    ** link:https://google.github.io/styleguide/shellguide.html[Google's Shell Style Guide^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how the link:https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface#Baseboard_management_controller[Baseboard Management Controller (BMC)^] of a server motherboard gets its own IP and has its own web interface to help configure the motherboard (turning power on or off, updating BIOS and board firmware, getting a GUI for the machine, etc.) and how he used link:https://codeberg.org/IPMITool/ipmitool[`ipmitool`^] to re-gain lost access to the BMC by re-configuring a password for the default `admin` user.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his Networking experiment at his internship at link:https://www.amd.com[AMD^], where he had to configure two servers and a link:https://support.mellanox.com/s/productdetails/a2v50000000dZMZAA2/sn2100[Mellanox SN2100 Switch^] to be able to achieve a throughput of 100 Gbps over link:https://www.youtube.com/watch?v=TkOVgkcrvbg[Ethernet^].
+    ** He talked about how it was a challenge to set up and configure the server and switches to be able to ping each other, as he needed to realise that
+        *** Connecting to the switch to be able to configure it and enable SSH access to it, required a console cable, which is supposed to be a serial cable.
+        *** The servers required the link:https://support.mellanox.com/s/productdetails/a2v50000000XcQ7AAK/mlnxofed[`MLNX_OFED` drivers`^] so that the link:https://www.nvidia.com/en-us/networking/ethernet/connectx-5[Mellanox ConnectX-5 NIC^] could be configured.
+    ** He was only able to achieve 20 Gbps when he used link:https://github.com/esnet/iperf[iperf3^] to check his network connectivity for the first time.
+    ** He then mentioned that he would write a blog on the link:https://en.wikipedia.org/wiki/BIOS[BIOS^] (link:https://infohub.delltechnologies.com/l/cpu-best-practices-3/poweredge-numa-nodes-per-socket-1[NPS^], etc.), OS, iperf3 and CPU optimizations that he had to make to get the throughput to 60 Gbps.
+    ** link:https://twitter.com/TmPreet[Preet Parekh^] shared link:https://www.youtube.com/watch?v=18xtogjz5Ow[A $15,000 Network Switch?? - 100GbE Networking^].
+* We talked a little about link:https://en.wikipedia.org/wiki/InfiniBand[InfiniBand^] as well, which uses the concept of link:https://www.techtarget.com/searchstorage/definition/Remote-Direct-Memory-Access[Remote Direct Memory Access (RDMA)^] to speed up Networking. It is an alternative to link:https://www.youtube.com/watch?v=TkOVgkcrvbg[Ethernet^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] showcased his attendance manager project that he built using link:https://expressjs.com[Express.js^] and link:https://react.dev[React.js^]. He is using link:https://nanonets.com[NanoNets^] for link:https://en.wikipedia.org/wiki/Optical_character_recognition[OCR^].
+* Rishi Setpal shared his React.js projects.
+    ** link:https://www.linkedin.com/posts/rishisetpal_react-reactjs-javascript-activity-7085930026361061378-W4A6[Clock^]
+    ** link:https://www.linkedin.com/posts/rishisetpal_react-reactjs-js-activity-7085931285822476289-ag1u[Calculator^]
