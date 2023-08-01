@@ -298,3 +298,7 @@ pre,
 samp {
 	font-family: "PT Mono", monospace;
 }
+
+video {
+	width: 100%;
+}
