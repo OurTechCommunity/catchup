@@ -1,0 +1,24 @@
+Date: 27-07-2023
+
+Duration: 2 hrs 11 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] explained Pull Requests (PRs) to link:https://twitter.com/chiragnayyar[Chirag Nayyar^] and talked about what they mean, why they are required, why should one put in the effort into opening PRs, how it benefits both parties involved (the project's maintainers and the contributor) and how people abuse link:https://hacktoberfest.com[Hacktoberfest^].
+    ** link:https://youtu.be/LfgDc7BbhaY?t=946[The basics of Branching, Issues and Pull Requests^]
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] showed us his link:https://openprofile.dev[openprofile.dev^] Linux Foundation contribution dashboard and link:https://twitter.com/rishit_dagli[Rishit Dagli^] showed us link:https://devstats.cncf.io[devstats.cncf.io^].
+* We talked about link:https://news.itsfoss.com/red-hat-restricts-source-code[Red Hat's Source Code Lockout Spells Disaster for CentOS Alternatives: Rocky Linux and AlmaLinux in Trouble?^]
+    ** link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared a blog by Oracle on this (link:https://www.oracle.com/ke/news/announcement/blog/keep-linux-open-and-free-2023-07-10[Keep Linux Open and Free—We Can't Afford Not To^]) and we all thought that it was weird to see Oracle take the moral high ground, given their past debacles and competitive behaviours.
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] talked about link:https://www.amazon.com/Google-Daydream-View-Headset-Slate/dp/B01N634P7O[Google Daydream View^], link:https://www.howtogeek.com/690163/what-is-google-stadia[Google Stadia^], link:https://aws.amazon.com/deepcomposer[Amazon DeepComposer^] and link:https://www.cnet.com/tech/mobile/fire-phone-one-year-later-why-amazons-smartphone-flamed-out[Amazon Fire Phone^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^]'s hackathon experience
+    ** Rishit and his team built link:https://devpost.com/software/into-the-reviewverse[Into the ReviewVerse^], a review website which would help people make better decisions with the help of all the reviews given on that product. On entering a product's link, the web site outputs a list of pros and cons of the product.
+    ** Rishit told us how he broke down a huge LLaMA model into a base model, an adapter and a fine tuned model, instead of deploying the entire model as one.
+    ** Rishit also mentioned that he had to use four-bit precision floats instead of traditional 16-bit precision floats with his model as an optimization, as mentioned in link:https://arxiv.org/abs/2210.17323[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers^].
+    ** link:https://devpost.com/software/into-the-reviewverse#:~:text=Into%20the%20ReviewVerse%20Machine,improved%20the%20model%20performance.[All the Machine Learning-related work and issues that he faced.^]
+* We talked about Cloudflare DNS issues that someone was facing. We informed them about the link:https://catchup.ourtech.community/summary#:~:text=Sreekaran%20Srinath%20talked%20about%20how%20Airtel,issues%20with%20loading%20GitHub%20Pages%20sites[previous discussions we've had on Cloudflare's DNS issues].
+
+==== Projects Showcased
+
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] showcased his project Bunker, an OCR-based attendance tracker that extracts lectures from the class timetable uploaded by users.
+    ** Website: link:https://bunker-sid.onrender.com[bunker-sid.onrender.com^]
+    ** Technologies used: link:https://expressjs.com[Express.js^], link:https://react.dev[React.js^], link:https://nanonets.com[Nanonets^], link:https://firebase.google.com[Firebase^]
