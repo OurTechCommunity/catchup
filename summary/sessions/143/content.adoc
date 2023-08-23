@@ -1,0 +1,24 @@
+Date: 05-08-2023
+
+Duration: 3 hrs 22 mins
+
+==== Topics Discussed
+
+* We discussed how good link:https://meetup.ourtech.community/3[OTC MeetUp #3^] was! People enjoyed the talks and all the conversations! We want to thank all the people who attended, our speakers and our partners!
+* Krishana Dave and Somya Barwa asked about link:https://www.jpmorganchase.com[JP Morgan & Chase^]'s reduction in hiring and link:https://db.com[Deutsche Bank^]'s increase in hiring.
+    ** link:https://twitter.com/tusharnankanii[Tushar Nankani^] shared his Deutsche Bank interview experience blog link:https://blog.tusharnankani.com/posts/deutsche[My Most Unorthodox Interview Experience^].
+* Laptop restrictions and releases in India
+    ** Laptop import restrictions in India: link:https://techcrunch.com/2023/08/02/india-restricts-import-of-laptop-tablets-other-personal-computers[India restricts laptop and server import to boost local manufacturing^]
+    ** In response, Reliance Jio released a new laptop called link:https://www.reliancedigital.in/jiobook-11-2023-ultimate-learning-partner-nb1112mm-blu-4g-lte-mediatek-2-0-ghz-octa-core-4gb-lpddr4-64gb-emmc-jioos-expandable-256gb-29-46-cm-11-6-inch-/p/492337955[JioBook^] which is running an link:https://www.howtogeek.com/842374/this-laptop-runs-android-not-windows-or-linux[Android-based OS called JioOS^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] asked about how people have combatted burning out at their workplace and link:https://twitter.com/tusharnankanii[Tushar Nankani^] talked about how he worked a lot initially and then used the time afterwards to interact with people and learn from them. He participated in more activities and started looking at things broadly.
+* We touched upon a distributed agreement protocol called link:https://www.youtube.com/watch?v=s8JqcZtvnsM[Paxos^].
+* Real-time collaboration in text editors
+    ** link:https://www.youtube.com/watch?v=SjDSabjUQ5k[Building Collaborative applications in React^]
+    ** link:https://xi-editor.io/docs/rope_science_00.html[Rope science^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] explained the basics of Non-Uniform Memory Access (NUMA) Nodes Per Socket (NPS) and how he had to configure that in BIOS settings for Network throughput measurements.
+    ** link:https://www.techtarget.com/whatis/definition/NUMA-non-uniform-memory-access[What is NUMA?^]
+    ** link:https://enterprise-support.nvidia.com/s/article/understanding-numa-node-for-performance-benchmarks#:~:text=Non%2Duniform%20memory,it%20is%20accessed.[Understanding NPS^]
+    ** link:https://hpcadvisorycouncil.atlassian.net/wiki/spaces/HPCWORKS/pages/1280442391/AMD+2nd+Gen+EPYC+CPU+Tuning+Guide+for+InfiniBand+HPC#NPS-Configuration[NPS configuration (good diagrams)^]
+* Anil Harwani talked about how it is important to know latency numbers for various operations on the Operating System level and told us to go through link:https://gist.github.com/hellerbarde/2843375[Latency numbers every programmer should know^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a video of someone hacking a game by making modifications to it in-memory: link:https://www.youtube.com/watch?v=2ZnAS5_0Z3I[I Hacked a Game from my Childhood (for REVENGE)^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] told link:https://twitter.com/KarkeraNikshita[Nikshita Karkera^] the importance attending meetups (a good way to learn people's experiences and the industry) and how it becomes easier to interact with new people after doing it a few times.

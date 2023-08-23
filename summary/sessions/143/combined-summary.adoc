@@ -1,0 +1,18 @@
+[#{catchup_display_number}]
+=== link:/summary/{catchup_display_number}[OTC CatchUp #{catchup_display_number}]
+
+include::content.adoc[]
+
+include::attendees.adoc[]
+
+==== Meet Screenshot
+
+image::{catchup_number}.{catchup_image_extension}[alt="Meet #{catchup_display_number} screenshot", 600, 600]
+
+==== New CatchUp Attendee Meme
+
+link:https://twitter.com/SirusTweets[Darshan Rander^] created the following meme exposing link:https://twitter.com/harshgkapadia[Harsh Kapadia^]'s habit of asking each new person attending OTC CatchUp sessions the question "Is this your first time here?"
+
+image::harsh-new-catchup-attendee-meme.png[alt="Meme showing Harsh asking ever new CatchUp attendee 'Is this your first time here?'", 600, 600]
+
+'''
