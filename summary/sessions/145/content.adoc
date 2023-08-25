@@ -1,0 +1,46 @@
+Date: 19-08-2023
+
+Duration: 3 hrs 30 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] told us that he will be speaking at link:https://nullcon.net/goa-2023[NullCon Goa 2023^] on link:https://nullcon.net/goa-2023/speaker-the-curious-case-of-the-rogue-soar[The Curious Case Of The Rogue SOAR^].
+* Readings suggested by Anil Harwani
+	** link:https://devblogs.microsoft.com/oldnewthing[The Old New Thing^] by link:https://devblogs.microsoft.com/oldnewthing/author/oldnewthing[Raymond Chen^].
+		*** Anil praised the simplicity of the blog which demonstrates how well the author understands concepts and also told us about his consistency of writing blogs, which was mind boggling!
+	** Anil suggested reading link:https://en.wikipedia.org/wiki/The_Mythical_Man-Month[The Mythical Man-Month^] once again, to understand how project requirements work with regards to clarifying the needs and goals, and figuring out how much time it needs and how many people it needs.
+	** link:https://www.pearson.com/en-us/subject-catalog/p/modern-operating-systems/P200000003311/9780133591620[Modern Operating Systems by Andrew Tanenbaum^]
+	** link:https://www.cs.utexas.edu/~EWD[E. W. Dijkstra's notes (EWDs)^]
+		*** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] added that he had read a few and that his favourite note is link:https://www.cs.utexas.edu/users/EWD/ewd13xx/EWD1305.PDF[EWD1305: Answers to questions from students of Software Engineering^]
+* Videos suggested by Anil Harwani
+	** link:https://github.com/Netflix/chaosmonkey[Chaos Monkey^] talks by link:https://www.netflix.com[Netflix^].
+		*** link:https://www.youtube.com/watch?v=LaKGx0dAUlo[Performing Chaos at Netflix Scale^]
+		*** link:https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116[The Netflix Simian Army^]
+	** link:https://www.youtube.com/watch?v=t-_VPRCtiUg[The Surprising Secret of Synchronization^]
+	** link:https://www.youtube.com/watch?v=Nb2tebYAaOA[Jim Keller: Moore's Law, Microprocessors, and First Principles^]
+	** link:https://www.youtube.com/watch?v=G4hL5Om4IJ4[Jim Keller: The Future of Computing, AI, Life, and Consciousness^]
+* We talked about the link:https://www.lttstore.com/products/screwdriver[LTT Screwdriver^] and tools from link:https://www.ifixit.com/Tools/Toolkits[iFixit^] and link:https://www-de.wera.de/en[Wera Tools^].
+* Anil Harwani told us about link:https://en.wikipedia.org/wiki/Tanenbaum%E2%80%93Torvalds_debate[the Tanenbaum-Torvalds debate^], which was an argument where Tanenbaum was trying to prove why a Microkernel architecture (Tanenbaum's OS Minix had that architecture.) is better than a Monolithic Kernel architecture that Torvald's Linux has.
+	** Kernel architectures
+		*** link:https://stackoverflow.com/questions/4537850/what-is-difference-between-monolithic-and-micro-kernel[Microkernel vs Monolithic Kernel^]
+		*** link:https://www.geeksforgeeks.org/difference-between-microkernel-and-monolithic-kernel[Difference between Microkernel and Monolithic Kernel^]
+	** Minix
+		*** Tanenbaum initially created the link:https://en.wikipedia.org/wiki/Minix[Minix^] Operating System for educational purposes.
+		*** Anil also told us how Minix was found inside the link:https://en.wikipedia.org/wiki/Intel_Management_Engine[Intel Management Engine^], which was a big deal, as Minix, whose goal was never to have military-grade security, was being used on billions of machines at a privilege level that is higher than the kernel, and that made billions of machines vulnerable. Also, this implies that Minix is the most used OS on the planet.
+			**** link:https://www.youtube.com/watch?v=iffTJ1vPCSo[Replace Your Exploit-Ridden Firmware with Linux^]
+				***** The first 12 minutes of this video is sufficient to understand how vulnerable systems are.
+				***** link:https://security.stackexchange.com/questions/129098/what-is-protection-ring-1[Protection Rings (-3, -2, -1, 0, 1, 2, 3)^]
+			**** link:https://www.zdnet.com/article/minix-intels-hidden-in-chip-operating-system[MINIX: Intel's hidden in-chip operating system^]
+			**** link:https://www.networkworld.com/article/3236064/minix-the-most-popular-os-in-the-world-thanks-to-intel.html[What is MINIX? The most popular OS in the world, thanks to Intel^]
+			**** Tanenbaum also wrote link:https://www.cs.vu.nl/~ast/intel[An Open Letter to Intel^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/furtado_jaden[Jaden Furtado^] discussed their liking for link:https://asciidoctor.org[Asciidoctor^], a Static Site Generator that link:https://twitter.com/KartikSoneji_[Kartik Soneji^] got them hooked onto.
+* link:https://www.cloudflare.com[Cloudflare^] issues
+	** link:https://www.youtube.com/watch?v=DDe-S3uef2w[Cloudflare Deploys Really Slow Code, Takes Down Entire Company^]
+	** link:https://www.youtube.com/watch?v=GEbn3nHyKnA[How One Line of Code Almost Blew Up the Internet^]
+* We talked about link:https://networking.harshkapadia.me/dns#:~:text=Chromium%20search%20query%20DNS%20bug[how Google was DDoSing Root DNS servers^].
+* link:https://www.youtube.com/@hnasr[Hussein Nasser^] and link:https://www.youtube.com/@AsliEngineering[Arpit Bhayani^] were suggested for good Systems content.
+* link:https://twitter.com/PrathameshK_69[Prathamesh Karambelkar^] told us that he was using link:https://github.com/jaredpalmer/formik[Formik^] at work to build forms in React.js.
+* link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] talked about his work and how he deals with burn out.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his link:https://github.com/HarshKapadia2/dotfiles[Dotfiles repository^].
+* We discussed how everyone uses documentation, articles, blogs and YouTube videos to learn new things.
+* We talked about link:https://www.youtube.com/watch?v=FGW3TPytTjc[the Linus Tech Tips fiasco^].
