@@ -1,0 +1,66 @@
+Date: 26-08-2023
+
+Duration: 4 hrs 40 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about an installer he is building to install GCC on Windows, to make the process easier for college students.
+	** We discussed about link:https://www.sobyte.net/post/2021-11/cygwin-mingw-msys[Cygwin, MinGW, MSys and WSL^]
+	** Siddharth's installer is essentially unzipping a zip file containing a few software tools and adding those tools to the link:https://superuser.com/questions/284342/what-are-path-and-other-environment-variables-and-how-can-i-set-or-use-them[computer's PATH variables^].
+	** link:https://itsfoss.com/posix[What is POSIX?^]
+	** Softwares that the installer adds
+		*** link:https://gcc.gnu.org[GCC^]
+			**** GNU Compiler Collection
+			**** It is one of the world's most widespread compilers and compiles languages such as C, C++, Ada, Rust, Go, Fortran and many more.
+		*** link:https://www.sourceware.org/gdb[GDB^]
+			**** The GNU Project Debugger
+			**** It is a very widely used Debugger that supports 12 languages (C, C++, Rust, Fortran, etc.) and is used to see what is going on inside another program while it executes or what another program was doing at the moment it crashed.
+		*** link:https://www.gnu.org/software/binutils[GNU Binutils^]
+			**** It is a collection of important binaries like `ld` (the GNU link:https://en.wikipedia.org/wiki/Linker_(computing)[Linker^]) and `as` (the GNU link:https://en.wikipedia.org/wiki/Assembly_language#Assembler[Assembler^]).
+		*** link:https://www.gnu.org/software/make[GNU Make^]
+			**** GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files.
+			**** The tool uses Makefiles to define build rules and targets.
+			**** GNU Make and Make are one and the same.
+			**** link:https://earthly.dev/blog/cmake-vs-make-diff[CMake and Make (GNU Make) are different.^]
+		*** link:https://cmake.org[CMake^]
+			**** CMake is used to control the software compilation process using simple platform and compiler independent configuration files, and generate native makefiles and workspaces that can be used in the compiler environment of your choice.
+			**** link:https://earthly.dev/blog/cmake-vs-make-diff[CMake and Make (GNU Make) are different.^]
+		*** link:https://github.com/bocke/pexports[PExports^]
+		*** link:https://waterlan.home.xs4all.nl/dos2unix.html[dos2unix^]
+			**** It is a library used to convert text files with DOS or Mac line breaks to Unix line breaks and vice versa.
+			**** link:https://dev.harshkapadia.me/resources#new-linesline-endings[More on line endings and new lines (`LF`, `CRLF`, etc.)^]
+		*** Yasm
+		*** NASM
+		*** JWasm
+		*** Ccache
+		*** Ninja
+		*** Doxygen
+* An experience at a Web3 conference, where it is difficult to understand where the satire starts and ends: link:https://www.youtube.com/watch?v=xmVt8lC74ns[I go to ABSURD tech conference.^]
+* Anil Harwani told us to remember two things
+	** link:https://fs.blog/chestertons-fence[Chesterton's Fence: A Lesson in Second Order Thinking^], which talks about how if we don't understand how we got 'here,' we run the risk of making things much worse.
+	** link:https://en.wikipedia.org/wiki/No_such_thing_as_a_free_lunch[TANSTAAFL (There ain't no such thing as a free lunch)^]
+* Anil Harwani shared link:https://www.youtube.com/watch?app=desktop&v=KrksBdWcZgQ[Breaking the x86 Instruction Set^]
+* We talked about link:https://security.stackexchange.com/questions/129098/what-is-protection-ring-1[Protection Rings (-3, -2, -1, 0, 1, 2, 3)^]
+	** We also talked about link:https://en.wikipedia.org/wiki/System_Management_Mode[System Management Mode (SMM)^], also called 'Ring -2'.
+* We talked about the basics of Zenbleed, an AMD Zen architectural bug.
+	** link:https://lock.cmpxchg8b.com/zenbleed.html[Zenbleed^]
+	** link:https://www.xda-developers.com/zenbleed[Zenbleed: Everything you need to know about this AMD security bug^]
+* We talked about the basics of AMD Inception, a Zen CPU exploit.
+	** link:https://www.xda-developers.com/amd-inception[AMD Inception attack: What we know about the Zen CPU exploit^]
+	** link:https://www.amd.com/content/dam/amd/en/documents/corporate/cr/speculative-return-stack-overflow-whitepaper.pdf[AMD's White Paper on the speculative return stack overflow.^]
+* We talked about HashiCorp changing the license for Terraform.
+	** link:https://www.forbes.com/sites/rscottraynovich/2023/08/17/hashicorp-licensing-firestorm-fuels-open-source-debate[HashiCorp Licensing Firestorm Fuels Open Source Debate^]
+	** link:https://www.theregister.com/2023/08/28/opentf_forks_terraform_code[OpenTF forks Terraform, insists HashiCorp is the splinter group^]
+	** link:https://twitter.com/iamvlaaaaaaad/status/1696521808143683812[A thread on X claiming that OpenTF is disconnected from reality.^]
+* Aditya Oberai talked about his Alt Text Generator link:https://alttext.in[alttext.in^], which helps make the internet more accessible.
+	** link:https://www.howtogeek.com/821673/what-is-alt-text-why-you-should-use-it-and-how-to-write-it[What Is Alt Text? Why You Should Use It, and How to Write It^]
+* We joked about how companies love TLAs (Three Letter Acronyms) and FLAs (Four Letter Acronyms).
+* We talked about good Tech conferences
+	** link:https://embeddedlinuxconference.com[Embedded Linux Conference^]
+	** link:https://git-merge.com[Git Merge^]
+	** link:https://www.opensourceindia.in[Open Source India^]
+	** link:https://www.renderatl.com[RenderATL^]
+	** link:https://that.us/that-conference[THAT Conference^]
+	** link:https://devoxx.com[Devoxx^]
+	** link:https://gotopia.tech[Gotopia^]
