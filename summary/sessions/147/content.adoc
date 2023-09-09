@@ -1,0 +1,21 @@
+Date: 02-09-2023
+
+Duration: 3 hrs 46 mins
+
+==== Topics	Discussed
+
+* General introductions.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://cpu.land[Putting the "You" in CPU^].
+* link:https://learn.microsoft.com/en-us/windows/wsl/faq#:~:text=The%20Windows%20Subsystem%20for%20Linux,traditional%20Windows%20desktop%20and%20apps[Windows Subsystem for Linux (WSL)^]
+* link:https://twitter.com/DSdatsme[Darshit Suratwala^] shared link:https://www.wudpecker.io[Wudpecker^] to take automatic meeting notes and link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared link:https://www.firefly.ai[Firefly^] for the same.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared link:https://www.youtube.com/@NetworkChuck[Network Chuck^] and link:https://www.youtube.com/@LiveOverflow[LiveOverflow^] YouTube channels to learn more about Computer Networking and Cyber Security.
+* link:https://daniel.haxx.se/irchistory.html[Internet Relay Chat (IRC) turned 35!^]
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared link:https://github.com/guidance-ai/guidance[guidance-ai/guidance^], a guidance language for controlling large language models.
+* link:https://twitter.com/heyayushh[Ayush Chauhan^] shared link:https://www.mdpi.com/2624-831X/2/4/30[Anomaly Detection and Classification in Predictive Maintenance Tasks with Zero Initial Training^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how he converted his spare laptop into a server.
+	** He made the server publicly available using a script he wrote, called link:https://github.com/HarshKapadia2/dynamic-dns[dynamic-dns^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] showcased Recite, a new machine-learning runtime and a new training technique to fine-tune Multimodal text models. He particularly showed how they transcribe speech from thousands of languages and also translate the audio.
+	** Technologies used: Jax, PyTorch, PEFT, Triton, Wasm
