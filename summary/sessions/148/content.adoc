@@ -1,0 +1,29 @@
+Date: 09-09-2023
+
+Duration: 2 hrs 36 mins
+
+==== Topics Discussed
+
+* General introductions.
+* Prateek Pardeshi talked about using link:https://spring.io/projects/spring-boot[Spring Boot^] at work versus using link:https://nodejs.org[Node.js^].
+* We talked about why starting programming with link:https://www.java.com[Java^] rather than link:https://www.python.org[Python^] could be better. The general consensus was that Python spoils people with its in-built libraries and doesn't expose them to a standard link:https://www.educative.io/blog/object-oriented-programming[Object-Oriented Programming^] paradigm early on, which makes it difficult to adapt to such projects in the real world.
+	** Obviously there is a lot of context involved in this point, as we were mainly considering Software Developers over people interested in AI and Data Science.
+* We talked about link:https://www.perillon.com/blog/6-reasons-why-companies-dont-update-their-technology[6 Reasons Why Companies Don't Update Their Technology^]
+	** On a slightly unrelated note, link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared two articles.
+		*** link:https://mcfunley.com/choose-boring-technology[Choose Boring Technology^]
+		*** link:https://andy-bell.co.uk/the-tech-tool-carousel[The tech tool carousel^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his project of link:https://networking.harshkapadia.me/laptop-server[turning a laptop into a server^] and the link:https://github.com/HarshKapadia2/dynamic-dns[Dynamic DNS utility^] that he built for his project.
+* We talked about what link:https://www.gnu.org/software/emacs[Emacs^] is - an extensible, customizable text editor that can a do a lot more than just text editing. link:https://emacsos.dev[Some even consider it an entire Operating System!^]
+	** In the same vein, link:https://twitter.com/DSdatsme[Darshit Suratwala^] shared link:https://alacritty.org[Alacrity^], a modern terminal emulator that comes with sensible defaults, but allows for extensive configuration.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared three satires on Tech-enthusiast stereotypes.
+	** link:https://www.youtube.com/watch?v=urcL86UpqZc[Interview with an Emacs Enthusiast in 2023 \[Colorized\]^]
+	** link:https://www.youtube.com/watch?v=9n1dtmzqnCU[Interview with a VIM Enthusiast^]
+	** link:https://www.youtube.com/watch?v=xmVt8lC74ns[I go to ABSURD tech conference.^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] also shared
+	** link:https://www.youtube.com/watch?v=5ChkQKUzDCs[Big projects are ditching TypeScript… why?^]
+	** link:https://www.youtube.com/watch?v=dWqNgzZwVJQ[Bun is disrupting JavaScript land^]
+* We talked about link:https://gaming.stackexchange.com/questions/292291/differentiating-the-term-ui-and-hud-in-games[the difference between User Interface (UI) and Heads-Up Display (HUD)^] in games.
+* We talked about how Java decodes Unicode characters in programs before starting lexical translation.
+	** This can potentially bypass security tool checks, because innocuous-looking Unicode in comments can be used to end comments and execute random code, much like what happens in link:https://www.youtube.com/watch?v=ciNHn38EyRc[SQL Injections^].
+	** link:https://stackoverflow.com/questions/30727515/why-is-executing-java-code-in-comments-with-certain-unicode-characters-allowed[Why is executing Java code in comments with certain Unicode characters allowed?^]
+	** link:https://onlinegdb.com/R2eNxl1fK[Example^]
