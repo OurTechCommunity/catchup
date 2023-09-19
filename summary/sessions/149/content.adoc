@@ -1,0 +1,26 @@
+Date: 16-09-2023
+
+Duration: 3 hrs 17 mins
+
+==== Topics Discussed
+
+* General introductions.
+* We talked about how much someone should handhold a beginner.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] believes in helping others till he can.
+	** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] believes in giving them a direction and not hand-holding them.
+		*** He shared his story about how much he was able to learn while debugging the issue that he faced while installing C.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] talked about his experience of giving a talk on NLP in college.
+	** He shared his project https://github.com/JadenFurtado/LLaMaO[JadenFurtado/LLaMaO^] which he gave talk on.
+	** He said that he faced issues because attendees were lacking knowledge of maths required to understand https://www.computerworld.com/article/3697649/what-are-large-language-models-and-how-are-they-used-in-generative-ai.html[LLMs^].
+* We talked about the preferences of people using Git CLI and other tools around it.
+	** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] uses VSCode diff view and uses Git CLI for most of the things.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] prefers using VSCode's integrated system of Git but he prefers https://github.com/extrawurst/gitui/[gitui (CLI)^] as it has much better was to add hunks and navigation system.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared what issues https://fold.money[fold.money^] is facing as Credit card providers are not cooperating much with them.
+	** The solutions were to scrape users' emails or ask them to set up an auto mail forwarder for Credit card transaction emails.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared how he got his interview at https://fold.money[fold.money^].
+	** He got his interview because he followed up with the team.
+
+==== Projects Showcased
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased https://installc.org[Install C^] which as the name suggests helps users to install C easily.
+	** The reason for this project was to make it easier to install C build tools and compiler for new users and help them for an easy onboard.
