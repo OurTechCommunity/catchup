@@ -4,7 +4,7 @@ Duration: 6 hrs 10 mins
 
 ==== Topics Discussed
 
-* @Kartik Soneji discussed about https://webstore.iec.ch/publication/6028[IEC 61850^], (International Electrotechnical Commission standard 61850),
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] discussed about https://webstore.iec.ch/publication/6028[IEC 61850^], (International Electrotechnical Commission standard 61850),
   an international standard to define a common communication protocol for IEDs (Intelligent Electronic Devices) at electrical substations.
   IEC is the newest standard, designed to replace Modbus and DNP3, but hasn't seen widespread adoption.
 * We discussed reports that ChatGPT could be costing over USD 700k per day to run
@@ -15,20 +15,18 @@ Duration: 6 hrs 10 mins
 	** Google (bard)
 	** Microsoft (bing)
 	** Elon Musk's X ai
-* @Wilfred asked for recommendations to get started with security testing and ethical hacking.
-  @Kartik recommend starting with LiveOverflow's channel. +
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked for recommendations to get started with security testing and ethical hacking.
+  link:https://twitter.com/KartikSoneji_[Kartik Soneji^] recommend starting with LiveOverflow's channel. +
   Other recommendations:
 	** LiveOverflow: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
 	** John Hammond: https://www.youtube.com/@_JohnHammond
 	** Hack The Box: https://www.hackthebox.com/
 * The discussion on cybersecurity led to vulnerability reporting, and the https://en.wikipedia.org/wiki/Well-known_URI[`.well-known` folder],
   specifically the https://en.wikipedia.org/wiki/Security.txt[`.well-known/security.txt`].
-* Wilfred asked about ways to get a fully sponsored masters out of India.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked about ways to get a fully sponsored masters out of India.
   The suggestions were Germany, or having a company like L&T sponsor you.
-* We helped Wilfred with a Swelt issue about binding onClick listeners to buttons.
-* @Aditya joined, and @Kartik complained about the missing swag @Kartik, @Saket, @Darshan and @Jay Kaku
-  had won in a hackathon but hadn't recived due to customs issues.
-* @Bhavesh asked: A lil question, should i focus on DSA (Python) and studies both or just study for first semester? Also recommend something else if possible
+* We helped link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] with a Swelt issue about binding onClick listeners to buttons.
+* Bhavesh asked: A lil question, should i focus on DSA (Python) and studies both or just study for first semester? Also recommend something else if possible
   The general consensus was feel free to participate in Competitive Programming competitions if you are interested,
   but focus on your semester subjects first, they will help you learn core concepts that will help you thoughout your career.
-* @Aditya Oberoi discussed about the AppWrite Cloud public beta, and their launch to General Availability.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] discussed about the AppWrite Cloud public beta, and their launch to General Availability.
