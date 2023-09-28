@@ -1,0 +1,53 @@
+Date: 23-09-2023
+
+Duration: 3 hrs 45 mins
+
+==== Topics Discussed
+* link:https://twitter.com/anaskhan_28[Anas Khan^] asked if he could use Google Maps API for free.
+** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested Anas to use https://www.mapmyindia.com/api/global-api/[Map My India^] API. 
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] discussed about issues with https://fold.money/[Fold App^].
+** He believes that there are a lot of spaces in the application and fewer features.
+
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] asked about how async operations work if Javascript is single-threaded.
+** To clear this concept, link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared recommended vidoes: https://www.youtube.com/watch?v=SmTCmDMi4BY&t=2s&ab_channel=Flutter[Async/Await - Flutter in Focus
+^], https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf[What the heck is the event loop anyway? | Philip Roberts | JSConf EU^]
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared new https://blog.unity.com/news/open-letter-on-runtime-fee[Unity's Pricing Model^] and discussed about the changes.
+
+* link:https://twitter.com/itsAnushkasTime[Anushka Bhagchandani^] shared her experience of working at Myntra. 
+** She discussed about https://applique.myntra.com/[Appliqué^], which is an open-source design system for enterprise applications.
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed the assignment of his University of Operating System lecture, in which he has to capture keystrokes using kernel. 
+
+* Anil Harwani shared about how keylogger works, basically installing a driver in the system so that it captures the strokes and sends them to a server or save them locally. 
+** He shared about how https://www.kaspersky.com/resource-center/definitions/what-is-zero-click-malware[Zero Click Malware^] and https://www.techtarget.com/searchsecurity/definition/rootkit[Rootkit^] works.  
+** Continuing this, he shared about how http://large.stanford.edu/courses/2015/ph241/holloway1/[Stuxnet^] was widespread.
+** He shared about how https://cisac.fsi.stanford.edu/news/stuxnet[Stuxnet worm^] was able to compromise the air-gapped system of Israel.   
+
+* Anil Harwani talked about how http://dev.fyicenter.com/Interview-Questions/Windows/What_is_a_kernel_object_.html[Kernel Obejcts] are needed to be https://docs.openeuler.org/en/docs/22.09/docs/ShangMi/kernel-module-signing.html[signed^]. 
+** He said that signing is important because anyone should not be able to make a driver for kernel and use them, this could cause security issues. 
+
+* Anil Harwani talked about discontinued processor from Intel, https://en.wikipedia.org/wiki/Itanium[Itanium^]
+
+* Anil Harwani shared the cross licensing agreement between AMD and Intel. Further about it can be read here:
+** https://www.zdnet.com/home-and-office/networking intel-and-amd-settle-agree-cross-licensing-deal/[Intel and AMD settle agree cross-licensing deal]
+** https://www.kitguru.net/components/cpu/anton-shilov/amd-clarifies-cross-license-with-intel-change-of-control-terminates-agreement-for-both/[AMD clarifies cross-license with Intel^]
+
+* Bhavesh asked for suggestions on how to understand the lower-level architecture to understand how things are working in higher-level programming languages. 
+** He gave an example of how he wanted to know what is happening behind the scenes of a `print()` statement.
+** Anil gave him a brief about the different levels of abstraction that are developed on a computer system and how he can think of abstractions as a layer to make things easier to understand. To understand abstractions better, Anil gave examples of various abstractions by including real-life examples.
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] and Chirag Bachani asked for suggestions to participate in a Hackathon. 
+** Anil Harwani talked about how hackathon promotes completing tasks instead of writing code with good practices. He also stated how there is no ample time for the ideation. 
+
+* link:https://twitter.com/BafnaAbhigyan[Abhigyan Bafna^] discussed his working with his teammates on a college project.
+**  link:https://twitter.com/SirusTweets[Darshan Rander^] discussed distributing the project work to group members.
+** Anil Harwani talked about how the intent should be to help your teammates, not completely leave them. He acknowledged how there should be multiple plans for your project if anything at the last moment may fail.
+
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] asked about reviews of The National Payments Corporation of India (NPCI)[National Payments Corporation of India (NPCI)^].
+** Continuing this, he shared his finding of an SQL injection on Tyromotion company.
+
+==== Projects Showcased
+
+link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared his project on capturing keystrokes using kernel.
