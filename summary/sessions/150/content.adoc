@@ -1,0 +1,43 @@
+Date: 23-09-2023
+
+Duration: 3 hrs 45 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/anaskhan_28[Anas Khan^] asked if he could use Google Maps API for free.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested using the https://www.mapmyindia.com/api/global-api[Map My India API^]. 
+* link:https://twitter.com/SirusTweets[Darshan Rander^] discussed about issues with https://fold.money/[Fold App^].
+    ** He believes that there are a lot of white-spaces in the application which he didn't like much.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] asked about how asynchronous operations work in JavaScript if it is single-threaded.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] shared link:https://www.youtube.com/watch?v=SmTCmDMi4BY[Async/Await - Flutter in Focus^].
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested watching link:https://www.youtube.com/watch?v=8aGhZQkoFbQ[What the heck is the event loop anyway?^]
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared link:https://blog.unity.com/news/open-letter-on-runtime-fee[An open letter to our community^], a blog by Unity talking about them going back on their pricing changes after wide dissent.
+	** We all were glad that a company finally listened to their user base.
+	** We also talked about how Unity has lost the trust of their developer users because everyone will keep in the back of their minds how companies can very easily turn on their users. Some argued that this might not be the case as people might forget about it.
+* link:https://twitter.com/itsAnushkasTime[Anushka Bhagchandani^] shared her experience of working at link:https://www.myntra.com[Myntra^]. 
+    ** She discussed link:https://applique.myntra.com/[Appliqué^], which is an open-source design system for enterprise applications.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed the assignment of his University of Operating System lecture, in which he has to capture keystrokes using kernel. 
+    ** Anil Harwani talked about how a link:https://en.wikipedia.org/wiki/Keystroke_logging[Keylogger^] works. It is basically installing a driver in the system so that it captures the strokes and sends them to a server or save them locally.
+    	*** He talked about how link:https://www.kaspersky.com/resource-center/definitions/what-is-zero-click-malware[Zero Click Malware^] and link:https://www.techtarget.com/searchsecurity/definition/rootkit[Rootkit^] work.  
+		*** Continuing this, he told us about the widespread nature of an incredibly malicious worm called link:http://large.stanford.edu/courses/2015/ph241/holloway1[Stuxnet^] that was widespread and link:https://en.wikipedia.org/wiki/Stuxnet[mostly affected Iran's nuclear program^].
+			**** He shared how link:https://cisac.fsi.stanford.edu/news/stuxnet[Stuxnet^] was able to compromise link:https://en.wikipedia.org/wiki/Air_gap_(networking)[air-gapped^] nuclear systems of Iran.  
+	    *** He also talked about how http://dev.fyicenter.com/Interview-Questions/Windows/What_is_a_kernel_object_.html[Kernel Obejcts^] are needed to be link:https://docs.openeuler.org/en/docs/22.09/docs/ShangMi/kernel-module-signing.html[signed^]. 
+		    **** He said that signing is important because no one other than an authorized user should be able to insert/install and use a kernel module/driver, as not following this could cause security issues. 
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his learnings about different/equivalent link:https://linux.harshkapadia.me/#:~:text=Instruction%20Set%20Architectures%20(ISAs,of%20x86%20vs%20x64[Instruction Set Architectures (ISAs) like `x86`, `x86_64`, `amd64`, `IA64`, etc^].
+	** Anil Harwani talked about `IA64`, an old ISA from Intel that was seen in their processor link:https://en.wikipedia.org/wiki/Itanium[Itanium^]. It was supposed to be the alternative to `amd64`, but it never caught any traction.
+* Anil Harwani shared the cross-licensing agreement between AMD and Intel.
+	** link:https://www.zdnet.com/home-and-office/networking intel-and-amd-settle-agree-cross-licensing-deal/[Intel and AMD settle agree cross-licensing deal^]
+	** link:https://www.kitguru.net/components/cpu/anton-shilov/amd-clarifies-cross-license-with-intel-change-of-control-terminates-agreement-for-both[AMD clarifies cross-license with Intel^]
+* Bhavesh asked for suggestions on how to understand the lower-level architecture to understand how things are working in higher-level programming languages. 
+    ** He gave an example of how he wanted to know what is happening behind the scenes of a `print()` statement.
+    ** Anil Harwani gave him a brief about the different levels of abstraction that are developed on a computer system and how he can think of abstractions as a layer to make things easier to understand. To understand abstractions better, Anil gave examples of various abstractions by including real-life examples.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] and Chirag Bachani asked for suggestions to participate in a Hackathon. 
+    ** Anil Harwani talked about how hackathon promotes completing tasks instead of writing code with good practices. He also stated how there isn't sufficient time for ideation.
+* link:https://twitter.com/BafnaAbhigyan[Abhigyan Bafna^] talked about working with his teammates on a college project.
+	**  link:https://twitter.com/SirusTweets[Darshan Rander^] suggested distributing the project work amongst group members.
+    ** Anil Harwani talked about how the intent should be to help your teammates, not completely leave them. He acknowledged how there should be multiple plans for your project if anything at the last moment may fail.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] asked about reviews of The National Payments Corporation of India (NPCI)[National Payments Corporation of India (NPCI)^].
+
+==== Projects Showcased
+
+link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared his project on capturing keystrokes using kernel.
