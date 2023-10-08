@@ -1,0 +1,20 @@
+Date: 30-09-2023
+
+Duration: 4 hrs 6 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a link:https://www.linkedin.com/feed/update/urn:li:activity:7113063247540273152[Digital Design & Computer Architecture course^] that Anil Harwani shared with him.
+* link:https://www.youtube.com/watch?v=bskEGP0r3hE[Next-Gen CPU Acceleration: AVX For Generative AI^]
+* link:https://twitter.com/PrathameshK_69[Prathamesh Karambelkar^] shared link:https://github.com/getify/You-Dont-Know-JS[Your Don't Know JS Yet^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared his notes on link:https://linux.harshkapadia.me/os-boot-process[how an Operating System boots^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] also shared link:https://www.youtube.com/watch?v=b-q4QBy52AA[Web in Native Assembly (Linux x86_64)^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how link:https://stackoverflow.com/a/24404619/11958552[deleting a single character involves three characters (`\b \b`)^].
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] shared
+	** link:https://aws.amazon.com/machine-learning/inferentia[AWS Inferentia^], which are accelerators that are used in AWS EC2 for Deep Learning inference applications.
+	** link:https://aws.amazon.com/machine-learning/trainium[AWS Tranium^], which are Machine Learning accelerators for deep learning training of 100B+ parameter models.
+* link:https://linux.harshkapadia.me/#:~:text=x86%20vs%20x64-,Processing%20hardware,-CPU%20vs%20GPU[CPU vs GPU vs TPU vs DPU vs QPU vs FPGA^]
+* link:https://cloudsecurityalliance.org/blog/2023/09/22/what-is-cloud-repatriation[Cloud Repatriation^]
+* link:https://idx.dev[Google's Project IDX^] is a new web-based editor that is in waitlist.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] told us how link:https://planetscale.com/docs/learn/operating-without-foreign-key-constraints[Planetscale operates without Foreign Keys^].
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared link:https://www.youtube.com/watch?v=MVYrJJNdrEg[Mark Zuckerberg: First Interview in the Metaverse^].
