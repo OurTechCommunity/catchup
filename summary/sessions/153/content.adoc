@@ -1,0 +1,26 @@
+Date: 14-10-2023
+
+Duration: 2 hrs 58 mins
+
+==== Topics Discussed
+
+* General introductions.
+* Pankaj Jaiswal talked about using link:https://rasa.com[RASA^] chatbots.
+	** Pankaj shared his article on link:https://gamma.app/public/Why-Rasa-is-the-Superior-Choice-for-Creating-Custom-Chatbots-0bqmeoi04sxisg6[Why Rasa is the Superior Choice for Creating Custom Chatbots^]
+	** link:https://www.letsnurture.com/blog/rasa-vs-dialogflow-which-one-to-choose.html[Rasa Vs Dialogflow - Which one to choose?^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about how he came to know that apart from link:https://en.wikipedia.org/wiki/Large_language_model[Large Language Models (LLMs)^], link:https://huggingface.co/blog/vision_language_pretraining[Vision Language Models (VLMs)^] also exist and they combine visuals with some textual input to provide an output.
+* We talked about how a front end client app might slow down if a lot of API calls are made at the same time or if a lot of them are cascaded together.
+	** It was suggested that APIs should return just the required amount of data, so that once the client scales, it doesn't fetch more data than required.
+* In the same vein of talking about improving performance, we also had a discussion on efficient querying practices in SQL.
+	** link:https://www.youtube.com/watch?v=wybjsKtA9hI[A Deep Dive in How Slow SELECT * is^]
+	** link:https://www.youtube.com/watch?v=eI_EQNTxF6U[SELECT COUNT(*) is Slow, Estimate it Instead^]
+	** link:https://www.youtube.com/watch?v=H6juZ8c_Nu8[Stop using COUNT(id) to count rows^]
+* We discussed where Application Programming Interfaces (APIs) lie in applications.
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] explained that it is a middle layer (an interface) between the front end and the back end, but is implemented on the back end and consumed on the front end.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] rightly pointed out that it is incorrect to assume that APIs are always talked about in the context of the Web (as Harsh assumed). He said that every system has an API that some other system can use. For example, printing to the screen in C, Python or any other programming language calls internal APIs (functions) that in return make link:https://en.wikipedia.org/wiki/System_call#:~:text=System%20calls%20provide%20an%20essential%20interface%20between%20a%20process%20and%20the%20operating%20system.[system calls/syscalls^] in Linux (which are exposed to the user as APIs) to actually print to the screen.
+* Assembly Language
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://www.youtube.com/watch?v=b-q4QBy52AA[Web in Native Assembly^]
+	** link:https://github.com/HarshKapadia2/assembly[Harsh's Assembly notes and resources.^]
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about link:https://appwrite.io[Appwrite^]'s rebranding.
+	** link:https://appwrite.io/blog/post/meet-the-new-appwrite[Meet the new Appwrite^]
+	** link:https://appwrite.io/blog/post/the-journey-and-meaning-behind-our-new-logo[The journey and meaning behind our new logo^]
