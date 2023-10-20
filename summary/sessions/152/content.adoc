@@ -1,0 +1,57 @@
+Date: 7-10-2023
+
+Duration: 3 hrs 15 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] about his experience of working at link:https://fold.money[Fold^].
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared how he is having exposure to new things like making documentation about the thing he is going to work on, getting them approved by his seniors and then starting working on the feature.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared how he broke his Windows operating system by installing link:https://www.docker.com[Docker^].
+    ** He said that by shutting down his PC, it goes into a login screen loop, which means that the system gets stuck on the login screen. The root cause of this issue is because of the link:https://www.docker.com[Docker^] asking for a link:https://www.whitewaterfoundry.com/what-is-wsl#:~:text=The%20WSL%20kernel%20interface%20translates,and%20API%20calls%20in%20libraries.[WSL kernel update^]. 
+        *** He said that the kernel update was interrupted midway, which eventually led to the corruption of some registry keys, which he wasn't able to fix. 
+    ** link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] suggested link:https://twitter.com/mohit_explores[Mohit Gangwani^] to make a link:https://www.easeus.com/system-to-go/what-is-bootable-usb-drive.html[bootable drive^] and fix it with recovery option.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] how the code deployment works at link:https://fold.money[Fold^].
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] told how they create a new branch for every feature.
+    ** Continuing this, link:https://twitter.com/mohit_explores[Mohit Gangwani^] asked if link:https://fold.money[Fold^] is following any code conventions.
+        *** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared how there are specific integrity checks that are done before pushing the code into production. 
+        *** He gave a brief about the integrity checks like how PR reviews are detailed, and how PRs are verified by the CTO and a senior.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared about the things that need to be done before starting to code on a feature at his link:https://fold.money[company^]. 
+    ** He said that, first, he is required to create a document on the thing he is going to work on. 
+        *** The document has details like if he is trying to fetch an API, for what purpose the API is going to be used, what respective HTTP methods like GET, PUT, and POST are going to be used on it, whether the API will return a PAYLOAD or some other data.  
+    ** After the details, he is required to write about the logic of the feature he is working on.
+    ** He said that most of the things that are not needed are filtered from the document itself while going under a PR review.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] about how did he get job at link:https://fold.money[Fold^]. 
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared how link:https://quantiphi.com[Quantiphi^] delayed his joining at work by 6 months.
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] said that he had shared a tweet asking if there are any job openings for the role of backend developer for a friend, and somehow that tweet had reached the CTO of link:https://fold.money[Fold^]. 
+        *** He told the CTO of link:https://fold.money[Fold^] that he will apply for the job. Unfortunately, he wasn't shortlisted but he had e-mailed link:https://fold.money[Fold^] about the take-home assignment that candidates get if they are shortlisted.
+        *** He said that he had 3 days for the completion of the take-home assignment, it took him 5 days to complete the assignment.
+        *** After submitting the assignment, he got called for an interview and then got an internship at the link:https://fold.money[company^].
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] asked link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] about the link:https://solana.com/events/mumbaihh[Solana Mumbai Hacker House^] event.
+    ** link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] shared that he showcased a project, dropped link:https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq[NFTs^].
+    ** link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] also shared that he got networking opportunities at the event.
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] asked about link:https://developers.google.com/community/devfest[DevFest^] event.
+    ** He also asked if anyone is contributing to link:https://hacktoberfest.com[Hacktoberfest^].
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked link:https://twitter.com/chiragnayyar[Chirag Nayyar^] how link:https://cloud.google.com[Google Cloud Platform^] is disregarded even though other cloud providers are providing same offerings.
+    ** link:https://twitter.com/chiragnayyar[Chirag Nayyar^] replied how link:https://cloud.google.com[Google Cloud Platform^] isn't mature as link:https://azure.microsoft.com[Azure^] in terms of infrastructure.
+    ** link:https://twitter.com/chiragnayyar[Chirag Nayyar^] shared that link:https://aws.amazon.com[Amazon Web Services^] is focused more on the infrastructure. He said that the number of link:https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html[EC2 instances^] has reached 30 billion in the past 30 years.
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] shared how link:https://www.androidauthority.com/google-tensor-3060818[Google's tensor chip] is slow.
+* Bhavesh Kukreja shared that he is working on a TODO project and he is having difficulty segregating the code into different files. 
+* link:https://twitter.com/ashfaq_ulhaq[Ashfaq^] gave his introduction.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] asked about how Anil Harwani started joining Our Tech Community's catchup sessions.
+* Bhavesh Kukreja shared how his problem-solving skills have improved by working on projects.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] asked link:https://twitter.com/ashfaq_ulhaq[Ashfaq^] in which company does he work
+    ** link:https://twitter.com/ashfaq_ulhaq[Ashfaq^] shared that he works in a startup, which is based on link:https://ninetailed.io/glossary/micro-saas[Micro SaaS^]. 
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked link:https://twitter.com/code_magician[Viranchee L^] how his master's degree is going and about his progress.
+    ** link:https://twitter.com/code_magician[Viranchee L^] shared that he completed two internships.
+        *** The first internship was at link:https://www.qualcomm.com/[Qualcomm^], where he was involved in implementing a security feature.
+        *** The second internship was at link:https://passivelogic.com[Passive Logic^], where he was involved in implementing AutoDiff feature.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared about the perks he gets at link:https://fold.money[Fold^].
+* link:https://twitter.com/code_magician[Viranchee L^] asked link:https://twitter.com/ashfaq_ulhaq[Ashfaq^] about his work.
+    ** link:https://twitter.com/ashfaq_ulhaq[Ashfaq^] shared about his work, he said that his company works on link:https://ninetailed.io/glossary/micro-saas[Micro SaaS^] which is built on https://www.shopify.com[Shopify^].
+* link:https://twitter.com/ashfaq_ulhaq[Ashfaq^] asked link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] about the structure of link:https://fold.money[Fold^].
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared that link:https://devfolio.co[DevFolio^] was the first project of the company initially, link:https://fold.money[Fold^] is the sister company which was formed later.
+        *** He shared that teams were separated for link:https://fold.money[Fold^], with the CTO, CEO and design head remaining the same as link:https://devfolio.co[DevFolio^].
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared about the team size of link:https://fold.money[Fold^].
+* link:https://twitter.com/ashfaq_ulhaq[Ashfaq^] asked about how does link:https://fold.money[Fold^] make money.
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared that his company works on the freemium model.
+        *** He also shared that the link:https://devfolio.co[DevFolio^] is free for students to host hackathons, but a flat fee worth of 25000 INR is charged for corporates to host internal hackathons. 
