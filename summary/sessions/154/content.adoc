@@ -1,0 +1,14 @@
+Date: 21-10-2023
+
+Duration: 3 hrs 5 mins
+
+==== Topics Discussed
+
+* Rushil asked about how he can get internships.
+	** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] suggested him to try sending cold emails.
+* People who sat for college placements tests of Barclays shared that they got rejection mails soon after they had submitted their tests.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared about link:https://www.webopedia.com/definitions/nic-bonding/[NIC Bonding^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared link:https://blog.cloudflare.com/how-cloudflare-mitigated-yet-another-okta-compromise/["How Cloudflare mitigated yet another Okta compromise" by Cloudflare^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared about a new project he might work on syncing playlists among YTMusic and Spotify.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked link:https://www.researchgate.net/publication/329406290_MixT_a_language_for_mixing_consistency_in_geodistributed_transactions[MixT] which is special designed for having consistency in distributed Databases.
+* link:https://twitter.com/DSdatsme[Darshit Suratwala^] shared about a project he is currently working which would ease out deployment of Blockchains on Cloud platforms.
