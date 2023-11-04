@@ -1,0 +1,14 @@
+Date: 28-10-2023
+
+Duration: 2 hrs 38 mins
+
+==== Topics Discussed
+
+* Atmaj Koppikar talked about his final year project in which he made a Blockchain based certificate generator.
+	** Later on we talked about how it works and the data for NFT is stored on the IPFS servers and the hash on the chain.
+	** We also talked about the link:https://www.pcmag.com/encyclopedia/term/nft-rug-pull[rug pull scams^] in NFTs. We people crypto token is promoted on social media and when the price is driven up the scammer sells it.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared link:https://support-valorant.riotgames.com/hc/en-us/articles/22291331362067[new restrictions in valorant] which requires a lot of things in your systems to run the game.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] said that a lot of games were enjoyable because of the mods like mini-milita, GTA, etc
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^], link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] talked about Java and PHP more hate than it deserves.
+	** As a language they sure might have some bloat but they are battle tested and works really well.
+* link:https://twitter.com/swpnlbrkr[Swapnil Borkar^] talked about the Tech Roast show and how long procedure was for selection.
