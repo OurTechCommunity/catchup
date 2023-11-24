@@ -1,0 +1,21 @@
+Date: 11-11-2023
+
+Duration: 4 hrs 21 mins
+
+==== Topics Discussed
+
+* We discussed the basics of link:https://bootcamp.rutgers.edu/blog/what-is-data-mining[Data Mining^] and link:https://www.mongodb.com/cloud-explained/data-warehouse[Data Warehousing^].
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] asked for projects to build in the Networking domain.
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a project on link:https://networking.harshkapadia.me/files/bu-grs-cs-655/assignments/socket-echo-rtt-tput-instructions.pdf[Socket Programming to measure the Throughput and Round Trip Time of a connection^] and suggested implementing it in C to get exposed to all the nitty-gritties of Networking.
+	** link:https://twitter.com/mehraramyak[Ramyak Mehra^] talked about using link:https://ebpf.io/what-is-ebpf[eBPF^] to build projects.
+	** Ramyak also shared link:https://www.youtube.com/watch?v=bzja9fQWzdA[Implementing TCP in Rust^].
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] was talking about link:https://en.wikipedia.org/wiki/Windows_API#:~:text=Win32%20is%20the%2032%2Dbit%20application%20programming%20interface%20(API)%20for%2032%2Dbit%20versions%20of%20Windows%20(NT%2C%2095%2C%20and%20later%20versions).[Win32 API^] and link:https://en.wikipedia.org/wiki/Input%E2%80%93output_memory_management_unit[Input-Output Memory Management Unit (IOMMU)^].
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] shared link:https://www.youtube.com/watch?v=8qKh1J23DEM&t=997s[Breakpoint 2023: High performance computing for crypto^]
+* Anil Harwani talked about the importance of taking the time to plan one's days, weeks, months and years.
+* Anil Harwani recommended watching
+	** link:https://www.youtube.com/watch?v=Nb2tebYAaOA[Jim Keller: Moore's Law, Microprocessors, and First Principles^]
+	** link:https://www.youtube.com/watch?v=G4hL5Om4IJ4[Jim Keller: The Future of Computing, AI, Life, and Consciousness^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses[The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about his in-person link:https://githubuniverse.com[GitHub Universe 2023^] experience.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] talked about link:https://www.howtogeek.com/658701/tn-vs.-ips-vs.-va-whats-the-best-display-panel-technology[display panel technologies TN, IPS and VA].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:https://en.wikipedia.org/wiki/Windows_Forms[Windows Forms^], which is a GUI library part of link:https://stackify.com/net-ecosystem-demystified[the .NET ecosystem^] to make applications for desktops, tablets and laptops.
