@@ -1,0 +1,34 @@
+Date: 18-11-2023
+
+Duration: 2 hrs 35 mins
+
+==== Topics Discussed
+
+* link:https://github.com/pdurbin[Philip Durbin^] joined us and told us about the open source research data repository software, link:https://github.com/IQSS/dataverse[Dataverse^], that he had been working on for the past 11 years.
+	** He also runs link:https://bostonopen.dev[Boston Open Dev^], a monthly in-person meetup in Boston for people interested in technology!
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] and link:https://github.com/pdurbin[Philip Durbin^] told us about link:https://en.wikipedia.org/wiki/Steve_Jobs#1985%E2%80%931997[Steve Jobs' resignation from Apple and his subsequent ventures with NeXT and Pixar^].
+* We talked about the link:https://www.youtube.com/watch?v=4Ff2ZrhVkp0[OpenAI and Sam Altman drama^].
+* Text messaging
+	** Rich Communication Services (RCS)
+		*** link:https://www.androidcentral.com/what-rcs-and-why-it-important-android[What is RCS messaging, and why is it important?^]
+		*** link:https://interestingengineering.com/innovation/apple-support-rcs-on-iphones[Apple has finally agreed to support RCS on iPhones starting in 2024^]
+	** link:https://twitter.com/mohit_explores[Mohit Gangwani^] talked about how link:https://texts.blog/2023/11/18/sunbird-security[Sunbird / 'Nothing Chats' is Not Secure.^]
+	** link:https://github.com/pdurbin[Philip Durbin^] informed us about link:https://en.wikipedia.org/wiki/Bump_(application)[Bump^], a popular contact information sharing application back in the day.
+		*** link:https://en.wikipedia.org/wiki/Bump_(application)[Bump's working is interesting!^]
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared link:https://www.youtube.com/watch?v=w_QpKGK0tuE[Downloading Images from Russian Satellite^].
+* Security and privacy
+	** link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared his link:https://medium.com/@furtadojaden[Cyber Security Medium blogs^].
+	** link:https://twitter.com/tanay_texplorer[Tanay Kamath^] shared a thread on link:https://twitter.com/somenerdliam/status/1183916568771792897[How to DELETE 99.9% of your digital footprint from the internet^].
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared his notes on link:https://networking.harshkapadia.me/tor[Tor^].
+	** link:https://github.com/pdurbin[Philip Durbin^] talked about link:https://github.com/TryQuiet/quiet[Quiet^], a private, P2P alternative to Slack and Discord built on link:https://www.torproject.org[Tor^] & link:https://ipfs.tech[IPFS^].
+	** Jaden showcased link:https://github.com/owasp-amass/amass[Amass^], an in-depth attack surface mapping and asset discovery tool that he used to find all the subdomains of Harsh's domain link:https://harshkapadia.me[harshkapadia.me^].
+* Computer Networking
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about what link:https://www.cloudflare.com/learning/network-layer/what-is-an-autonomous-system[Autonomous Systems (ASs)^] and link:https://www.linkedin.com/pulse/focus-subsea-network-architecture-ixps-maxie-reynolds[Internet Exchange Points (IXPs)^] are, and link:https://www.cloudflare.com/learning/network-layer/what-is-an-autonomous-system/#:~:text=How%20do%20autonomous%20systems%20connect%20with%20each%20other%3F[how ASs peer with each other at IXPs^].
+	** link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] shared link:https://nymtech.net[Nym^], a service that claims to be superior to Tor and VPNs to protect communication patterns, IP addresses and metadata of users.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://www.tomshardware.com/news/microsoft-azure-maia-ai-accelerator-cobalt-cpu-custom[Microsoft Reveals Custom 128-Core Arm Datacenter CPU, Massive Maia 100 GPU Designed for AI^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared link:https://hourofcode.com[Hour of Code^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his talk link:https://twitter.com/adityaoberai1/status/1725870972379726217[Understanding Role-Based Access Control with ASP.NET Web APIs^] for link:https://www.dotnetconf.net[.NET Conf 2023^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://www.reddit.com/r/uBlockOrigin/comments/17wu2gz/google_confirms_they_will_disable_ublock_origin[Google confirming they will disable uBlock Origin in Chrome in 2024^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://www.digitaltrends.com/computing/duckduckgo-new-web-browser-wont-rely-on-chrome[DuckDuckGo's new web browser^].
+* We talked about how link:https://searchengineland.com/google-pay-apple-safari-revenue-antitrust-trial-434775#:~:text=Google%20CEO%20Sundar%20Pichai%20has,on%20all%20of%20Apple%27s%20devices[Google admitted to paying Apple 36% of Safari search revenue in exchange for default status on all of Apple's devices^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/ishandeveloper[Ishan Sharma^] talked about how link:https://www.youtube.com/watch?v=euiSHuaw6Q4[Epic Games created a Fortnite parody campaign video^] of link:https://www.youtube.com/watch?v=VtvjbmoDx-I[Apple's 1984 Macintosh commercial^] to protest against the monopolistic practices of Apple's App Store.
