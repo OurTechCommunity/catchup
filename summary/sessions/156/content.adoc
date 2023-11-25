@@ -1,0 +1,14 @@
+Date: 04-11-2023
+
+Duration: 2 hrs 43 mins
+
+==== Topics Discussed
+
+* We link:https://talks.ourtech.community/5[OTC Talks #5^] by link:https://twitter.com/PranavDani3[Pranav Dani^] on link:https://raft.github.io/[RAFT^] - a consensus algorithm.
+	** https://thesecretlivesofdata.com/raft/[thesecretlivesofdata.com/raft/^] has some amazing visualaizations to under this algorithm.
+* Bhavesh Kukreja asked what does DevOps engineers do?
+	** link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/SirusTweets[Darshan Rander^] explained him that its something that comes between Development and Operations.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared why he doesn't want to work in DevOps at the current moment.
+	** His reason was because he didn't want to move away from development and working as DevOps engineer at his workplace will do that.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about how different it feels when you join workforce from college and how things changes.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] talked about their experience while applying as speaker for multiple conferences.
