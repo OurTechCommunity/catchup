@@ -1,0 +1,55 @@
+Date: 25-11-2023
+
+Duration: 3 hrs 57 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an link:https://www.instagram.com/reel/CyVupNBO6JU[Instagram Reel on how we need to use conformation bias to look at things positively rather than negatively^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about link:https://en.wikipedia.org/wiki/UTM_parameters[Urchin Tracking Module (UTM) Parameters^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a list of link:https://www.top500.org[the top 500 Supercomuters^].
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] talked about link:https://www.howtogeek.com/658701/tn-vs.-ips-vs.-va-whats-the-best-display-panel-technology[display panel technologies TN, IPS and VA].
+* We talked about link:https://www.howtogeek.com/799781/displayport-vs-hdmi-which-is-better[Display Port vs HDMI^].
+	** link:https://www.kensington.com/en-gb/News-Index---Blogs--Press-Center/Docking--Connectivity-Blog/displayport-guide-what-it-is-its-history-and-a-comparison-with-hdmi[DisplayPort Guide: What it is, its history and a comparison with HDMI^]
+	** link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared link:https://www.reddit.com/r/pcmasterrace/comments/182spmc/just_bought_a_240hz_monitor_why_is_120hz_the[Just bought a 240hz monitor. Why is 120hz the highest refresh rate?^]
+	** Harsh Khatri added that link:https://www.hp.com/us-en/shop/tech-takes/how-to-daisy-chain-monitors[Display Chaining^] can be done with Display Ports, but not with HDMI.
+* Industrial communication protocols
+	** link:https://twitter.com/furtado_jaden[Jaden Furtado^] talked about how the link:https://en.wikipedia.org/wiki/Modbus[Modbus^] protocol that is used for comunication between industrial electornic devices in industries like prower plants.
+		*** Modbus is also used to talk to link:https://www.amci.com/industrial-automation-resources/plc-automation-tutorials/what-plc[Programmable Logic Controllers (PLCs)^], which are industrial computer control systems that continuously monitor the state of input devices and make decisions based upon a custom program to control the state of output devices.
+	** He also introduced us to link:https://en.wikipedia.org/wiki/IEC_61850[IEC 61850^], which is an international standard defining communication protocols for intelligent electronic devices at electrical substations.
+	** On being asked about the requirement of different protocols over the usual TCP/IP stack protocols, Jaden replied that these protocols all emerged very early on and the TCP/IP stack might not be the best for abolute real-time and time-critical systems.
+		*** link:https://profinetuniversity.com/industrial-automation-ethernet/profinet-hmi-protocols[Human-Machine Interface (HMI) protocols for normal and time-critical tasks^]
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about how helpful link:https://developer.mozilla.org/en-US/docs/Web/Text_fragments[Text Fragments^] are, as they help with highlighting the most important parts of a web page.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://www.youtube.com/watch?v=QQu1_bf1Bdo[The high-stakes war on AdBlockers^] in reference to link:https://www.reddit.com/r/uBlockOrigin/comments/17wu2gz/google_confirms_they_will_disable_ublock_origin[Google confirming that they will disable uBlock Origin in Chrome in 2024^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] mentioned that link:https://www.wireguard.com[Wireguard^] can be used to create one's own Virtual Private Network (VPN).
+	** link:https://gist.github.com/joepie91/5a9909939e6ce7d09e29[Why one should be cautious about using third party VPN services.^]
+* AMD Threadripper
+	** link:https://www.youtube.com/watch?v=I6aUs9rslDI[Adventures at AMD: Origin of Threadripper^] (ft. Anil Harwani!)
+	** link:https://www.youtube.com/watch?v=4Ll6bXzlHvU[The Return of HEDT? AMD's NEW Threadripper CPUs Revealed!^]
+	** link:https://www.youtube.com/watch?v=oUqWE9HJ83I[New AMD Threadripper 7980X, 7970X, 7960X, & Threadripper Pro CPUs Announced^]
+	** link:https://www.youtube.com/watch?v=yDEUOoWTzGw[Crazy Efficient: AMD Threadripper 7980X & 7970X CPU Review & Benchmarks^]
+	** link:https://www.youtube.com/watch?v=uG0Al4_tnzU[AMD High End Desktop is back: 7980X & 7970X Threadripper Tested^]
+	** link:https://www.youtube.com/watch?v=NTnVBIEPz1w[AMD Threadripper Motherboards are Insane: TRX50 & WRX90 Board Round-Up^]
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] told us about link:https://www.openstack.org[OpenStack^], a set of open source software components that provide common services for cloud infrastructure and about link:https://www.localstack.cloud[LocalStack^], a service that allows local simulation, development and testing of Cloud services before actual infrastructure deployment on the Cloud.
+* We talked about link:https://www.youtube.com/watch?v=0j74jcxSunY[Internationalis(z)ing Code^].
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] told us link:https://www.youtube.com/watch?v=bC6tngl0PTI[Why You Can't Name A File CON In Windows^].
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] explained link:https://www.redhat.com/sysadmin/linking-linux-explained[the differences and intricacies between Hard Links and Soft/Symbolic Links (Symlinks)^].
+	** Kartik talked about how Symlinks can help with link:https://semver.org[Semantically Versioned^] files, as a single file name can be used to refer to a constantly changing original file.
+	** Symlinking also helps reduce the number of copies of a particular file, so it doesn't have to be copied or maintained in every location if the file is changed.
+	** Kartik told us to remember that symlinks can be an issue that cause run-time errors and missing dynamically-linked library errors, due to broken symlinks.
+		*** link:https://stackoverflow.com/questions/311882/what-do-statically-linked-and-dynamically-linked-mean[What do 'statically linked' and 'dynamically linked' mean?^]
+* We all were surprised to learn from link:https://twitter.com/KartikSoneji_[Kartik Soneji^] that the link:https://www.man7.org/linux/man-pages/man1/touch.1.html[`touch` command^] in Linux that most people use to create a new file is actually used to change file access and modification timestamps to the current system timestamp! `touch` just creates new file if the file didn't already exist!
+	** He also told us link:https://linuxopsys.com/topics/touch-command-in-linux#:~:text=The%20touch%20command%20can,corresponding%20object%20files%20(*.o).[why the `touch` command is important with Makefiles, to force compilation even if files might not have changed^].
+* We talked about link:https://en.wikipedia.org/wiki/Dither[Dithering^] and Anti-Aliasing.
+	** link:https://www.theinformedillustrator.com/2021/01/smooth-operations-anti-aliasing.html[Smooth Operations: Anti-Aliasing, Interpolation & Dithering^]
+	** link:https://www.youtube.com/watch?v=0L2n8Tg2FwI[Floyd-Steinberg Dithering^]
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] poked fun at link:https://twitter.com/harshgkapadia[Harsh Kapadia^] for forgetting that link:https://www.asciitable.com[a `NULL` character is represented by `0x00` and not `0x0A`(which represents a Line Feed character)^].
+	** link:https://github.com/HarshKapadia2/dynamic-dns/commit/67811943bdce1f5f0eb393781b04a7f61dd385f6#r126652905[The embarrassing moment^]
+	** link:https://dev.harshkapadia.me/resources#character-sets-and-encoding[More on Character Sets and Encoding^]
+* We talked about link:https://stackoverflow.com/questions/868568/what-do-the-terms-cpu-bound-and-i-o-bound-mean[CPU bound vs I/O bound tasks^].
+
+==== Projects Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared his experimentation with Badger 2040, where he wrote small scripts to display profiles and marquee names across the screen.
+	** link:https://github.com/HarshKapadia2/badger-2040[GitHub repository with videos^]
+	** link:https://www.electronicdesign.com/technologies/embedded/article/21264036/electronic-design-whats-the-difference-between-python-and-micropython[What's the Difference Between Python and MicroPython?^]
+	** link:https://canitrundoom.org[Can It Run Doom?^]
