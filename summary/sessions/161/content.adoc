@@ -1,0 +1,32 @@
+Date: 09-12-2023
+
+Duration: 1 hr 40 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] told us that he has been gearing up to give four link:https://aws.amazon.com[AWS^] and link:https://cloud.google.com[GCP^] certifications.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared videos on link:https://blog.google/technology/ai/google-gemini-ai[Google Gemini AI^].
+	** link:https://www.youtube.com/watch?v=q5qAVmXSecQ[Google's Gemini just made GPT-4 look like a baby's toy?^]
+	** link:https://www.youtube.com/watch?v=90CYYfl9ntM[The Gemini Lie^]
+** link:https://reinvent.awsevents.com[AWS re:Invent 2023^]
+	** link:https://twitter.com/chiragnayyar[Chirag Nayyar^] and link:https://twitter.com/ishandeveloper[Ishan Sharma^] talked about the new AWS services and features announced at AWS re:Invent 2023.
+	** link:https://www.youtube.com/watch?v=ekPbZqPvCRA[5 crazy new AWS services just launched^]
+	** Ishan was impressed by link:https://aws.amazon.com/s3/storage-classes/express-one-zone[Amazon S3 Express One Zone Storage Class^], which guarantees blazing object retrieval speeds, but Chirag said that it is too expensive.
+	** Chirag was impressed by link:https://aws.amazon.com/rosa[Red Hat OpenShift Service on AWS (ROSA)^], which is an AWS service of link:https://www.redhat.com/en/technologies/cloud-computing/openshift[Red Hat OpenShift^], a platform powered by link:https://kubernetes.io[Kubernetes^] to build, modernize and deploy applications at scale.
+		*** Chirag added that link:https://blog.dotmodus.com/what-is-a-digital-native-business[Digital Native Businesses (DNBs)^] will use ROSA.
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] and link:https://twitter.com/ishandeveloper[Ishan Sharma^]  recommended reading link:https://blog.bytebytego.com[ByteByteGo's blog^] and watching link:https://www.youtube.com/@ByteByteGo[ByteByteGo's YouTube Videos^] as well.
+	** Ishan particularly liked their blog on link:https://blog.bytebytego.com/p/why-the-internet-is-both-robust-and[Why the Internet Is Both Robust and Fragile^] which talked about link:https://www.cloudflare.com/learning/security/glossary/what-is-bgp[BGP^] being the cause of the 2021 Facebook outage and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://networking.harshkapadia.me/bgp#:~:text=The%202021%20Facebook%20outage[articles on the 2021 Facebook outage^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a few miscellaneous videos.
+	** link:https://www.youtube.com/watch?v=xUT4d5IVY0A[Intel's Snake Oil & Completely Insane Anti-AMD Marketing^]
+	** link:https://www.youtube.com/watch?v=CYD62JkSIz0[Seagate's 30TB HDD: It Exists!^]
+	** link:https://www.youtube.com/watch?v=_eS-nNnkKfI[(Java Integer Overflow) Bug in Binary Search^]
+* Databases
+	** link:https://twitter.com/chiragnayyar[Chirag Nayyar^] told us that he holds link:https://www.postgresql.org[PostgreSQL^] in very high regards in terms of relational databases and would recommend people to use it.
+	** He also mentioned how link:https://en.wikipedia.org/wiki/Oracle_Database[Oracle Database^] is an industry standard due to reliability and security layers albeit pretty costly.
+	** Chirag shared link:https://research.google/pubs/pub45855[Spanner, TrueTime and the CAP Theorem^].
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared link:https://newsletter.oberai.dev/p/is-devrel-just-a-fad[Is DevRel Just A Fad?^]
+
+
+==== Projects Showcased
+
+* Darshan Soni and Om Pawaskar showcased a Java and link:https://www.mysql.com[MySQL^] employee management portal.
