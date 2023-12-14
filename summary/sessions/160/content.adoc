@@ -1,0 +1,18 @@
+Date: 02-12-2023
+
+Duration: 3 hrs 46 mins
+
+==== Topics Discussed
+
+* link:https://github.com/CosmicRaptor[Aryan Pathak^] talked about the heirechy of link:https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux[RHEL (Red Hat Enterprise Linux)^].
+	** He said that he uses Fedora because it is more stable than Arch yet on cutting edge than Ubuntu.
+* We talked about he someone can triangulate someone via their IP addresses.
+	** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] said that we might not be able to find the exact location but we can find an approximate location by having a lookup table of IP address and ISPs in a region.
+* link:https://twitter.com/furtado_jaden[jaden furtado^] shared link:https://www.youtube.com/watch?v=_6MXtNMds3w[How To Hack A Yacht^] by Stephan Gerling talk at Hack.lu, 2018.
+* We talk about link:https://www.youtube.com/watch?v=SudCPE1Cn6U[DoH (DNS over HTTPs)^] and link:https://www.youtube.com/watch?v=MVfcK9dAvSg[DoT (DNS over TLS)^] and their what are pros and cons.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://adventofcode.com/2023/about[AoC (Advent of Code)^] a series of small programming puzzles that can be solved in any language.
+* link:https://twitter.com/furtado_jaden[jaden furtado^] shared link:https://minicps.readthedocs.io/en/latest/swat-tutorial.html[MiniCPS - SWaT] which is to simulate a subprocess of a Water Treatment testbed.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/mohit_explores[Mohit Gangwani^] talked about link:https://www.kali.org/docs/nethunter/[Kali NetHunter^] which is a kernel built specifically built for pen-testing on a mobile device with a suite of apps.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about how much they respect low-level programmers after they had a subject in your course for that.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] was surprised to know that Mumbai University teaches frameworks in college instead of teaching Computer Science.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] explained that most colleges and students are interested in getting a job and being job-ready after college instead of being interested in CS theory hence University has these frameworks in their curriculum.
