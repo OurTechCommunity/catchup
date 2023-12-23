@@ -24,7 +24,7 @@ Duration: 7 hr 55 min
 * https://twitter.com/DeepankarBhade[Deepankar Bhade] shared a good resource for colour selection: https://www.radix-ui.com/colors
 * We had a debate on Competitive Programming (CP) vs Data Structures and Algorithms (DSA) where everyone agreed that just DSA is totally fine for Development.
 * @*Kartik Soneji* talked and demonstrated stuff about header files in C, taking the example of the `stdbool.h` header file.
- ** We also came to know that null in Windows is represented by `NUL`.
+ ** We also came to know that the functionality provided by `/dev/null` in Linux is provided by `NUL` in Windows.
 * There was a discussion on Masters in India vs abroad as well.
 
 
