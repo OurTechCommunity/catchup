@@ -4,12 +4,12 @@ Duration: 4 hr 13 mins
 
 ==== Topics Discussed
 
-* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] shared that he will be redesigning and publishing articles on this blog site make in link:https://wordpress.org/[WordPress].
-	** link:https://twitter.com/SirusTweets[Darshan Rander^] asked him if he has considered using static site generation as they are cheaper and faster than WordPress. To which he replied that for him WordPress is easier and he prefers it.
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] shared that he will be redesigning and publishing articles on a blog site made in link:https://wordpress.org[WordPress].
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested considering static site generation due to its cost-effectiveness and speed compared to WordPress, to which he responded that he finds WordPress easier to use and prefers it.
 * link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his research paper named link:https://www.cs.toronto.edu/~rishit/projects/diffuseraw/diffuseraw.pdf[DiffuseRAW: End-to-End Generative RAW Image Processing for Low-Light Images].
 	** In this paper he talks about creating a diffusion model that can perform better in low light with RAW images as they have more data than processed images.
-* link:https://twitter.com/swpnlbrkr[Swapnil Borkar^] and link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] that has he seen any effects of slow markets in Canada.
-	** link:https://twitter.com/rishit_dagli[Rishit Dagli^] explained that he has observed that there was not much effect in fields like research and related fields.
+* link:https://twitter.com/swpnlbrkr[Swapnil Borkar^] and link:https://linkedin.com/in/krishna-gadia[Krishna Gadia^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] if he had seen any effects of slow markets in Canada.
+	** link:https://twitter.com/rishit_dagli[Rishit Dagli^] had observed that there was not any major impact in fields like research and related fields.
 * link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about his Cloud Computing Exam and we tried answering some of the questions.
 * link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about link:https://www.proxmox.com/[Proxmox] a tool for virtualization.
 * link:https://twitter.com/rishit_dagli[Rishit Dagli^] said that he feels learning AWS and other things in school/university is not right, they should be learned by an individual as they are easier and might not need much assistance from professors.
