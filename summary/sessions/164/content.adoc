@@ -1,0 +1,40 @@
+Date: 30-12-2023
+
+Duration: 3 hrs 50 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://varun.ch/server[Most 16-year-olds don't have servers in their rooms^], which is a blog by a 16-year old who set up a Dell server, created and self-hosted a clone of link:https://replit.com/[Replit^] for his projects on the server, created and self-hosted a social media platform on the server with real users and a bunch of other projects.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a few videos from link:https://gamersnexus.net[Gamers Nexus^], a hardware review channel he really likes.
+	** link:https://www.youtube.com/watch?v=---fHu9jFtw[How RAM is Made: Automated Binning, Manufacturing, & Burn-in Testing^]
+	** link:https://www.youtube.com/watch?v=ofKw9SU9OOk[Watch How It's Made: Cases & Servers^]
+	** link:https://www.youtube.com/watch?v=5Fz3P41emo8[PCIe is the Future, The Discord Issue, & You'll Own Nothing^]
+	** link:https://www.youtube.com/watch?v=FGW3TPytTjc[The Problem with Linus Tech Tips: Accuracy, Ethics, & Responsibility^]
+	** Another YouTube chanel that Harsh recommended was link:https://www.youtube.com/@Level1Techs[Level1Techs^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g[What is the difference between clang (and LLVM) and gcc/g++?^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://stackoverflow.com/questions/2566027/what-is-the-use-of-typedef[What is the use of typedef \[in C\]?^]
+* Buffer Overflow, Segmentation Faults and Exceptions
+	** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] explained what a Buffer Overflow is and why every Buffer Overflow does not cause a Segmentation Fault.
+		*** A Buffer Overflow is essentially writing more data into a buffer than it was allocated for, leading to over-writing the data after the buffer in the program's memory.
+		*** A Segmentation Fault is an Exception generated when a program tries to access a memory address that is outside the memory segment (process address space) allocated to it by the Operating System or when it does not have the permission to access that particular memory location.
+		*** A Buffer Overflow writes data beyond a buffer's allocated memory and this can cause a Segmentation Fault (Segfault) if the buffer is located near the end of the memory space allocated to the process and the overflow tries to write to an address beyond  the address space allocated to the process.
+	** link:https://stackoverflow.com/questions/45740014/does-buffer-overflow-causes-segfault-only-when-an-important-pointer-is-overwritt[More information and examples for Buffer Overflow and Segmentation Faults.^]
+	** link:https://www.youtube.com/watch?v=fjMrDDj47E8[Why do hackers love strings?^]
+	** link:https://www.youtube.com/watch?v=qpyRz5lkRjE[How do hackers exploit buffers that are too small?^]
+	** link:https://www.youtube.com/watch?v=lxUYZVX_FjQ[How can memory safe code stop hackers?^]
+	** link:https://networking.harshkapadia.me/files/tls/smashing-the-stack-for-fun-and-profit.pdf[Smashing The Stack For Fun And Profit^]
+	** link:https://stackoverflow.com/questions/3149175/what-is-the-difference-between-trap-and-interrupt[Interrupts vs Exceptions (Faults, Traps and Aborts)^]
+* link:https://unix.stackexchange.com/a/225542[Everything in Linux is a file.^]
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his blog link:https://newsletter.oberai.dev/p/embracing-aloneness[Embracing Aloneness^], which goes into the difference between 'aloneness' and 'loneliness', and talks about learning to enjoy 'me, myself and I'.
+* Endianness
+	** link:https://twitter.com/adityaoberai1[Aditya Oberai^] told us how the terms 'little-endian' and 'big-endian' originated from the famous Gulliver's Travels story. This has been coined and explained in the original link:https://www.rfc-editor.org/ien/ien137.txt[137th Internet Engineering Note (IEN 137)^].
+	** We talked about how it is important to know a system's Endianness, because answers can differ based on the byte storage order, especially with pointer truncation and bitwise operations.
+		*** link:https://godbolt.org/#g:!((g:!((g:!((g:!((h:codeEditor,i:(filename:'1',fontScale:14,fontUsePx:'0',j:1,lang:___c,selection:(endColumn:26,endLineNumber:19,positionColumn:26,positionLineNumber:19,selectionStartColumn:26,selectionStartLineNumber:19,startColumn:26,startLineNumber:19),source:'%23include+%3Cstdio.h%3E%0A%0Aint+main()+%7B+%0A++++int+num+%3D+0x1234%3B%0A++++%0A++++printf(%22%25%2302x%5Cn%22,+num+%26+0xff)%3B%0A++++printf(%22%25%2302x%5Cn%22,+*((char+*)+%26+num))%3B%0A++++%0A++++return+0%3B%0A%7D%0A%0A/*+%0A++++0x1234%0A++++%0A++++0x1234+%26+0xff%0A++++*((char+*)+%26+(0x1234))%0A%0A++++litte+endian+-%3E+34+12%0A++++big+++endian+-%3E+12+34%0A*/%0A'),l:'5',n:'0',o:'C+source+%231',t:'0')),header:(),l:'4',m:70.40417209908736,n:'0',o:'',s:0,t:'0'),(g:!((h:executor,i:(argsPanelShown:'1',compilationPanelShown:'0',compiler:cg132,compilerName:'',compilerOutShown:'0',execArgs:'',execStdin:'',fontScale:14,fontUsePx:'0',j:1,lang:___c,libs:!(),options:'',source:1,stdinPanelShown:'1',wrap:'1'),l:'5',n:'0',o:'Executor+x86-64+gcc+13.2+(C,+Editor+%231)',t:'0')),header:(),k:50,l:'4',m:29.595827900912642,n:'0',o:'',s:0,t:'0')),k:50,l:'3',n:'0',o:'',t:'0'),(g:!((h:compiler,i:(compiler:cg132,filters:(b:'0',binary:'1',binaryObject:'1',commentOnly:'0',debugCalls:'1',demangle:'0',directives:'0',execute:'1',intel:'0',libraryCode:'0',trim:'1'),flagsViewOpen:'1',fontScale:14,fontUsePx:'0',j:1,lang:___c,libs:!(),options:'',overrides:!(),selection:(endColumn:1,endLineNumber:1,positionColumn:1,positionLineNumber:1,selectionStartColumn:1,selectionStartLineNumber:1,startColumn:1,startLineNumber:1),source:1),l:'5',n:'0',o:'+x86-64+gcc+13.2+(Editor+%231)',t:'0')),k:50,l:'4',n:'0',o:'',s:0,t:'0')),l:'2',m:100,n:'0',o:'',t:'0')),version:4[An example on Godbolt by Kartik Soneji.^]
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] shared link:https://www.youtube.com/watch?v=p8u_k2LIZyo[Fast Inverse Square Root — A Quake III Algorithm^] and link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared link:https://www.youtube.com/watch?v=tmb6bLbxd08[The Truth about the Fast Inverse Square Root on the N64^].
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] told us link:https://en.wikipedia.org/wiki/MySQL#Legal_disputes_and_acquisitions[the story of creation of MariaDB by forking MySQL just before Oracle acquired it^].
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] told us how the C programming language got a Boolean datatype and the story behind the need for `stdbool.h`.
+	** C did not have a Boolean datatype till the link:https://stackoverflow.com/questions/3667708/where-can-i-read-c99-official-language-standard-manual-reference-specification-o[C99 standard^]. It was added in C99, but was named as `_Bool` instead of the standard `bool` to not break millions of existing C programs, because a lot of C programs had already made custom definitions for `bool` in their programs and so adding `bool` as a datatype would break those `#define` declarations.
+	** To make `bool` available for newer programs, a header file `stdbool.h` was created, that essentially defined `bool` and `_Bool` and thus allowed newer programs to use `bool` as a datatype.
+		*** link:https://clang.llvm.org/doxygen/stdbool_8h_source.html[`stdbool.h` header file code^]
+		*** link:https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/stdbool.h.html[`stdbool.h` header file explainer^]
+	** link:https://stackoverflow.com/questions/47374356/why-use-stdbool-h-instead-of-bool[More information^]
