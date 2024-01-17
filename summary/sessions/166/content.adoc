@@ -1,0 +1,42 @@
+Date: 16-12-2023
+
+Duration: 3 hr 30 mins
+
+==== Topics Discussed
+
+* We had discussions about how good link:https://meetup.ourtech.community/4[OTC Meetup #4] turned out to be.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/mohit_explores[Mohit Gangwani^] discussed the job situation in the US market.
+    ** Many companies are on a hiring freeze currently, although there some companies are opening up their hiring.
+* We discussed about attending how one could manage college lectures and travel time for undergrads.
+    ** Travel time could be used to read books, listen to podcasts and make it a simple habit over a few weeks.
+* We talked about the internship and full-time opportunities in India for freshers. 
+    ** Some companies are laying off people who have just joined in due to a potential budget shortage.
+* Raghav Rathi, link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/PranavDani3[Pranav Dani^] discussed developing reading habits and provided some good book suggestions as well.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] strongly recommends reading fiction to develop a reading habit.
+* Book suggestions as discussed in the catchup:    
+    ** Around the World in Eighty Days - Jules Verne
+    ** Martian - Andy Weir
+    ** Project Hail Mary - Andy Weir 
+    ** 1984 - George Orwell
+    ** Ready player one - Ernest Cline
+    ** Foundation trilogy - Isaac Asimov
+    ** Journey to the center of the Earth - Jules Verne
+    ** Godfather - Mario Puzo
+* We discussed the purpose of meetups and why the crowd might be generally young.
+    ** The idea is to learn from people better than you.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] pointed out that part of attending meetups is to meet new people and get ideas and also support or redirect a few people towards something they might want.
+        *** In this case, experienced people might be ready to help out and act as a support but then they too need support when they need support which is difficult to find.
+* We discussed some concerns about the link:https://cloud.google.com[Google Cloud Platform^] shutting down eventually based on recent events.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] discussed GCP, firebase and costs of maintenance.
+    ** Services for link:https://azure.microsoft.com/en-us[Azure^] and link:https://aws.amazon.com[AWS^] seem to be better than GCP.
+* Microsoft was worth more than Apple for a split second.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] discussed how Microsoft has been doing well with enterprise services whereas Google does it better with consumer services.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] talked about how the newer generation might be more comfortable with using Chromebooks due to university requirements and overall less cost compared to Windows. 
+* link:https://twitter.com/PranavDani3[Pranav Dani^], link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/mehraramyak[Ramyak Mehra^] talked about Steam OS, Nintendo Switch, games and a few devices.
+    ** We talked about cloud gaming. Since it is device-independent, it can be played on any device including phones with a joystick.
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] shared that he saw a laptop - link:https://www.acer.com/us-en/predator/laptops/helios/predator-helios-300-spatiallabs-edition[Acer Predator Helios 300 - Spatial Lab edition] - at B&H Photo Video which had a 3D screen that used eye-tracking to render the 3D effect.
+        *** link:https://twitter.com/adityaoberai1[Aditya Oberai^] played on Oculus (Now Meta) and felt dizzy after a while.
+        *** link:https://www.apple.com/apple-vision-pro[Apple Vision Pro^] is up for pre-order.
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] and link:https://twitter.com/adityaoberai1[Aditya Oberai^] discussed the differences while giving interviews for companies in India vs in the US.
+    ** link:https://twitter.com/adityaoberai1[Aditya Oberai^] said that it's more about what different cultures in different companies appreciate.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] suggested being upfront about the things you know and don't know since it helps out.
