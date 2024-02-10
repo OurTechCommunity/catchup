@@ -1,0 +1,35 @@
+Date: 03-02-2024
+
+Duration: 5 hrs 51 mins
+
+==== Topics Discussed
+
+* Nice! 😉
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about link:https://ectfmitre.gitlab.io/ectf-website/2024/specs/functional_reqs.html[The 2024 MITRE Engenuity Embedded Capture the Flag Competition^]. He showed us his preliminary design to show us how people think while designing solutions that others will try to exploit.
+* link:http://www.linkedin.com/in/arryaan-jain[Arryaan Jain^] talked about comparing link:https://en.wikipedia.org/wiki/Audio_codec[audio codecs^], earphone and headphone quality, and his disappointment with the lack of link:https://performodule.com/2019/05/24/when-to-use-a-dynamic-vs-a-static-eq[Dynamic Equalizers^] in mobile phones in the current market.
+	** He talked about various link:https://www.soundguys.com/driver-types-19347[types of headphone drivers^] and told us that earphones/headphones with hybrid drivers, especially those with one of the drivers being the Balanced Armature Coil Driver, sound really crisp and balanced.
+* Mobile processors
+	** We talked about various mobile processor manufacturing companies like link:https://www.qualcomm.com[Qualcomm^], link:https://www.samsung.com[Samsung^] and link:https://www.mediatek.com[MediaTek^].
+	** We talked about how Samsung ships their phones with different processors in different parts of the world, sometimes using Qualcomm (mainly for its flagship Galaxy S series) and at times MediaTek.
+	** link:https://twitter.com/anaskhan_28[Anas Khan^] shared link:https://www.timesnownews.com/technology-science/samsung-galaxy-s24-series-to-feature-amd-fsr-for-enhanced-gaming-performance-article-104952545[Samsung Galaxy S24 Series to feature AMD FSR for Enhanced Gaming Performance^].
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://www.youtube.com/watch?v=N_B0riy__rw[Meet iPager - Help Apple #GetTheMessage^].
+* link:https://twitter.com/BafnaAbhigyan[Abhigyan Bafna^] shared his link:https://chat.whatsapp.com/EmuUTRLfoGP4PwjJmcX7Ls[Artificial Intelligence and Data Science WhatsApp group^] where interesting discussions on AI take place.
+* We talked about link:https://htmx.org[htmx^], a library that allows one to use HTML attributes to trigger requests and swap HTML responses in the DOM.
+	** link:https://www.youtube.com/watch?v=r-GSGH2RxJs[htmx in 100 seconds^]
+* We talked about link:https://http3-explained.haxx.se[HTTP/3^] and link:https://www.chromium.org/quic[QUIC^], and discussed how QUIC, which is based on UDP, still has reliability and streams built into it.
+	** link:https://http3-explained.haxx.se/en/h3/h3-push[HTTP/3 Server Push^]
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] helped debug a Chrome Extension visibility issue that link:https://twitter.com/KarbeleKedar[Kedar Karbele^] was facing. It turned out to be a link:https://developer.mozilla.org/en-US/docs/Web/CSS/z-index[CSS z-index^] issue.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a few resources for System Design.
+	** link:https://github.com/donnemartin/system-design-primer[github.com/donnemartin/system-design-primer^]
+	** link:https://github.com/InterviewReady/system-design-resources[github.com/InterviewReady/system-design-resources^]
+	** link:https://github.com/shashank88/system_design[github.com/shashank88/system_design^]
+	** link:https://twitter.com/mehraramyak[Ramyak Mehra^] shared link:https://roadmap.sh/system-design[a roadmap for System Design^].
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] shared an extremely important lesson with us: link:https://fs.blog/chestertons-fence[Chesterton's Fence: A Lesson in Second Order Thinking^]
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] asked if it matters whether one uses DDR4 or DDR5 memory for normal development use cases and the general consensus was that it doesn't matter.
+	** link:https://www.crucial.com/articles/about-memory/difference-among-ddr2-ddr3-ddr4-and-ddr5-memory[What’s the difference between SDRAM, DDR, DDR2, DDR3, DDR4 and DDR5?^]
+
+==== Projects Showcased
+
+* link:https://twitter.com/BafnaAbhigyan[Abhigyan Bafna^] showcased _Apna Ghar_, a project management system which aims to reduce friction between interior designers, customers and contractors. The app revolves around the interior designer and provides a Kanban task manager with integrated customer feedback, 3D display of the status of the project and AI generated rooms.
+	** This was the winning project of link:https://tsechacks.tseccodecell.com[TSEC Hacks 2024^] that he helped build alongside his team members Jash Doshi, Stephen Vaz and Atharv Salin.
+	** Technologies used: React.js, Express.js, MongoDB, Flutter and more
