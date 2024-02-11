@@ -88,7 +88,7 @@ async function main() {
 		return 1;
 	}
 
-	let response = await sendAndPinMessageToChat(chat_id, message);
+	let response = await sendMessageToChat(chat_id, message);
 	if (!response) {
 		console.error(`failed to send telegram message`);
 		return 2;
