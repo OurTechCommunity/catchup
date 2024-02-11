@@ -20,4 +20,4 @@ let seconds = Math.floor((date.getTime() - now.getTime()) / 1000);
 if (seconds < 0) seconds = 0;
 console.log(seconds);
 
-console.warn(`waiting for ${seconds} till ${time}`);
+console.warn(`waiting for ${seconds}s till ${time}`);
