@@ -1,0 +1,21 @@
+Date: 27-01-2024
+
+Duration: 7 hrs 22 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] told us about some of the security testing he has being doing on power plants.
+	** He found a lot of very bad quality code.
+	** He also found cases where systems with read-only permissions led to other systems being compromised due to exposed credentials in temporary directories.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked about anonymous e-mails and we came to a consensus that it would be very difficult to do that due to all major e-mail providers requiring link:https://explained-from-first-principles.com/email/#domain-based-message-authentication-reporting-and-conformance[DMARC^], link:https://explained-from-first-principles.com/email/#sender-policy-framework[SPF^], link:https://explained-from-first-principles.com/email/#domainkeys-identified-mail[DKIM^] and e-mail link:https://explained-from-first-principles.com/email/#reputation[reputation^] provisions.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:https://www.esper.io/blog/android-dessert-bites-28-file-manager-loophole-closed-73891524[Android disallowing users from accessing app data files through file managers^].
+	** It feels very restrictive, but has security benefits. The loss of freedom for users who cared is frustrating, because rather than having freedom to change and inspect things, they're restricted like the iOS system.
+	** It makes modifying apps by services like link:https://revanced.app[Revanced^] difficult as well, which is also a likely motivation for Google to go after removing access.
+	** link:https://www.reddit.com/r/Android/comments/wru35i/clearing_up_confusion_about_how_to_access[Clearing up confusion about how to access `/Android/data` and `/Android/obb` folders in Android 13^]
+* Nishant Goel asked for advice to build a web site for a product that he was planning to build.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] talked about how he was building a browser extension for link:https://www.hackerrank.com[HackerRank^], learning link:https://www.swift.org[Swift^] in his spare time to get into link:https://en.wikipedia.org/wiki/IOS[iOS^] development and building a project for experimenting with link:https://en.wikipedia.org/wiki/Internet_of_things[IoT^] devices.
+* We discussed our disdain over the 'Rent-to-Own' and 'You'll Own Nothing' principles that companies have been pushing.
+	** link:https://youtu.be/5Fz3P41emo8?t=1221[A discussion involving the 'You'll Own Nothing' principle.^]
+	** link:https://youtu.be/vf1xTVA3RQU?t=1067[Ubisoft trying to push a subscription model for their games.^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about his paper link:https://www.cs.toronto.edu/~rishit/projects/diffuseraw/diffuseraw.pdf[DiffuseRAW: End-to-End Generative RAW Image Processing for Low-Light Images^]
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] discussed his decision of going for Masters.
