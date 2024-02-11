@@ -1,0 +1,34 @@
+Date: 10-02-2024
+
+Duration: 4 hrs 21 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/ishubhamsah[Shubham Sah^] talked about his development journey at his work.
+	** He told us about an link:https://www.okta.com[Okta^] access token issue that he solved by implementing a cache for tokens and a quarantined area for revoked tokens.
+	** He said that he made the mistake of starting to code as soon as he got the requirements of his task, without properly understanding the context of the job and without consolidating all the requirements into a cohesive plan. He advised everyone to collect all requirements and plan properly, to avoid repetitive and unnecessary work.
+	** He also told us about their Quality Assurance (QA) process, which involves link:https://blog.qasource.com/a-complete-guide-to-smoke-testing-in-software-qa[Smoke Testing^], link:https://stackoverflow.com/questions/652292/what-is-unit-testing-and-how-do-you-do-it[Unit Testing^] and more. They also use a platform called link:https://en.wikipedia.org/wiki/SonarQube[SonarQube^] for linting and link:https://www.perforce.com/blog/sca/what-static-analysis[Static Code Analysis^].
+	** Log4j got a mention as well and we've talked about the major security incident that affected loads of projects using the library in OTC CatchUp link:https://catchup.ourtech.community/summary/70#:~:text=We%20had%20a,Why%20So%20Bad%3F[\#70^] and link:https://catchup.ourtech.community/summary/58#:~:text=Log4j%202%20vulnerability,Log4j%20exploit.[#58^].
+* link:https://twitter.com/ishubhamsah[Shubham Sah^] added that companies now-a-days are looking to cut down on costs and so are mainly hiring more experienced people, as they won't have to invest as many resources and as much time in training as a fresh graduate.
+	** To combat this, Shubham suggested that legitimate Open Source contributions really help, because a lot of experience is gained by setting up complicated project infrastructure and adding a fix into a codebase. This experience can then also be shown in interviews, as a qualifying metric.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared
+	** link:https://www.phoronix.com/news/Linux-New-Async-Device-Shutdown[A New Attempt At Async Device Shutdown Support For Linux^]
+	** link:https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows[Introducing Sudo for Windows!^]
+	** link:https://www.youtube.com/watch?v=wTl4vEednkQ[Breaking Bitlocker - Bypassing the Windows Disk Encryption^]
+	** link:https://blog.darshanrander.com/posts/tech/serverside-dart[Serverside Dart^]
+	** link:https://blog.darshanrander.com/posts/tech/serverside-dart-2[Serverside Dart #2^]
+	** link:https://www.youtube.com/watch?v=1n_cPIhag28[I hate twitter^]
+	** link:https://www.youtube.com/watch?v=FinMGtpTud0[How to be Happy \*\*Tutorial\*\*^]
+	** link:https://www.youtube.com/watch?v=e9dZQelULDk[Happiness^]
+	** link:https://www.youtube.com/watch?v=xmVt8lC74ns[Interview with Web3 Founders in 2023^]
+* link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] shared that he was starting with a new project at work after finishing the previous one and that the new project extensively involves link:https://www.terraform.io[Terraform^] and link:https://learn.microsoft.com/en-us/training/modules/script-with-powershell[PowerShell scripts^].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] talked about his successful interview experience.
+	** He was asked about what happens when one types 'google.com' in the browser.
+		*** link:https://www.youtube.com/watch?v=dh406O2v_1c[What happens when you type google.com into your browser and press enter?^]
+		*** link:https://github.com/alex/what-happens-when[github.com/alex/what-happens-when^]
+	** Dheeraj's college projects helped him a lot, as he was able to talk about technical experience and a variety of things like link:https://en.wikipedia.org/wiki/HTTP_Live_Streaming[HTTP Live Streaming (HLS)^] that he was able to explore because of those projects.
+* Copyrighting and artists getting paid
+	** In this age when AI is able to generate data and art because of being trained on publicly available data, there is a question of copyright and license infringement that is very fair to ask.
+	** There was discussion that we don't have to pay to listen to music that might inspire us to create our own music, so even AI shouldn't have to pay for things it uses to train itself to be able to produce art or other data. Well, the counter to that is that even if we don't pay for the music we stream, the music service that we're using counts every stream and pays the artist for those streams. So the original owner is getting paid. With AI, we don't know the method in which data is collected. Also, a lot of general licenses prohibit mass usage of data or commercial usage of data, so special attention needs to be paid to copyright and license rules, so that the correct people and artists get paid.
+		*** The same reasons apply to downloading music off the internet as well. Artists get paid when music is downloaded legally.
+	** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] suggested watching a TV series link:https://en.wikipedia.org/wiki/The_Playlist_(TV_series)[The Playlist^], which explains all of this from each perspective (the artist, the law, the industry, the coders, etc.).
