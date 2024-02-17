@@ -1,0 +1,23 @@
+Date: 20-01-2024
+
+Duration: 5 hrs 20 mins
+
+==== Topics Discussed
+
+* General Introduction.
+* We discussed coding practices and the "correct way" to write code.
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] suggested checking link:https://github.com/uber-go/guide[Uber's Go Style Guide^].
+    ** Anil Gohan talked about how one should try to employ second-order thinking to write and understand code since requirements for each use case can be different.
+        *** Keep your mind open since there isn't a "one size fits all" solution in this case.
+        *** The best way to practice this is to read other people's code and understand their thought processes.
+        *** He also shared a link to a blog post on https://fs.blog/chestertons-fence/[Chesterton's Fence^] which describes second-order thinking in depth.
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] suggested that once the project starts growing and picking up pace, documentation is necessary to understand the functions of the code.
+        *** Anil Gohan added that documentation is meant for the correct audience that is reading it.
+        *** link:https://twitter.com/PranavDani3[Pranav Dani^] shared a link to a book on https://retro.hansotten.nl/uploads/books/machinecodebeginners.pdf[Machine Code for Beginners^].
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] asked how one should go about reading and understanding code.
+    ** Anil Gohan suggested taking two or three layers of abstraction in a system or an application that you want to understand. 
+        *** Try to trace how that system starts.
+        *** Try to trace all the services that the process forks into and understand how they interact with each other.
+        *** This gives us a high-level understanding of the architecture and how it works. 
+        *** Eventually one can start to identify patterns in the system.
+* link:https://twitter.com/furtado_jaden[jaden furtado^] shared a link to a video on https://youtu.be/I6aUs9rslDI?si=zZPTOUbhdEc7bEW-[Adventures at AMD: Origin of Threadripper^] where Anil Gohan was featured.
