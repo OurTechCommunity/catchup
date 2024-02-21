@@ -7,7 +7,6 @@
 	"filepath": "",
 	"htmlWhitespaceSensitivity": "css",
 	"insertPragma": false,
-	"jsxBracketSameLine": false,
 	"jsxSingleQuote": false,
 	"overrides": [],
 	"plugins": [],

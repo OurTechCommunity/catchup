@@ -26,6 +26,9 @@ for path in "${summary_dir}/sessions/"*; do
 	fi;
 done;
 
+# Store all built catchups for quick lookup in edge functions
+built_catchup_numbers="";
+
 # Build individual summary pages
 for path in ${BUILD_SUMMARY_DIRS}; do
 	if [ -d "${path}" ]; then
@@ -76,13 +79,20 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 			-a "catchup_display_number=${catchup_display_number}" \
 			-a "catchup_image_extension=${catchup_image_extension}" \
 			-a "summary_file=${summary_template}" \
-			-o "${out_dir}/summary/${catchup_number}.html" \
+			-o "${out_dir}/summary/${catchup_display_number}.html" \
 			"${summary_dir}/individual-summary.adoc";
 
 		# Lazy load images
-		sed -i -e "s/<img/<img loading=\"lazy\"/g" "${out_dir}/summary/${catchup_number}.html";
+		sed -i -e "s/<img/<img loading=\"lazy\"/g" "${out_dir}/summary/${catchup_display_number}.html";
+
+		# Add current summary to list of built catchups
+		built_catchup_numbers="${built_catchup_numbers}\n  ${catchup_display_number},";
 	fi;
 done;
+
+# Save built catchup numbers to netlify functions folder
+printf "export default [${built_catchup_numbers}\n];\n" \
+	> "${base_dir}/netlify/edge-functions/built-catchup-numbers.ts";
 
 # Build combined summary site
 asciidoctor \
