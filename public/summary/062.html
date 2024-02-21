@@ -1,0 +1,1085 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Asciidoctor 2.0.21">
+<meta name="author" content="Our Tech Community">
+<link rel="icon" type="image/x-icon" href="/public/img/favicon.ico">
+<title>OTC CatchUp #62 Summary</title>
+<style>
+/*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
+/* Uncomment the following line when using as a custom stylesheet */
+/* @import "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700"; */
+html{font-family:sans-serif;-webkit-text-size-adjust:100%}
+a{background:none}
+a:focus{outline:thin dotted}
+a:active,a:hover{outline:0}
+h1{font-size:2em;margin:.67em 0}
+b,strong{font-weight:bold}
+abbr{font-size:.9em}
+abbr[title]{cursor:help;border-bottom:1px dotted #dddddf;text-decoration:none}
+dfn{font-style:italic}
+hr{height:0}
+mark{background:#ff0;color:#000}
+code,kbd,pre,samp{font-family:monospace;font-size:1em}
+pre{white-space:pre-wrap}
+q{quotes:"\201C" "\201D" "\2018" "\2019"}
+small{font-size:80%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-.5em}
+sub{bottom:-.25em}
+img{border:0}
+svg:not(:root){overflow:hidden}
+figure{margin:0}
+audio,video{display:inline-block}
+audio:not([controls]){display:none;height:0}
+fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}
+legend{border:0;padding:0}
+button,input,select,textarea{font-family:inherit;font-size:100%;margin:0}
+button,input{line-height:normal}
+button,select{text-transform:none}
+button,html input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}
+button[disabled],html input[disabled]{cursor:default}
+input[type=checkbox],input[type=radio]{padding:0}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+*,::before,::after{box-sizing:border-box}
+html,body{font-size:100%}
+body{background:#fff;color:rgba(0,0,0,.8);padding:0;margin:0;font-family:"Noto Serif","DejaVu Serif",serif;line-height:1;position:relative;cursor:auto;-moz-tab-size:4;-o-tab-size:4;tab-size:4;word-wrap:anywhere;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased}
+a:hover{cursor:pointer}
+img,object,embed{max-width:100%;height:auto}
+object,embed{height:100%}
+img{-ms-interpolation-mode:bicubic}
+.left{float:left!important}
+.right{float:right!important}
+.text-left{text-align:left!important}
+.text-right{text-align:right!important}
+.text-center{text-align:center!important}
+.text-justify{text-align:justify!important}
+.hide{display:none}
+img,object,svg{display:inline-block;vertical-align:middle}
+textarea{height:auto;min-height:50px}
+select{width:100%}
+.subheader,.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{line-height:1.45;color:#7a2518;font-weight:400;margin-top:0;margin-bottom:.25em}
+div,dl,dt,dd,ul,ol,li,h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6,pre,form,p,blockquote,th,td{margin:0;padding:0}
+a{color:#2156a5;text-decoration:underline;line-height:inherit}
+a:hover,a:focus{color:#1d4b8f}
+a img{border:0}
+p{line-height:1.6;margin-bottom:1.25em;text-rendering:optimizeLegibility}
+p aside{font-size:.875em;line-height:1.35;font-style:italic}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{font-family:"Open Sans","DejaVu Sans",sans-serif;font-weight:300;font-style:normal;color:#ba3925;text-rendering:optimizeLegibility;margin-top:1em;margin-bottom:.5em;line-height:1.0125em}
+h1 small,h2 small,h3 small,#toctitle small,.sidebarblock>.content>.title small,h4 small,h5 small,h6 small{font-size:60%;color:#e99b8f;line-height:0}
+h1{font-size:2.125em}
+h2{font-size:1.6875em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.375em}
+h4,h5{font-size:1.125em}
+h6{font-size:1em}
+hr{border:solid #dddddf;border-width:1px 0 0;clear:both;margin:1.25em 0 1.1875em}
+em,i{font-style:italic;line-height:inherit}
+strong,b{font-weight:bold;line-height:inherit}
+small{font-size:60%;line-height:inherit}
+code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;color:rgba(0,0,0,.9)}
+ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
+ul,ol{margin-left:1.5em}
+ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
+ul.circle{list-style-type:circle}
+ul.disc{list-style-type:disc}
+ul.square{list-style-type:square}
+ul.circle ul:not([class]),ul.disc ul:not([class]),ul.square ul:not([class]){list-style:inherit}
+ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
+dl dt{margin-bottom:.3125em;font-weight:bold}
+dl dd{margin-bottom:1.25em}
+blockquote{margin:0 0 1.25em;padding:.5625em 1.25em 0 1.1875em;border-left:1px solid #ddd}
+blockquote,blockquote p{line-height:1.6;color:rgba(0,0,0,.85)}
+@media screen and (min-width:768px){h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2}
+h1{font-size:2.75em}
+h2{font-size:2.3125em}
+h3,#toctitle,.sidebarblock>.content>.title{font-size:1.6875em}
+h4{font-size:1.4375em}}
+table{background:#fff;margin-bottom:1.25em;border:1px solid #dedede;word-wrap:normal}
+table thead,table tfoot{background:#f7f8f7}
+table thead tr th,table thead tr td,table tfoot tr th,table tfoot tr td{padding:.5em .625em .625em;font-size:inherit;color:rgba(0,0,0,.8);text-align:left}
+table tr th,table tr td{padding:.5625em .625em;font-size:inherit;color:rgba(0,0,0,.8)}
+table tr.even,table tr.alt{background:#f8f8f7}
+table thead tr th,table tfoot tr th,table tbody tr td,table tr td,table tfoot tr td{line-height:1.6}
+h1,h2,h3,#toctitle,.sidebarblock>.content>.title,h4,h5,h6{line-height:1.2;word-spacing:-.05em}
+h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title strong,h4 strong,h5 strong,h6 strong{font-weight:400}
+.center{margin-left:auto;margin-right:auto}
+.stretch{width:100%}
+.clearfix::before,.clearfix::after,.float-group::before,.float-group::after{content:" ";display:table}
+.clearfix::after,.float-group::after{clear:both}
+:not(pre).nobreak{word-wrap:normal}
+:not(pre).nowrap{white-space:nowrap}
+:not(pre).pre-wrap{white-space:pre-wrap}
+:not(pre):not([class^=L])>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background:#f7f7f8;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
+pre{color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;line-height:1.45;text-rendering:optimizeSpeed}
+pre code,pre pre{color:inherit;font-size:inherit;line-height:inherit}
+pre>code{display:block}
+pre.nowrap,pre.nowrap pre{white-space:pre;word-wrap:normal}
+em em{font-style:normal}
+strong strong{font-weight:400}
+.keyseq{color:rgba(51,51,51,.8)}
+kbd{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;display:inline-block;color:rgba(0,0,0,.8);font-size:.65em;line-height:1.45;background:#f7f7f7;border:1px solid #ccc;border-radius:3px;box-shadow:0 1px 0 rgba(0,0,0,.2),inset 0 0 0 .1em #fff;margin:0 .15em;padding:.2em .5em;vertical-align:middle;position:relative;top:-.1em;white-space:nowrap}
+.keyseq kbd:first-child{margin-left:0}
+.keyseq kbd:last-child{margin-right:0}
+.menuseq,.menuref{color:#000}
+.menuseq b:not(.caret),.menuref{font-weight:inherit}
+.menuseq{word-spacing:-.02em}
+.menuseq b.caret{font-size:1.25em;line-height:.8}
+.menuseq i.caret{font-weight:bold;text-align:center;width:.45em}
+b.button::before,b.button::after{position:relative;top:-1px;font-weight:400}
+b.button::before{content:"[";padding:0 3px 0 2px}
+b.button::after{content:"]";padding:0 2px 0 3px}
+p a>code:hover{color:rgba(0,0,0,.9)}
+#header,#content,#footnotes,#footer{width:100%;margin:0 auto;max-width:62.5em;*zoom:1;position:relative;padding-left:.9375em;padding-right:.9375em}
+#header::before,#header::after,#content::before,#content::after,#footnotes::before,#footnotes::after,#footer::before,#footer::after{content:" ";display:table}
+#header::after,#content::after,#footnotes::after,#footer::after{clear:both}
+#content{margin-top:1.25em}
+#content::before{content:none}
+#header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
+#header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
+#header>h1:only-child{border-bottom:1px solid #dddddf;padding-bottom:8px}
+#header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:flex;flex-flow:row wrap}
+#header .details span:first-child{margin-left:-.125em}
+#header .details span.email a{color:rgba(0,0,0,.85)}
+#header .details br{display:none}
+#header .details br+span::before{content:"\00a0\2013\00a0"}
+#header .details br+span.author::before{content:"\00a0\22c5\00a0";color:rgba(0,0,0,.85)}
+#header .details br+span#revremark::before{content:"\00a0|\00a0"}
+#header #revnumber{text-transform:capitalize}
+#header #revnumber::after{content:"\00a0"}
+#content>h1:first-child:not([class]){color:rgba(0,0,0,.85);border-bottom:1px solid #dddddf;padding-bottom:8px;margin-top:0;padding-top:1rem;margin-bottom:1.25rem}
+#toc{border-bottom:1px solid #e7e7e9;padding-bottom:.5em}
+#toc>ul{margin-left:.125em}
+#toc ul.sectlevel0>li>a{font-style:italic}
+#toc ul.sectlevel0 ul.sectlevel1{margin:.5em 0}
+#toc ul{font-family:"Open Sans","DejaVu Sans",sans-serif;list-style-type:none}
+#toc li{line-height:1.3334;margin-top:.3334em}
+#toc a{text-decoration:none}
+#toc a:active{text-decoration:underline}
+#toctitle{color:#7a2518;font-size:1.2em}
+@media screen and (min-width:768px){#toctitle{font-size:1.375em}
+body.toc2{padding-left:15em;padding-right:0}
+body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+#toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
+#toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
+#toc.toc2>ul{font-size:.9em;margin-bottom:0}
+#toc.toc2 ul ul{margin-left:0;padding-left:1em}
+#toc.toc2 ul.sectlevel0 ul.sectlevel1{padding-left:0;margin-top:.5em;margin-bottom:.5em}
+body.toc2.toc-right{padding-left:0;padding-right:15em}
+body.toc2.toc-right #toc.toc2{border-right-width:0;border-left:1px solid #e7e7e9;left:auto;right:0}}
+@media screen and (min-width:1280px){body.toc2{padding-left:20em;padding-right:0}
+#toc.toc2{width:20em}
+#toc.toc2 #toctitle{font-size:1.375em}
+#toc.toc2>ul{font-size:.95em}
+#toc.toc2 ul ul{padding-left:1.25em}
+body.toc2.toc-right{padding-left:0;padding-right:20em}}
+#content #toc{border:1px solid #e0e0dc;margin-bottom:1.25em;padding:1.25em;background:#f8f8f7;border-radius:4px}
+#content #toc>:first-child{margin-top:0}
+#content #toc>:last-child{margin-bottom:0}
+#footer{max-width:none;background:rgba(0,0,0,.8);padding:1.25em}
+#footer-text{color:hsla(0,0%,100%,.8);line-height:1.44}
+#content{margin-bottom:.625em}
+.sect1{padding-bottom:.625em}
+@media screen and (min-width:768px){#content{margin-bottom:1.25em}
+.sect1{padding-bottom:1.25em}}
+.sect1:last-child{padding-bottom:0}
+.sect1+.sect1{border-top:1px solid #e7e7e9}
+#content h1>a.anchor,h2>a.anchor,h3>a.anchor,#toctitle>a.anchor,.sidebarblock>.content>.title>a.anchor,h4>a.anchor,h5>a.anchor,h6>a.anchor{position:absolute;z-index:1001;width:1.5ex;margin-left:-1.5ex;display:block;text-decoration:none!important;visibility:hidden;text-align:center;font-weight:400}
+#content h1>a.anchor::before,h2>a.anchor::before,h3>a.anchor::before,#toctitle>a.anchor::before,.sidebarblock>.content>.title>a.anchor::before,h4>a.anchor::before,h5>a.anchor::before,h6>a.anchor::before{content:"\00A7";font-size:.85em;display:block;padding-top:.1em}
+#content h1:hover>a.anchor,#content h1>a.anchor:hover,h2:hover>a.anchor,h2>a.anchor:hover,h3:hover>a.anchor,#toctitle:hover>a.anchor,.sidebarblock>.content>.title:hover>a.anchor,h3>a.anchor:hover,#toctitle>a.anchor:hover,.sidebarblock>.content>.title>a.anchor:hover,h4:hover>a.anchor,h4>a.anchor:hover,h5:hover>a.anchor,h5>a.anchor:hover,h6:hover>a.anchor,h6>a.anchor:hover{visibility:visible}
+#content h1>a.link,h2>a.link,h3>a.link,#toctitle>a.link,.sidebarblock>.content>.title>a.link,h4>a.link,h5>a.link,h6>a.link{color:#ba3925;text-decoration:none}
+#content h1>a.link:hover,h2>a.link:hover,h3>a.link:hover,#toctitle>a.link:hover,.sidebarblock>.content>.title>a.link:hover,h4>a.link:hover,h5>a.link:hover,h6>a.link:hover{color:#a53221}
+details,.audioblock,.imageblock,.literalblock,.listingblock,.stemblock,.videoblock{margin-bottom:1.25em}
+details{margin-left:1.25rem}
+details>summary{cursor:pointer;display:block;position:relative;line-height:1.6;margin-bottom:.625rem;outline:none;-webkit-tap-highlight-color:transparent}
+details>summary::-webkit-details-marker{display:none}
+details>summary::before{content:"";border:solid transparent;border-left:solid;border-width:.3em 0 .3em .5em;position:absolute;top:.5em;left:-1.25rem;transform:translateX(15%)}
+details[open]>summary::before{border:solid transparent;border-top:solid;border-width:.5em .3em 0;transform:translateY(15%)}
+details>summary::after{content:"";width:1.25rem;height:1em;position:absolute;top:.3em;left:-1.25rem}
+.admonitionblock td.content>.title,.audioblock>.title,.exampleblock>.title,.imageblock>.title,.listingblock>.title,.literalblock>.title,.stemblock>.title,.openblock>.title,.paragraph>.title,.quoteblock>.title,table.tableblock>.title,.verseblock>.title,.videoblock>.title,.dlist>.title,.olist>.title,.ulist>.title,.qlist>.title,.hdlist>.title{text-rendering:optimizeLegibility;text-align:left;font-family:"Noto Serif","DejaVu Serif",serif;font-size:1rem;font-style:italic}
+table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
+.paragraph.lead>p,#preamble>.sectionbody>[class=paragraph]:first-of-type p{font-size:1.21875em;line-height:1.6;color:rgba(0,0,0,.85)}
+.admonitionblock>table{border-collapse:separate;border:0;background:none;width:100%}
+.admonitionblock>table td.icon{text-align:center;width:80px}
+.admonitionblock>table td.icon img{max-width:none}
+.admonitionblock>table td.icon .title{font-weight:bold;font-family:"Open Sans","DejaVu Sans",sans-serif;text-transform:uppercase}
+.admonitionblock>table td.content{padding-left:1.125em;padding-right:1.25em;border-left:1px solid #dddddf;color:rgba(0,0,0,.6);word-wrap:anywhere}
+.admonitionblock>table td.content>:last-child>:last-child{margin-bottom:0}
+.exampleblock>.content{border:1px solid #e6e6e6;margin-bottom:1.25em;padding:1.25em;background:#fff;border-radius:4px}
+.sidebarblock{border:1px solid #dbdbd6;margin-bottom:1.25em;padding:1.25em;background:#f3f3f2;border-radius:4px}
+.sidebarblock>.content>.title{color:#7a2518;margin-top:0;text-align:center}
+.exampleblock>.content>:first-child,.sidebarblock>.content>:first-child{margin-top:0}
+.exampleblock>.content>:last-child,.exampleblock>.content>:last-child>:last-child,.exampleblock>.content .olist>ol>li:last-child>:last-child,.exampleblock>.content .ulist>ul>li:last-child>:last-child,.exampleblock>.content .qlist>ol>li:last-child>:last-child,.sidebarblock>.content>:last-child,.sidebarblock>.content>:last-child>:last-child,.sidebarblock>.content .olist>ol>li:last-child>:last-child,.sidebarblock>.content .ulist>ul>li:last-child>:last-child,.sidebarblock>.content .qlist>ol>li:last-child>:last-child{margin-bottom:0}
+.literalblock pre,.listingblock>.content>pre{border-radius:4px;overflow-x:auto;padding:1em;font-size:.8125em}
+@media screen and (min-width:768px){.literalblock pre,.listingblock>.content>pre{font-size:.90625em}}
+@media screen and (min-width:1280px){.literalblock pre,.listingblock>.content>pre{font-size:1em}}
+.literalblock pre,.listingblock>.content>pre:not(.highlight),.listingblock>.content>pre[class=highlight],.listingblock>.content>pre[class^="highlight "]{background:#f7f7f8}
+.literalblock.output pre{color:#f7f7f8;background:rgba(0,0,0,.9)}
+.listingblock>.content{position:relative}
+.listingblock code[data-lang]::before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:inherit;opacity:.5}
+.listingblock:hover code[data-lang]::before{display:block}
+.listingblock.terminal pre .command::before{content:attr(data-prompt);padding-right:.5em;color:inherit;opacity:.5}
+.listingblock.terminal pre .command:not([data-prompt])::before{content:"$"}
+.listingblock pre.highlightjs{padding:0}
+.listingblock pre.highlightjs>code{padding:1em;border-radius:4px}
+.listingblock pre.prettyprint{border-width:0}
+.prettyprint{background:#f7f7f8}
+pre.prettyprint .linenums{line-height:1.45;margin-left:2em}
+pre.prettyprint li{background:none;list-style-type:inherit;padding-left:0}
+pre.prettyprint li code[data-lang]::before{opacity:1}
+pre.prettyprint li:not(:first-child) code[data-lang]::before{display:none}
+table.linenotable{border-collapse:separate;border:0;margin-bottom:0;background:none}
+table.linenotable td[class]{color:inherit;vertical-align:top;padding:0;line-height:inherit;white-space:normal}
+table.linenotable td.code{padding-left:.75em}
+table.linenotable td.linenos,pre.pygments .linenos{border-right:1px solid;opacity:.35;padding-right:.5em;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+pre.pygments span.linenos{display:inline-block;margin-right:.75em}
+.quoteblock{margin:0 1em 1.25em 1.5em;display:table}
+.quoteblock:not(.excerpt)>.title{margin-left:-1.5em;margin-bottom:.75em}
+.quoteblock blockquote,.quoteblock p{color:rgba(0,0,0,.85);font-size:1.15rem;line-height:1.75;word-spacing:.1em;letter-spacing:0;font-style:italic;text-align:justify}
+.quoteblock blockquote{margin:0;padding:0;border:0}
+.quoteblock blockquote::before{content:"\201c";float:left;font-size:2.75em;font-weight:bold;line-height:.6em;margin-left:-.6em;color:#7a2518;text-shadow:0 1px 2px rgba(0,0,0,.1)}
+.quoteblock blockquote>.paragraph:last-child p{margin-bottom:0}
+.quoteblock .attribution{margin-top:.75em;margin-right:.5ex;text-align:right}
+.verseblock{margin:0 1em 1.25em}
+.verseblock pre{font-family:"Open Sans","DejaVu Sans",sans-serif;font-size:1.15rem;color:rgba(0,0,0,.85);font-weight:300;text-rendering:optimizeLegibility}
+.verseblock pre strong{font-weight:400}
+.verseblock .attribution{margin-top:1.25rem;margin-left:.5ex}
+.quoteblock .attribution,.verseblock .attribution{font-size:.9375em;line-height:1.45;font-style:italic}
+.quoteblock .attribution br,.verseblock .attribution br{display:none}
+.quoteblock .attribution cite,.verseblock .attribution cite{display:block;letter-spacing:-.025em;color:rgba(0,0,0,.6)}
+.quoteblock.abstract blockquote::before,.quoteblock.excerpt blockquote::before,.quoteblock .quoteblock blockquote::before{display:none}
+.quoteblock.abstract blockquote,.quoteblock.abstract p,.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{line-height:1.6;word-spacing:0}
+.quoteblock.abstract{margin:0 1em 1.25em;display:block}
+.quoteblock.abstract>.title{margin:0 0 .375em;font-size:1.15em;text-align:center}
+.quoteblock.excerpt>blockquote,.quoteblock .quoteblock{padding:0 0 .25em 1em;border-left:.25em solid #dddddf}
+.quoteblock.excerpt,.quoteblock .quoteblock{margin-left:0}
+.quoteblock.excerpt blockquote,.quoteblock.excerpt p,.quoteblock .quoteblock blockquote,.quoteblock .quoteblock p{color:inherit;font-size:1.0625rem}
+.quoteblock.excerpt .attribution,.quoteblock .quoteblock .attribution{color:inherit;font-size:.85rem;text-align:left;margin-right:0}
+p.tableblock:last-child{margin-bottom:0}
+td.tableblock>.content{margin-bottom:1.25em;word-wrap:anywhere}
+td.tableblock>.content>:last-child{margin-bottom:-1.25em}
+table.tableblock,th.tableblock,td.tableblock{border:0 solid #dedede}
+table.grid-all>*>tr>*{border-width:1px}
+table.grid-cols>*>tr>*{border-width:0 1px}
+table.grid-rows>*>tr>*{border-width:1px 0}
+table.frame-all{border-width:1px}
+table.frame-ends{border-width:1px 0}
+table.frame-sides{border-width:0 1px}
+table.frame-none>colgroup+*>:first-child>*,table.frame-sides>colgroup+*>:first-child>*{border-top-width:0}
+table.frame-none>:last-child>:last-child>*,table.frame-sides>:last-child>:last-child>*{border-bottom-width:0}
+table.frame-none>*>tr>:first-child,table.frame-ends>*>tr>:first-child{border-left-width:0}
+table.frame-none>*>tr>:last-child,table.frame-ends>*>tr>:last-child{border-right-width:0}
+table.stripes-all>*>tr,table.stripes-odd>*>tr:nth-of-type(odd),table.stripes-even>*>tr:nth-of-type(even),table.stripes-hover>*>tr:hover{background:#f8f8f7}
+th.halign-left,td.halign-left{text-align:left}
+th.halign-right,td.halign-right{text-align:right}
+th.halign-center,td.halign-center{text-align:center}
+th.valign-top,td.valign-top{vertical-align:top}
+th.valign-bottom,td.valign-bottom{vertical-align:bottom}
+th.valign-middle,td.valign-middle{vertical-align:middle}
+table thead th,table tfoot th{font-weight:bold}
+tbody tr th{background:#f7f8f7}
+tbody tr th,tbody tr th p,tfoot tr th,tfoot tr th p{color:rgba(0,0,0,.8);font-weight:bold}
+p.tableblock>code:only-child{background:none;padding:0}
+p.tableblock{font-size:1em}
+ol{margin-left:1.75em}
+ul li ol{margin-left:1.5em}
+dl dd{margin-left:1.125em}
+dl dd:last-child,dl dd:last-child>:last-child{margin-bottom:0}
+li p,ul dd,ol dd,.olist .olist,.ulist .ulist,.ulist .olist,.olist .ulist{margin-bottom:.625em}
+ul.checklist,ul.none,ol.none,ul.no-bullet,ol.no-bullet,ol.unnumbered,ul.unstyled,ol.unstyled{list-style-type:none}
+ul.no-bullet,ol.no-bullet,ol.unnumbered{margin-left:.625em}
+ul.unstyled,ol.unstyled{margin-left:0}
+li>p:empty:only-child::before{content:"";display:inline-block}
+ul.checklist>li>p:first-child{margin-left:-1em}
+ul.checklist>li>p:first-child>.fa-square-o:first-child,ul.checklist>li>p:first-child>.fa-check-square-o:first-child{width:1.25em;font-size:.8em;position:relative;bottom:.125em}
+ul.checklist>li>p:first-child>input[type=checkbox]:first-child{margin-right:.25em}
+ul.inline{display:flex;flex-flow:row wrap;list-style:none;margin:0 0 .625em -1.25em}
+ul.inline>li{margin-left:1.25em}
+.unstyled dl dt{font-weight:400;font-style:normal}
+ol.arabic{list-style-type:decimal}
+ol.decimal{list-style-type:decimal-leading-zero}
+ol.loweralpha{list-style-type:lower-alpha}
+ol.upperalpha{list-style-type:upper-alpha}
+ol.lowerroman{list-style-type:lower-roman}
+ol.upperroman{list-style-type:upper-roman}
+ol.lowergreek{list-style-type:lower-greek}
+.hdlist>table,.colist>table{border:0;background:none}
+.hdlist>table>tbody>tr,.colist>table>tbody>tr{background:none}
+td.hdlist1,td.hdlist2{vertical-align:top;padding:0 .625em}
+td.hdlist1{font-weight:bold;padding-bottom:1.25em}
+td.hdlist2{word-wrap:anywhere}
+.literalblock+.colist,.listingblock+.colist{margin-top:-.5em}
+.colist td:not([class]):first-child{padding:.4em .75em 0;line-height:1;vertical-align:top}
+.colist td:not([class]):first-child img{max-width:none}
+.colist td:not([class]):last-child{padding:.25em 0}
+.thumb,.th{line-height:0;display:inline-block;border:4px solid #fff;box-shadow:0 0 0 1px #ddd}
+.imageblock.left{margin:.25em .625em 1.25em 0}
+.imageblock.right{margin:.25em 0 1.25em .625em}
+.imageblock>.title{margin-bottom:0}
+.imageblock.thumb,.imageblock.th{border-width:6px}
+.imageblock.thumb>.title,.imageblock.th>.title{padding:0 .125em}
+.image.left,.image.right{margin-top:.25em;margin-bottom:.25em;display:inline-block;line-height:0}
+.image.left{margin-right:.625em}
+.image.right{margin-left:.625em}
+a.image{text-decoration:none;display:inline-block}
+a.image object{pointer-events:none}
+sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
+sup.footnote a,sup.footnoteref a{text-decoration:none}
+sup.footnote a:active,sup.footnoteref a:active,#footnotes .footnote a:first-of-type:active{text-decoration:underline}
+#footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
+#footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
+#footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
+#footnotes .footnote a:first-of-type{font-weight:bold;text-decoration:none;margin-left:-1.05em}
+#footnotes .footnote:last-of-type{margin-bottom:0}
+#content #footnotes{margin-top:-.625em;margin-bottom:0;padding:.75em 0}
+div.unbreakable{page-break-inside:avoid}
+.big{font-size:larger}
+.small{font-size:smaller}
+.underline{text-decoration:underline}
+.overline{text-decoration:overline}
+.line-through{text-decoration:line-through}
+.aqua{color:#00bfbf}
+.aqua-background{background:#00fafa}
+.black{color:#000}
+.black-background{background:#000}
+.blue{color:#0000bf}
+.blue-background{background:#0000fa}
+.fuchsia{color:#bf00bf}
+.fuchsia-background{background:#fa00fa}
+.gray{color:#606060}
+.gray-background{background:#7d7d7d}
+.green{color:#006000}
+.green-background{background:#007d00}
+.lime{color:#00bf00}
+.lime-background{background:#00fa00}
+.maroon{color:#600000}
+.maroon-background{background:#7d0000}
+.navy{color:#000060}
+.navy-background{background:#00007d}
+.olive{color:#606000}
+.olive-background{background:#7d7d00}
+.purple{color:#600060}
+.purple-background{background:#7d007d}
+.red{color:#bf0000}
+.red-background{background:#fa0000}
+.silver{color:#909090}
+.silver-background{background:#bcbcbc}
+.teal{color:#006060}
+.teal-background{background:#007d7d}
+.white{color:#bfbfbf}
+.white-background{background:#fafafa}
+.yellow{color:#bfbf00}
+.yellow-background{background:#fafa00}
+span.icon>.fa{cursor:default}
+a span.icon>.fa{cursor:inherit}
+.admonitionblock td.icon [class^="fa icon-"]{font-size:2.5em;text-shadow:1px 1px 2px rgba(0,0,0,.5);cursor:default}
+.admonitionblock td.icon .icon-note::before{content:"\f05a";color:#19407c}
+.admonitionblock td.icon .icon-tip::before{content:"\f0eb";text-shadow:1px 1px 2px rgba(155,155,0,.8);color:#111}
+.admonitionblock td.icon .icon-warning::before{content:"\f071";color:#bf6900}
+.admonitionblock td.icon .icon-caution::before{content:"\f06d";color:#bf3400}
+.admonitionblock td.icon .icon-important::before{content:"\f06a";color:#bf0000}
+.conum[data-value]{display:inline-block;color:#fff!important;background:rgba(0,0,0,.8);border-radius:50%;text-align:center;font-size:.75em;width:1.67em;height:1.67em;line-height:1.67em;font-family:"Open Sans","DejaVu Sans",sans-serif;font-style:normal;font-weight:bold}
+.conum[data-value] *{color:#fff!important}
+.conum[data-value]+b{display:none}
+.conum[data-value]::after{content:attr(data-value)}
+pre .conum[data-value]{position:relative;top:-.125em}
+b.conum *{color:inherit!important}
+.conum:not([data-value]):empty{display:none}
+dt,th.tableblock,td.content,div.footnote{text-rendering:optimizeLegibility}
+h1,h2,p,td.content,span.alt,summary{letter-spacing:-.01em}
+p strong,td.content strong,div.footnote strong{letter-spacing:-.005em}
+p,blockquote,dt,td.content,td.hdlist1,span.alt,summary{font-size:1.0625rem}
+p{margin-bottom:1.25rem}
+.sidebarblock p,.sidebarblock dt,.sidebarblock td.content,p.tableblock{font-size:1em}
+.exampleblock>.content{background:#fffef7;border-color:#e0e0dc;box-shadow:0 1px 4px #e0e0dc}
+.print-only{display:none!important}
+@page{margin:1.25cm .75cm}
+@media print{*{box-shadow:none!important;text-shadow:none!important}
+html{font-size:80%}
+a{color:inherit!important;text-decoration:underline!important}
+a.bare,a[href^="#"],a[href^="mailto:"]{text-decoration:none!important}
+a[href^="http:"]:not(.bare)::after,a[href^="https:"]:not(.bare)::after{content:"(" attr(href) ")";display:inline-block;font-size:.875em;padding-left:.25em}
+abbr[title]{border-bottom:1px dotted}
+abbr[title]::after{content:" (" attr(title) ")"}
+pre,blockquote,tr,img,object,svg{page-break-inside:avoid}
+thead{display:table-header-group}
+svg{max-width:100%}
+p,blockquote,dt,td.content{font-size:1em;orphans:3;widows:3}
+h2,h3,#toctitle,.sidebarblock>.content>.title{page-break-after:avoid}
+#header,#content,#footnotes,#footer{max-width:none}
+#toc,.sidebarblock,.exampleblock>.content{background:none!important}
+#toc{border-bottom:1px solid #dddddf!important;padding-bottom:0!important}
+body.book #header{text-align:center}
+body.book #header>h1:first-child{border:0!important;margin:2.5em 0 1em}
+body.book #header .details{border:0!important;display:block;padding:0!important}
+body.book #header .details span:first-child{margin-left:0!important}
+body.book #header .details br{display:block}
+body.book #header .details br+span::before{content:none!important}
+body.book #toc{border:0!important;text-align:left!important;padding:0!important;margin:0!important}
+body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-break-before:always}
+.listingblock code[data-lang]::before{display:block}
+#footer{padding:0 .9375em}
+.hide-on-print{display:none!important}
+.print-only{display:block!important}
+.hide-for-print{display:none!important}
+.show-for-print{display:inherit!important}}
+@media amzn-kf8,print{#header>h1:first-child{margin-top:1.25rem}
+.sect1{padding:0!important}
+.sect1+.sect1{border:0}
+#footer{background:none}
+#footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
+@media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
+</style>
+<meta
+	name="keywords"
+	content="OTC, Our Tech Community, OTC CatchUp, Catch Up, CatchUp, summary"
+/>
+<meta name="description" content="Weekly informal Tech discussions." />
+<meta property="og:site_name" content="OTC CatchUp" />
+<meta
+	property="og:title"
+	content="OTC CatchUp #62 Summary"
+/>
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Weekly informal Tech discussions." />
+<meta
+	property="og:url"
+	content="https://catchup.ourtech.community/summary/62"
+/>
+<meta
+	property="og:image"
+	content="https://catchup.ourtech.community/public/img/summary/og-img/individual-summary.png"
+/>
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="600" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta
+	property="twitter:image"
+	content="https://catchup.ourtech.community/public/img/summary/og-img/individual-summary.png"
+/>
+
+<script
+	async
+	src="https://analytics.ourtech.community/script.js"
+	data-website-id="b8043870-edd4-467a-bf1b-0543db54baef"
+></script>
+<script defer src="/public/js/summary/summary-script.js"></script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+	href="https://fonts.googleapis.com/css2?family=PT+Mono&family=Montserrat&display=swap"
+	rel="stylesheet"
+/>
+
+<link rel="stylesheet" href="/public/css/summary/summary-style.css" />
+</head>
+<body class="article">
+<div id="header">
+<h1>OTC CatchUp #62 Summary</h1>
+<div class="details">
+<span id="author" class="author">Our Tech Community</span><br>
+<span id="revnumber">version 1</span>
+</div>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<hr>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_about_otc_catchup"><a class="anchor" href="#_about_otc_catchup"></a>About OTC CatchUp</h2>
+<div class="sectionbody">
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<img loading="lazy" src="/public/img/summary/admonition_icons/note.png" alt="Note">
+</td>
+<td class="content">
+<a href="https://catchup.ourtech.community" target="_blank" rel="noopener">OTC CatchUps</a> are weekly informal sessions involving project showcases and technical discussions. They are held every Saturday from 10:30 PM IST. <a href="https://catchup.ourtech.community/attend" target="_blank" rel="noopener">Join in!</a>.<br>
+For all summaries, please visit <a href="https://catchup.ourtech.community/summary">catchup.ourtech.community/summary</a>.
+</td>
+</tr>
+</table>
+</div>
+<hr>
+<div class="sect2">
+<h3 id="62"><a class="anchor" href="#62"></a><a href="/summary/62">OTC CatchUp #62</a></h3>
+<div class="paragraph">
+<p>Date: 15-01-2022</p>
+</div>
+<div class="paragraph">
+<p>Duration: 10 hrs 30 mins</p>
+</div>
+<div class="sect3">
+<h4 id="_topics_discussed"><a class="anchor" href="#_topics_discussed"></a>Topics Discussed</h4>
+<div class="ulist">
+<ul>
+<li>
+<p>General introductions.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/_SharmaHimanshu" target="_blank" rel="noopener">Himanshu Sharma</a> shared his blogging profiles</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://devlibrary.withgoogle.com/authors/himanshusharma89" target="_blank" rel="noopener">Google Dev Library</a></p>
+</li>
+<li>
+<p><a href="https://blog.logrocket.com/author/himanshusharma" target="_blank" rel="noopener">Log Rocket</a></p>
+</li>
+<li>
+<p><a href="https://medium.com/@himanshusharma89" target="_blank" rel="noopener">Medium</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://twitter.com/harshgkapadia" target="_blank" rel="noopener">Harsh Kapadia</a> told everyone about his upcoming talk on Git Internals at <a href="https://twitter.com/_syadav">Sudhanshu Yadav</a>'s meetup group <a href="https://www.meetup.com/The-Internals">The Internals</a>.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.meetup.com/The-Internals/events/283200145" target="_blank" rel="noopener">RSVP &amp; Details</a></p>
+</li>
+<li>
+<p>When: 22/01/2022, from 4 to 6 PM IST</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>We talked about <a href="https://en.wikipedia.org/wiki/Preboot_Execution_Environment" target="_blank" rel="noopener">PXE</a> (Preboot eXecution Environment) and <a href="https://ipxe.org" target="_blank" rel="noopener">iPXE</a> which is an open-source implementation of PXE.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/guyinthecape" target="_blank" rel="noopener">Vatsal Patel</a> talked about the kind of projects he was working on at AMD as a Field Application Engineer (FAE).</p>
+<div class="ulist">
+<ul>
+<li>
+<p>He talked about writing scripts to automate the installation process of Windows and Linux at AMD labs so that people could access their machines quicker.</p>
+</li>
+<li>
+<p>He shared <a href="https://theforeman.org" target="_blank" rel="noopener">Foreman</a>, which is a free open source project that gives one the power to easily automate repetitive tasks, quickly deploy applications and proactively manage server life cycle, on-premises or in the cloud.</p>
+</li>
+<li>
+<p>He also talked about his job role as a Field Application Engineer (FAE) and we drew comparisons between a FAE and a SRE&#8217;s (Site Reliability Engineer&#8217;s) responsibilities in an organisation.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared a book on <a href="https://sre.google/sre-book/table-of-contents" target="_blank" rel="noopener">Site Reliability Engineering</a>.</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://twitter.com/_SharmaHimanshu" target="_blank" rel="noopener">Himanshu Sharma</a> shared a link to <a href="https://developer.android.com/guide/topics/data/autobackup#EnablingAutoBackup" target="_blank" rel="noopener">a guide</a> on how to enable and disable Google Drive&#8217;s auto backup on Android.</p>
+</li>
+<li>
+<p>A link to the tool <a href="https://bundlephobia.com" target="_blank" rel="noopener">Bundlephobia</a> was shared, which lets one understand the performance cost (bundle size, package composition/dependencies and exports analysis) of `npm install`ing a new NPM package.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/_SharmaHimanshu" target="_blank" rel="noopener">Himanshu Sharma</a> talked about securing mobile users' sensitive information (like passwords) by encrypting them on device, which allows for offline access as well. He is currently writing an article on it.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/KRISHNAGADIA" target="_blank" rel="noopener">Krishna Gadia</a> talked about securing passwords for a client using the <a href="https://aws.amazon.com/kms" target="_blank" rel="noopener">AWS Key Management Service</a>, where the client received a password protected Excel sheet via e-mail and the password on WhatsApp.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/KRISHNAGADIA" target="_blank" rel="noopener">Krishna Gadia</a> shared a link to <a href="https://overthewire.org/wargames/bandit" target="_blank" rel="noopener">Bandit</a> wargame.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/KRISHNAGADIA" target="_blank" rel="noopener">Krishna Gadia</a> also shared a link to <a href="https://en.wikipedia.org/wiki/FURPS" target="_blank" rel="noopener">FURPS</a>.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/howdevelop" target="_blank" rel="noopener">Shivay Lamba</a> shared his experience at the <a href="https://hackmit.org" target="_blank" rel="noopener">HackMIT</a> 2019 hackathon.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>He shared <a href="https://www.youtube.com/watch?v=rFmLrkuFr_w" target="_blank" rel="noopener">a walkthrough of a puzzle</a> that one had to solve to get into the hackathon.</p>
+</li>
+<li>
+<p>He also shared <a href="https://medium.com/hackmit-stories/hackmirror-the-hackmit-2018-puzzle-guide-4be38d5fc673" target="_blank" rel="noopener">HackMirror: The HackMIT 2018 Puzzle Guide</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://twitter.com/KRISHNAGADIA" target="_blank" rel="noopener">Krishna Gadia</a> asked about <a href="https://www.tutorialspoint.com/big-endian-and-little-endian" target="_blank" rel="noopener">Little Endian and Big Endian</a> and <a href="https://twitter.com/jai_dewani" target="_blank" rel="noopener">Jai Dewani</a> shared <a href="https://stackoverflow.com/questions/9237317/what-makes-a-system-little-endian-or-big-endian" target="_blank" rel="noopener">an answer</a>.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/kaku_jay" target="_blank" rel="noopener">Jay Kaku</a> told everyone about the <a href="https://www.nand2tetris.org" target="_blank" rel="noopener">Nand to Tetris Course</a>, shared his experience of the course and also gave us a walkthrough of the course.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared an article <a href="https://pkolaczk.github.io/server-slower-than-a-laptop" target="_blank" rel="noopener">How a Single Line of Code Made a 24-core Server Slower Than a Laptop</a>.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> asked us to explore the <a href="https://en.wikipedia.org/wiki/MESI_protocol" target="_blank" rel="noopener">MESI Protocol</a>.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Lecture slides on <a href="https://www.cs.utexas.edu/~pingali/CS377P/2018sp/lectures/mesi.pdf" target="_blank" rel="noopener">Cache coherence in shared-memory architectures &amp; the MESI Protocol</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>We also talked about <a href="https://en.wikipedia.org/wiki/Code_morphing" target="_blank" rel="noopener">Code morphing</a>.</p>
+</li>
+<li>
+<p>We talked about x86 &amp; ARM instructions.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared a video on <a href="https://www.youtube.com/watch?v=KrksBdWcZgQ" target="_blank" rel="noopener">Breaking the x86 Instruction Set</a>.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> asked us to look up <a href="https://en.wikipedia.org/wiki/Self-modifying_code" target="_blank" rel="noopener">Self Modifying Code</a> and <a href="https://en.wikipedia.org/wiki/Turing_completeness" target="_blank" rel="noopener">Turing completeness</a>.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>A <a href="https://www.youtube.com/watch?v=SWU_DgjSwRU" target="_blank" rel="noopener">video</a> on Self Modifying Code.</p>
+</li>
+<li>
+<p>A video on <a href="https://www.youtube.com/watch?v=_3loq22TxSc" target="_blank" rel="noopener">PowerPoint programming</a>.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect" target="_blank" rel="noopener">Peripheral Component Interconnect (PCI)</a></p>
+<div class="ulist">
+<ul>
+<li>
+<p>We talked about PCI devices and how they connect to various controllers inside a processor.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared the <a href="https://github.com/amd/amd_hsmp" target="_blank" rel="noopener">AMD HSMP module</a> with us, which provides user interface to system management features and can also help us write our own <a href="https://www.howtogeek.com/405806/windows-task-manager-the-complete-guide" target="_blank" rel="noopener">Task Manager</a>.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared <a href="https://github.com/pciutils/pciutils" target="_blank" rel="noopener">PCI utilities (<code>pciutils</code>)</a> to manage PCI devices.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> also talked about the <a href="https://www.kernel.org/doc/html/latest/admin-guide/acpi/cppc_sysfs.html" target="_blank" rel="noopener">CPPC</a>, which describes a mechanism for the OS to manage the performance of a logical processor. It exposes a set of registers to describe abstract performance scale, to request performance levels and to measure per-CPU delivered performance.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/omtalk" target="_blank" rel="noopener">Omkar Khair</a> shared a <a href="https://cs.lmu.edu/~ray/notes/quineprograms" target="_blank" rel="noopener">website about Quine Programs</a>.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/kaku_jay" target="_blank" rel="noopener">Jay Kaku</a> asked about the approach of taking a security-first approach while building Microprocessors, to which <a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> replied, "The cost of securing something should not be more than the cost of what you&#8217;re securing."</p>
+</li>
+<li>
+<p><a href="https://twitter.com/kaku_jay" target="_blank" rel="noopener">Jay Kaku</a> shared a video on <a href="https://www.youtube.com/watch?v=_E0PWQvW-14" target="_blank" rel="noopener">How the Apple AirTags were hacked</a>.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> told us about the <a href="https://www.cpuid.com/softwares/cpu-z.html" target="_blank" rel="noopener">CPU-Z</a> freeware that gathers information on some of the main devices of our systems.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> also told us about the current CTO of Microsoft Azure <a href="https://www.linkedin.com/in/markrussinovich" target="_blank" rel="noopener">Mark Russinovich</a>, who even after 26 years still maintains and updates <a href="https://docs.microsoft.com/en-us/sysinternals" target="_blank" rel="noopener">Sysinternals</a>, a set of utilities he created to help manage, troubleshoot and diagnose Windows systems and applications.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared with everyone <a href="https://www.autoitscript.com" target="_blank" rel="noopener">AutoIt</a>, a scripting language designed for automating the Windows GUI and general scripting. He added that they used to use it for game &amp; Excel sheet automation.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared a video on <a href="https://www.youtube.com/watch?v=VhFkWl5u6_k" target="_blank" rel="noopener">AMD Ryzen 7 1700 vs Intel i7-7700K in Excel</a>.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> and <a href="https://twitter.com/omtalk" target="_blank" rel="noopener">Omkar Khair</a> discussed how everyone used to use <a href="https://www.pidgin.im/" target="_blank" rel="noopener">Pidgin</a> and other <a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat" target="_blank" rel="noopener">IRCs</a> where they could form groups of people using different technologies to interact with each other.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Omkar expressed his disdain on how current messaging platform are rigid and aren&#8217;t compatible with each other. A WhatsApp user can unfortunately not send a message to a Telegram user.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> also shared <a href="https://github.com/tridactyl/tridactyl" target="_blank" rel="noopener">Tridactyl</a> which is a Vim-like interface for Firefox, which allows one to completely operate Firefox with the keyboard.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared how streaming services like Netflix check devices they&#8217;re being played on and offer videos quality based on that. It also helps in protecting their higher quality video formats.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.widevine.com" target="_blank" rel="noopener">Widevine</a></p>
+</li>
+<li>
+<p><a href="https://news.microsoft.com/2010/05/25/netflix-taps-microsoft-playready-as-its-primary-drm-technology-for-netflix-ready-devices-and-applications" target="_blank" rel="noopener">Netflix Taps Microsoft PlayReady as Its Primary DRM Technology for Netflix Ready Devices and Applications</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared a video <a href="https://www.youtube.com/watch?v=4SjOv_szzVM" target="_blank" rel="noopener">What It Takes to Break a RAM with ESD</a>.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> told everyone how <a href="https://www.kernel.org/doc/html/latest/block/inline-encryption.html">Inline Encryption and Decryption</a> prevents other people from accessing previously stored data on the same storage drive.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared a talk on <a href="https://www.youtube.com/watch?v=kIQByfvsDa0" target="_blank" rel="noopener">AMD x86 Memory Encryption Technologies</a>.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> told us about <a href="https://www.howtogeek.com/444787/multi-layer-ssds-what-are-slc-mlc-tlc-qlc-and-mlc" target="_blank" rel="noopener">Multi-Layer SSDs (SLC, MLC, TLC, QLC and PLC)</a>.</p>
+</li>
+<li>
+<p>We talked about <a href="https://www.zmanda.com/blog/what-is-tape-storage" target="_blank" rel="noopener">Storage Tapes</a> and <a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared a video on the <a href="https://www.youtube.com/watch?v=CVN93H6EuAU" target="_blank" rel="noopener">IBM System Storage Tape Library</a>.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/omtalk" target="_blank" rel="noopener">Omkar Khair</a> suggested</p>
+<div class="ulist">
+<ul>
+<li>
+<p>Whenever one is looking to learn about the working of something, they should first write down what they think must be happening and then go about learning it. Once one has learnt it, they should compare the two and understand how they think and realise how they could think better.</p>
+</li>
+<li>
+<p>Go deeper and not too broad.</p>
+</li>
+<li>
+<p>Look for compounded profits rather than immediate results.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://norvig.com/21-days.html" target="_blank" rel="noopener">Teach Yourself Programming in Ten Years</a></p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://twitter.com/gupta_shrinath" target="_blank" rel="noopener">Shrinath Gupta</a> asked for suggestions on which service to use if he had to store images and possibly videos in the near future.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/harshgkapadia" target="_blank" rel="noopener">Harsh Kapadia</a> shared a video on <a href="https://www.youtube.com/watch?v=0myM0k1mjZw" target="_blank" rel="noopener">Capacity Planning and Estimation: How much data does YouTube store daily?</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://twitter.com/harshgkapadia" target="_blank" rel="noopener">Harsh Kapadia</a> shared a talk on <a href="https://www.youtube.com/watch?v=R4jZ_Mylqaw" target="_blank" rel="noopener">Concept Visualise - JavaScript Internals</a></p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> told about the various <a href="https://www.howtogeek.com/165064/what-is-overclocking-the-absolute-beginners-guide-to-understanding-how-geeks-speed-up-their-pcs" target="_blank" rel="noopener">Overclocking</a> events he had been to.</p>
+</li>
+<li>
+<p>Container management</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> told everyone about how they used to use <a href="https://parallel-ssh.org" target="_blank" rel="noopener">ParallelSSH</a> back in the day when <a href="https://kubernetes.io" target="_blank" rel="noopener">Kubernetes</a> did not exist.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> shared a paper <a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf" target="_blank" rel="noopener">Large-scale cluster management at Google with Borg</a> which is a predecessor to Kubernetes.</p>
+</li>
+<li>
+<p>An article by Kubernetes on <a href="https://kubernetes.io/blog/2015/04/borg-predecessor-to-kubernetes" target="_blank" rel="noopener">Borg: The Predecessor to Kubernetes</a>.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p>We talked about Monorepos.</p>
+<div class="ulist">
+<ul>
+<li>
+<p>A video on <a href="https://www.youtube.com/watch?v=W71BTkUbdqE" target="_blank" rel="noopener">Why Google Stores Billions of Lines of Code in a Single Repository</a></p>
+</li>
+<li>
+<p>A video <a href="https://www.youtube.com/watch?v=9iU_IE6vnJ8" target="_blank" rel="noopener">Monorepos - How the Pros Scale Huge Software Projects</a></p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://twitter.com/frenzyritz13" target="_blank" rel="noopener">Ritvi Mishra</a> shared an invite to the <a href="https://discord.gg/k6MwUH6h" target="_blank" rel="noopener">Arm Software Developers Discord server</a> where they have hardware focused discussions and weekly meetups.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_projects_showcased"><a class="anchor" href="#_projects_showcased"></a>Projects Showcased</h4>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/TweeterDowny" target="_blank" rel="noopener">Vedant Panchal</a> showcased his <a href="https://insta-post-designer.herokuapp.com" target="_blank" rel="noopener">Personal Intro Post Designer</a> project.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://insta-post-designer.herokuapp.com" target="_blank" rel="noopener">Hosted project</a></p>
+</li>
+<li>
+<p><a href="https://github.com/DeveloperDowny/personal_intro_post_designer" target="_blank" rel="noopener">GitHub repository</a></p>
+</li>
+<li>
+<p><a href="https://www.instagram.com/spit_freshers2021" target="_blank" rel="noopener">Example Post</a></p>
+</li>
+<li>
+<p>He shared an article on <a href="https://rathorji.in/p/how_to_crop_the_image_before_uploading_it_with_cropper_js_php" target="_blank" rel="noopener">how to crop an image before uploading it with Cropper JS &amp; PHP</a>.</p>
+</li>
+<li>
+<p>He also shared a <a href="https://codepen.io/samnorton/pen/oNYajYM" target="_blank" rel="noopener">CodePen</a> of an HTML form UI with validation code.</p>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> showcased a SSD with ~2 TB storage and showed us the storage chips, cache storage chips, capacitors and the controller on the board.</p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a> showcased the first version of <a href="https://www.amd.com/en/products/epyc" target="_blank" rel="noopener">AMD Epyc boards</a>, which are processor boards for data centers.</p>
+</li>
+<li>
+<p><a href="https://twitter.com/omtalk" target="_blank" rel="noopener">Omkar Khair</a> talked about <a href="https://dopemin.com" target="_blank" rel="noopener">Dopemin</a>, his e-mail proxy project.</p>
+<div class="ulist">
+<ul>
+<li>
+<p><a href="https://twitter.com/harshgkapadia" target="_blank" rel="noopener">Harsh Kapadia</a> shared an article about <a href="https://explained-from-first-principles.com/email" target="_blank" rel="noopener">e-mail</a>, which covers most of the concepts.</p>
+</li>
+<li>
+<p>Omkar shared <a href="https://www.learndmarc.com" target="_blank" rel="noopener">learndmarc.com</a> to learn and test <a href="https://explained-from-first-principles.com/email/#domain-based-message-authentication-reporting-and-conformance" target="_blank" rel="noopener">DMARC</a>.</p>
+</li>
+<li>
+<p>Omkar also advised using <a href="https://aws.amazon.com/cloudwatch" target="_blank" rel="noopener">AWS CloudWatch</a> for project cost limit notifications/e-mails.</p>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_attendees"><a class="anchor" href="#_attendees"></a>Attendees</h4>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="https://twitter.com/TweeterDowny" target="_blank" rel="noopener">Vedant Panchal</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/0xSaurabh" target="_blank" rel="noopener">Saurabh Suryan</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/_SharmaHimanshu" target="_blank" rel="noopener">Himanshu Sharma</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/DhiruCodes" target="_blank" rel="noopener">Dheeraj Lalwani</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/furtado_jaden" target="_blank" rel="noopener">Jaden Furtado</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/harshgkapadia" target="_blank" rel="noopener">Harsh Kapadia</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/KartikSoneji_" target="_blank" rel="noopener">Kartik Soneji</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/rishit_dagli" target="_blank" rel="noopener">Rishit Dagli</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/skxrxn" target="_blank" rel="noopener">Sreekaran Srinath</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/kaku_jay" target="_blank" rel="noopener">Jay Kaku</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/hardikraheja" target="_blank" rel="noopener">Hardik Raheja</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/SirusTweets" target="_blank" rel="noopener">Darshan Rander</a></p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/anilharwani" target="_blank" rel="noopener">Anil Harwani</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/ashfaq_ulhaq" target="_blank" rel="noopener">Ashfaq</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/KRISHNAGADIA" target="_blank" rel="noopener">Krishna Gadia</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/frenzyritz13" target="_blank" rel="noopener">Ritvi Mishra</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/guyinthecape" target="_blank" rel="noopener">Vatsal Patel</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/adityaoberai1" target="_blank" rel="noopener">Aditya Oberai</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/howdevelop" target="_blank" rel="noopener">Shivay Lamba</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/jai_dewani" target="_blank" rel="noopener">Jai Dewani</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/omtalk" target="_blank" rel="noopener">Omkar Khair</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/palC0DES" target="_blank" rel="noopener">Aayush Pal</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/AnxKhn" target="_blank" rel="noopener">Anas Khan</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/Aryannayakk" target="_blank" rel="noopener">Aryan Nayak</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/m_ashishvb" target="_blank" rel="noopener">Ashish Bhogesara</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/heyayushh" target="_blank" rel="noopener">Ayush Chauhan</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/gargi_sathe" target="_blank" rel="noopener">Gargi Sathe</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/ishandeveloper" target="_blank" rel="noopener">Ishan Sharma</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/JatinCh1326" target="_blank" rel="noopener">Jatin Chaudhary</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/kartikchow" target="_blank" rel="noopener">Kartik Choudhary</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/KartikSoneji_" target="_blank" rel="noopener">Kartik Soneji</a></p>
+</li>
+<li>
+<p><a href="https://www.linkedin.com/in/nishanth-sanjeev" target="_blank" rel="noopener">Nishanth Sanjeev</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/PranavDani3" target="_blank" rel="noopener">Pranav Dani</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/devout_coder" target="_blank" rel="noopener">Pranil Chitre</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/rajatverma2502" target="_blank" rel="noopener">Rajat Verma</a></p>
+</li>
+<li>
+<p><a href="https://twitter.com/KarbeleKedar" target="_blank" rel="noopener">Kedar Karbele</a></p>
+</li>
+<li>
+<p>Paul Atreides☺</p>
+</li>
+<li>
+<p>Hiten Gerella</p>
+</li>
+<li>
+<p>Arya Sheth</p>
+</li>
+<li>
+<p>Sneh Mirani</p>
+</li>
+<li>
+<p>Darshil Marathe</p>
+</li>
+<li>
+<p>Krishana Dave</p>
+</li>
+<li>
+<p>Krithiik S</p>
+</li>
+<li>
+<p>Mohit Nautiyal</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_meet_screenshot"><a class="anchor" href="#_meet_screenshot"></a>Meet Screenshot</h4>
+<div class="imageblock">
+<div class="content">
+<img loading="lazy" src="/public/img/summary/062.jpg" alt="Meet #62 screenshot" width="600" height="600">
+</div>
+</div>
+<hr>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<img loading="lazy" src="/public/img/summary/admonition_icons/note.png" alt="Note">
+</td>
+<td class="content">
+For all summaries, please visit <a href="https://catchup.ourtech.community/summary">catchup.ourtech.community/summary</a>.
+</td>
+</tr>
+</table>
+</div>
+<hr>
+<div id="_improve_content" class="paragraph">
+<p>Want to improve the content of this page?</p>
+</div>
+<div class="ulist improve-buttons">
+<ul>
+<li>
+<p><a href="https://github.com/OurTechCommunity/catchup/tree/main/summary/sessions/62" target="_blank" rel="noopener">Edit this summary on GitHub.</a></p>
+</li>
+<li>
+<p><a href="https://github.com/OurTechCommunity/catchup/issues/new?title=Improve%20Summary%20No.%2062&amp;body=%3E%20Please%20describe%20the%20issue%20with%20the%20summary%20content%20and%20the%20changes%20to%20be%20made." target="_blank" rel="noopener">Report an issue.</a></p>
+</li>
+<li>
+<p><a href="https://github.com/OurTechCommunity/catchup/blob/main/summary/sessions/62" target="_blank" rel="noopener">View the source on GitHub.</a></p>
+</li>
+</ul>
+</div>
+<div class="paragraph contribute">
+<p>Want to get more involved? <a href="https://github.com/OurTechCommunity/catchup/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">Learn how to contribute.</a></p>
+</div>
+<hr>
+<div class="quoteblock">
+<blockquote>
+We rise by lifting others.
+</blockquote>
+<div class="attribution">
+&#8212; Robert Ingersoll
+</div>
+</div>
+<div class="quoteblock">
+<blockquote>
+Kindness always wins.
+</blockquote>
+<div class="attribution">
+&#8212; Selena Gomez
+</div>
+</div>
+<div class="quoteblock">
+<blockquote>
+Alone we can do so little; together we can do so much.
+</blockquote>
+<div class="attribution">
+&#8212; Helen Keller
+</div>
+</div>
+<hr>
+<button class="btn hidden back-to-top-btn" aria-label="Scroll to top"><img loading="lazy" src="../public/img/summary/up-arrow.svg" alt="Top"></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer">
+	Created using&nbsp;
+	<a
+		href="https://harshkapadia2.github.io/asciidoctor-jet"
+		target="_blank"
+		rel="noreferrer"
+		><i>Asciidoctor Jet</i></a
+	>.
+</div>
+</body>
+</html>
