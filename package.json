@@ -29,7 +29,10 @@
 		"express": "^4.18.2"
 	},
 	"devDependencies": {
+		"@netlify/functions": "^2.6.0",
+		"@types/node": "^20.11.17",
 		"nodemon": "^3.0.0",
-		"prettier": "2.7.1"
+		"prettier": "2.7.1",
+		"typescript": "^5.3.3"
 	}
 }
