@@ -4,7 +4,7 @@ Duration: 3 hrs
 
 ==== Topics Discussed
 
-* General Introduction.
+* General introductions.
 * link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared that he recently got a new job at link:https://heymarvin.com[HeyMarvin^].
     ** He also shared a link to the project that he was recently working on called link:https://github.com/LFG-twt-dev/postpone[Postpone^].
 * link:https://roadmap.sh/ai-data-scientist[AI/ML Roadmap^] asked by Harshit Malang.
@@ -13,9 +13,9 @@ Duration: 3 hrs
     ** link:https://www.pulumi.com[Pulumi^]
     ** link:https://www.serverless.com/framework/docs/providers/aws/cli-reference/deploy/[SLS^].
 * link:https://twitter.com/DSdatsme[Darshit Suratwala^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] had a chat about link:https://www.hashicorp.com[HashiCorp^], its licensing changes and a discussion around the implications of these changes.
-    ** link:https://zeet.co/blog/the-impact-of-hashicorps-license-change-on-terraform-users-and-providers-what-you-need-to-know/[The Impact of HashiCorp's License Change on Terraform Users and Providers: What You Need to Know^].
+    ** link:https://zeet.co/blog/the-impact-of-hashicorps-license-change-on-terraform-users-and-providers-what-you-need-to-know[The Impact of HashiCorp's License Change on Terraform Users and Providers: What You Need to Know^].
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] referenced a few system design resources that he shared in one of the link:https://catchup.ourtech.community/summary#:~:text=Harsh%20Kapadia%20shared%20a%20few%20resources%20for%20System%20Design.[previous CatchUp^] sessions.
-* While sharing his project, link:https://twitter.com/PranavDani3[Pranav Dani^] talked a bit about D3.js and difference between link:https://aircada.com/three-js-vs-d3-js/[D3.js and Three.js^].
+* While sharing his project, link:https://twitter.com/PranavDani3[Pranav Dani^] talked a bit about D3.js and difference between link:https://aircada.com/three-js-vs-d3-js[D3.js and Three.js^].
     ** Links to articles and YouTube channels:
         *** link:https://medium.com/creative-coding-space/d3-js-vs-p5-js-538d1976f65d[D3.js vs P5.js^]
         *** link:https://www.youtube.com/@TheCodingTrain[The Coding Train^]
@@ -26,7 +26,7 @@ Duration: 3 hrs
     ** The discussion branched into his work at link:https://dyte.io[Dyte^] where he was working on the media pipeline.
     ** He talked about SFU (Selective Forwarding Unit) and how it works. 
         *** A link:https://basedbin.fly.dev/p/W18RqB.svg[diagram^] that he shared.
-    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared link:https://github.com/Chirag-And-link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]/video-streaming-server[Video Streaming Server^], a project that he worked on in college.
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared link:https://github.com/Chirag-And-Dheeraj/video-streaming-server[Video Streaming Server^], a project that he worked on in college.
         *** He has also added some good resources in the documentation.
     ** We discussed muxing and de-muxing of media streams across different platforms like Zoom and Google Meet.
         *** Some take up the approach of sending all the streams differently to all the participants while some take the approach of sending a single combined stream to all the participants.
@@ -39,10 +39,10 @@ Duration: 3 hrs
 * link:https://twitter.com/KartikSoneji_[Kartik Soneji^] and link:https://twitter.com/furtado_jaden[jaden furtado^] talked about a CTF (Capture The Flag) event that they participated in.
     ** Ramdump, XSS, Binary exploitation, link:https://en.wikipedia.org/wiki/Padding_oracle_attack[Padding Oracle Attack^] were some of the topics that were discussed.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he was exploring link:https://grpc.io[gRPC^] and how it can be used in a microservices architecture.
-    ** We then talked about ProtoBuf, HTTP1, HTTP2 and how gRPC can be used under the hood.
+    ** We then talked about ProtoBuf, HTTP/1, HTTP/2 and how gRPC can be used under the hood.
 
 ==== Projects Showcased
 
-* link:https://twitter.com/PranavDani3[Pranav Dani^] showcased his Visualisation project, a React app that uses link:https://d3js.org[D3.js^] to visualise data from link:https://opendata.cityofnewyork.us[NYC Open Data^]. The visualizations include bar charts, histograms, and scatterplots to represent numerical and categorical attributes.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] showcased his visualisation project, a React app that uses link:https://d3js.org[D3.js^] to visualise data from link:https://opendata.cityofnewyork.us[NYC Open Data^]. The visualizations include bar charts, histograms, and scatterplots to represent numerical and categorical attributes.
     ** link:https://github.com/PranavDani/CSE-564--lab1[GitHub Repository^]
     ** Technologies used: React, link:https://d3js.org[D3.js^].
