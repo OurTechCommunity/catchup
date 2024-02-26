@@ -1,0 +1,53 @@
+Date: 24-02-2024
+
+Duration: 5 hrs 14 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased a bunch of applications!
+	** He got Beta access to link:https://idx.dev[Project IDX^], a web-based link:https://www.tiny.cloud/blog/text-editor-vs-ide-vs-code-editor[IDE^] by Google, like link:https://github.com/features/codespaces[GitHub Codespaces^] and link:https://www.gitpod.io[Gitpod^]. It is based on link:https://nixos.org/[NixOS^] and has built-in iOS and Android emulators.
+	** He showcased link:https://www.warp.dev/blog/warp-for-linux[Warp^], a modern terminal that was previously only available in MacOS, but is now available for Linux as well.
+	** He also showcased link:https://www.voidtools.com[Everything^], a faster, better and more lightweight search solution for Windows, similar to link:https://itsfoss.com/angrysearch[ANGRYsearch^] for Linux.
+* We talked about link:https://www.denofgeek.com/games/why-google-stadia-failed-shut-down-explained[Google Stadia's issues that led to its shutdown^].
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] told us about link:https://k3s.io[K3s^], a lightweight link:https://kubernetes.io[K8s^] distribution built for IoT and Edge Computing and about link:https://microk8s.io[MicroK8s^], a fully compliant K8s distribution with a smaller CPU and memory footprint than most others.
+	** link:https://www.baeldung.com/ops/microk8s-introduction[Introduction to MicroK8s^]
+* Akhil Sahu shared link:https://open-props.style[Open Props^] by link:https://github.com/argyleink[Adam Argyle^], which makes it easy and flexible to design components.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about the different package managers available on Fedora-based distributions like CentOS, RHEL, Rocky Linux, etc.
+	** DNF is the most modern package manager in the Fedora ecosystem and is pretty similar to APT (Advanced Packaging Tool) that is the package manager for Debian-based Linux distributions like Ubuntu. It stands for Dandified Yum and is a rewrite of the Yum package manager.
+	** Yum (Yellowdog Updater, Modified) is an older package manager that was a rewrite of YUP (Yellowdog UPdater), the package manager for Yellow Dog Linux.
+	** Both DNF and Yum work with RPM, the RedHat Package Manager.
+	** More details
+		*** link:https://www.makeuseof.com/apt-vs-dnf-vs-yum[APT vs. DNF vs. YUM: Linux Package Managers Compared^]
+		*** link:https://superuser.com/questions/125933/what-is-the-difference-between-yum-apt-get-rpm-configure-make-install[What is the difference between yum, apt-get, rpm, ./configure && make install?^]
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] talked about an issue that he was facing with link:https://webpack.js.org[Webpack^] not rendering certain link:https://tailwindcss.com[Tailwind CSS^] classes in the production build, but was working fine in the development version, while building a web site for his friend.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared
+	** link:https://www.youtube.com/watch?v=91SxN7Ub5X4[HW News - Intel Responds to Our Video, NVIDIA Finally Caves, Cooler Master NR200P V2^]
+	** link:https://tonsky.me/blog/js-bloat[JavaScript Bloat in 2024^]
+	** link:https://twitter.com/hansfbaier/status/1760409238512545966[CPU vs FPGA animation^]
+	** link:https://gist.github.com/hellerbarde/2843375[Latency numbers every programmer should know^]
+	** link:https://github.com/mit-pdos/xv6-public[github.com/mit-pdos/xv6-public^]
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] shared link:https://engineering.fb.com/2022/11/04/video-engineering/instagram-video-processing-encoding-reduction[Reducing Instagram's basic video compute time by 94 percent^]
+	** link:https://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=138533[Streaming Vs. Progressive Download Vs. Adaptive Streaming^]
+* link:https://twitter.com/anaskhan_28[Anas Khan^] shared a project link:https://github.com/Suyash-Purwar/hackerrank-vscode[HackerRank + VS Code^], which lets you solve HackerRank challenges in VS Code and link:https://twitter.com/ishandeveloper[Ishan Sharma^] informed Anas that they hired the developer to work for them at HackerRank.
+	** The project is impressive, because the author spent hours reverse engineering HackerRank's API calls and CSRF security measures, as is apparent from link:https://github.com/Suyash-Purwar/hackerrank-vscode/blob/master/README.md[the project's README file^].
+		*** link:https://owasp.org/www-community/attacks/csrf[Cross Site Request Forgery (CSRF) attack^]
+* We talked about link:https://linuxiac.com/xorg-x11-wayland-linux-display-servers-and-protocols-explained[the differences between X11, Xorg and Wayland^].
+* We talked about what link:https://en.wikipedia.org/wiki/Direct_memory_access[Direct Memory Access (DMA)^] is and how it can be used to cheat in video games.
+* link:https://en.wikipedia.org/wiki/Verilog[Verilog^]
+	** link:https://twitter.com/PranavDani3[Pranav Dani^] shared that he has been using Verilog to build Code Fetchers.
+		*** He also shared link:https://www.asic-world.com[ASIC World^]
+	** link:https://twitter.com/kaku_jay[Jay Kaku^] shared link:https://github.com/JayKaku/HDL-Bits-Solutions[his solutions^] for link:https://hdlbits.01xz.net[HDLBits^], a collection of small circuit design exercises for practicing digital hardware design using Verilog Hardware Description Language (HDL).
+* link:https://en.wikipedia.org/wiki/Field-programmable_gate_array[Field-Programmable Gate Arrays (FPGAs)^]
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a simple link:https://twitter.com/hansfbaier/status/1760409238512545966[CPU vs FPGA animation^]
+	** link:https://twitter.com/kaku_jay[Jay Kaku^] shared link:https://www.youtube.com/playlist?list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb[Introduction to FPGA^]
+* We looked up some binary data structures like the Global Descriptor Table (GDT) and Interrupt Vector Table (IVT or IDT) from link:https://tc.gtisc.gatech.edu/cs6265/2022-summer/refs/amd64-vol2-sys.pdf#page=119[volume two of the AMD64 Architecture Programmer's Manual^].
+	** link:http://www.duzhongxiang.com/2016/09/11/IDT-LDT-TSS-and-GDT[IDT, LDT, TSS and GDT^]
+	** Along similar lines, link:https://twitter.com/hardikraheja[Hardik Raheja^] told us about the issues he faced with link:https://www.insanelymac.com/forum/topic/278170-dsdt-%E2%80%94-what-is-it-and-how-do-i-get-it[DSDT^] and link:https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/glimpse-into-ssdt-in-windows-x64-kernel[SSDT^] while installing link:https://en.wikipedia.org/wiki/Hackintosh[Hackintosh^].
+* We talked about link:https://en.wikipedia.org/wiki/Cache_prefetching[prefetching^] (link:https://en.wikipedia.org/wiki/Locality_of_reference[Locality of reference - spatial and temporal^]) and link:https://en.wikipedia.org/wiki/Speculative_execution[speculative execution^] in CPUs.
+
+==== Projects Discussed
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased his project link:https://github.com/Welding-Torch/Anonymize_Excel[Anonymize_Excel^], a Python script that anonymizes an Excel file and synthesizes new data in its place.
+	** It uses uses link:https://microsoft.github.io/presidio[Microsoft Presidio^] together with link:https://faker.readthedocs.io/en/master[Faker^] for anonymization purposes.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] showcased a browser extension that he built at link:https://hackerrank.com[HackerRank^] which auto-fills job applications based on data stored on HackerRank and the answers that a user fills in applications.
+	** He showed us how his design was inspired by the link:https://arc.net[Arc browser^] and the CSS behind it.
