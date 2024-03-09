@@ -1,0 +1,46 @@
+Date: 02-03-2024
+
+Duration: 6 hrs 8 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about how he was incorporating OAuth and Google Drive backups into his mobile application link:https://heartry.darshanrander.com[Heartry^].
+	** He shared link:https://android-developers.googleblog.com/2016/02/using-credentials-between-your-server.html[Using Credentials between your Server and Google Services^]
+	** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared the Pull Requests he opened on Darshan's app to address bugs and suggest adding more features.
+		*** link:https://github.com/SirusCodes/Heartry/issues/14[github.com/SirusCodes/Heartry/issues/14^]
+		*** link:https://github.com/SirusCodes/Heartry/issues/15[github.com/SirusCodes/Heartry/issues/15^]
+	** link:https://oauth.net/2[OAuth 2.0 web site^]
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/swpnlbrkr[Swapnil Borkar^] talked about how most mobile application playstores take a share of the revenue, have a review process before releasing an update to an app and an automatic staged user rollout feature.
+* link:https://twitter.com/swpnlbrkr[Swapnil Borkar^] shared his article link:https://medium.com/swapnils-portfolio/4-user-testing-to-spot-insights-inferences-in-uber-olas-design-7b93a2905663[User Testing to spot Insights & Inferences in Uber & Ola's Design^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://techcrunch.com/2024/01/11/google-says-itll-stop-charging-fees-to-transfer-data-out-of-google-cloud[Google says it'll stop charging fees to transfer data out of Google Cloud^] and mentioned that he was surprised because all Cloud providers generally like to lock customers into their technologies and impose high migration fees so that they think twice before moving data out of their services.
+	** This might be due to the link:https://www.youtube.com/watch?v=wbQwD3QS19I[European Union's Digital Markets Act^] as well.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared that link:https://www.howtogeek.com/695823/what-is-lidar-and-how-will-it-work-on-the-iphone[some iPhone models have Light Detection and Ranging (LiDAR) sensors^] to create a 3D map of one's immediate surroundings. Some autonomous vehicles also use LiDAR to create a map of their surroundings.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a few videos recounting link:https://amd.com[AMD^]'s history.
+	** link:https://www.youtube.com/watch?v=mb53IYjZlNc[AMD: How It All Began^]
+	** link:https://www.youtube.com/watch?v=kZ9ntfjytTI[Intel & AMD: The First 30 Years^]
+	** link:https://www.youtube.com/watch?v=TbWfywgY7sk[AMD: The Incredible Adventure Continues^]
+	** link:https://www.youtube.com/watch?v=oAlU6vQ1Pn8[How AMD Left GlobalFoundries for TSMC^]
+* link:https://twitter.com/code_magician[Viranchee Lotia^] shared link:https://github.com/Viranchee/modern-cpp[his C++ learnings^] that he was learning from link:https://github.com/federico-busato/Modern-CPP-Programming[github.com/federico-busato/Modern-CPP-Programming^].
+* Jimmy Palathingal told us how C++ does not have in-built Garbage Collection, so we have to implement it ourselves.
+	** link:https://stackoverflow.com/questions/5009869/how-to-implement-garbage-collection-in-c[How to implement garbage collection in C++^]
+	** link:https://coderslegacy.com/c/cpp-smart-pointers[C++ Smart Pointers (Shared, Unique and Weak Pointers) can help with Garbage Collection^]
+	** link:https://www.youtube.com/watch?v=ZhbIReLe-r8&list=PLMCXHnjXnTnsrjHPvnvXdQV3_6lFfEYi3[Garbage Collection Algorithms playlist by Gaurav Sen^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] told us about various Mathematical terms while we were discussing Floating Point representation.
+	** link:https://en.wikipedia.org/wiki/Machine_epsilon[Machine Epsilon^], also called link:https://en.wikibooks.org/wiki/Floating_Point/Epsilon[Epsilon Mach^]
+	** link:https://en.wikipedia.org/wiki/Condition_number[Condition Number^]
+	** link:https://en.wikipedia.org/wiki/Catastrophic_cancellation[Catastrophic Cancellation^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] and link:https://twitter.com/code_magician[Viranchee Lotia^] told us about link:https://en.wikipedia.org/wiki/Bfloat16_floating-point_format#bfloat16_floating-point_format[various floating-point formats like bfloat16 and the way they differ in the number of bits to represent a Floating Point number^].
+* link:https://medium.com/@1kg/cuda-vs-rocm-the-ongoing-battle-for-gpu-computing-supremacy-82eb916fbe18[CUDA vs ROCm: The Ongoing Battle for GPU Computing Supremacy^]
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about his link:https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)[Capture The Flag (CTF)^] experience.
+	** link:https://en.wikipedia.org/wiki/Steganography[Steganography^]
+	** link:https://en.wikipedia.org/wiki/Whitespace_%28programming_language%29[Whitespace (programming language)^]
+		*** This programming language uses tabs, spaces and line feed (`\n`) characters to write programs.
+	** link:https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup[Linux Unified Key Setup (LUKS)^] is a disk encryption specification that mainly Linux distros support.
+	** link:https://www.diskpart.com/gpt-mbr/mbr-vs-gpt-1004.html[Master Boot Record (MBR) vs Globally Unique Identifiers Partition Table (GPT)^]
+	** link:https://twitter.com/code_magician[Viranchee Lotia^] shared link:https://azeria-labs.com[azeria-labs.com^], which apparently has execllent Shell reverse coding tutorials.
+	** link:https://networking.harshkapadia.me/tls#heartbleed[Heartbleed (TLS vulnerability)^]
+	** link:https://www.techtarget.com/searchsecurity/tip/The-POODLE-vulnerability-and-its-effect-on-SSL-TLS-security[The POODLE vulnerability and its effect on SSL/TLS security^]
+* Self-driving cars
+	** link:https://www.macrumors.com/roundup/apple-car[Apple Car: Apple's now-canceled vehicle project.^]
+	** link:https://www.inc.com/kevin-j-ryan/why-google-is-smart-to-pause-own-self-driving-car.html[Google Has Stopped Developing Its Own Self-Driving Car.^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://norvig.com/21-days.html[Teach Yourself Programming in Ten Years^].
