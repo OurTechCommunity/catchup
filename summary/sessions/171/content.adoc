@@ -1,0 +1,48 @@
+Date: 17-02-2024
+
+Duration: 3 hrs
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared that he recently got a new job at link:https://heymarvin.com[HeyMarvin^].
+    ** He also shared a link to the project that he was recently working on called link:https://github.com/LFG-twt-dev/postpone[Postpone^].
+* link:https://roadmap.sh/ai-data-scientist[AI/ML Roadmap^] asked by Harshit Malang.
+* We had a short discussion about link:https://www.mumbaitechweek.com[Mumbai Tech Week^] conducted in Jio World convention.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a few links for some cloud platforms:
+    ** link:https://www.pulumi.com[Pulumi^]
+    ** link:https://www.serverless.com/framework/docs/providers/aws/cli-reference/deploy/[SLS^].
+* link:https://twitter.com/DSdatsme[Darshit Suratwala^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] had a chat about link:https://www.hashicorp.com[HashiCorp^], its licensing changes and a discussion around the implications of these changes.
+    ** link:https://zeet.co/blog/the-impact-of-hashicorps-license-change-on-terraform-users-and-providers-what-you-need-to-know[The Impact of HashiCorp's License Change on Terraform Users and Providers: What You Need to Know^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] referenced a few system design resources that he shared in one of the link:https://catchup.ourtech.community/summary#:~:text=Harsh%20Kapadia%20shared%20a%20few%20resources%20for%20System%20Design.[previous CatchUp^] sessions.
+* While sharing his project, link:https://twitter.com/PranavDani3[Pranav Dani^] talked a bit about D3.js and difference between link:https://aircada.com/three-js-vs-d3-js[D3.js and Three.js^].
+    ** Links to articles and YouTube channels:
+        *** link:https://medium.com/creative-coding-space/d3-js-vs-p5-js-538d1976f65d[D3.js vs P5.js^]
+        *** link:https://www.youtube.com/@TheCodingTrain[The Coding Train^]
+        *** link:https://www.youtube.com/watch?v=mA_imNPNV9U[Curran Kelleher^]
+* link:https://twitter.com/ishubhamsah[Shubham Sah^] shared that he was a judge for a hackathon at Thakur College in Mumbai and since the theme was around AI, it was a bit difficult to differentiate between the functionalities of applications since most of the heavy lifting was done by the AI.
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] talked about a talk on the topic "Why Rust isn't the best choice for your next project" that he will be giving in Banglore in March.
+    ** He gave some insights and the ideology behind this talk since he has been working with Rust for a while now.
+    ** The discussion branched into his work at link:https://dyte.io[Dyte^] where he was working on the media pipeline.
+    ** He talked about SFU (Selective Forwarding Unit) and how it works. 
+        *** A link:https://basedbin.fly.dev/p/W18RqB.svg[diagram^] that he shared.
+    ** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared link:https://github.com/Chirag-And-Dheeraj/video-streaming-server[Video Streaming Server^], a project that he worked on in college.
+        *** He has also added some good resources in the documentation.
+    ** We discussed muxing and de-muxing of media streams across different platforms like Zoom and Google Meet.
+        *** Some take up the approach of sending all the streams differently to all the participants while some take the approach of sending a single combined stream to all the participants.
+    ** Links related to the topic:
+        *** link:https://inlive.app/blog/how-sfu-works-developing-webrtc-sfu-part-1[How SFU works: Developing WebRTC SFU (Part 1)^]
+        *** link:https://dakshmiglani.notion.site/WebRTC-81aa14b8cd57447dac90d61bb1e68020[Daksh Miglani's notes on WebRTC^]
+* We had a good discussion about different video codecs and how some are good for storing while some are good for transmitting data.
+    ** We talked about link:https://www.smashingmagazine.com/2021/09/modern-image-formats-avif-webp/#progressive-enhancement[Modern Image Formats: AVIF, WebP^] and link:https://tensorpix.ai/blog/progressive-vs-interlaced-video[Progressive vs Interlaced Video^].
+    ** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] and link:https://twitter.com/mehraramyak[Ramyak Mehra^] talked about mp4 compression, interlacing and some operations that can be performed on it.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] and link:https://twitter.com/furtado_jaden[jaden furtado^] talked about a CTF (Capture The Flag) event that they participated in.
+    ** Ramdump, XSS, Binary exploitation, link:https://en.wikipedia.org/wiki/Padding_oracle_attack[Padding Oracle Attack^] were some of the topics that were discussed.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he was exploring link:https://grpc.io[gRPC^] and how it can be used in a microservices architecture.
+    ** We then talked about ProtoBuf, HTTP/1, HTTP/2 and how gRPC can be used under the hood.
+
+==== Projects Showcased
+
+* link:https://twitter.com/PranavDani3[Pranav Dani^] showcased his visualisation project, a React app that uses link:https://d3js.org[D3.js^] to visualise data from link:https://opendata.cityofnewyork.us[NYC Open Data^]. The visualizations include bar charts, histograms, and scatterplots to represent numerical and categorical attributes.
+    ** link:https://github.com/PranavDani/CSE-564--lab1[GitHub Repository^]
+    ** Technologies used: React, link:https://d3js.org[D3.js^].
