@@ -1,0 +1,21 @@
+Date: 23-12-2023
+
+Duration: 5 hrs 16 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/swpnlbrkr[Swapnil Borkar^] talked about how Germany and the US have the same work visa requirements but how German laws favour the employee.
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about his Computer Network Design exam.
+	** Subnetting
+	** Supernetting
+	** MAT
+	** link:https://networking.harshkapadia.me/dns[DNS^] and link:https://networking.harshkapadia.me/dns#dnssec[DNSSEC^]
+	** link:https://networking.harshkapadia.me/dns#dns-0x20-encoding[Google randomizing casing of DNS queries (DNS 0x20 Encoding)^]
+	** link:https://en.wikipedia.org/wiki/Punycode[Punycode^]
+	** link:https://en.wikipedia.org/wiki/Internationalized_domain_name[internationalized Domain Name (IDN)^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his research paper link:https://www.cs.toronto.edu/~rishit/projects/diffuseraw/diffuseraw.pdf[DiffuseRAW: End-to-End Generative RAW Image Processing for Low-Light Images^]
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] shared
+	** link:https://www.youtube.com/watch?v=5oULEuOoRd0[Test Multiple Variables at Once to Optimize Anything^]
+	** link:https://github.com/hoishing/doc2txt[github.com/hoishing/doc2txt^]
+	** link:https://xkcd.com/2109[XKCD 2109: Invisible Formatting^]
+		*** link:https://www.explainxkcd.com/wiki/index.php/2109:_Invisible_Formatting[Technical explanation of XKCD 2109^]
