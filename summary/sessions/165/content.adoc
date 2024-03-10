@@ -1,0 +1,27 @@
+Date: 06-01-2024
+
+Duration: 4 hrs 15 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about PostCSS and how it is not really needed with new features added to CSS.
+	** link:https://postcss.org[postcss.org^]
+	** link:https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting[CSS nesting^]
+	** link:https://getbem.com[Block Element Modifier (BEM)^]
+* link:https://twitter.com/anaskhan_28[Anas Khan^] talked about using link:https://github.com/ioi/isolate[Isolate^] for Sandbox for securely executing untrusted programs for his Leetcode clone project.
+	** Isolate requires some setup and is written by International Olympiad in Informatics and used in link:https://github.com/judge0/judge0[Judge0^].
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] asked about process scheduling and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] explained the difference between scheduling for jobs and scheduling for interactive processes.
+	** Linux uses link:https://en.wikipedia.org/wiki/Completely_Fair_Scheduler[Completely Fair Scheduler (CFS)^].
+	** link:https://twitter.com/anaskhan_28[Anas Khan^] shared link:https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler[Brain Fuck Scheduler^]
+	** link:https://cpu.land[Putting the 'You' in CPU]
+* Kartik Soneji discussed his Pull Request link:https://github.com/unkeyed/unkey/pull/474[github.com/unkeyed/unkey/pull/474^].
+* We discussed Carrier lock situation in US, wifi, ISP, data situation. Local data plans purchse and resale.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] asked about dual booting Linux vs using VMs and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] recommended link:https://www.docker.com[Docker^] to him. Kartik also explained what Docker is.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his blog link:https://rishit-dagli.github.io/2024/01/01/sgd.html[An Intuitive Look at the Dynamics of SGD^].
+* We discussed how to choose which CPU to buy.
+* Threads and processes
+	** We talked about link:https://catchup.ourtech.community/summary#:~:text=Pranav%20Dani%20asked%20about%20the%20difference,are%20sold%20at%20a%20cheaper%20cost[Threads vs Processes and why some processors don't have Simultaneous Multithreading enabled^].
+	** link:https://www.youtube.com/watch?v=GsF8R6DBxSg[how greedy are your processes? | Linux niceness^]
+	** link:https://stackoverflow.com/questions/59701201/is-thread-scheduler-is-part-of-jvm-or-part-of-os[Is Thread Scheduler is part of JVM or Part of OS?^]
+	** link:https://www.baeldung.com/linux/fork-vfork-exec-clone[The Difference Between `fork()`, `vfork()`, `exec()` and `clone()`^]
+	** link:https://stackoverflow.com/questions/4856255/the-difference-between-fork-vfork-exec-and-clone[The difference between `fork()`, `vfork()`, `exec()` and `clone()`^]
