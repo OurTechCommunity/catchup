@@ -1,0 +1,39 @@
+Date: 09-03-2024
+
+Duration:  hrs  mins
+
+==== Topics Discussed
+
+* General Introduction
+* link:https://twitter.com/bhavesh878789[Bhavesh Kukreja^] talked about link:https://scratch.mit.edu[Scratch^] and a simple visual application that he built as a part of link:https://cs50.harvard.edu/x/2024[CS 50^].
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] mentioned that he built his first app using link:https://appinventor.mit.edu/[App Inventor^].
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] and link:https://twitter.com/SirusTweets[Darshan Rander^] had a contention about a beginner using Rust or C for development.
+    ** C teaches you about memory management whereas Rust abstracts it away and from the POV of a beginner, they won't be able to learn things without actually experimenting.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] mentioned that Rust gives warnings and directions to the developer while compiling whereas C doesn't.
+    ** link:https://twitter.com/furtado_jaden[jaden furtado^] tried to pitch in with a new perspective by talking about the intent behind learning a language and how it should be based on the problem that the developer wants to solve.
+* Building on the previous discussion, link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an example of structure packing and caching.
+    ** link:https://onlinegdb.com/xmC1SsLsY[Structure Packing and Caching example^].
+    ** link:https://igoro.com/archive/gallery-of-processor-cache-effects[Gallery of Processor Cache Effects^].
+    ** link:https://www.youtube.com/watch?v=qo1FFNUVB-Q[Google Patches Linux kernel with 40% TCP performance^].
+* We talked about the recent Linux kernel patch that improved the TCP performance by 40% as discussed in this youtube video: link:https://www.youtube.com/watch?v=qo1FFNUVB-Q[Google Patches Linux kernel with 40% TCP performance^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a few links:
+    ** link:https://vscodium.com[VS Code without Microsoft telemetry^].
+    ** link:https://asciidoctor.org[Adoc^].
+    ** link:https://catchup.ourtech.community/summary#:~:text=Industrial%20communication%20protocols,of%20output%20devices[Modbus^].
+    ** link:https://cpu.land[Putting the 'You' in CPU^].
+    ** link:https://missing.csail.mit.edu[The Missing Semester of your CS Education^]. 
+    ** link:https://cs50.harvard.edu[CS 50^].
+* Anil Harwani and link:https://twitter.com/furtado_jaden[jaden furtado^] had a discussion about the paper: link:https://sigops.org/s/conferences/hotos/2023/papers/castes.pdf[Creating Trust by Abolishing Hierarchies^].
+    ** Anil Harwani mentioned SNP (Secure Nested Paging) and how it's a hardware feature that's being used to secure the hypervisor.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] and Anil Harwani talked about link:https://www.sigops.org/s/conferences/sosp/2009/papers/baumann-sosp09.pdf[The Multikernel: A new OS architecture for scalable multicore systems^].
+    ** The paper talks about using message passing between cores and how it's a better approach than shared memory/cache coherency.
+    ** Anil Harwani said that the thing about research is that the ideas are good but one needs to evaluate them in the real world and suggest how much performance can improve, which is the main reason behind why most chip makers stick to cache coherency.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] and Anil Harwani talked about formal verification and how it's used to verify the correctness of a program.
+    ** There's nothing like fully secure programs and the best that we can do is to make it as secure as possible.
+    ** Securing something should be less than 10% of the cost of the thing that's being secured.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about Cache Hierarchy, set associative cache, and how it's used to reduce the latency of memory access.
+    ** L1 cache is parallel and L2 cache is serial, which is why L1 cache is faster than L2 cache due to more cycles required for accessing requisite data.
+    ** He also talked about the TLB (Translation Lookaside Buffer) and how it's used to reduce the latency of page table access.
+    ** We also talked about speculative execution, branch prediction and potential pitfalls.
+    ** We discussed Linearizability, Sequential Consistency, and how they're used to reason about concurrent programs.
+        *** We also discussed how Serializability and sequential consistency are different. Some database terminologies are also used to reason about concurrent programs.
