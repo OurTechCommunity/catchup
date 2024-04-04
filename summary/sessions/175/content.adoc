@@ -1,0 +1,15 @@
+Date: 16-03-2024
+
+Duration: 3 hrs 8 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/KarbeleKedar[Kedar Karbele^] talked about his startup and the product he is building in the healthcare sector.
+    ** He talked about all the compliances he has to understand while building the product.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared that he is building a package for his company in Flutter where the clients can integrate it can use it to build their native apps.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] explained why he thinks it a bad idea as it makes no sense for a package to have Flutter engine inside just for a few screens and tree-shaking unused packages would be impossible.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:https://immich.app[immich^] an Open-source Google Photos replacement.
+* link:https://twitter.com/KarbeleKedar[Kedar Karbele^] asked link:https://twitter.com/rishit_dagli[Rishit Dagli^] for guidance on how he should write research papers on AI and ML.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] said that he can get Grants from link:https://www.macfound.org/learning/grantee-research[MacArthur Foundation^].
+* link:https://twitter.com/t3_pat[Pratik Thakare^] asked link:https://twitter.com/KarbeleKedar[Kedar Karbele^] why he is using AWS for his startup which he could have gotten much more credits from Azure or GCP.
+    ** link:https://twitter.com/KarbeleKedar[Kedar Karbele^] said that he preferred AWS because of familiarity and resources available online.
