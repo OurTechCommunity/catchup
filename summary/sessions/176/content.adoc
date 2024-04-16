@@ -1,0 +1,28 @@
+Date: 23-03-2024
+
+Duration: 3 hrs 12 mins
+
+==== Topics Discussed
+
+* Aniket Kadam joined in and talked about link:https://www.100ms.live[100ms^] and its evolution as a platform including all the challenges they encountered.
+    ** 100ms is a platform that provides video conferencing APIs for developers to build video conferencing applications. They have many features like recording, streaming, and a lot of other things that are needed for a video conferencing platform.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] thought that since it is a video infrastructure, the amount of work would have been deterministic, but Aniket Kadam mentioned the fact that their work isn't still complete since they keep adding new features and functionalities based on customer requirements.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and Aniket Kadam discussed ways in which they document they document their code base and present errors to their users.
+    ** Aniket Kadam talked about how an average user mostly reads compiler errors instead of following the documentation. So they push most of the information in the compiler errors to make the users aware.
+        *** He also mentioned that you need to design around the documentation.
+* We talked about how link:https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets[DOJ sued Apple for monopolizing the smartphone market^] because it makes it harder for other companies to utilize system resources and potentially innovate.
+    ** Aniket Kadam suggested that Android seems like a bunch of completed Jira tickets, and less like a polished consumer product, whereas iOS seems to be a bit more coherent and polished. 
+* Atharva Jadhav asked for advice on whether he should focus on AI/ML since his college curriculum is pushing him towards it.
+    ** Most people suggested that he should choose what he likes based on exploration and not what the curriculum is pushing him toward.  
+* Siddharth talked about link:https://github.com/Welding-Torch/Excel-Anonymizer[Excel Anonymizer^], which is a tool that he built that anonymizes Excel files.
+    ** He described the working of the tool including the usage of link:https://microsoft.github.io/presidio[presidio^] and how it generates unique fake data for the columns in the Excel file.
+    ** He also talked about Busybox, which is a software suite that provides several Unix utilities in a single executable file.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about Caches and its levels l1, l2, l3. 
+    ** We also discussed victim cache and cache structure.
+    ** Dram structure, its density and how the memory controller refreshes the contents of dram in an interval so that the banks don't lose their charge.
+    ** He also talked about the structure of sense amplifiers and how they are used to read the data from the dram cell.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared an interesting article about link:https://lwn.net/Articles/252125[CPU caches].
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] shared link:https://csillustrated.berkeley.edu/PDFs/handouts/cache-3-associativity-handout.pdf[Cache Associativity Handout^] to understand the concept of cache associativity easily.
+    ** link:https://twitter.com/furtado_jaden[Jaden furtado^] shared a book for link:http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Architecture%2010th%20-%20William%20Stallings.pdf[Computer Organization and Architecture by William Stallings^].
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] talked about link:https://catchup.ourtech.community/summary#:~:text=Siddharth%20Kaduskar%20showcased%20his%20project%20Bunker%2C%20an%20OCR%2Dbased%20attendance%20tracker%20that%20extracts%20lectures%20from%20the%20class%20timetable%20uploaded%20by%20users.[Bunker], which is an OCR-based attendance tracker that extracts lectures from the class timetable uploaded by users.
+    ** He also then talked about TableNet, which is a deep learning model for end-to-end table detection and tabular data extraction.
