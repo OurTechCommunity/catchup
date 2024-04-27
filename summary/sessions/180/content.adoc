@@ -1,0 +1,35 @@
+Date: 20-04-2024
+
+Duration: 5 hrs 38 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] told us the need for daily link:https://www.wework.com/ideas/professional-development/management-leadership/what-is-a-standup-meeting[standup meetings^] at his workplace.
+	** link:https://www.atlassian.com/agile/project-management/estimation[Story points in Agile^]
+* link:https://twitter.com/DSdatsme[Darshit Suratwala^] shared a project he is helping build at work, link:https://github.com/Scale3-Labs/langtrace[Langtrace^], which is an open source observability software which lets one capture, debug and analyze traces and metrics from all applications that leverage LLM APIs, Vector Databases and LLM based frameworks.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared
+	** link:https://www.youtube.com/watch?v=tB4q6Wp4XHc[How TSMC Handled an Earthquake^]
+	** link:https://www.youtube.com/watch?v=p-nhUf7htro[Google Cloud Next 2024 Megacut: But It's All AI^]
+	** link:https://linux.harshkapadia.me/isa#:~:text=Resources-,RISC%20vs%20CISC,-RISC%20vs.%20CISC[RISC vs CISC^]
+		** He got to volunteer at a link:https://www.meetup.com/austin-area-risc-v-group/events/299485578[Austin Area RISC-V Group^] booth at link:https://2024.texaslinuxfest.org[Texas Linux Fest 2024^]!
+	** link:https://www.meetup.com/central-texas-commodore-users-group[Central Texas Commodore Users Group^]
+		** He got the chance to use the link:https://en.wikipedia.org/wiki/Commodore_64[Commodore 64^] and link:https://en.wikipedia.org/wiki/Amiga[Amiga^] computers!
+	** link:https://www.arrl.org/what-is-ham-radio[Ham Radio^]
+	** link:https://learn.microsoft.com/en-us/troubleshoot/windows-client/setup-upgrade-and-drivers/dynamic-link-library[Dynamic Link Library (DLL) in Windows^]
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] told us about link:https://www.investopedia.com/ask/answers/112814/whats-difference-between-capital-expenditures-capex-and-operational-expenditures-opex.asp[Capital Expenditure (CapEx) vs Operating Expenses (OpEx)^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] talked about how he really enjoyed giving a link:https://flutter.dev[Flutter^] animations talk at link:https://www.linkedin.com/posts/yoginibende_glimpse-of-our-very-first-peerlist-tech-talks-activity-7187815666744258560-cMmC[Peerlist's first Tech Talks meetup^]!
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] told us link:https://www.algolia.com/blog/ai/what-are-vectors-and-how-do-they-apply-to-machine-learning[What are vectors and how do they apply to machine learning?^] 
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] told us about link:https://x.com/VisionBernie/status/1774677102182257141[animated PDFs^]. We didn't know that was a thing!
+* link:https://twitter.com/t3_pat[Pratik Thakare^] talked about his operating system and environment.
+	** link:https://linuxiac.com/xorg-x11-wayland-linux-display-servers-and-protocols-explained[X11 vs Wayland^]
+	** He uses Arch Linux as his Operating System, link:https://en.wikipedia.org/wiki/Z_shell[Zsh^] as his terminal/shell, link:https://codeberg.org/dnkl/foot[Foot^] as his Terminal Emulator, link:https://github.com/tmux/tmux/wiki[Tmux^] as his Terminal Multiplexer and link:https://neovim.io[Neovim^] as his primary editor.
+* link:https://www.techtarget.com/searchsecurity/definition/micro-VM-micro-virtual-machine[Micro VMs vs (Full) VMs vs Containers^]
+	** link:https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms[Containers vs (Full) VMs^]
+* We talked about how it is really confusing for someone to figure out how to create a React.js project, because the official React.js docs suggest frameworks like Next.js and Remix instead of a way to bootstrap a React.js project like the now deprecated Create React App project did.
+* We saw the video of link:https://www.tiktok.com/@brittanypeachhh/video/7323004085043612959[a Cloudflare employee being laid off without being told why^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] told us how he found vulnerabilities in an application that he was filling out, which led to user data and documents being exposed to the internet through a database that was open to the internet.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased an update to his power grid simulation project, which is now able to run a small section of a power grid properly and can theoretically be drop-in solution for a real power grid as he is using the same protocols that actual power grids use, like link:https://en.wikipedia.org/wiki/Modbus[Modbus^], link:https://en.wikipedia.org/wiki/IEC_61850[IEC 61850^], link:https://www.igrid-td.com/smartguide/iec61850/iec-61850-mms[MMS^] and link:https://medium.com/@miteefire/iec-61850-goose-messaging-how-it-works-and-why-it-matters-5cf0270b24e4[GOOSE^]. He is going to open source his implementation as well.
+* link:https://twitter.com/t3_pat[Pratik Thakare^] told us how he is planning to build a server for a biometric attendance tracker to implement additional features.
