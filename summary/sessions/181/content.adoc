@@ -1,0 +1,25 @@
+Date: 27-04-2024
+
+Duration: 3 hrs 40 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/PranavDani3[Pranav Dani^] told us about his link:https://github.com/mit-pdos/xv6-riscv[xv6 Operating System^] assignment, which is a re-implementation of Dennis Ritchie and Ken Thompson's link:https://en.wikipedia.org/wiki/Version_6_Unix[Unix Version 6 (v6)^].
+* We discussed what KVM and QEMU are, what their relationship is and whether they can be used independently.
+	** link:https://sumit-ghosh.com/posts/virtualization-hypervisors-explaining-qemu-kvm-libvirt[Virtualization and Hypervisors :: Explaining QEMU, KVM, and Libvirt^]
+	** link:https://serverfault.com/a/392145[understanding relationship between Qemu and KVM^]
+	** link:https://linux.harshkapadia.me/kvm-qemu[More details^]
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] told us about link:https://stackoverflow.com/questions/840501/how-do-function-pointers-in-c-work[Function Pointers in C^]
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared link:https://github.com/tsoding/nobuild[nobuild^], a library for writing build recipes in C.
+	** link:https://www.youtube.com/watch?v=eRt7vhosgKE[How I Stopped Caring and Just Improved My Project (Nob Ep.01)^]
+* link:https://linuxhandbook.com/inode-linux[Everything You Need to Know About inodes in Linux^]
+* We had a revelation when we figured out that link:https://stackoverflow.com/questions/205529/passing-variable-number-of-arguments-around[C supports variable arguments^].
+* Writing one's own memory allocator function in C.
+	** Tsoding: link:https://www.youtube.com/watch?v=sZ8GJ1TiMdk[Writing My Own Malloc in C^]
+	** Low Level Learning: link:https://www.youtube.com/watch?v=CulF4YQt6zA[i wrote my own memory allocator in C to prove a point^]
+* link:https://www.techtarget.com/searchitoperations/tip/Micro-VMs-bridge-the-gap-between-full-VMs-and-containers[Micro VMs bridge the gap between full VMs and containers^]
+* link:https://www.youtube.com/watch?v=yJDv-zdhzMY[The Mother of All Demos, presented by Douglas Engelbart (1968)^]
+
+==== Projects Showcased
+
+* link:https://twitter.com/TmPreet[Preet Parekh^] showed us the upcoming second version of link:https://devfolio.co[Devfolio^]'s user profile page and took feedback from attendees to improve it.
