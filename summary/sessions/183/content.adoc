@@ -1,0 +1,15 @@
+Date: 11-05-2024
+
+Duration: 3 hrs 23 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/t3_pat[Pratik Thakare^] shared that most ISPs doesn't have a link:https://en.wikipedia.org/wiki/Carrier-grade_NAT[CGNAT^] over IPv6 hence you can publicly expose your system if someone got you IPv6 address.
+	** We tested this on link:https://www.airtel.in/new-connection/broadband/[Airtel Broadband^] and were surprised to see that it worked.
+* link:https://twitter.com/Delta2315[Swastik Baranwal^] shared about how someone used him to bag some sponsors on GitHub - link:https://x.com/Delta2315/status/1789011888619000281[post on X^].
+* We looked at an incident where two researcher who link:https://www.openwall.com/lists/oss-security/2024/04/23/2[faked 83 CVEs^] as they didn't had any proofs of them and they were very vague.
+* link:https://twitter.com/t3_pat[Pratik Thakare^], link:https://twitter.com/KartikSoneji_[Kartik Soneji^] and link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:https://htmx.org[HTMX^] and link:https://nextjs.org/docs/pages/building-your-application/rendering/client-side-rendering[CSR^] vs link:https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering[SSR^].
+	** In SSR it's difficult to cache since the data shown can have user info which might be something you don't want to leak of other users.
+	** In SSR your frontend is in your backend which causes issues in deciding what you should and should not send to user to process.
+	** In CSR you offload a lot of processing on client which further decreases your dependency on server.
+	** In CSR you have a faster FCP (Firt Contentful Paint).
