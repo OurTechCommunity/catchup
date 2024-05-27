@@ -1,0 +1,42 @@
+Date: 30-03-2024
+
+Duration: 3 hrs 41 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] and link:https://twitter.com/mehraramyak[Ramyak Mehra^] discussed DMARC and SPF.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared the following links:
+  ** link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^]
+  ** link:https://cpu.land[Putting the “You” in CPU^]
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared a link to a project in Raylib.
+    ** link:https://github.com/tsoding/musializer[Musializer^]
+    ** link:https://www.youtube.com/watch?v=Xdbk1Pr5WXU&list=PLpM-Dvs8t0Vak1rrE2NJn8XYEJ5M7-BqT[Music Visualizer (Fast Fourier Transform)^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] and link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about different rendering techniques. 
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] discussed 3DGS, implicit representation for 3D and differentiable rendering.
+        *** On a GPU you can speed things up by rasterizing the image.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] and link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about link:https://en.wikipedia.org/wiki/Voxel[Voxels^]. Minecraft uses voxels.
+        *** Voxels are a 3D representation of a pixel.
+        *** Video: link:https://youtu.be/aQctoORQwLE[NVIDIA’s New AI: Video Game Graphics, Now 60x Smaller!^]
+        *** link:https://www.youtube.com/watch?v=0_zScV_cVug[NVIDIA Is On a Different Planet^]
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about the `malloc()` and `free()` functions in C.
+    ** Hussain Nasser's tweet: link:https://x.com/hnasr/status/1767949992101290297[malloc() in C^].
+* link:https://twitter.com/mehraramyak[Ramyak Mehra^] and link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about the link:https://learn.microsoft.com/en-us/windows/win32/api[Win32 API^].
+    ** This API is used for talking to the Windows operating system.
+* We had a discussion about link:https://www.youtube.com/watch?v=jqjtNDtbDNI[Backdoor found in xz liblzma^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about the link:https://www.youtube.com/watch?v=ixn5OygxBY4[Linux exploit^].
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared link:https://cdn-uploads.huggingface.co/production/uploads/63657b0898da81987e23b15b/QHkGindVk3lbBVoMZCdBq.png[this image^] about link:https://arxiv.org/abs/2312.03815[LLM OS^] which has potential to hallucinate information.
+* link:https://www.youtube.com/watch?v=-D1gf3omRnw[Researchers found an unfixable bug in Apple computers^].
+    ** This is an issue with the M1, M2 and M3 chips.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] discussed Hackathons and communities and why Delhi seems to have more hackathons in general.
+    ** He also talked about what's wrong with the current hackathon culture. People are conducting hackathons for the sake of conducting hackathons.
+* The following links were shared in the meet:
+    ** link:https://www.youtube.com/watch?v=e2vPp0fQUkM[When hardware must "just work"^]
+    ** link:https://superuser.com/questions/1283788/what-exactly-is-microcode-and-how-does-it-differ-from-firmware[What exactly is microcode and how does it differ from firmware?^]
+    ** link:https://bun.sh[Bun^]
+    ** link:https://www.datadoghq.com[Datadog^]
+    ** link:https://blog.vlt.sh/blog/the-team[The Team^]
+    ** link:https://www.theodinproject.com[The Odin Project^]
+    ** link:https://odin-lang.org[Odin Lang^]
+    ** link:https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend[Implement DNS in a weekend^]
+    ** link:https://chipsandcheese.com/2024/03/27/why-x86-doesnt-need-to-die[Why x86 doesn't need to die^]
+    ** link:https://sans-io.readthedocs.io/how-to-sans-io.html[Sans-I/O protocols^]

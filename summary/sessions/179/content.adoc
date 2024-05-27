@@ -4,11 +4,11 @@ Duration: 4 hrs 34 mins
 
 ==== Topics Discussed
 
-* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about link:https://github.com/mit-pdos/xv6-public[xv6] an operating system developed for teaching by link:https://www.mit.edu/[MIT].
+* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about link:https://github.com/mit-pdos/xv6-public[xv6^] an operating system developed for teaching by link:https://www.mit.edu/[MIT^].
 	* He talking about its simple file system and is implementing small file optimization and truncate in the OS.
-* link:https://twitter.com/SirusTweets[Darshan Rander^] asked link:https://twitter.com/PranavDani3[Pranav Dani^] where someone can draw a line between file system, kernel and OS. link:https://twitter.com/PranavDani3[Pranav Dani^] kernel sits between file system and OS, a simple analogy would be kernel is the backend, while file system and OS are database and frontend respectively.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] asked link:https://twitter.com/PranavDani3[Pranav Dani^] where someone can draw a line between file system, kernel and OS. link:https://twitter.com/PranavDani3[Pranav Dani^] kernel sits between the file system and OS, a simple analogy would be kernel is the backend, while file system and OS are database and frontend respectively.
 * link:https://twitter.com/PranavDani3[Pranav Dani^] also talked about https://www.geeksforgeeks.org/kernel-in-operating-system/[kernel types].
-* We talked about social life of people living in US of the people in call.
+* We talked about the social life of people living in the US of the people in call.
 	** Some are struggling to have friends while some have a good amount of friends.
 * link:https://twitter.com/SirusTweets[Darshan Rander^] talked about link:https://www.androidauthority.com/android-unknown-tracker-alerts-rollout-3350756/[Android Unknown Tracker alerts] rollout to everyone a year later after announcing.
 	** It alerts you if anyone has put a tracker on you on your phone.
