@@ -1,0 +1,29 @@
+Date: 15-06-2024
+
+Duration: 4 hrs 41 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his banana pie tool that he bought for a project.
+    ** link:https://twitter.com/PranavDani3[Pranav Prasanna Dani^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked a bit about RISCV, its architecture and instructions.
+* The following links were shared in the meet:
+    ** link:https://www.youtube.com/watch?v=Z0ZoCYXmF0Q[Confrontation with Asus^]
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] and Krlink:https://twitter.com/ishandeveloper[Ishan Sharma^]a Dave discussed React Native.
+    ** link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] is working on a project where he is migrating stuff to React Native.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] and link:https://twitter.com/PranavDani3[Pranav Prasanna Dani^] pivoted the discussion towards Apple's big announcements from WWDC, specifically entailing to "Apple Intelligence".
+    ** Apple heavily integrated AI into their products, potentially killing the business of a few companies like Grammarly.
+    ** We also talked about the design choices surrounding the Magic Mouse.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://x.com/lemire/status/1799306326574616955[A nice implementation of SIMD^].
+    ** link:https://twitter.com/PranavDani3[Pranav Prasanna Dani^] then talked about GPUs, SIMD, CUDA, and Vector and Scalar processing.
+    ** We also touched upon the topic of F16 and F32, which are 16 and 32-bit floating point numbers respectively.
+    ** We then talked about AMD's MI300X and Nvidia's counterp art.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^], link:https://twitter.com/adityaoberai1[Aditya Oberai^] and link:https://twitter.com/kaku_jay[Jay Kaku^] talked about Headless CMS and GitHub Copilot being used in companies.
+    ** We talked about Copilot+ PCs introduced by Microsoft and the recall feature, which was ironically recalled due to some privacy and security concerns.
+
+==== Show and Tell
+
+* link:https://twitter.com/bhavesh878789[Bhavesh Kukreja^] showcased a project where he wrote a C program to perform multiple operations on a BMP image.
+    ** He used the Sobel operator to detect edges in the image.
+    ** He also talked about the Canny edge detector.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased a program to parse elf for a program. The intention was to understand how the parsing works.
+    ** link:https://github.com/link:https://twitter.com/harshgkapadia[Harsh Kapadia^]Kapadia2/parse-elf[GitHub Repo^]
