@@ -1,0 +1,15 @@
+Date: 25-05-2024
+
+Duration: 2 hrs 20 mins
+
+==== Topics Discussed
+
+* We talked about Google IO'24, we all were a bit disappointed as IO felt more like a corporate event than a tech event which had amazing tech announcements at the center of it.
+* OpenAI announced ChatGPT 4 and ChatGPT 4o just before the IO and took some light from Google IO.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] talked about his project where he implemented async I/O in file system of link:https://github.com/mit-pdos/xv6-public[xv6^].
+* link:https://twitter.com/PranavDani3[Pranav Dani^] explained https://ee.usc.edu/~redekopp/ee357/slides/EE357Unit18_Pipelining_Notes.pdf[5 Stage Pipeline of CPU^] that is -
+	** Fetch: Read instructions from memory.
+	** Decode: Decode instructions and access registers.
+	** Execute: Perform ALU operations.
+	** Memory Access: Load and store values between memory and registers.
+	** Write-Back: Complete the instruction execution and update registers
