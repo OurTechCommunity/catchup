@@ -1,0 +1,16 @@
+Date: 01-06-2024
+
+Duration: 2 hrs 45 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] asked for opinions about either he should pursue PhD of continue with his Job.
+	** General concenseus was to try to do both, if that's not possible then choose PhD.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about https://www.youtube.com/watch?v=XNQhDl4a9Ko[Google's Search Algorithm Docs Leak].
+	** It was a big leak and later Google came forward and confirmed that the leaked documents were correct.
+* link:https://twitter.com/imhritik_dj[Hritik Jaiswal^] shared https://azure.microsoft.com/en-us/updates/update-on-interavailability-zone-data-transfer-pricing/[Update on Inter-Availability Zone Data Transfer Pricing^]; TLDR - Azure will not charge for the data transfer across availability zones regardless of using private or public IPs on your Azure resources
+* link:https://twitter.com/t3_pat[Pratik Thakare^] talked about the project he was working on where he was trying to add features to his biometric attendance systems at his Gym.
+	** He had to put it on hold as the data required for him to add features was not available by the service.
+* We talked about AI services provided by Azure, it looked like they are building a collection of models and create an API surface for their customers to use which they can use to different models from different companies just by switching a switch.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared a video titled https://www.youtube.com/watch?v=Pzl1B7nB9Kc[Linus Torvalds on why desktop Linux sucks^] where he talks about his opinions on why he felt so.
+* link:https://twitter.com/t3_pat[Pratik Thakare^] talked about https://www.engadget.com/2009-03-24-overheard-gdc09-ttp-time-to-penis.html[TTP - Time To Penis^] - it's a metric on how much time gamers will take to make a penis in a game.
