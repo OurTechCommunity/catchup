@@ -1,0 +1,16 @@
+Date: 09-06-2024
+
+Duration: 5 hrs 56 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/AnxKhn[Anas Khan^] and link:https://twitter.com/SirusTweets[Darshan Rander^] talked about how difficult it becomes for a developer to work on things with all the restrictions in a MNC.
+* link:https://x.com/Alpastx[Alpesh Bhagwatkar^] talked about https://en.wikipedia.org/wiki/Cicada_3301[Cicada 3301^] - a sequential puzzle posted by a user name "3301" on 4chan.
+* link:https://x.com/Alpastx[Alpesh Bhagwatkar^] asked for suggestions on what field he should specialize in, to which link:https://twitter.com/KartikSoneji_[Kartik Soneji^] said to focus on fundamentals instead of going into a niche.
+* link:https://twitter.com/t3_pat[Pratik Thakare^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html[AWS RDS] - AWS's managed DB service.
+	** They also talked about managed and unmanaged DBs.
+	** Managed databases handle routine tasks automatically, while unmanaged databases require manual effort.
+* link:https://x.com/Alpastx[Alpesh Bhagwatkar^] talked about a project in which he worked on built a https://www.geeksforgeeks.org/what-is-information-retrieval/[IRS (Information Retrieval System)^].
+	** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] suggested he could have used https://www.algolia.com/[Algolia^] or https://www.elastic.co/elasticsearch[Elasticsearch^].
+* link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/t3_pat[Pratik Thakare^] talked about Solid and Next, and how much they affect React.js development as a lot of people from these teams work on React.
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] and link:https://twitter.com/t3_pat[Pratik Thakare^] how common it is to find root access keys of any cloud service providers in frontend applications because of the blurred lines between the backend and frontend because of these frameworks.
