@@ -1,0 +1,16 @@
+Date: 22-06-2024
+
+Duration: 4 hrs 12 mins
+
+==== Topics Discussed
+
+* We had a detailed discussion about AI, AGI and SSI.
+    ** Aniket Kadam talked about how AI is bad at consistency, while link:https://twitter.com/rishit_dagli[Rishit Dagli^] tried to counter the argument by suggesting that it is a math problem and can be solved eventually.  
+    ** We had an interesting discussion about realism and how AI can replicate most of the already-produced art.
+        *** Building on the previous discussion, we tapped into the philosophical topic of what work is derivative and what is original.
+    ** link:https://twitter.com/furtado_jaden[jaden furtado^] shared a drawing that he made and asked the group to identify which was made by him and which one was made by AI.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] discussed the out-of-distribution (OOD) problem, stating that models can only generate in-distribution (IID) data. However, he mentioned that it is mathematically possible to build OOD from IID by changing the conditions for the Gnedenko-Kolmogorov Central Limit theorem. 
+    ** He also shared a link:https://rishit-dagli.github.io/2024/01/01/sgd.html#:~:text=Theorem%20(Gnedenko%2DKolmogorov,the%20stable%20distribution[blog post^] where he wrote about a part of this topic.
+* We talked about Windows Copilot+ PCs and the link:https://support.microsoft.com/en-us/windows/retrace-your-steps-with-recall-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c[Recall feature^] and how it was ironically recalled.
+* Darshan shared that he is currently working on the front-end side of different products in his company.
+* link:https://twitter.com/furtado_jaden[jaden furtado^] talked about reverse shell and his cultural shocks in Singapore.
