@@ -1,0 +1,27 @@
+Date: 29-06-2024
+
+Duration: 3 hrs 53 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about link:https://www.rust-lang.org[Rust^] and link:https://diesel.rs[Disel^]. He also discussed NFTs and web3 since he is working with a company that is building a Web3-based marketplace.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased his banana pie tool that he bought for a project.
+    ** link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked a bit about RISCV, its architecture and instructions.
+* The following links were shared in the meet:
+    ** link:https://www.youtube.com/watch?v=IJEaMtNN_dM[The Hidden Rules of Conversation^]
+    ** link:https://www.youtube.com/watch?v=eY-XHAoVEeU&ab_channel=TomScott[The Thames Barrier must never fail. Here's why it doesn't.^]
+    ** link:https://www.youtube.com/watch?v=t3oLeSPINOk&ab_channel=TomScott[Why the US Army electrifies this water^]
+    ** link:https://youtu.be/lkbV8oP-F44[Rabbit M1 exposing API keys^]
+    ** link:https://tontinton.com/posts/scheduling-internals[A good article on OS scheduling^]
+    ** link:https://www.scientificamerican.com/article/boeings-starliner-leaves-astronauts-stuck-but-safe-in-space[Boeing's Starliner leaves astronauts stuck but safe in space^]
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased a website for malware detection where people could upload their files to check for malware traces.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a case where one of the students from his college was scammed by a fake interviewer and made them run malicious code on their computer and copied their RSA keys.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] talked about how a train received a software update over the internet and sadly the software is exposed publicly on the internet.
+    ** We discussed the security implications of this and how it could be exploited.
+* Aniket Kadam shared his experience of hiring interns and applying for jobs and how very small changes in the resume can be misinterpreted by the interviewer.
+* link:https://twitter.com/skxrxn[Sreekaran Srinath^] shared his experience of working at Boeing. 
+
+==== Show and Tell
+
+* link:https://twitter.com/PranavDani3[Pranav Dani^] showcased an instruction fetcher and a decoder that he wrote in Verilog for RISCV RV64IM.
+    ** The instruction fetcher fetches instructions from memory which talks over the AXI4 protocol and the decoder decodes the instructions and prints it in the terminal.
