@@ -4,7 +4,7 @@ Duration: 3 hrs 40 mins
 
 ==== Topics Discussed
 
-* Special thanks to link:https://twitter.com/furtado_jaden[Jaden Furtado^]
+* Special thanks to link:https://twitter.com/furtado_jaden[Jaden Furtado^] for helping us host the CatchUp.
 * link:https://twitter.com/rishit_dagli[Rishit Dagli^] and link:https://twitter.com/furtado_jaden[Jaden Furtado^] discussed how to write research papers.
     ** We also discussed the importance of proper citations.
     ** We compared industry white papers to academic papers; their differences and link:https://twitter.com/rishit_dagli[Rishit Dagli^] expressed his reasoning behind preference towards academia.
