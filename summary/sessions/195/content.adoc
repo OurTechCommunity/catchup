@@ -16,9 +16,13 @@ Duration: 5 hrs 13 mins
 		*** Siddharth shared his blog link:https://geekspaceclub.github.io/post/everything-about-bgi[Everything About BGI^].
 	** Turbo C
 		*** Siddharth also told us about a project that started link:https://www.sandroid.org/TurboC[porting Borland's Turbo C source code to GNU GCC^]
-			**** He sent the author of the project to ask him whether he would update his project and the author replied and explained in detail why he would not be able to update the project.
+			**** The project has since fallen out of date and doesn't compile on a modern Ubuntu 22 installation. Siddharth contacted the project's creator to ask if they could update the project to make it compatible with the current version of gcc.
 			**** With link:https://twitter.com/KartikSoneji_[Kartik Soneji^]'s help, we understood the author's reply.
-			**** Essentially, the author said that link:https://en.wikipedia.org/wiki/Turbo_C[Turbo C^] weirdly uses `#define` statements to redefine traditional data types and that is now not compatible with how header files are handled.
+			**** Essentially, the author said that since link:https://en.wikipedia.org/wiki/Turbo_C[Turbo C^] was written in an era of 16 bit computers, programs expected `int` to be 16 bits and `long` to be 32 bits, etc. +
+			In the past, the project inserted preprocessor directives like `#define int int16_t` before the standard libraries were loaded to patch the code into behaving correctly on modern systems.
+			**** This used to work, but the modern standard C library has evolved a lot, making it more complex and prone to breaking from blind patches like these. +
+			The project author believes while it's possible to work around the specific issues, it's a loosing battle since patching the standard library is not a viable long term strategy.
+		*** Siddharth was enthusiastic about continuing the project by exploring alternative approaches like a transpiler that translated old TurboC code into code compatible with a modern C standard like link:https://en.wikipedia.org/wiki/C17_(C_standard_revision)[C17^] or link:https://en.wikipedia.org/wiki/C23_(C_standard_revision)[C23^].
 * link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://x.com/adelfaure/status/1819486701674549268[Frogger but it's ASCII art^].
 * link:https://twitter.com/KartikSoneji_[Kartik Soneji^] shared link:https://www.youtube.com/watch?v=bDo4Pjk6fsk[Tetris at the MIT Green Building^].
 * We talked about link:https://stackoverflow.com/questions/514644/what-exactly-is-metaprogramming[Metaprogramming^].
