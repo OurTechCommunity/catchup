@@ -1,0 +1,37 @@
+Date: 03-08-2024
+
+Duration: 5 hrs 13 mins
+
+==== Topics Discussed
+
+* Rakesh Kumawat talked about his AI project which essentially took in a PDF as an input and he could then ask it questions. He used OpenAI to help with the AI-side of things and link:https://www.pinecone.io[Pinecone^] as a Vector Database for easier AI-based text searching.
+* AWS
+	** We were surprised to find out that link:https://aws.amazon.com[AWS^] has their own link:https://en.wikipedia.org/wiki/Top-level_domain[Top-Level Domain (TLD)^], `.aws`, when link:https://twitter.com/chiragnayyar[Chirag Nayyar^] shared
+		*** link:https://partyrock.aws[partyrock.aws^]
+		*** link:https://workshops.aws[workshops.aws^]
+	** link:https://twitter.com/chiragnayyar[Chirag Nayyar^] told us how the stock price of AWS went down a bit because of them not handling the announcement of link:https://www.infoq.com/news/2024/08/aws-discontinue-services[deprecating seven services^] clearly.
+* C
+	** Graphics
+		*** link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] took us on a historical ride around the graphics town in C-land.
+		*** Siddharth shared his blog link:https://geekspaceclub.github.io/post/everything-about-bgi[Everything About BGI^].
+	** Turbo C
+		*** Siddharth also told us about a project that started link:https://www.sandroid.org/TurboC[porting Borland's Turbo C source code to GNU GCC^]
+			**** The project has since fallen out of date and doesn't compile on a modern Ubuntu 22 installation. Siddharth contacted the project's creator to ask if they could update the project to make it compatible with the current version of gcc.
+			**** With link:https://twitter.com/KartikSoneji_[Kartik Soneji^]'s help, we understood the author's reply.
+			**** Essentially, the author said that since link:https://en.wikipedia.org/wiki/Turbo_C[Turbo C^] was written in an era of 16 bit computers, programs expected `int` to be 16 bits and `long` to be 32 bits, etc. +
+			In the past, the project inserted preprocessor directives like `#define int int16_t` before the standard libraries were loaded to patch the code into behaving correctly on modern systems.
+			**** This used to work, but the modern standard C library has evolved a lot, making it more complex and prone to breaking from blind patches like these. +
+			The project author believes while it's possible to work around the specific issues, it's a loosing battle since patching the standard library is not a viable long term strategy.
+		*** Siddharth was enthusiastic about continuing the project by exploring alternative approaches like a transpiler that translated old TurboC code into code compatible with a modern C standard like link:https://en.wikipedia.org/wiki/C17_(C_standard_revision)[C17^] or link:https://en.wikipedia.org/wiki/C23_(C_standard_revision)[C23^].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://x.com/adelfaure/status/1819486701674549268[Frogger but it's ASCII art^].
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] shared link:https://www.youtube.com/watch?v=bDo4Pjk6fsk[Tetris at the MIT Green Building^].
+* We talked about link:https://stackoverflow.com/questions/514644/what-exactly-is-metaprogramming[Metaprogramming^].
+	** link:https://stackoverflow.com/questions/514644/what-exactly-is-metaprogramming[What exactly is metaprogramming?^]
+* Nishant Goel asked about an issue that he was facing, where he was not able to upload files to his Amazon S3 bucket from his web app. Turns out that it was a CORS issue.
+	** link:https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS[Cross-Origin Resource Sharing (CORS)^]
+	** link:https://talks.harshkapadia.me/cors[Working with CORS^]
+
+==== Projects Showcased
+
+* link:https://twitter.com/ambitions2003[Siddharth Kaduskar^] showcased updates to his project 'Bunker', a centralized platform for professors to update attendance and for students to monitor their attendance records seamlessly.
+	** He showed us how he implemented various CNN, Clustering and Regression algorithms to be able to identify table columns and rows in attendance sheets without using a service like link:https://nanonets.com[Nanonets^].
