@@ -1,0 +1,14 @@
+Date: 06-04-2024
+
+==== Topics Discussed
+
+* Color Representation Evolution: The conversation begins with an exploration of how colors on screens evolved from representing colors with other colors, to using complex numbers, and eventually to the adoption of sRGB.
+    ** It's noted that sRGB became a standard because it allowed for the representation of individual colors in a way that was previously not possible, which was crucial for the development of color TVs and screen technology.
+* One participant shares their discovery of a vulnerability in a website that leaked personal data of individuals applying for PhD positions, sparking a conversation on the implications of such vulnerabilities and the importance of cybersecurity.
+* There's a mention of an anonymous source warning about government pressure to install backdoors in software projects, including the Tor project and Python, highlighting the ongoing challenges in maintaining privacy and security in open-source projects.
+* Recording Consent: A discussion unfolds around the ethical and legal considerations of recording calls without explicit consent from participants. 
+    ** This leads to a detailed explanation of a feature being developed to notify participants of recording, addressing legal issues faced by a company when their client used their recording tool without informing participants.
+* Job Market and Opportunities: Conversations touch upon the job market, with participants discussing the demand for certain products and the success of startups in raising funds.
+    ** There's also a discussion on the value of education in Singapore versus the US, and considerations around pursuing higher education like PhDs.
+* Future Plans and Aspirations: The conversation briefly touches on personal aspirations, future plans, and the desire for change or relocation for career growth.
+* Security Protocols and Computing: There's a technical discussion on protocols like DNP3 and IEC 61850, focusing on the challenges of implementing and updating these protocols in the context of cybersecurity for electric grids.
