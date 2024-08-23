@@ -1,0 +1,18 @@
+Date: 13-07-2024
+
+Duration: 4 hrs 45 mins
+
+==== Topics Discussed
+
+* Dheeraj highlighted the limitations of current text-to-video models, specifically noting their challenges with audio integration.
+    ** A discussion ensued about the distinction between text-to-speech and text-to-audio technologies.
+* Dheeraj shared insights on WebRTC and its implications for secure communication.
+   ** There was a conversation about various authentication methods and their relevance to digital security.
+* Jaden brought up the concerning issue of how some colleges and universities have been exposing student data online, raising questions about data privacy and protection.
+* Kartik sought suggestions for research topics, with a focus on offloading digital logic operations to analog computing.
+   ** The group discussed the benefits and challenges of analog computing, including hardware mapping, quantization, and hardware utilization.
+* Viranchee is exploring job opportunities in compiler engineering and discussed potential internship opportunities.
+   ** Anil shared useful contacts and resources, including a link to link:https://www.brendangregg.com[Brendan Gregg’s website^].
+* Anil expressed that the end goal of education should not be solely about obtaining a job but also about personal growth and learning.
+* There was a debate on whether developer relations roles are more aligned with teaching and mentorship.
+* Rishit and Dheeraj discussed the impact of referrals in job applications, noting that while startups tend to place higher weight on referrals, large MNCs may not prioritize them as much. Ultimately, the consensus was that referrals have a variable impact on job outcomes.
