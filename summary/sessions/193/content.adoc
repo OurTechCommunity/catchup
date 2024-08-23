@@ -1,0 +1,23 @@
+Date: 20-07-2024
+
+Duration: 3 hrs 41 mins
+
+==== Topics Discussed
+
+* General Introductions
+* We had a discussion about compilers and different execution environments on chip.
+    ** CPU, GPU and NPU. GPUs run kernels, which are like functions that are meant to run on GPUs for parallel processing.
+    ** link:https://twitter.com/code_magician[Viranchee L^] talked about how he is learning about compilers for ML applications.
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] talked about link:https://www.gl-inet.com/products/[GL.iNet^] routers and how they allow changing MAC addresses which is supposed to be used for privacy and security, but some people be exploit it for enabling cheat mechanisms in games.
+    ** We discussed how different modules invloved in the computer that runs a game can be banned by the game server.
+* We discussed the recent CrowdStrike driver issue that caused Windows BSoDs.
+    ** link:https://youtu.be/4yDm6xNeYas[High level details^]
+    ** link:https://youtu.be/pCxvyIx922A[Technical details^]
+    ** link:https://x.com/Perpetualmaniac/status/1814376668095754753[Technical explanation ^]
+    ** link:https://youtube.com/shorts/NZTne3fiM-o[Blaming concerns without understanding root cause^]
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] shared the use of lava lamps in encryption by Cloudflare.
+    ** link:https://www.cloudflare.com/learning/ssl/lava-lamp-encryption/[Lava Lamp Encryption^]: Cloudflare uses a wall of lava lamps to generate random numbers for creating encryption keys.
+* Intel's 13th and 14th gen CPUs were reported to be crashing due to a bug in the microcode.
+* link:https://twitter.com/poonmjha[Poonam Jha^] shared a game UI design she created in Figma and asked for feedback.
+    ** link:https://www.linkedin.com/posts/poonmjha_figma-gameui-gamedesignedinfigma-activity-7194225316486168576-ksEj?utm_source=share&utm_medium=member_android[Game UI Design^]
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/poonmjha[Poonam Jha^] talked about job applications and negotiation tactics.
