@@ -1,0 +1,23 @@
+Date: 10-08-2024
+
+Duration: 3 hrs 33 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/AnxKhn[Anas Khan^] talked about his project which is like IMDB but for Youtube.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he recently gave a flutter talk in Pune and liked it because people paid attention.
+    ** He also shared a link to his blog post on link:https://blog.darshanrander.com/posts/tech/animating-canvas-in-flutter/[animating canvas in Flutter^].
+* We discussed why people choose where to work in Bangalore or Mumbai, and why. The general consensus was money.
+* Google was declared monopolistic and turns out more companies are under supervision for similar reasons.
+    ** This could have big implications on how Google operates in the future. Each product might have to be spun off into a separate divison.
+    ** Parth Puranik suggested that Perplexity could be a good alternative to Google Search due to its unique approach to search. 
+* We talked about link:https://www.igorslab.de/en/intel-comments-internally-on-the-13th-and-14th-generation-k-sku-processor-instability-issue-and-finally-brings-a-comprehensive-update-of-its-own-investigation-leak/[Intel comments on the 13th and 14th generation K-SKU processor instability issue^].
+    ** link:https://www.youtube.com/watch?si=gl2pOi4UbuZebZ_d&v=b6vQlvefGxk&feature=youtu.be&themeRefresh=1[Gamer's Nexus^] video about Intel.
+    ** We discussed how power consumption might be correlated to different ISAs, and how the micro-architecture of the processor could be optimised to reduce power consumption.
+* link:https://twitter.com/adityaoberai1[Aditya Oberai^] shared his experience of studying in a boarding school.
+    ** He suggested that a kid learns to be independent and self-reliant in a boarding school earlier than in the case of a traditional schooling system.
+* Alpesh Bhagwatkar shared his in progress portfolio website and asked for feedback.
+    ** He was facing issues with custom fonts in his portfolio.
+    ** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested him to make it stable for desktop first and then move to mobile.
+* link:https://twitter.com/furtado_jaden[jaden furtado^] shared the initial draft of his talk on cyber threats to satellites.
+    ** He talked about how satellites are vulnerable to cyber attacks and how they can be protected.
