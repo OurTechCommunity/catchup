@@ -1,0 +1,42 @@
+Date: 17-08-2024
+
+Duration: 3 hrs 41 mins
+
+==== Topics Discussed
+
+* link:https://github.com/CosmicRaptor[Aryan Pathak^] told us about the differences between link:https://itsfoss.com/flatpak-vs-snap[Snaps and Flatpaks^] in Linux.
+	** link:https://twitter.com/AnxKhn[Anas Khan^] shared link:https://www.youtube.com/watch?v=ikBPnYwnUMU[Snaps vs Flatpaks vs Appimages vs Packages: benchmarks, missing features & differences^].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked us why a server running in a Docker container on an exported port does not work when the user tries connecting to it through the IP `0.0.0.0:8000` from the browser, when he has explicitly allowed any IP address to connect to the server at port 8000.
+	** We helped Dheeraj remember that `0.0.0.0` is a wildcard that indicates that any IP address is acceptable, so entering `0.0.0.0:8000` in a browser doesn't actually point to any IP address, which is why the browser is not able to reach the intended server.
+	** Dheeraj also expressed his interest in Docker networking, which is why link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://www.youtube.com/watch?v=OU6xOM0SE4o[Docker Networking Crash Course^] and link:https://github.com/HarshKapadia2/mac-ip-routing[github.com/HarshKapadia2/mac-ip-routing^].
+* link:https://github.com/CosmicRaptor[Aryan Pathak^] asked about higher education from the context of someone wanting to pursue a Master of Science in Computer Science. link:https://twitter.com/harshgkapadia[Harsh Kapadia^], link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/code_magician[Viranchee L^] answered.
+	** How much money is required?
+		*** Unfortunately tons. Provisions for around a Crore should be made.
+		*** If they're taking loans, people usually take ~Rs. 50 Lakh as an education loan.
+	** How important is one's CGPA?
+		*** Extremely important, especially if one is going to pursue higher education directly after college.
+	** Which countries require the GRE?
+		*** A lot of them.
+		*** On an average, it takes about three to four months to prepare.
+	** Why is USA so popular? What about Germany and Ireland?
+		*** USA has some of the world's best universities and a lot of well-paying jobs.
+		*** The main issue with Germany is the language barrier.
+	** How much do research papers matter?
+		*** A lot, but only good and proper ones. Papers written for the heck of it don't matter.
+	** Can one skip link:https://leetcode.com[Leetcode^] if they're pursuing a Master's degree?
+		*** Definitely not. *All* interviews unfortunately include Leetcode-type questions.
+* Cybersecurity
+	** link:https://twitter.com/furtado_jaden[Jaden Furtado^] told us about link:https://en.wikipedia.org/wiki/DoublePulsar[DoublePulsar^].
+	** Jaden also talked about link:https://www.varonis.com/blog/what-is-c2[Command and Control (C2/C&C) Servers^].
+* CPU pipeline
+	** We discussed the differnces between RISC and CISC architectures.
+	** Every instruction in RISC-V is 32 bits long and program counter increments by 4 (bytes) so that it can point to the next instruction.
+	** link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] asked about the CPU pipeline and how it works. link:https://twitter.com/PranavDani3[Pranav Dani^] explained the concept of a pipeline and how each stage and its registers play import part in the pipeline.
+	** link:https://twitter.com/PranavDani3[Pranav Dani^] shared an online simulator for link:https://webriscv.altervista.org/index.php[RISC-V^] to explain the pipeline stages.
+	** We talked about branch prediction and how one would go about implementing it in a pipeline.
+
+==== Show and Tell
+
+* link:https://twitter.com/PranavDani3[Pranav Dani^] showcased his RISC-V project where he built a 5+ stage pipeline in Verilog.
+	** He executed a few programs compiled for RISC-V on his verilog pipeline.
+	** The processor in its current form talks directly with the memory over AXI4 protocol, but he plans to add a cache in the future.
