@@ -7,6 +7,6 @@ include::sessions/{catchup_number}/attendees.adoc[]
 
 ==== Meet Screenshot
 
-image::{catchup_number}.{catchup_image_extension}[alt="Meet #{catchup_display_number} screenshot", 600, 600]
+image::https://raw.githubusercontent.com/OurTechCommunity/catchup/main/summary/static/img/{catchup_number}.{catchup_image_extension}[alt="Meet #{catchup_display_number} screenshot", 600, 600]
 
 '''

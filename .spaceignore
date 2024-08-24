@@ -13,9 +13,17 @@ CONTRIBUTING.md
 LICENSE
 README.md
 sample.env
+public/img/summary/
 
 # Don't ignore these files and directories
 !public/css/summary/
 !public/js/summary/
-!public/img/summary/
 !public/html/summary/
+!public/img/summary/admonition_icons/**
+!public/img/summary/og-img/**
+!public/img/summary/harsh-new-catchup-attendee-meme.png
+!public/img/summary/moon.svg
+!public/img/summary/oops.mp4
+!public/img/summary/sun.svg
+!public/img/summary/up-arrow.svg
+
