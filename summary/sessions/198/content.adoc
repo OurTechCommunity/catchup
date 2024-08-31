@@ -1,0 +1,41 @@
+Date: 24-08-2024
+
+Duration: 4 hrs 28 mins
+
+==== Topics Discussed
+
+* Aniket Kadam told us about his struggles with Autism and how he is trying to develop products for link:https://www.health.harvard.edu/blog/what-is-neurodiversity-202111232645[Neurodivergent people^].
+	** Aniket told us about the challenges he faced with microcontrollers while developing products because they have very little RAM. The RAM is so less, that the microcontroller could not even verify the SSL certificate for a HTTP request. Also, if he asks for data exceeding the amount of RAM available on the device, it will crash and reboot.
+	** Harsh Kapadia shared a few content creators that he watches to learn more about Neurodivergence and some disabilities.
+		*** link:https://www.youtube.com/@realpaigelayle[Paige Layle^]
+		*** link:https://www.youtube.com/@OurSignedWorld[OurSignedWorld^]
+		*** link:https://www.youtube.com/@LearnHowtoSign[Learn How To Sign^]
+* Tushar Shelke asked us how fast C\++ is and which applications use it. C++ is fast and reliable-enough to be used in stock market trading applications and in Operating Systems (like Windows) to name a few places that use it extensively.
+* Tushar Shelke also asked what 'native' means in terms of compilation.
+	** As an example Aniket Kadam told him that depending on the compilation, link:https://kotlinlang.org[Kotlin^] can run directly on the machine without the link:https://en.wikipedia.org/wiki/Java_virtual_machine[JVM^] being present as an intermediate.
+	** Python also stores compiled files in `.pyc` files.
+		*** link:https://stackoverflow.com/questions/3918689/what-is-the-difference-between-py-and-pyc-files[What is the difference between `.py` and `.pyc` files?^]
+		*** link:https://stackoverflow.com/questions/2998215/if-python-is-interpreted-what-are-pyc-files[If Python is interpreted, what are `.pyc` files?^]
+* Aniket Kadam and Nida Shaikh talked about using link:https://www.lua.org[Lua^] for scripting and Siddharth Bhatia shared link:[LuaRT^], a Windows programming framework for Lua.
+* Harsh Kapadia shared link:https://github.com/jasonmayes/Real-Time-Person-Removal[github.com/jasonmayes/Real-Time-Person-Removal^].
+* Games
+	** We praised indie games like link:https://www.stardewvalley.net[Stardew Valley^].
+	** Siddharth Bhatia shared link:https://www.youtube.com/watch?v=3TepI8eBrh8[How Earthbound Became The Ultimate Cult Classic^].
+* We talked about copyright and fair-use when someone talked about companies being able to scrape any content of the web to train LLMs.
+	** We mentioned that licensed content cannot be used for training unless the license permits it or if the trainer has obtained legal permission to use that licensed content.
+	** Siddharth Bhatia shared link:https://www.thehindu.com/sci-tech/technology/openai-says-new-york-times-lawsuit-without-merit-claims-training-ai-models-with-public-media-fair-use/article67722828.ece[OpenAI says New York Times lawsuit "without merit," claims training AI models with public media is "fair use"^].
+	** Harsh Kapadia was of the opinion that YouTube hasn't solved the copyright problem, but they've done a lot of good stuff. A lot of copyright companies abuse YouTube's copyright system. It's very difficult for YouTubers to counter copyright claims by companies and claim fair-use.
+	** Siddharth shared link:https://www.youtube.com/watch?v=1Jwo5qc78QU[YouTube's copyright system isn't broken. The world's is.^]
+* Viranchee Lotia shared link:https://www.youtube.com/watch?v=zjkBMFhNj_g[Intro to Large Language Models^].
+* We talked about link:https://en.wikipedia.org/wiki/Commodore_64[Commodore 64^], link:https://en.wikipedia.org/wiki/DOS[Disk Operating System (DOS)^], Hercules CRT, Sinclair Computers and more.
+* We were surprised to learn that the hardware company link:https://www.arm.com[ARM^] is actually an abbreviation for **A**dvanced **R**ISC **M**achines!
+* Siddharth Bhatia told us how link:https://kodi.wiki/view/Archive:Migration_from_XBMC_to_Kodi[XBMC was renamed to Kodi^].
+* We talked a little about link:https://en.wikipedia.org/wiki/History_of_AT%26T[the history of AT&T^].
+* Siddharth Bhatia took us through the first two editions of link:https://magpi.raspberrypi.com[The MagPi^], the RaspberryPi magazine.
+	** link:https://en.wikipedia.org/wiki/IBM_Lotus_SmartSuite[IBM Lotus SmartSuite^]
+	** link:https://en.wikipedia.org/wiki/Intel_Compute_Stick[Intel Compute Stick^]
+
+==== Projects Showcased
+
+* Siddharth Bhatia shared link:https://github.com/Welding-Torch/amber2[Amber2^], a custom theme for link:https://github.com/microsoft/terminal[Windows Terminal^]. This is a sequel to his link:https://github.com/Welding-Torch/Amber-theme[Amber-theme^] project.
+* Rishit Dagli shared his project link:https://rishitdagli.com/nerf-us[NeRF-US^], which removes Ultrasound Imaging artifacts from Neural Radiance Fields in the wild.
