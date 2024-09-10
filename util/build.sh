@@ -92,7 +92,7 @@ done;
 
 # Save built catchup numbers to netlify functions folder
 printf "export default [${built_catchup_numbers}\n];\n" \
-	> "${base_dir}/netlify/edge-functions/built-catchup-numbers.ts";
+	> "${base_dir}/netlify/edge-functions/common/built-catchup-numbers.ts";
 
 # Build combined summary site
 asciidoctor \

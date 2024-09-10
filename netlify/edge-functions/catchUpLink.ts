@@ -1,12 +1,13 @@
 import { getStore } from "@netlify/blobs";
 import type { Config, Context } from "@netlify/edge-functions";
+import { STORE_NAME, CONFIG_KEY } from "./common/config.ts";
 
 export default async function (
 	req: Request,
 	context: Context
 ): Promise<Response> {
 	if (req.method == "GET") {
-		const config = await getStore("catchup").get("config", {
+		const config = await getStore(STORE_NAME).get(CONFIG_KEY, {
 			type: "json"
 		});
 		return new Response(JSON.stringify(config, null, 4), {
@@ -30,7 +31,7 @@ export default async function (
 			}
 		);
 	}
-	await getStore("catchup").setJSON("config", {
+	await getStore(STORE_NAME).setJSON(CONFIG_KEY, {
 		catchUpLink: link,
 		lastUpdated: new Date().toISOString()
 	});
