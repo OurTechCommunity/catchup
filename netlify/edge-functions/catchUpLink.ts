@@ -20,7 +20,23 @@ export default async function (
 	let authResponse = auth(req);
 	if (authResponse) authResponse;
 
-	const link = (await req.json()).catchUpLink;
+	let link;
+	const contentType = req.headers.get("content-type");
+	if (!contentType || contentType.includes("application/json")) {
+		const body = await req.json();
+		link = body.catchUpLink;
+	} else if (contentType.includes("application/x-www-form-urlencoded")) {
+		const body = await req.formData();
+		link = body.get("catchUpLink");
+	} else
+		return new Response(
+			`Error: Unsupported content-type ${contentType}\n` +
+				`Expected one of: "application/json" or "application/x-www-form-urlencoded"`,
+			{
+				status: 415
+			}
+		);
+
 	try {
 		new URL(link);
 	} catch (e: any) {
