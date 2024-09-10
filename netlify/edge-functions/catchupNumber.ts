@@ -1,5 +1,5 @@
 import type { Config, Context } from "@netlify/edge-functions";
-import allCatchupNumbers from "./built-catchup-numbers.ts";
+import allCatchupNumbers from "./common/built-catchup-numbers.ts";
 
 export default async function (
 	req: Request,
