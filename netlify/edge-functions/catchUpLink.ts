@@ -1,16 +1,15 @@
+import { getStore } from "@netlify/blobs";
 import type { Config, Context } from "@netlify/edge-functions";
-
-import { Deta } from "deta";
-const deta = Deta();
-const db = deta.Base(process.env.DATABASE_NAME!);
 
 export default async function (
 	req: Request,
 	context: Context
 ): Promise<Response> {
 	if (req.method == "GET") {
-		const config = await db.get(process.env.DATABASE_OBJ_KEY!);
-		return new Response(config?.value as string, {
+		const config = await getStore("catchup").get("config", {
+			type: "json"
+		});
+		return new Response(JSON.stringify(config, null, 4), {
 			headers: {
 				"content-type": "application/json"
 			}
@@ -31,13 +30,12 @@ export default async function (
 			}
 		);
 	}
-	let config = {
+	await getStore("catchup").setJSON("config", {
 		catchUpLink: link,
 		lastUpdated: new Date().toISOString()
-	};
-	await db.put(JSON.stringify(config), process.env.DATABASE_OBJ_KEY);
+	});
 
-	return new Response("Meet link changed to ${link}.");
+	return new Response(`Meet link changed to ${link}.`);
 }
 
 function auth(req: Request): Response | null {

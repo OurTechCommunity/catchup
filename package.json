@@ -24,8 +24,8 @@
 	},
 	"homepage": "https://github.com/OurTechCommunity/catchup#readme",
 	"dependencies": {
+		"@netlify/blobs": "^8.0.1",
 		"@netlify/edge-functions": "^2.5.1",
-		"deta": "^2.0.0",
 		"dotenv": "^16.3.1"
 	},
 	"devDependencies": {
