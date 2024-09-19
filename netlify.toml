@@ -1,0 +1,9 @@
+[[redirects]]
+from = "/cfp"
+to = "https://talks.ourtech.community"
+status = 302
+
+[[redirects]]
+from = "/ideas"
+to = "https://docs.google.com/document/d/1K67G2_0w3-MEOcrakJrvStwHDz4zhlSliycHDa5oTGk/edit?usp=sharing"
+status = 302
