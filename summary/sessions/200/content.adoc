@@ -1,0 +1,19 @@
+Date: 07-09-2024
+
+Duration: 3 hrs 30 mins
+
+==== Topics Discusssed
+
+* We completed 200 CatchUp sessions! We're all so happy and proud!
+* We talked about programming languages like C, Go and Rust, mainly discussing the syntax, baked-in native functions and private variable access.
+	** Kartik Soneji isn't the biggest fan of Rust because of the inverted variable declaration syntax (`let val:i32 = 5;`) and no easy way to access private variables outside their scope for debugging purposes.
+	** Ramyak Mehra and Kartik had a prolonged discussion on Rust not having a few features natively built-into the language and thus having to rely on external cargo packages.
+	** Ramyak told us that private variables can be accessed outside of their scope using 'Unsage Rust', countering Kartik's claims that it's impossible in Rust. 
+	** Wilfred Almeida told us about link:https://doc.rust-lang.org/std/option/index.html[Rust's `Some` and `None` keywords^].
+	** Jaden Furtado shared link:https://felipec.wordpress.com/2024/03/03/c-skill-issue-how-the-white-house-is-wrong[C skill issue; how the White House is wrong^].
+* Alpesh Bhagwatkar asked for Partition Manager recommendations and Siddharth Bhatia recommended link:https://www.easeus.com/partition-manager/epm-free.html[EaseUS's free partition manager^].
+
+==== Projects Showcased
+
+* Jaden Furtado showcased a simulator he built using link:https://shiplab.github.io/vesseljs[Vessel.js^].
+* Harsh Kapadia asked for help with his ELF parsing project link:https://github.com/HarshKapadia2/parse-elf[Parse ELF^] and Kartik Soneji was able to give him a hint that helped him work out an issue with the indexing to get the data of the Section Name String Table.
