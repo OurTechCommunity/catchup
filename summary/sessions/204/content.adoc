@@ -1,0 +1,58 @@
+Date: 05-10-2024
+
+Duration: 3 hrs 53 mins
+
+==== Topics Discussed
+
+* Siddharth Bhatia told us that he is organising the second Kurzgesagt Meetup Mumbai 2024 on the 19th of October, 2024! link:https://forms.gle/JcVFUuAA5cGYASE8A[Do register and join in!^]
+* Siddharth Bhatia told us about link:https://x.com/DhiruCodes/status/1842834260761190720[Dev Dinner in Mumbai, India^], an in-person hangout for anyone interested in Tech.
+* Harsh Kapadia shared
+	** His link:https://talks.harshkapadia.me/elf[talk on the Executable and Linkable Format (ELF) file on Linux^].
+	** link:https://www.youtube.com/watch?v=cOYK3nbpa2w[The Beauty of Assembly^]
+	** link:https://www.youtube.com/watch?v=pE3KKUKXcTM[How the Semiconductor Industry Actually Works^]
+	** link:https://www.youtube.com/watch?v=si9pVRaGz30[Node.js Doesn't Suck Anymore^]
+	** link:https://www.youtube.com/watch?v=SbpusG7sHF4[This Library Turned my C into JavaScript wtf^]
+		*** link:https://libcello.org[Cello^]
+	** link:https://harshkapadia2.github.io/asciidoctor-jet[Asciidoctor Jet^], an link:https://asciidoctor.org[Asciidoctor^] template that Harsh made, which among other sites, the CatchUp summary site (the current page) also uses.
+	** link:https://harshkapadia.me/robots.txt[The `robots.txt` file of Harsh's portfolio site.^]
+		*** More information: link:https://www.robotstxt.org[robotstxt.org^]
+	** link:https://muratbuffalo.blogspot.com/2024/07/advice-to-young.html[Advice to the young^]
+	** link:https://muratbuffalo.blogspot.com/2012/05/my-advice-to-2012-class.html[My advice to the 2012 class^]
+	** link:https://bryce.vc/post/64889707700/most-people-wont[Most People Won't^]
+	** link:https://networking.harshkapadia.me/laptop-server[Turning a Laptop into a Server^]
+* Mohit Gangwani shared
+	** link:https://vercel.com/blog/serverless-servers-node-js-with-in-function-concurrency[Serverless servers: Efficient serverless Node.js with in-function concurrency^]
+	** link:https://www.oracle.com/news/announcement/oracle-releases-java-23-2024-09-17[Oracle Releases Java 23^]
+		*** link:https://x.com/mohit_explores/status/1806686470549152152[Mohit's Tweet thread on Java 21 updates^]
+* Mohit told us that he was using link:https://laravel.com[Laravel^] to build a web app to explore different technologies.
+	** link:https://www.freecodecamp.org/news/the-model-view-controller-pattern-mvc-architecture-and-frameworks-explained[MVC pattern/architecture^]
+* We unsuccessfully tried to figure out why link:https://voidlinux.org[Void Linux^], a Linux distro built from the ground up without depending on any other distro, was required in the first place. We couldn't find features that made a huge difference from the existing ones.
+* Siddharth Bhatia shared link:https://catchup.ourtech.community/summary/198[the OTC CatchUp #198 summary^] in link:https://notebooklm.google.com/notebook/d91d3161-45bb-4cfc-9770-494247815004/audio?pli=1[podcast format using NotebookLM^].
+	** Siddharth discovered it through link:https://x.com/karpathy/status/1840533562791165963[Andrej Karpathy's Tweet that used NotebookLM^].
+* We discussed about how meetups, talks and podcasts are more about awareness of things going on in the industry rather than learning, because learning happens when we do stuff ourselves in opposition to just listening to people who've worked with it before.
+* Siddharth Bhatia told us how some companies create some products and/or features to attract users to their products, so that people can discover all the practically useful and cool features that their products have. He gave us an example of link:https://obsidian.md[Obsidian^], a note-taking application, that incorporated a graph feature that shows a network/graph of how all notes in the app are related. Siddharth said that he does not think that the feature has a lot of practical uses, but he and many others were attracted to Obsidian because of that feature and then fell in love with all the other cool features that Obsidian has to offer.
+	** Alpesh Bhagwatkar shared link:https://trustedsec.com/blog/obsidian-taming-a-collective-consciousness[Obsidian, Taming a Collective Consciousness^].
+* Rishit Dagli gave us some AI updates, told us about his Math courses and shared some of his experience interning with link:https://www.qualcomm.com[Qualqomm^]'s AI research department.
+	** He talked about the link:https://en.wikipedia.org/wiki/Broyden%E2%80%93Fletcher%E2%80%93Goldfarb%E2%80%93Shanno_algorithm[Broyden-Fletcher-Goldfarb-Shanno algorithm^].
+	** He shared link:https://arxiv.org/abs/2311.10122[Video-LLaVA: Learning United Visual Representation by Alignment Before Projection^]
+	** He also shared link:https://www.qualcomm.com/developer/artificial-intelligence/datasets[some of Qualcomm's public AI datasets].
+
+==== Projects Showcased
+
+* Kaustubh Khavnekar shared his Amazon EKS ArgoCD boilerplate project, a boilerplate template which provides a quick starting point for creating an link:https://aws.amazon.com/eks[EKS^] cluster with link:https://argoproj.github.io/cd[ArgoCD^] pre-configured and other best practices.
+	** Technologies used: AWS (EKS, EC2, Route 53, IAM and more), Terraform, Helm, ArgoCD
+	** Project repository: link:https://github.com/KMK-Git/eks-argocd-starter[github.com/KMK-Git/eks-argocd-starter^]
+	** Blog explainer: link:https://blogs.kaustubhk.com/blog/argocd-eks-template[Amazon EKS ArgoCD boilerplate^]
+	** This project led to a very informative and fun discussion with Kaustubh, Darshit Suratwala, Harsh Kapadia and others.
+		*** Kaustubh's project's high level project architecture
+			**** In his project, Kaustubh is using Terraform to provision the overarching AWS infrastructure (AWS EKS cluster service and all other AWS services).
+			**** He then uses Helm charts to define the Kubernetes structure inside the provisioned AWS EKS infrastructure.
+			**** Instead of using Helm itself to provision the Kubernetes (EKS) infrastructure inside the already provisioned high-level AWS infrastructure, Kaustubh tells Terraform to use the Helm charts to do it.
+				***** According to Kaustubh, this is the better way to do it, rather than have Helm itself do it.
+			**** Once this is done, ArgoCD is used to manage continuous deployments (CD) of application logic inside the EKS cluster. The deployment logic is again written in Helm charts and is given to Terraform to deploy the defined logic inside the EKS cluster.
+		*** link:https://phoenixnap.com/blog/ansible-vs-terraform[Ansible vs. Terraform: What Are the Differences?^]
+		*** We talked about resolving infrastructure issues like intermittent network losses, connection dropping issues, etc.
+			**** Telnet, Netcat, etc.
+		*** Harsh shared link:https://tailscale.com/blog/how-nat-traversal-works[How NAT traversal works^].
+		*** Darshit shared his repository (a take-home job interview assignment) which does something similar to what Kaustubh did: link:https://github.com/DSdatsme/golang-api-k8s-ci-cd[github.com/DSdatsme/golang-api-k8s-ci-cd^]
+		*** Along with Rishit Dagli, we also touched upon interviews, job availabilities, etc.
