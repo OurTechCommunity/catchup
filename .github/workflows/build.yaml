@@ -1,0 +1,37 @@
+name: Build web app
+on:
+    pull_request:
+        branches:
+            - main
+        paths:
+            - "public/**"
+            - "summary/**"
+            - "util/build.sh"
+            - "index.js"
+            - "package-lock.json"
+            - "package.json"
+
+    workflow_dispatch: # Allows manual execution of workflow
+
+jobs:
+    lint:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Install dependencies
+              run: npm ci
+
+            - name: Perform linting check
+              run: npm run lint:check
+
+    build:
+        runs-on: ubuntu-latest
+        container: "docker://asciidoctor/docker-asciidoctor:latest"
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v4
+
+            - name: Build summary pages using Asciidoctor Jet
+              run: ./util/build.sh

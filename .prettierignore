@@ -1,9 +1,3 @@
-.deta
 .vscode
 node_modules
 .env
-
-public/css/summary/
-public/js/summary/
-public/img/summary/
-public/html/summary/
