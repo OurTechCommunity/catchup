@@ -1,0 +1,33 @@
+Date: 14-09-2024
+
+Duration: 3 hrs 41 mins
+
+==== Topics Discusssed
+
+* General Introductions
+* After link:https://twitter.com/JiaHarisinghani[Jia Harisinghani^] showcased her course project on Data Structure Animation, a few others shared some visualizers.
+    ** link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared link:https://www.cs.usfca.edu/~galles/visualization/BST.html[Binary Search Tree Visualizer^].
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared link:https://github.com/SaketThota/QuickSortVisualizer[Quick Sort Visualizer^] and link:https://github.com/SaketThota/AVL-Tree-Visualizer[AVL Tree Visualizer^].
+* link:https://twitter.com/bhavesh878789[Bhavesh Kukreja^] shared some links to GNU link:https://git.busybox.net/busybox/tree/coreutils/printf.c[Busybox printf.c^], link:https://maizure.org/projects/printf/index.html[Tearing apart printf()^]. 
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about how real-time rendering is not that computationally expensive after link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased his project updates.
+* link:https://www.linkedin.com/in/atharvakhewle[Atharva^] discussed some projects he has worked on, which are also highlighted in his link:https://atharva-khewle-portfolio.vercel.app/[portfolio^].
+    ** His movie streaming project uses a third party API to fetch movie data.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] posed a question: Is success a result of hard work or luck?
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] mentioned that luck is temporary, but hard work makes success last.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] suggested that we could explore this philosophical concept and create an experiment to verify it.
+* vintus vinifera shared a problem statement about converting floor plans to 3D models using Blender for SIH 2024.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] showcased an example about string literals.
+    ** He defined two functions: one that returns a string literal and another that returns an array of characters (returns starting address of the array).
+    ** Since the array is local to the function, it is destroyed after the function returns, causing a segmentation fault. In contrast, the string literal is stored in the read-only section of memory, allowing it to be returned without causing a fault.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] and link:https://www.linkedin.com/in/atharvakhewle[Atharva^] discussed penetration testing techniques.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared a problem he was facing with SSH access into a Slurm job.
+
+==== Projects Showcased
+
+* link:https://twitter.com/JiaHarisinghani[Jia Harisinghani^] showcased her course project on Data Structure Animation. The project focuses on creating engaging animations and games to make learning and understanding data structures more interesting.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] showcased updates to his project built using link:https://shiplab.github.io/vesseljs[Vessel.js^], which simulates all the components and systems of a ship.
+    ** He added middleware to handle requests and responses using Flask and link:https://en.wikipedia.org/wiki/WebSocket[WebSockets^], based on the link:https://en.wikipedia.org/wiki/IEC_61131[IEC 61131^] standard.
+* link:https://www.linkedin.com/in/atharvakhewle[Atharva^] showcased his movie streaming project, link:https://orion-view-frontend.vercel.app/[Orion View^].
+    ** It is built using MERN and vercel.
+    ** link:https://github.com/atharva-khewle/OrionView[GitHub Repo^]
+
