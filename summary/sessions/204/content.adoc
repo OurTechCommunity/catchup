@@ -49,7 +49,7 @@ Duration: 3 hrs 53 mins
 			**** He then uses Helm charts to define Kubernetes addons inside the provisioned AWS EKS infrastructure.
 			**** Instead of using Helm CLI or ArgoCD to provision the Helm charts for Kubernetes addons, Kaustubh uses Terraform to deploy the Helm charts.
 				***** According to Kaustubh, this is the better way to automate Helm chart deployments if one wants to stick to Infrastructure as Code (IaC).
-				***** ArgoCD is not used for Kubernetes addons because the helm charts use Terraform outputs as inputs to the chart definition.
+				***** ArgoCD is not used for Kubernetes addons because the Helm charts use Terraform outputs as inputs to the chart definition.
 			**** Once this is done, ArgoCD is used to manage continuous deployments (CD) of containerized applications inside the EKS cluster. The Kubernetes objects for these applications are again written in Helm charts. ArgoCD syncs the Helm chart definitions in Git repos with the objects deployed in the cluster.
 		*** link:https://phoenixnap.com/blog/ansible-vs-terraform[Ansible vs. Terraform: What Are the Differences?^]
 		*** We talked about resolving infrastructure issues like intermittent network losses, connection dropping issues, etc.
