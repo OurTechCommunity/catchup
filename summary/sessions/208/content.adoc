@@ -1,0 +1,19 @@
+Date: 02-11-2024
+
+Duration: 4 hrs 16 mins
+
+==== Topics Discussed
+
+* We talked about link:https://resources.pcb.cadence.com/blog/2020-vlsi-technology-its-history-and-uses-in-modern-technology[VLSI (Very-Large Scale Integration)^] technology and touched upon its front-end and back-end processes.
+* Harsh Kapadia talked about the 3D V-Cache being below the core (compute) die in the new link:https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html[AMD Ryzen 7 9800X3D desktop processors^].
+	** link:https://www.youtube.com/watch?v=amQOwllDXWE[AMD Responds to Intel: Ryzen 7 9800X3D Price, Specs, & Major Changes^]
+	** link:https://www.youtube.com/watch?v=4pGDEYApniU[Cache Goes on Top, or Cache Goes on Bottom? The X3D Dilemma^]
+		*** Very interesting video talking about the power, latency, memory stacking, physical design, packaging and thermal complexity tradeoffs that have to be taken into consideration while deciding whether the core (compute) die goes above the 3D cache die or vice versa.
+* Harsh Kapadia shared link:https://www.youtube.com/watch?v=j6kX7JWMiV0[Qualcomm's v8 License, Cancelled by Arm!^]
+* Alpesh Bhagwatkar shared
+	** link:https://www.pcmag.com/news/russian-court-slaps-google-with-a-20-decillion-fine-heres-why[Russian Court Slaps Google With a $20 Decillion Fine: Here's Why^].
+	** link:https://www.youtube.com/watch?v=waHs2QDkIUM[Indonesia Bans Sales Of Google Pixel Phones^]
+		*** We also talked about link:https://www.makeinindia.com[Make in India^], made in the USA, tariffs and taxes.
+* Gajraj Singh asked for laptop recommendations. We looked at a few gaming laptops from Lenovo and Dell.
+	** link:https://www.howtogeek.com/all-the-letters-in-amd-ryzen-cpu-names-explained[All the Letters in AMD Ryzen CPU Names Explained^]
+* Pranav Dani shared link:https://vim-adventures.com[VIM Adventures^], an online game based on link:https://www.vim.org[Vim^]'s keyboard shortcuts (commands, motions and operators).
