@@ -1,0 +1,46 @@
+Date: 09-11-2024
+
+Duration: 4 hrs 27 mins
+
+==== Topics Discussed
+
+* Harsh Kapadia shared
+	** link:https://www.youtube.com/watch?v=yAw63F1W_Us[The Special Memory Powering the AI Revolution^]
+	** link:https://www.youtube.com/watch?v=Awz_CG2320E[AMD's Silent Launch: Ryzen 5 7600X3D CPU Review & Benchmarks vs. 7800X3D, 5700X3D, 9800X3D^]
+	** link:https://www.youtube.com/watch?v=pSksXALDV98[new windows malware brings it's OWN vulnerabilities^]
+	** link:https://www.youtube.com/watch?v=0knj9-HXGo8[AMD Advancing AI 2024 Highlights^]
+	** link:https://www.youtube.com/watch?v=rrym7146I_8[You Probably Won't Buy Intel's New Ultra 9 285k CPU^]
+	** link:https://www.youtube.com/watch?v=Jf8EPSBZU7Y[Inside the World's Largest AI Supercluster xAI Colossus^]
+	** link:https://www.youtube.com/@offlinemark[offlinemark on YouTube^]
+* Mohit Gangwani shared link:https://www.youtube.com/watch?v=FSVnN6-xr9k[this new Linux feature makes hacking IMPOSSIBLE^]
+* Social media addiction
+	** Siddharth Bhatia gave some suggestions to help reduce social media usage
+		*** Enable greyscale whenever you use social media
+		*** Use digital wellbeing's app timers to ensure something like: 20 minutes of Instagram time in a day
+		*** One common thing that some people do is just using the website of the social media instead of the app. This adds more levels of friction in accessing the app. There are also some apps that specialize in increasing friction in accessing the app.
+		*** link:https://www.youtube.com/watch?v=JyYQiMXcIxs[Don't delete instagram. Do this instead^]
+	** link:https://getinstander.com[Instander^]
+* AI
+	** Viranchee Lotia shared link:https://karpathy.ai/zero-to-hero.html[Neural Networks: Zero to Hero, by Andrej Karpathy^]
+	** Dev Malang shared link:https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f[How Large Language Models work: From zero to ChatGPT^]
+	** Jaden Furtado shared
+		*** link:https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT[Deep Learning by NPTEL-NOC IITM^]
+		*** link:https://www.youtube.com/watch?v=wjZofJX0v4M[How large language models work, a visual intro to transformers^]
+	** Siddharth Bhatia shared link:https://venturebeat.com/ai/googles-ai-system-could-change-the-way-we-write-inksight-turns-handwritten-notes-digital[Google's AI system could change the way we write: InkSight turns handwritten notes digital^]
+	** Harsh Kapadia shared
+		*** link:https://www.youtube.com/watch?v=iR2O2GPbB0E[What are Large Language Models (LLMs)?^]
+		*** link:https://www.youtube.com/watch?v=zizonToFXDs[Introduction to large language models^]
+		*** link:https://www.youtube.com/watch?v=5sLYAQS9sWQ[How Large Language Models Work^]
+	** Jaden was looking to make LLMs learn without consuming context to provide it rules and without having to have humans or software interfere in preventing the LLM to generate wrong answers.
+		*** Jaden was looking to give feedback to the LLM such that it learns itself. He tried using Knowledge Graphs and providing text-based feedback (but wasn't happy about the text-based feedback, as it consumes the model's context space).
+		*** This entire conversation always came back to requiring human intervention, software intervention, software/LLM verifiers (who need verifiers of their own, making it an infinite sequence) or consuming the model's context length to give it clues/rules to always generate the correct answers, if one doesn't want to re-train or fine-tune the large LLM.
+		*** Rishit Dagli shared
+			**** link:https://arxiv.org/abs/2408.03314[Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters^]
+			**** link:https://arxiv.org/abs/2107.06424[Tourbillon: a Physically Plausible Neural Architecture^]
+		*** Darshit Suratwala shared
+			**** link:https://github.com/stanfordnlp/dspy[DSPy^], a framework for programming—not prompting—foundation models.
+			**** link:https://www.reddit.com/r/LangChain/comments/1cqexk6/thoughts_on_dspy/?rdt=36157[Thoughts on DSPy^]
+* Tushar Shelke shared that he was building a browser by following the link:https://browser.engineering[Web Browser Engineering^] course.
+	** Harsh Kapadia recommended watching link:https://www.youtube.com/@awesomekling[Andreas Kling's YouTube videos^], as he posts videos about building an operating system called link:https://serenityos.org[SerenityOS^] and a web browser called link:https://ladybird.org[Ladybird^] from scratch.
+	** Harsh also shared link:https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag[ETag^], which browsers use as mechanisms to detect if a resource has changed on the server.
+	** Jaden Furtado shared link:https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers[Headers^].
