@@ -1,0 +1,25 @@
+Date: 28-09-2024
+
+Duration: 3 hrs 35 mins
+
+==== Topics Discusssed
+
+* The sixth OTC Talk was presented by link:https://twitter.com/harshgkapadia[Harsh Kapadia^], titled "All about ELFs". You can find more details here: link:https://talks.ourtech.community/6[All about ELFs^].
+    ** The talk was recorded and is available on YouTube: link:https://youtu.be/BM62xi4FE3c[Watch the recording^].
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared blogs related to ELF files and object file formats:
+    ** link:https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format[Evolution of ELF Object File Format^]
+    ** link:https://maskray.me/blog/2024-01-14-exploring-object-file-formats[Exploring Object File Formats^]
+* link:https://twitter.com/bhavesh878789[Bhavesh Kukreja^] had some trouble fixing sound drivers in Linux and shared his project on computer graphics: link:https://github.com/BhaveshKukreja29/Computer-graphics/tree/main/MPR[Computer Graphics Project^].
+* link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] shared a link to his blog repository: link:https://github.com/KMK-Git/kaustubhk-blogs[Kaustubh's Blogs^].
+* link:https://twitter.com/rishit_dagli[Rishi Dagli^] suggested using libcudf for certain tasks and shared a link to the RAPIDS AI project: link:https://rapids.ai/[RAPIDS AI^].
+    ** He also shared one of his college assignment on link:https://github.com/dilevin/computer-graphics-ray-tracing[Ray Tracing in C++^]
+* link:https://twitter.com/code_magician[Viranchee L^] shared a link to his dotfiles repository: link:https://github.com/Viranchee/dotfiles[Dotfiles^].
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani (Dhiru)^] shared a link to a gallery of processor cache effects: link:https://igoro.com/archive/gallery-of-processor-cache-effects[Processor Cache Effects^].
+* We talked about some useful tools and resources:
+    ** link:https://github.com/tj/git-extras[Git Extras^]
+    ** link:https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/README.md[Oh My Zsh Git Plugin^]
+    ** link:https://github.com/jhillyerd/plugin-git[FISH Git Plugin^]
+    ** link:https://stackoverflow.com/a/21778[Undo Git Reset^]
+    ** link:https://stackoverflow.com/questions/653454/how-do-you-make-git-ignore-files-without-using-gitignore[Git Ignore Files^]
+    ** link:https://github.com/magmax/python-inquirer/[Python Inquirer^]
+    ** link:https://www.dask.org[Dask^]
