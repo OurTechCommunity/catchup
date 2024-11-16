@@ -1,0 +1,46 @@
+Date: 19-10-2024
+
+Duration: 4 hrs 32 mins
+
+==== Topics Discussed
+
+* General Introductions
+* We had a discussion on the SpaceX launch, about how the Starship was caught with chopsticks.
+    ** Additionally, we talked about Robotaxi - Cybercab, and Tesla robots (Optimus). link:https://youtu.be/fgm5uZaS3-E[MKBHD video^].
+    ** Discussed the future potential of buying land on the moon for mineral extraction.
+* After link:https://x.com/Alpastx[Alpesh Bhagwatkar^] showcased his project, we talked a bit about port knocking and nmap.
+* We briefly discussed AI (Apple Intelligence) and its public perception.
+    ** "AI" was being used to summarize notifications, but it occasionally missed the mark.
+    ** There was a general agreement that Android handles notifications more effectively.
+* Harsh Khatri discussed AI agents and their impact on human tasks.
+    ** The discussion moved to how to balance the usage of AI in daily life.
+    ** Ishan and Pranav shared their experiences using Perplexity and ChatGPT for various tasks.
+        *** link:https://www.youtube.com/watch?v=MJQIQJYxey4[Power consumption by generative AI video^]
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] showcased a subtle animation he worked on at HackerRank.
+    ** He shared his blog post about link:https://blog.ishandeveloper.com/quality-vs-velocity[Quality vs. Velocity^].
+    ** He also shared another blog post about link:https://gk3fyi.substack.com/p/the-cost-of-craft[The Cost of Craft^].
+    ** Additionally, Ishan shared a blog post about link:https://browsercompany.substack.com/p/optimizing-for-feelings[Optimizing for Feelings^].
+    ** He also discussed the MSW LOGO history: link:https://medium.com/@isetitra/logo-language-for-windows-mac-and-linux-ab184196bd20[MSW LOGO history^].
+* Resources Shared During the Session:
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared:
+        *** Vision-language models project: link:https://arxiv.org/abs/2410.02921[arXiv^]
+        *** Crackpot index: link:https://math.ucr.edu/home/baez/crackpot.html[Crackpot Index^]
+    ** link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^] shared:
+        *** CIDR calculator: link:https://www.davidc.net/sites/default/subnets/subnets.html[DavidC^]
+        *** Cache etymology: link:https://www.etymonline.com/word/cache[Etymonline^]
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared:
+        *** IP and CIDR information: link:https://networking.harshkapadia.me/ip[Networking by Harsh Kapadia^]
+        *** ARPChat GitHub repository: link:https://github.com/kognise/arpchat[GitHub^]
+        *** CPU.land: link:https://cpu.land[CPU.land^]
+    ** Harsh Khatri shared:
+        *** OTC catchup summary (discussion about BGI - Borland Graphics Interface): link:https://catchup.ourtech.community/summary/195[OTC Summary^]
+        *** Physics-breaking speaker video: link:https://www.youtube.com/watch?v=Df2I4JIQzxs[YouTube^]
+    ** Vaibhav Khatri shared Shumi's Instagram: link:https://www.instagram.com/shu_mar?igsh=MXB2dXNub3B2Z3lsNg==[Instagram^]
+    ** link:https://x.com/Alpastx[Alpesh Bhagwatkar^] shared AI and ML resources.
+
+==== Projects Showcased
+
+* link:https://x.com/Alpastx[Alpesh Bhagwatkar^] showcased two projects:
+    ** Network Scanner using Java: This project scans the network and displays the open ports by sending TCP SYN packets and identifying SYN-ACK responses.
+    ** Computer Graphics Project using C: This project shows a simple car animation created using the graphics.h library.
+
