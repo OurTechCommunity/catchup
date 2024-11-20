@@ -1,0 +1,13 @@
+Date: 31-08-2024
+
+Duration: 2 hrs 33 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] talked about a blog he was writing about "Message streaming with Apache Kafka".
+* link:https://twitter.com/chiragnayyar[Chirag Nayyar^] talked about Kafka and how each cloud provider have their slightly different version of it.
+* link:https://twitter.com/SirusTweets[Darshan Rander^]	shared his finds of link:https://github.com/SirusCodes/backend_benchmark[benchmarking^] multiple Dart backend frameworks.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared why he prefers to use link:https://vivaldi.com/[Vivaldi^] as his primary browser - primarily he lived its tab management system.
+* We talked about link:https://cloud.olakrutrim.com/[Krutrim Cloud^] a cloud service provided by Ola a cab hiring service in India.
+	** The services provided are very basic and are at cheaper prices.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared link:https://www.newscientist.com/article/2445450-generative-ai-creates-playable-version-of-doom-game-with-no-code/[Generative AI creates Doom game^] - it generates each frame using GenAI.
