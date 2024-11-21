@@ -1,0 +1,30 @@
+Date: 16-11-2024
+
+Duration:  hrs  mins
+
+==== Topics Discussed
+
+* link:https://linkedin.com/in/aniket-kadam-65b172a8[Aniket Kadam^] shared his work on scaling solutions to assist neurodivergent individuals.
+    ** We discussed autism and the necessity for neurodivergent people to incorporate specific triggers in their daily lives to recognize cues that neurotypical individuals might naturally perceive.
+        ** We also discussed few social difficulties that autism can cause, such as the inability to recognize sarcasm or facial expressions.
+* Rushil Shrivastava asked link:https://linkedin.com/in/aniket-kadam-65b172a8[Aniket Kadam^] for advice on whether he should take up a role as a content moderator.
+    ** link:https://linkedin.com/in/aniket-kadam-65b172a8[Aniket Kadam^] shared a link to a link:https://www.bbc.com/news/articles/crr9q2jz7y0o[BBC article^] and a link to a link:https://www.washingtonpost.com/opinions/2024/09/09/shifts-content-moderator-comic/[Washington Post article^] that dicusses the mental health issues faced by content moderators.
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared
+    ** link:https://youtu.be/MZMQf3RwM8Q[The AMD 9800X3D is an Insane Overclocker | Liquid Nitrogen OC Recap^]
+    ** link:https://youtu.be/_ZDvfg-4ncg[HW News - Intel Gets Sued & Su'd, NVIDIA Consumer CPU Rumors, 9800X3D Supply^]
+    ** link:https://youtu.be/GOTpkf4rVPQ[Intel Unbends Its CPUs: 285K RL-ILM vs. Standard ILM Laser, Pressure, & Thermal Benchmarks^]
+    ** link:https://youtu.be/Me0GF5zMfAk[Modern CPUs Assign Registers To Speed Up Your Code - Computerphile^]
+    ** link:https://youtu.be/Isen8IHtrvE[The "Goodbye" Problem - Computerphile^]
+    ** link:https://youtu.be/PGpL5hYpY1o[SQLite and its weird new fork “libSQL”^]
+    ** link:https://youtu.be/qyCVCGg_3Ec[Microsoft Notepad.exe is overpowered now… and 13 other major updates for devs^]
+    ** link:https://youtu.be/gjaVKna_m3U[How IBM Lost the PC to Compaq, Intel & Microsoft^]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] inquired link:https://twitter.com/harshgkapadia[Harsh Kapadia^] about purchasing a couple of GPUs for his research work.
+    ** He shared that he was working on 3D and 4D image generation, with the 4th dimension being time.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared that there's an Adobe app that allows you to tilt your 2D images to view them in 3D.
+* We had a discussion on the differences between the West and East coast in the USA.
+    ** How the political climate and the tech industry differ between the two coasts.
+    ** Taxes and the cost of living in the two regions.
+* link:https://twitter.com/AnxKhn[Anas Khan^] shared that he will be joining HackerRank as a software engineer. He also shared his interview experience.
+    ** link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested that he should speak with Ishaan Sharma, who is currently working there, for more insights.
+* We discussed the hiring processes of tech companies.
+    ** link:https://linkedin.com/in/aniket-kadam-65b172a8[Aniket Kadam^] mentioned that recruiters often spend no more than six seconds reviewing a resume, focusing primarily on bold points before moving on.
