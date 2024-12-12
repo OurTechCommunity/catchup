@@ -27,9 +27,13 @@ Duration: 3 hrs 8 mins
 * Alpesh shared link:https://www.widecanvas.ai[Widecanvas AI^].
 * Jaden Furtado talked about link:https://owasp.org/www-community/controls/Static_Code_Analysis[Static Code Analysis^] and we discussed link:https://nono.ma/linter-vs-formatter[Linters^].
 	** Jaden was planning to work on a project where he wanted to analyze code for security and use AI. More context for this can be found in the link:https://catchup.ourtech.community/summary/209#:~:text=Jaden%20was%20looking%20to%20make%20LLMs%20learn[209th OTC CatchUp^].
-* Krishna Gadia and Kartik Soneji had a friendly challenge between them to figure out whether running an executable Shell script with a `#! /bin/bash` shebang using the command `bash script.sh` or the command `./script.sh` invokes them in different ways.
+* Krishna Gadia and Kartik Soneji had a friendly challenge between them about whether running an executable Shell script with a `#!/bin/bash` shebang as `bash script.sh` or `./script.sh` invokes them in different ways.
+	** Krishna claimed the parent process id for `bash script.sh` would differ from `./script.sh`, while Kartik believed there would be no difference since the kernel would interpret the shebang.
+	** Testing it out on Harsh's Linux server from a shell, through link:https://www.gnu.org/software/screen/[`screen`^] and through link:https://github.com/tmux/tmux/wiki[`tmux`^] we found no notable difference in the execution methods.
+	** Krishna gracefully admitted defeat.
 	** link:https://unix.stackexchange.com/questions/2976/different-ways-to-execute-a-shell-script[Different ways to execute a shell script^]
 	** Siddharth Bhatia made some memes on this while we were trying to check this in a terminal.
 		*** link:https://ibb.co/cwcyxYY[Meme #1]
 		*** link:https://x.com/SiddharthCoding/status/1860381222687637827[Meme #2^]
+* Krishna also shared link:https://youtube.com/shorts/E3Lt9d-D7es[a meme on NoSQL^].
 * Siddharth Bhatia also shared link:https://x.com/SiddharthCoding/status/1859180994173272071[a gesture-recognition to mouse-movement project^] that he really liked.
