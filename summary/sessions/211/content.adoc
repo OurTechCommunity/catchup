@@ -1,0 +1,39 @@
+Date: 23-11-2024
+
+Duration: 3 hrs 8 mins
+
+==== Topics Discussed
+
+* Harsh Kapadia shared
+	** link:https://www.youtube.com/watch?v=ZIORoo5oXlI[This new Linux patch can speed up Reading Requests^]
+	** link:https://www.youtube.com/watch?v=NIbA0GcvaJY[Steve and Wendell's Excellent L1 Office Cleaning Adventure!^]
+	** link:https://www.youtube.com/watch?v=xYqeI3Om1ew[The Ultimate Tech Hoarder Bunker | Wendell's Offices (Level1 Techs)^]
+	** link:https://www.youtube.com/watch?v=A89FMtIkWKc[CSS just changed forever… plus 7 new features you don't know about^]
+	** link:https://www.youtube.com/watch?v=UHExm5CCG5g[HW News - Intel Battlemage Imminent, AI Rant, Arrow Lake "Fix," Xbox Handheld, 'Floppy' Case^]
+* Linux and CPU bugs discussion
+	** Harsh Kapadia shared link:https://www.youtube.com/watch?v=CDtIS8XaJDY[new critical linux exploit has been hiding for 10 years.^]
+	** Harsh asked Chirag Nayyar, who works in Cloud Pre-sales, how technical teams at his compamy handled such cases and helped clients.
+		** Chirag said that
+			** They first figure out who is going to add the patch or security fix, the Cloud vendor (AWS, GCP, Azure, etc.) or the customer themselves.
+			** Then, they figure out whether the fix can be applied on-the-fly or whether the service needs to go down, be patched up and then be spun up again.
+		** Once the above factors are clear, the team can make a plan to help the customer to avoid any down time or service disruptions, through adding redundancies or other techniques.
+	** Harsh shared
+		*** link:https://en.wikipedia.org/wiki/WannaCry_ransomware_attack[WannaCry ransomware attack^]
+		*** link:https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)[Spectre (security vulnerability)^]
+		*** link:https://www.youtube.com/watch?v=qrk8fj7re-s[what happens when your CPU has a bug? (GhostWrite)^]
+* Bhavesh Kukreja asked about contributing to an issue on OTC CatchUp's GitHub repository and Harsh Kapadia welcomed it and explained the issue to him.
+	** The issue: link:https://github.com/OurTechCommunity/catchup/issues/175[Links in Attendee Map Overridden by `null`.^]
+* Kartik Soneji shared link:https://x.com/p_stolf/status/1860032878261993773[Synthoptic Writing^].
+* Alpesh shared link:https://www.widecanvas.ai[Widecanvas AI^].
+* Jaden Furtado talked about link:https://owasp.org/www-community/controls/Static_Code_Analysis[Static Code Analysis^] and we discussed link:https://nono.ma/linter-vs-formatter[Linters^].
+	** Jaden was planning to work on a project where he wanted to analyze code for security and use AI. More context for this can be found in the link:https://catchup.ourtech.community/summary/209#:~:text=Jaden%20was%20looking%20to%20make%20LLMs%20learn[209th OTC CatchUp^].
+* Krishna Gadia and Kartik Soneji had a friendly challenge between them about whether running an executable Shell script with a `#!/bin/bash` shebang as `bash script.sh` or `./script.sh` invokes them in different ways.
+	** Krishna claimed the parent process id for `bash script.sh` would differ from `./script.sh`, while Kartik believed there would be no difference since the kernel would interpret the shebang.
+	** Testing it out on Harsh's Linux server from a shell, through link:https://www.gnu.org/software/screen/[`screen`^] and through link:https://github.com/tmux/tmux/wiki[`tmux`^] we found no notable difference in the execution methods.
+	** Krishna gracefully admitted defeat.
+	** link:https://unix.stackexchange.com/questions/2976/different-ways-to-execute-a-shell-script[Different ways to execute a shell script^]
+	** Siddharth Bhatia made some memes on this while we were trying to check this in a terminal.
+		*** link:https://ibb.co/cwcyxYY[Meme #1]
+		*** link:https://x.com/SiddharthCoding/status/1860381222687637827[Meme #2^]
+* Krishna also shared link:https://youtube.com/shorts/E3Lt9d-D7es[a meme on NoSQL^].
+* Siddharth Bhatia also shared link:https://x.com/SiddharthCoding/status/1859180994173272071[a gesture-recognition to mouse-movement project^] that he really liked.
