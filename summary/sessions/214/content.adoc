@@ -1,0 +1,14 @@
+Date: 14-12-2024
+
+Duration: 1 hrs 50 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/mohit_explores[Mohit Gangwani^] shared about a open-source project by Microsoft called link:https://github.com/microsoft/markitdown[markitdown] which is used to convert document files into markdown files.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] talked about importance of sleep and shared a post - link:https://rlim.com/sleepforengineers["Sleep for Engineers" by him^].
+	** link:https://twitter.com/rishit_dagli[Rishit Dagli^] agreed that he could focus more if he have a 8+ hours of sleep.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] shared that he heard that medium.com decreases visibility of articles which are not behind a paywall.
+* link:https://twitter.com/SaifSaifee_dev[Saifuddin Saifee^] asked how he can do link:https://www.geeksforgeeks.org/search-engine-optimization-seo-basics/[SEO - Search Engine Optimization] in link:https://nextjs.org/[Next.js^].
+	** link:https://twitter.com/SirusTweets[Darshan Rander^] suggested that sitemap.xml and robots.txt doesn't matter a lot as current engines look at site contents than these things and sitemap would be a good thing to have for a blog site but not for a product site.
+	** He found out about link:https://nextjs.org/docs/pages/api-reference/components/head[Head Component] in Next.js but it's deprecated as Next is moving towards link:https://nextjs.org/docs/pages/building-your-application/upgrading/app-router-migration[app directory] and new API (link:https://nextjs.org/docs/app/building-your-application/optimizing/metadata[metadata]) is introduced.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared that he is planning to do online masters from link:https://omscs.gatech.edu/specializations[Georgia Tech] as he wants a degree from a reputed university.
