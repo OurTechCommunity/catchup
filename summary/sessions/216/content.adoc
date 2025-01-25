@@ -1,0 +1,9 @@
+Date: 28-12-2024
+
+Duration: 3 hrs 8 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] talked about link:https://github.com/Rishit-dagli/simplicits-nerfstudio[4D model^] that are assets which move with time.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] talked about https://genesis-embodied-ai.github.io/[Genesis^] - a research paper which talks about creating realistic physics for objects.
+* link:https://twitter.com/furtado_jaden[Jaden Furtado^] shared link:https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html[NSO zero-click iMessage exploit] by Google's Project Zero.
