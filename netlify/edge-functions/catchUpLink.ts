@@ -18,7 +18,7 @@ export default async function (
 	}
 
 	let authResponse = auth(req);
-	if (authResponse) authResponse;
+	if (authResponse) return authResponse;
 
 	let link;
 	const contentType = req.headers.get("content-type");
