@@ -1,0 +1,19 @@
+Date: 08-12-2024
+
+Duration: 2 hrs 30 mins
+
+==== Topics Discussed
+
+* Ramyak and Viranchee talked about how memory works at OS level.
+    ** We also talked about page faults and how OS handles it by looking it up in the drive.
+* Ramyak discussed remote browser isolation. He shared the article: link:https://blog.cloudflare.com/cloudflare-and-remote-browser-isolation[Cloudflare's Remote Browser Isolation].
+* Rishit talked a bit about GPUs and how they are used in AI.
+
+==== Projects Showcased
+
+* Krishna showcased a project called workout tracker, which is a CRUD app for tracking workouts.
+* Rishit showcased a project about 3d - 4d video generation.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani (Dhiru)^] showcased Dekho - a video streaming platform.
+    ** link:https://github.com/Chirag-And-Dheeraj/video-streaming-server[GitHub^]
+* link:https://twitter.com/sailorworks[Sahil Prasad^] showcased his project called mnemonicAI.
+    ** It is gemini wrapper which generates mnemonics with the help of Ai to learn complex list of words quickly.
