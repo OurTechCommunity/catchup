@@ -1,0 +1,20 @@
+Date: 21-12-2024
+
+Duration: 2 hrs 23 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] showcased his terminal setup and highlighted a couple of GitHub repositories:
+    ** link:https://github.com/Welding-Torch/Amber2[Amber2]
+    ** link:https://github.com/textualize/rich[Rich]
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^], link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^], and link:https://twitter.com/PranavDani3[Pranav Dani^] discussed AI advancements and Gemini's improvements.
+    ** Additionally, link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] introduced a GitHub repository, link:https://github.com/auctors/free-lunch[Free Lunch^], offering valuable resources for anyone eager to learn about tech.
+* link:https://twitter.com/code_magician[Viranchee L^] talked about job opportunities and shared insights on the job market.
+* Discussion on the new GPUs from Intel, AMD, and Nvidia:
+    ** Nvidia is known its mature software stack and hence people are ready to pay for their GPUs.
+    ** AMD and Intel are focusing on competitive pricing strategies.
+* We discussed the challenges in managing LLM behavior and examined how unofficial e-book repositories, such as Libgen, play a role in providing training data for these models.
+    ** link:https://twitter.com/rishit_dagli[Rishit Dagli^] had the opportunity to test OpenAI's o3, and it seems to beat the Arc benchmark.
+* We also talked about the misuse of personality rights, as seen in the Delhi High Court case involving Anil Kapoor.
+    ** link:https://www.livelaw.in/top-stories/delhi-high-court-anil-kapoor-voice-image-misuse-personality-rights-238217[Read more^]
+
