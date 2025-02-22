@@ -1,0 +1,46 @@
+Date: 04-01-2025
+
+Duration: 3 hrs 30 mins
+
+==== Topics Discussed
+
+* Happy New Year 2025! We talked about how to make new year's resolutions stick by reducing the number of new things started at the same time and focusing on getting through January, so that the new habits have a higher chance of sticking.
+	** We talked about the importance of making new habits and getting rid of bad ones.
+	** Harsh Khatri shared a book called link:https://noahkagan.com/mdwbook['Million Dollar Weekend' by Noah Kagan^].
+* Dheeraj Lalwani told us how he has been experimenting with video streaming using link:https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol[Real-Time Messaging Protocol (RTMP)^] and link:https://en.wikipedia.org/wiki/HTTP_Live_Streaming[HTTP Live Streaming (HLS)^].
+	** With HLS, he implemented the video chunking and the streaming of those chunks himself, instead of having a library implement it for him. This is an excellent way to learn new things!
+* Rishit and Dheeraj talked about ownership of a feature when developing a product.
+	** Rishit was talking about ownership in a traditional sense, where someone owns the entire product and is most likely their brainchild.
+	** Dheeraj was talking about being the person who developed one or more features of a product, has expertise in that area and is the PoC (Point of Contact) for anything (good or bad) related to those features.
+* Darshan Rander shared some project ideas he was looking at to build as a web app, around building a family tree, a Google Photos type of experience which tags people in images, an expense tracker and more.
+	** Harsh Kapadia was quite dismissive of these ideas because he thought that the ideas have a LOT of really good solutions already existing and that Darshan was capable of building more complicated projects that would challenge him more, but Harsh Khatri and Dheeraj Lalwani were able to improve upon Darshan's ideas and talk about the complexities that he might face while building some of the ideas.
+		*** Anas Khan shared link:https://github.com/LibrePhotos/librephotos[LibrePhotos^] as an example of a product that already exists.
+	** One of Harsh Khatri's ideas that was particularly fascinating was to create a family tree app which has a feature of being able to converse with the family member in their own voice to know more about them, their bio-data, their relations with different family members, etc.
+		*** He suggested link:https://character.ai[Character.AI^] as a service that does the voicing part of the idea he presented.
+	** Dheeraj was telling about the issues faced while having to handle long running jobs to analyze thousands of images.
+		*** He shared link:https://www.youtube.com/watch?v=CcnwFJqEnxU[How David Lieb Turned a Failing Startup Into Google Photos^].
+	** This was a good lesson for Harsh Kapadia to realise that it's how one thinks of ideas that can make all the difference and to not be dismissive of ideas, but to give them a chance and think of how they can be modified to make them more unique and/or practical.
+* Rishit Dagli shared link:https://math.ucr.edu/home/baez/crackpot.html[The Crapkpot Index^], simple method for rating potentially revolutionary contributions to Physics.
+* Artificial Intelligence (AI)
+	** Rishit Dagli shared link:https://www.amd.com/en/developer/resources/technical-articles/amd-nitro-diffusion-one-step-text-to-image-generation-models.html[AMD Nitro Diffusion: One-Step Text-to-Image Generation Models^].
+	** Rishit shared his research paper link:https://www.cs.toronto.edu/~rishit/airletters[AirLetters^], an open video dataset of characters drawn in the air.
+	** Rishit shared link:https://x.com/venturetwins/status/1872697948787884244[a Tweet^] about making different AI models generate a video of a teacher writing the word 'Hi' on a blackboard.
+		*** Harsh Khatri was of the opinion that this would make teaching really scalable and accessible, and would be a great asset, because teachers would be able to reach more people across continents, language and religious barriers.
+		*** Kartik Soneji was of the opinion that just because something can be done, it should not necessarily be done. He was talking about the teaching idea that Harsh Khatri mentioned, because according to Kartik, AI is indeterministic and it finds ways to make wrong things sound convincing. Teaching is a field that shapes people's futures, so entrusting an entity like AI to do that is a decision that shouldn't be taken lightly at all.
+		*** Rishit Dagli was looking at it more from a science perspective of how realistic this can get and how far this technology can be pushed, rather than just look at applications.
+		*** All the three perspectives are correct in their own ways. There is no clear winner. AI is here to stay. This is about finding a middle ground. It's not about which idea is the best or most correct. Every idea has its pros and cons. It's about how we can combine things to take things further.
+	** Rishit told us how Pokémon Go is actually using all the location data that it captured to train AI map models to build an AI navigation system.
+		*** We all felt that it's crazy how we don't know what these companies do with our data. It feels weird to now realise that the company plans to use game data to train their AI models. It feels misleading because no one knew how they would use the data.
+		*** link:https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system[Niantic uses Pokémon Go player data to build AI navigation system^]
+		*** link:https://interestingengineering.com/culture/pokemon-go-data-ai-map[Niantic turns Pokémon Go data into AI navigation system to rival Google Maps^]
+		*** link:https://www.usatoday.com/story/tech/2024/11/23/niantic-pokemon-go-data-ai-map/76488340007[It's not just a game. Your Pokemon Go player data is training AI map models.^]
+	** Rishit told us about the use of the Monte Carlo Tree Search algorithm in LLMs.
+		*** link:https://www.youtube.com/shorts/wulOAUA95Dg[This 20 year old algorithm is changing how LLMs think^]
+		*** link:https://www.youtube.com/watch?v=hmQogtp6-fs[What is Monte Carlo Tree Search? - Artificial Intelligence^]
+	** Rishit shared his blog link:https://rishit-dagli.github.io/2024/01/01/sgd.html[An Intuitive Look at the Dynamics of SGD^].
+* Rishit Dagli shared a few works by Douglas Hofstadter.
+	** link:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bcrNzDsAAAAJ&citation_for_view=bcrNzDsAAAAJ:Se3iqnhoufwC[Godel's proof^]
+	** link:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bcrNzDsAAAAJ&citation_for_view=bcrNzDsAAAAJ:_FxGoFyzp5QC[Discovery and dissection of a geometric gem^]
+	** link:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bcrNzDsAAAAJ&citation_for_view=bcrNzDsAAAAJ:MXK_kJrjxJIC[Concepts, analogies, and creativity^]
+	** link:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bcrNzDsAAAAJ&citation_for_view=bcrNzDsAAAAJ:ufrVoPGSRksC[Analogies and metaphors to explain Gödel's theorem^]
+	** link:https://commons.library.stonybrook.edu/library_books/1[Gödel, Escher, Bach: An Eternal Golden Braid^]

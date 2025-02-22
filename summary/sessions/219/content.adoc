@@ -1,0 +1,47 @@
+Date: 18-01-2025
+
+Duration: 3 hrs 8 mins
+
+==== Topics Discussed
+
+* Bhavesh Kukreja asked about posting certifications and Leetcode on LinkedIn.
+	** There were mixed opinions, but the overall conclusion was to do it initially if one feels like it, but definitely transition out of that with time.
+	** Obviously if the certification is an extremely respected or prestigious one, do post about it.
+	** When it comes to Leetcode
+	** Harsh Kapadia's thoughts
+		*** Sharing projects and actual knowledge would be better than just posting about some certification.
+		*** Sure, post about a certification if one cares about it and if it really is a prestigious one, but let that not be most of what one posts.
+		*** If one has worked, built things and has shared knowledge, there is usually enough to share on social media and on one's résumé to automatically get rid of things that don't really matter.
+* We tried to wrap our heads around link:https://dev.to/sandheep_kumarpatro_1c48/introduction-to-linux-guis-unpacking-the-basics-of-desktop-environments-window-managers-and-more-4anf[Desktop Environments, Window Managers, Display Protocols, etc.^].
+* Harsh Kapadia shared
+	** link:https://gowind.github.io/ideas[Govind's project ideas^]
+	** link:https://www.youtube.com/watch?v=7rXgVsIGvGQ[Apple Intelligence rolled back after doing dumb stuff...^]
+	** link:https://beej.us/blog/data/noises-in-the-distance[On the Importance of Hard Work^]
+	** link:https://dev.harshkapadia.me/resources#pwa--service-worker-api[Harsh's resources on PWAs and Service Workers^]
+	** link:https://www.youtube.com/watch?v=2MvvCr-thM8[Intel's 300W Core i9-14900K: CPU Review, Benchmarks, Gaming, & Power^]
+	** link:https://www.youtube.com/watch?v=OVdmK1UGzGs[Intel's Biggest Failure in Years: Confirmed Oxidation & Excessive Voltage^]
+	** link:https://css-tricks.com/send-an-http-request-on-page-exit/#aa-using-navigator-sendbeacon[Beacon requests^] to make requests without waiting for responses. This can be useful to send some non-critical data to the server or to wake up a sleeping server.
+		*** link:https://github.com/HarshKapadia2/ipl-app/blob/312292aa8a03e57642c32c5c08a7cd0f74f44aa1/client/public/index.html#L42C3-L52C12[Harsh's usecase to wake up a sleeping server^]
+			**** This is using the Fetch API and not a Beacon request, but it can be done with a Beacon request as well.
+	** link:https://www.youtube.com/watch?v=0myM0k1mjZw[Capacity Planning and Estimation: How much data does YouTube store daily?^]
+	** The frustrating support for the Clipboard API on the Web: link:https://stackoverflow.com/questions/24293864/html5-clipboard-api-status-caniuse-shows-partial-support[HTML5 Clipboard API status - CanIUse Shows partial support^]
+* Mohit Gangwani shared link:https://www.youtube.com/watch?v=eKtpdMmLMHYp[the new rsync exploit is sort of hilarious.^]
+* Cybersecurity
+	** Jaden Furtado shared his talk at SINCON 2024 link:https://www.youtube.com/watch?v=4HchTam8e2A[Lights Out - Hacking Power Generation Infrastructure - by Karan Sajnani & Jaden Furtado^].
+	** We talked about operating systems like Arch, link:https://www.blackarch.org[BlackArch^], Ubuntu, link:https://pop.system76.com[Pop!_OS^], link:https://en.wikipedia.org/wiki/Parrot_OS[Parrot OS^] and Kali Linux from Cybersecurity and general usage standpoints.
+	** Jaden Furtado told us how he uses link:https://www.shodan.io[Shodan^] to search for open ports and find security vulnerabilities, both at work and for his personal research.
+		*** Harsh Kapadia asked why not use a tool like link:https://nmap.org[Nmap^], but Jaden said that if he uses the tool directly, then the firewalls of systems that he is trying to test or attack might find his IP address or just ban his IP address. Instead of setting up proxy machines to prevent his IP from being exposed, he just uses Shodan.
+	** Uma Iyer shared link:https://osintframework.com[OSINT Framework^], a collection of free resources for link:https://en.wikipedia.org/wiki/Open-source_intelligence[Open Source Intelligence (OSINT)^].
+* Rishit Dagli shared a course on link:https://www.cs.toronto.edu/~bor/373s20/material.html[Algorithm Design, Analysis & Complexity^].
+* Alpesh Bhagwatkar talked about his implementation of adding link:https://www.maketecheasier.com/what-vram-is-and-increase-vram[VRAM^] consumption support to link:https://github.com/prasanthrangan/hyprdots[hyprdots^], an open source project that displays system information in the toolbar at the top of his Linux machine.
+* Harsh Khatri told us how he had recently bought a 3D printer and was in the process of printing a cute little boat as his first project. That boat is supposed to be the 'Hello World' program of the 3D printing world.
+	** His inspiration to buy a 3D printer and build useful, cool gadgets: link:https://www.youtube.com/watch?v=-s74phtezf4[Organizing my Drawer with 3D Printing^]
+
+==== Projects Showcased
+
+* Jia Harisinghani shared an update on her project Algorific, a React.js application for learning, visualization and gamification of data structures.
+* Dheeraj Lalwani and Chirag Lulla showcased the released version of their application link:https://dekho-lva4.onrender.com[Dekho^], a video streaming platform.
+	** Dekho is a research and study project aimed at understanding and mastering the intricacies of audio and video streaming.
+	** Their primary focus was on implementing the link:https://en.wikipedia.org/wiki/HTTP_Live_Streaming[HLS (HTTP Live Streaming) protocol^] to build an on-demand live streaming server.
+	** Dekho achieved link:https://peerlist.io/dheerajlalwani/project/dekho[Peerlist's no. 1 project of the week in Jan 2025^].
+	** link:https://github.com/Chirag-And-Dheeraj/video-streaming-server[GitHub^]

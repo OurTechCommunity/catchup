@@ -1,0 +1,37 @@
+Date: 11-01-2025
+
+Duration: 4 hrs
+
+==== Topics Discussed
+
+* Naufil Asar and Harsh Kapadia talked about using link:https://www.vim.org[Vim^] and link:https://neovim.io[Neovim^].
+	** We talked about how they're really useful once one is used to them.
+	** Naufil mentioned how he liked working with Neovim's config more than Vim, because he feels that Neovim, which uses link:https://www.lua.org[Lua^] to link:https://neovim.io/doc/user/lua-guide.html[configure the editor^], is much easier to work with than Vim's link:https://vimhelp.org/usr_41.txt.html[Vimscript^].
+	** We discussed how bullying people who don't use them isn't fair.
+	** Harsh shared
+		*** link:https://github.com/HarshKapadia2/dotfiles[His dotfiles^].
+		*** A good way to learn about Vim and other things: link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^]
+* Cybersecurity
+	** Alpesh Bhagwatkar shared
+		*** A playlist that he has been following to learn Cybersecurity, called link:https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf[TJ_Null's OSCP Prep^] by IppSec.
+		*** That he was planning to attend a meetup talking about link:https://github.com/projectdiscovery/nuclei[Nuclei^].
+	** Jaden Furtado talked about how he has been studying for the link:https://www.offsec.com/courses/web-300[OffSec Web Expert (OSWE) certification^], which is a challenging 48-hour Cybersecurity certification.
+* Harsh Kapadia shared
+	** link:https://www.youtube.com/watch?v=mBFf-aYoV6Q[17 weird new tech products at CES 2025 you need right now...^]
+	** link:https://www.youtube.com/watch?v=PZU9ZiEr0XI[AMD Event at CES 2025: Everything Revealed in 5 Minutes^]
+	** (Currently) The world's fastest supercomputer link:https://en.wikipedia.org/wiki/El_Capitan_(supercomputer)[El Capitan^]
+	** link:https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf[Digital Design and Computer Architecture^] course by Onur Mutlu
+	** link:https://www.youtube.com/playlist?list=PLkoRSCZZILDNshnewPIwXp1NvmKhv9aoR[EXT Family^]
+* Retro hardware
+	** Harsh Kapadia shared his experience at a small retro hardware meetup in Austin
+		*** He saw people debugging hard disk access on an Atari ST.
+		*** He talked about link:https://www.youtube.com/watch?v=gjaVKna_m3U[How IBM Lost the PC to Compaq, Intel & Microsoft^]
+		*** He was shown a clock-accurate Heathkit H89 JavaScript emulator called link:https://heathkit.garlanger.com/emulator/jsH89[jsH89^] by the developer himself!
+	** Jaden Furtado shared
+		*** link:https://www.youtube.com/watch?v=lP2ZBp9O0mk&t=1212s[The first LowSpec Processor^]
+		*** link:https://en.wikipedia.org/wiki/Motorola_6800[Motorola 6800^]
+* Rishit Dagli shared link:https://arxiv.org/abs/2501.04227[Agent Laboratory: Using LLM Agents as Research Assistants^]
+* Jaden Furtado asked for opinions on link:https://www.youtube.com/watch?v=YlpGVXhYjMk[NVIDIA Fake Frames Scandal^].
+* link:https://forceindia.net/cover-story/unmanned-rovers[Indian Army accelerates efforts to develop Unmanned Ground Vehicles^]
+* Saket Thota, on being prompted to talk more about link:https://www.linkedin.com/posts/saket-thota_2024wrapped-activity-7279926812514676736-W_Oe[his 2024 reflection post^], told us about his learnings related to personal finances, how he is trying to invest, how he decided how much to put into the stock market and how he is keeping on learning more.
+	** He shared a course called link:https://www.coursera.org/learn/financial-markets-global[Financial Markets^] that he took to learn the basics of financial markets.

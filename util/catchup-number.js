@@ -7,7 +7,8 @@ async function getAllCatchUpNumbers() {
 	const dirArray = await getDirectoryNames(path);
 	for (let i = 0; i < dirArray.length; i++)
 		dirArray[i] = parseInt(dirArray[i]);
-	return dirArray.reverse();
+	dirArray.sort((a, b) => b - a);
+	return dirArray;
 }
 
 async function getDirectoryNames(path) {
