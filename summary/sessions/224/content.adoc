@@ -1,0 +1,24 @@
+Date: 22-02-2025
+
+Duration: 3 hrs 28 mins
+
+==== Topics Discussed
+
+* General Introduction
+* We compared code editors including VSCode, Cursor, and Zed. Cursor offered superior AI support, while VSCode maintained its reliable features and Zed provided fast performance and enhanced vim integration.
+* Sahil, Pranav, and Darshan discussed databases, phantom reads, transactions, and locks following a demonstration by Sahil.
+* Rishit and Viranchee discussed implementing a convolution algorithm in both CUDA and CPU to address an interview question.
+    ** link:https://sakana.ai/ai-cuda-engineer[Sakana AI^] originally claimed a 1000x speedup with CUDA, a claim that was later refuted on Twitter.
+    ** We talked about how a GPU is different from a CPU and how to leverage the GPU's architecture to achieve a speedup.
+* Sahil sought support for his database project, and Rishit recommended using an LLM to provide input in a structured format—pointing out that English is the ideal language both for writing code and for communicating with computers.
+    ** Jaden suggested that LLM's are good replacent for compiler. 
+* Thought Experiment: We explored a scenario where everyone had equal financial resources and AI, particularly LLMs, managed all tasks—discussing the potential social and economic impacts of such a world.
+* Viranchee shared his approach for applying to jobs and getting interviews, emphasizing the importance of a relevant resume and applying early.
+* Alpesh was working on a CTF and he asked for opinions on how to approach the challenge.
+
+==== Projects Showcased
+
+* Darshan showcased AntiLang, a language that he wrote in Go whiile reading link:https://interpreterbook.com/[Writing an Interpreter in Go^].
+    ** link:link:https://siruscodes.github.io/AntiLang[GitHub Repository^]
+* Sahil Bansal showcased his implementation of a database that he calls AtmomixDB. He built it n GoLang while reading link:https://build-your-own.org/database/90_end/[Build Your Own Database^].
+    ** link:https://github.com/Sahilb315/AtomixDB[GitHub Repository^]
