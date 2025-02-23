@@ -1,0 +1,24 @@
+Date: 08-02-2025
+
+Duration: 3 hrs 52 mins
+
+==== Topics Discussed
+
+* Ritojnan Mukherjee discussed embeddings and the Indic-BERT model:
+    ** We then talked about sentence-to-word embeddings and their applications (e.g., image search).
+    ** Discussed the difference between link:https://www.tomedes.com/translator-hub/translation-vs-transliteration[Translation vs Transliteration].
+    ** Shared links:
+        *** link:https://www.sbert.net/[SBERT Library], link:https://www.sbert.net/examples/applications/image-search/README.html[SBERT Image Search Example]
+        *** link:https://github.com/AI4Bharat/IndicBERT-v1[Indic-BERT-v1 Model]
+* link:https://twitter.com/JiaHarisinghani[Jia Harisinghani^] shared her project Algorific, and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] suggested her to host it on GitHub Pages instead of Vercel, since it takes more efforts initially, but you get to learn more.
+* We talked about the difference beteween containerization and virtualization, and use of Docker.
+    ** Docker cointainer uses linux features like namespaces and cgroups, while virtualization relies on hypervisors.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] and link:https://twitter.com/harshgkapadia[Harsh Kapadia^] discussed operating systems and process execution, covering asynchronous vs synchronous operations, blocking vs non-blocking processes, parallel vs concurrent execution, and the nuances of multitasking, multithreading, hyperthreading, and multiprocessing.
+    ** Process requiring slow I/O operations or network requests can be made asynchronous to prevent blocking the CPU.
+    ** Parallel execution involves multiple tasks running simultaneously, while concurrent execution involves multiple tasks being interleaved.
+    ** Multitasking involves running multiple tasks on a single CPU, while multithreading involves running multiple threads on a single process.
+* link:https://twitter.com/SirusTweets[Darshan Rander^] showcased his updates to AntiLang, a language that he was working on while reading the link:https://interpreterbook.com/[Interpreter book].
+* link:https://twitter.com/harshgkapadia[Harsh Kapadia^] shared a blog called link:https://blog.codingconfessions.com/[Confessions of a Code Addict^] by Abhinav Upadhyay.
+* link:https://twitter.com/WilfredAlmeida_[Wilfred Almeida^] shared his work on blockchain, focusing on implementing eventual consistency.
+* Rishit shared a link to the research paper "Gradual Disempowerment" (link:https://gradual-disempowerment.ai[Gradual Disempowerment^]), which examines the impact of AI on society.
+* Viranchee demonstrated the execution of SIMD vector instructions on ARM using a simple C++ example for vector addition.
