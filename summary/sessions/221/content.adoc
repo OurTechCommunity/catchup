@@ -1,0 +1,14 @@
+Date: 01-02-2025
+
+Duration: 2 hrs 46 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] started brain storming for AntiLang, where he just wanted to mess with the language structure and make it difficult to understand.
+* link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] showcased the Dekho project updates and asked everyone to try out the project and upvote it on Peerlist.
+    ** Project Link: link:https://dekho-lva4.onrender.com[Dekho^]
+* We discussed DeepSeek R1 and talked about model distillation, highlighting recent claims by OpenAI against China.
+    ** Distillation is a process where a large model is trained on a large dataset and then a smaller model is trained on the same dataset to mimic the larger model.
+* Rishit Dagli and link:https://twitter.com/PranavDani3[Pranav Dani^] discussed Nvidia's latest GPUs and the controversy surrounding fake frames in DLSS4.
+    ** They compared the power consumption between the 4090 and 5090 models.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] shared his updates on the CPU and GPU profiling project.
