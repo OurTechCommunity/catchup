@@ -1,0 +1,44 @@
+Date: 01-02-2025
+
+Duration: 5 hrs 23 mins
+
+==== Topics Discussed
+
+* General Introductions.
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared his experience of attending the Mumbai tech week.
+* While link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] was showcasing his effects, Harsh talked about how link:https://twitter.com/KartikSoneji_[Kartik Soneji^] suggested him to use link:https://github.com/HarshKapadia2/asciidoctor-jet[Asciidoctor-Jet^] for the catchUp website.
+    ** link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about why he likes CMD autocompletion over bash.
+* link:https://linkedin.com/in/aniket-kadam-65b172a8[Aniket Kadam^] presented his idea for a glowing band (Could be used with something like a water bottle) that lights up to remind users to hydrate, with a special focus on neurodivergent individuals.
+    ** He explained his plan to integrate an accelerometer to detect when the bottle is picked up, subsequently triggering a light after a set period.
+    ** link:https://linkedin.com/in/aniket-kadam-65b172a8[Aniket Kadam^] and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked a bit about target audience and business strategy.
+* Harsh shared following links:
+    ** link:https://impress.js.org[Impress.js^]
+    ** link:https://docs.asciidoctor.org/reveal.js-converter/latest/converter/features[Asciidoctor Reveal.js Converter^]
+    ** link:https://hono.dev[Hono.js^]
+    ** link:https://www.youtube.com/watch?v=_Y3BfN9v3sA[The latest LLM research ...^]
+    ** link:https://www.youtube.com/watch?v=iEda8_Mvvo4[Analyzing Deepseek's "undefined" NVIDIA PTX optimizations (with benchmarks!)^]
+* Abhinav Singh and link:https://twitter.com/KartikSoneji_[Kartik Soneji^] talked about laptop camera, physical shutters and software switches to avoid privacy concerns.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] and link:https://twitter.com/code_magician[Viranchee L^] talked about DeepSeek's Parallel training.
+* We talked about user experience on iOS and android and how they go an extra mile to ensure usability. link:https://twitter.com/rishit_dagli[Rishit Dagli^] asked how would one quantitatively determine a good user experience, other than the statistical ways of standard tests.
+* link:https://twitter.com/rishit_dagli[Rishit Dagli^] shared his side project about reasoning forcasting, where you think that entire world is predictable.
+    ** We talked a bit about Game Theory, a model of rationality, and how it can be used to predict human behavior.
+    ** link:https://linkedin.com/in/aniket-kadam-65b172a8[Aniket Kadam^] suggested a few sci-fi books:
+        *** link:https://en.wikipedia.org/wiki/Foundation_series[Foundation Series^] by Isaac Asimov
+        *** link:https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)[The Martian^] by Andy Weir
+        *** link:https://en.wikipedia.org/wiki/Project_Hail_Mary[Project Hail Mary^] by Andy Weir
+* link:https://twitter.com/KartikSoneji_[Kartik Soneji^] and link:https://linkedin.com/in/aniket-kadam-65b172a8[Aniket Kadam^] noted some companies' poor security practices.
+    ** These issues are often ignored to avoid disrupting other features.
+* Ramyak discussed the ICE protocol and the function of STUN and TURN servers in establishing connections via the link:https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Protocols[WebRTC^].
+    ** He explained that ICE is used to establish peer-to-peer connections, while also noting some undocumented limitations.
+    ** Additionally, he described his work with the link:https://www.iroh.computer[Iroh^] protocol to build a peer to peer file sharing that synchronizes shared folders across multiple devices.
+    ** He shared a YouTube channel where he learnt about distributed systems called link:https://www.youtube.com/@n0computer[n0omputer^].
+* We talked about AMD's new GPUs RX 9000 series and how they are expected to compete with Nvidia's RTX 5000 series.
+    ** link:https://www.youtube.com/watch?v=UAe50byQGG0[AMD RX 9070 & 9070 XT GPU Prices, Specs, & Release Date^]
+* Darshan shared his blog on link:https://blog.darshanrander.com/posts/tech/how-i-wrote-my-language/[How I wrote my language^].
+
+==== Projects Showcased
+
+* link:https://twitter.com/Darth_Sid512[Siddharth Bhatia^] shared his implementation of different terminal effects on Windows for CMD.
+    ** He plugged his link:https://github.com/Welding-Torch/Amber2[GitHub Repository^] for Amber2 theme.
+* Shubham Yadav showcased a job portal project that he built during his internship.
+    ** The backend was written in Node.js.
