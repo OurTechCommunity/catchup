@@ -1,0 +1,21 @@
+Date: 01-02-2025
+
+Duration: 4 hrs 10 mins
+
+==== Topics Discussed
+
+* General Introductions.
+* Dekho Updates by link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^] and link:https://twitter.com/\_chiraglulla_[Chirag Lulla^]:
+    ** Implemented thumbnail support for videos (using the first frame as the thumbnail).
+* Microsoft's is rewriting TypeScript in Go.
+* link:https://twitter.com/t3_pat[Pratik Thakare^] asked some regarding aspect ratio challenges during image printing, converting SVG to PNG, and redrawing images in the terminal.
+    ** link:https://twitter.com/mehraramyak[Ramyak Mehra^] and link:https://twitter.com/t3_pat[Pratik Thakare^] discussed ASCII and ANSI art.
+    ** We talked about terminal-based gaming.
+* We talked a bit about Nvidia GPU shipping delays, and new AMD GPUs RX 9000 series.
+    ** PS5 utilizes advanced upscaling methods to deliver 4K resolution.
+
+==== Projects Showcased
+
+* Soham showcased his solutions for a CTF challenge by Hack the Box.
+    ** He showcased the usage of GDB to debug the binary and find the flag.
+* Ayush Shukla showcased his usage of Kafka and Node.js to build a set of APIs for a shop project.
