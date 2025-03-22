@@ -1,0 +1,15 @@
+Date: 22-03-2025
+
+Duration: 5 hrs 34 mins
+
+==== Topics Discussed
+
+* link:https://twitter.com/SirusTweets[Darshan Rander^] mentioned he was developing a script to separate his personal photos from common ones.
+    ** He recommended two alternative tools to Google Photos: link:https://immich.app[immich^] and link:https://github.com/LibrePhotos/librephotos[librephotos^].
+* We discussed Android XR, focusing on its seamless integration of Google apps with Gemini on wearables.
+* We explored the role of AI models in optimizing workflows.
+* link:https://twitter.com/PranavDani3[Pranav Dani^] discussed the range of courses he completed during his master's degree.
+* link:https://twitter.com/code_magician[Viranchee L^] shared tips on optimizing resumes and emphasized the importance of applying promptly for job opportunities.
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] outlined his approach for managing UI-related tasks.
+    ** link:https://twitter.com/kaku_jay[Jay Kaku^] and link:https://twitter.com/ishandeveloper[Ishan Sharma^] talked about React and some new tools like link:https://www.webpagetest.org/[WebPageTest^].
+* link:https://twitter.com/ishandeveloper[Ishan Sharma^] and link:https://twitter.com/code_magician[Viranchee L^] talked about Vibe coding and some new jobs that have been popping up in the market.
