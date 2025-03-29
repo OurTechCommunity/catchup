@@ -1,0 +1,24 @@
+Date: 29-03-2025
+
+Duration: 2 hrs 31 mins
+
+==== Topics Discussed
+
+* General introductions.
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] and Abhinav Singh discussed freelance opportunities and the essential knowledge required to start freelancing.
+* Mohan (RollingStowwn) shared his experience as a security engineer at Netskope.
+    ** He mentioned a vulnerability discovered in next.js, potentially arising from developers relying on AI to write code. He elaborated on the implications of depending on AI for producing production-grade applications.
+        *** link:https://www.linkedin.com/in/harsh242[Harsh Khatri^] shared a video: link:https://youtu.be/82JpGhctWpU?si=G9bwyDG6Y7QzCA9W[AI Won't Fix the Fundamental Flaw of Programming^].
+    ** Mohan also shared a valuable resource: link:https://brain.binarysouljour.me[Mohan's SecondBrain^].
+* link:https://twitter.com/_SharmaHimanshu[Himanshu Sharma^] shared link:https://github.com/punkpeye/awesome-mcp-servers[Awesome MCP Servers^].
+* link:https://twitter.com/PranavDani3[Pranav Dani^] and Mohan explored how to manage notes and vaults efficiently in Obsidian.
+* link:https://www.linkedin.com/in/harsh242[Harsh Khatri^] proposed a tool for scanning Catchup notes, allowing users to easily search for topics and access detailed meeting information.
+
+==== Projects Showcased
+
+* Faiz Khan demonstrated a temporary file-sharing platform: link:https://sharebin.streamlit.app[ShareBin^].
+    ** This application, built with Streamlit, PostgreSQL, and Python, allows users to securely share files without logging in by using a unique access code.
+    ** Source code: link:https://github.com/calvincandiec137/ShareBinV2[GitHub^].
+* Vaibhav Khatri showcased a Health Assessment application developed for a client, featuring a comprehensive solution with frontend, backend, and databases for both admin and user interfaces.
+* Rishit presented the NeRF-GS Datasets project: link:https://rishit-dagli.github.io/2025/03/28/nerf-gs-datasets.html[NeRF-GS Datasets^], which compiles 3D reconstruction scenes enhanced by trained Gaussian Splats.
+* Rishit also introduced his research contribution: link:https://rishitdagli.com/qivd_o[Can Vision-Language Models Answer Face-to-Face Questions in the Real-World?^].
