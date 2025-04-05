@@ -1,3 +1,7 @@
+Date: 15-02-2025
+
+Duration: 3 hrs 9 mins
+
 ==== Topics Discussed
 
 * Darshan Rander shared link:https://github.com/gokcehan/lf[gokcehan/lf^], a terminal file manager.
