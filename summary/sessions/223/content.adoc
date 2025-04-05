@@ -1,0 +1,28 @@
+==== Topics Discussed
+
+* Darshan Rander shared link:https://github.com/gokcehan/lf[gokcehan/lf^], a terminal file manager.
+* Harsh Kapadia shared
+	** link:https://unix.stackexchange.com/questions/264632/what-is-the-correct-way-to-view-your-cpu-speed-on-linux[What is the correct way to view your CPU speed on Linux?^]
+	** link:https://www.youtube.com/@Tunadorable[Tunadorable^] (AI general and kernel-related YouTube videos)
+* Viranchee Lotia shared link:https://www.youtube.com/@GPUMODE[GPU MODE^]
+* NixOS
+	** Jaden Furtado shared link:https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf[Nix: A Safe and Policy-Free System for Software Deployment^]
+	** Ayush Shukla shared link:https://www.youtube.com/watch?v=0ulldVwZiKA[Say Goodbye to Containers - Ephemeral Environments with Nix Shell^]
+	** Harsh Kapadia shared link:https://wiki.nixos.org/wiki/Overview_of_the_NixOS_Linux_distribution[Overview of the NixOS Linux distribution^]
+* Linux desktop and screen types and components
+	** Harsh Kapadia shared link:https://dev.to/sandheep_kumarpatro_1c48/introduction-to-linux-guis-unpacking-the-basics-of-desktop-environments-window-managers-and-more-4anf[Introduction to Linux GUIs: Unpacking the Basics of Desktop Environments, Window Managers, and More^]
+	** Sahil Bansal shared link:https://dev.to/l04db4l4nc3r/compositors-in-linux-1hhb[Compositors in Linux^]
+	** Himanshu Mishra shared link:https://www.youtube.com/watch?v=nPz5TAGYgzA[Wayland vs X11^]
+	** Harsh shared link:https://unix.stackexchange.com/questions/503806/what-are-x-server-display-and-screen[What are X server, display and screen?^]
+	** Harsh shared link:https://www.hanselman.com/blog/whats-the-difference-between-a-console-a-terminal-and-a-shell[What's the difference between a console, a terminal, and a shell?^]
+* Python package managers
+	** link:https://python-poetry.org[Python Poetry^]
+	** link:https://docs.astral.sh/uv[uv^]
+* Dotfiles
+	** Himanshu Mishra shared link:https://github.com/ugly-custard/dots[ugly-custard/dots^]
+	** Viranchee Lotia shared link:https://github.com/viranchee/dotfiles[viranchee/dotfiles^]
+	** Harsh Kapadia shared link:https://github.com/HarshKapadia2/dotfiles[HarshKapadia2/dotfiles^]
+* AI
+	** link:https://github.com/Genesis-Embodied-AI/Genesis[Genesis-Embodied-AI/Genesis^], a generative world for general-purpose robotics & embodied AI learning.
+	** link:https://www.geeksforgeeks.org/sparse-autoencoders-in-deep-learning[Sparse Autoencoders in Deep Learning^]
+	** link:https://www.neelnanda.io/mechanistic-interpretability/quickstart[Mechanistic Interpretability Quickstart Guide^]
