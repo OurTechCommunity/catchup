@@ -4,31 +4,22 @@ Duration: 3 hrs 43 mins
 
 ==== Topics Discussed
 
-* OTC MeetUp Announcement & Agenda  
-    ** Harsh Kapadia introduced OTC MeetUp #5 and shared the meetup link:  
-        *** link:https://meetup.ourtech.community/5[Meetup #5^] 
-    ** He also listed the Talk topics and speakers.
-* Development & Security  
-    ** Harsh Kapadia shared a flamegraphs resource for performance analysis:  
-        *** link:https://www.brendangregg.com/flamegraphs.html[Brendan Gregg's Flamegraphs^]
-    ** Harsh also shared an OSWE course link:  
-        *** linlk:https://www.offsec.com/courses/web-300[OSWE^]  
-    ** Jaden Furtado shared two links:  
+* OTC MeetUp Announcement and Agenda  
+    ** Harsh Kapadia introduced link:https://meetup.ourtech.community/5[OTC MeetUp #5^] happening on 12th April in Mumbai.
+* Development and Security 
+    ** Harsh Kapadia shared link:https://www.brendangregg.com/flamegraphs.html[Brendan Gregg's Flamegraphs^].
+    ** Harsh also shared an link:https://www.offsec.com/courses/web-300[OSWE^] course.    
+    ** Jaden Furtado shared two links while discussing about security:  
         *** link:https://osv.dev[a vulnerability database/tool^]  
         *** link:https://github.com/anchore/grype[Grype^] - a vulnerability scanner
-* Additional Technical References  
-    ** Harsh Kapadia shared multiple YouTube video links 
-        *** link:https://youtu.be/uBL0siiliGo[Model Context Protocol: A Deep Dive into the future of AI systems^]
-        *** link:https://youtu.be/1Dj4gww8-rk[Gamers Nexus: HW News^]
-        *** link:https://youtu.be/Dy1_9dcToJU[Gamers Nexus: This Is NVIDIA's World^]
-    ** At one point, Harsh shared a Medium article on Server Sent Events:  
-        *** link:https://medium.com/deliveryherotechhub/what-is-server-sent-events-sse-and-how-to-implement-it-904938bffd73[Server Sent Events^]  
-    ** Later in the discussion, Darshan Rander contributed a link on Vercel's fluid compute:  
-        *** link:https://vercel.com/docs/functions/fluid-compute[Vercel's Fluid Compute^]  
-    ** Harsh also shared a cybersecurity resource from CrowdStrike on endpoint detection and response:  
-        *** link:https://www.crowdstrike.com/en-us/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr[EDR^]
+* Harsh Kapadia shared multiple YouTube video links 
+    ** link:https://youtu.be/uBL0siiliGo[Model Context Protocol: A Deep Dive into the future of AI systems^]
+    ** link:https://youtu.be/1Dj4gww8-rk[Gamers Nexus: HW News^]
+    ** link:https://youtu.be/Dy1_9dcToJU[Gamers Nexus: This Is NVIDIA's World^]
+* At one point, Harsh shared a Medium article on link:https://medium.com/deliveryherotechhub/what-is-server-sent-events-sse-and-how-to-implement-it-904938bffd73[Server Sent Events^]
+    ** Later in the discussion, Darshan Rander contributed a link on link:https://vercel.com/docs/functions/fluid-compute[Vercel's Fluid Compute^].  
+    ** Harsh also shared a cybersecurity resource from CrowdStrike on endpoint detection and response: link:https://www.crowdstrike.com/en-us/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr[EDR^]
 * Systems discussion
     ** link:https://www.baeldung.com/cs/cache-tlb-miss-page-fault[Cache, TLB Miss, Page Fault^]
     ** link:https://www.baeldung.com/cs/semaphore-vs-mutex[Semaphore vs Mutex^]
-    ** link:https://ai.meta.com/blog/llama-4-multimodal-intelligence/[Meta AI Llama 4^]
-
+* Someone shared link:https://ai.meta.com/blog/llama-4-multimodal-intelligence/[Meta AI Llama 4^] blog.
