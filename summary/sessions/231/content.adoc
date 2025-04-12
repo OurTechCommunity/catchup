@@ -1,0 +1,11 @@
+Date: 12-04-2025
+
+Duration: 1 hrs 13 mins
+
+==== Topics Discussed
+
+* We talked to some folks who attended link:https://meetup.ourtech.community/5[OTC MeetUp #5^] in Mumbai.
+* Rishit, Viranchee and Pranav talked about Nvidia Nsight and how it can be used for profiling workloads.
+* Viranchee shared 
+    ** link:https://www.youtube.com/watch?v=vcp2iFzHmfwd[Profiling^] - Youtube video
+    ** link:https://www.datamonsters.com/amd-developer-challenge-2025[AMD Developer Challenge 2025^] - AMD Developer Challenge 2025
