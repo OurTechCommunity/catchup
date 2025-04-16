@@ -4,4 +4,19 @@ Duration: 2 hrs 40 mins
 
 ==== Topics Discussed
 
-* We didn't record a summary. Sorry!
+* Darshan Rander talked about link:https://github.com/SirusCodes/AntiLang[AntiLang^] GitHub issues.
+* Bootstrapping a language
+* How to figure out back end project ideas
+* Ramyak Mehra shared hiring challenges at Dyte - Smallest golang Websocket Client
+	** link:https://hacktofinale.dyte.io/challenges/golf[Challenge problem statement^]
+	** link:https://dyte.io/blog/hiring-challenge-smallest-golang-websocket-client[Winner's solution blog: Hiring Challenge: Smallest Golang Websocket Client^]
+* Hiring issues, coding platforms, interview questions, placements
+* Jaden's day-to-day work (test security, sec tools, outside projects)
+* Laravel and how good of an ORM support it has - Django equivalent
+* Jaden Furtado NullCon Goa 2025 link:https://goa2025.nullcon.net/goa-2025/speaker-radio-hacking-workshop[workshop on Radio Hacking^]
+	** Smaller version at link:https://meetup.ourtech.community/5[OTC MeetUp #5^]
+
+==== Projects Discussed
+
+* Bhavesh Kukreja told us about his Chess project.
+* Jia Harisinghani finally deployed her project link:https://jia2005.github.io/Algorific[Algorific^] on GitHub Pages.

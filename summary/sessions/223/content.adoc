@@ -13,12 +13,20 @@ Duration: 3 hrs 9 mins
 	** Jaden Furtado shared link:https://edolstra.github.io/pubs/nspfssd-lisa2004-final.pdf[Nix: A Safe and Policy-Free System for Software Deployment^]
 	** Ayush Shukla shared link:https://www.youtube.com/watch?v=0ulldVwZiKA[Say Goodbye to Containers - Ephemeral Environments with Nix Shell^]
 	** Harsh Kapadia shared link:https://wiki.nixos.org/wiki/Overview_of_the_NixOS_Linux_distribution[Overview of the NixOS Linux distribution^]
-* Linux desktop and screen types and components
+* Linux desktop and screen types, TTYs and components
 	** Harsh Kapadia shared link:https://dev.to/sandheep_kumarpatro_1c48/introduction-to-linux-guis-unpacking-the-basics-of-desktop-environments-window-managers-and-more-4anf[Introduction to Linux GUIs: Unpacking the Basics of Desktop Environments, Window Managers, and More^]
 	** Sahil Bansal shared link:https://dev.to/l04db4l4nc3r/compositors-in-linux-1hhb[Compositors in Linux^]
 	** Himanshu Mishra shared link:https://www.youtube.com/watch?v=nPz5TAGYgzA[Wayland vs X11^]
-	** Harsh shared link:https://unix.stackexchange.com/questions/503806/what-are-x-server-display-and-screen[What are X server, display and screen?^]
-	** Harsh shared link:https://www.hanselman.com/blog/whats-the-difference-between-a-console-a-terminal-and-a-shell[What's the difference between a console, a terminal, and a shell?^]
+	** Harsh also shared
+		*** link:https://unix.stackexchange.com/questions/503806/what-are-x-server-display-and-screen[What are X server, display and screen?^]
+		*** link:https://www.hanselman.com/blog/whats-the-difference-between-a-console-a-terminal-and-a-shell[What's the difference between a console, a terminal, and a shell?^]
+		*** link:https://www.baeldung.com/linux/pty-vs-tty[https://www.baeldung.com/linux/pty-vs-tty^]
+		*** link:https://www.golinuxcloud.com/difference-between-pty-vs-tty-vs-pts-linux[Difference between /dev/tty and /dev/pts (tty vs pts) in Linux^]
+		*** link:https://stackoverflow.com/questions/4426280/what-do-pty-and-tty-mean[What do pty and tty mean?^]
+		*** link:https://unix.stackexchange.com/questions/335992/what-is-the-difference-between-pts-and-tty-and-0[What is the difference between `pts` and `tty` and `:0`?^]
+		*** link:https://unix.stackexchange.com/questions/433637/what-is-meant-by-pts-0-and-pts-1-in-the-output-of-ps-aux[What is meant by pts/0 and pts/1 in the output of ps -aux?^]
+		*** link:https://askubuntu.com/questions/249150/what-is-kde-gtk-gtk-qt-and-or-gnome[What is KDE, GTK, GTK+, QT, and/or GNOME?^]
+		*** link:https://askubuntu.com/questions/829108/what-is-gdm3-kdm-lightdm-how-to-install-and-remove-them[What is gdm3, kdm, lightdm? How to install and remove them?^]
 * Python package managers
 	** link:https://python-poetry.org[Python Poetry^]
 	** link:https://docs.astral.sh/uv[uv^]
