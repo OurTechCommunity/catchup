@@ -1,0 +1,19 @@
+Date: 19-04-2025
+
+Duration: 1 hrs 23 mins
+
+==== Topics Discussed
+
+* Dheeraj presentated and discussed I-frames are full images, while P-frames store only changes from previous frames, reducing file size by avoiding repetition and helps reduce file sizes by leveraging the similarities between consecutive video frames .
+    ** link:http://dranger.com/ffmpeg[ffmpeg^] - ffmeg 
+* Rishit shared about modern video and image encoders
+    ** link:https://github.com/NVIDIA/Cosmos-Tokenizer[Cosmos-Tokenizer^] - Cosmos-Tokenizer
+* Discussed about Arithmetic coding compresses data by representing an entire message as a single number between 0 and 1, using symbol probabilities.
+* Links shared
+    ** link:https://www.linuxfromscratch.org[Build linux from Scratch!^] 
+    ** link:https://wiki.archlinux.org/title/Archiso[ArchIso^] 
+    ** link:https://livekit.io/[livekit.io^] 
+    ** link:https://en.wikipedia.org/wiki/Entropy_%28information_theory%29[Entropy (information theory)^] - information theory wikipedia
+    ** link:https://en.wikipedia.org/wiki/NC_(complexity)[NC (complexity)^] - wikipedia page
+    ** link:https://www.youtube.com/watch?v=ETZfkkv6V7Y[Yann LeCun "Mathematical Obstacles on the Way to Human-Level AI"^] - Youtube Video
+    ** link:https://github.com/oxalorg/dotfiles[oxalorg dotfiles^] 
