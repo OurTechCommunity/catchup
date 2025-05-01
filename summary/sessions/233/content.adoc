@@ -1,0 +1,12 @@
+Date: 20-04-2025
+
+Duration: 1 hr 40 mins
+
+==== Topics Discussed
+
+* Jaden shared his work on his personal project and discussed how to improve his website and UI interactions.
+* Kanishk Singh raised whether the website should look visually appealing to attract cybersecurity clients, sparked some back and forth on function vs aesthetics.
+* Alpesh shared his DirFuzzing project and discussed the functionality that other similar projects lack.
+* Discussed Firebase Studio integrating into a cloud IDE for fast prototyping and deploying AI apps.
+* Chirag shared his thoughts on VAST samples, a standardized XML response that tells video players how to load, track, and report on a video ad. This includes media file URLs, impression trackers, clickthrough links, and playback event hooks, and is being used for Hotstar streaming and bypasses for them.
+    ** link:https://docs.broadsign.com/broadsign-ayuda/vast-sample-xml.html[VAST Sample^]
