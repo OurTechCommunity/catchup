@@ -1,0 +1,20 @@
+Date: 19-04-2025
+
+Duration: 1 hr 23 mins
+
+==== Topics Discussed
+
+- Dheeraj presented and discussed I-frames:
+** I-frames are full images, whereas P-frames store only changes from previous frames. This reduces file size by avoiding repetition and leveraging the similarities between consecutive video frames.
+** link:[http://dranger.com/ffmpeg[ffmpeg^]](http://dranger.com/ffmpeg%5Bffmpeg%5E%5D) - ffmpeg's website
+- Rishit talked about modern video and image encoders, which are tools used to compress and decompress video and image data efficiently.
+** link:[https://github.com/NVIDIA/Cosmos-Tokenizer[Cosmos-Tokenizer^]](https://github.com/NVIDIA/Cosmos-Tokenizer%5BCosmos-Tokenizer%5E%5D) - Cosmos-Tokenizer
+- Arithmetic coding was discussed as a method of compressing data by representing an entire message as a single number between 0 and 1, using symbol probabilities.
+- Links shared:
+** link:[https://www.linuxfromscratch.org](https://www.linuxfromscratch.org/)[Build Linux from Scratch!^]
+** link:[https://wiki.archlinux.org/title/Archiso[ArchIso^]](https://wiki.archlinux.org/title/Archiso%5BArchIso%5E%5D)
+** link:[https://livekit.io/[livekit.io^]](https://livekit.io/%5Blivekit.io%5E%5D)
+** link:[https://en.wikipedia.org/wiki/Entropy_(information_theory)](https://en.wikipedia.org/wiki/Entropy_%28information_theory%29)[Entropy (information theory)^] - Information theory Wikipedia
+** link:[https://en.wikipedia.org/wiki/NC_(complexity)](https://en.wikipedia.org/wiki/NC_(complexity))[NC (complexity)^] - Wikipedia page
+** link:https://www.youtube.com/watch?v=ETZfkkv6V7Y[Yann LeCun "Mathematical Obstacles on the Way to Human-Level AI"^] - YouTube video
+** link:https://github.com/oxalorg/dotfiles[oxalorg dotfiles^]
