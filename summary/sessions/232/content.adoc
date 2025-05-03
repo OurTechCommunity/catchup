@@ -5,7 +5,7 @@ Duration: 1 hr 23 mins
 ==== Topics Discussed
 
 * Dheeraj presented and discussed I-frames:
-   * I-frames are full images, whereas P-frames store only changes from previous frames. This reduces file size by avoiding repetition and leveraging the similarities between consecutive video frames.
+   ** I-frames are full images, whereas P-frames store only changes from previous frames. This reduces file size by avoiding repetition and leveraging the similarities between consecutive video frames.
     ** link:http://dranger.com/ffmpeg[ffmpeg^] - ffmpeg's website 
 * Rishit talked about modern video and image encoders, which are tools used to compress and decompress video and image data efficiently.
     ** link:https://github.com/NVIDIA/Cosmos-Tokenizer[Cosmos-Tokenizer^] - Cosmos-Tokenizer
