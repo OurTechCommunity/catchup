@@ -5,8 +5,8 @@ Duration: 1 hr 23 mins
 ==== Topics Discussed
 
 * Dheeraj presented and discussed I-frames:
-    **I-frames are full images, whereas P-frames store only changes from previous frames. This reduces file size by avoiding repetition and leveraging the similarities between consecutive video frames.
-    ** link:http://dranger.com/ffmpeg[ffmpeg^] - ffmpeg 
+   * I-frames are full images, whereas P-frames store only changes from previous frames. This reduces file size by avoiding repetition and leveraging the similarities between consecutive video frames.
+    ** link:http://dranger.com/ffmpeg[ffmpeg^] - ffmpeg's website 
 * Rishit talked about modern video and image encoders, which are tools used to compress and decompress video and image data efficiently.
     ** link:https://github.com/NVIDIA/Cosmos-Tokenizer[Cosmos-Tokenizer^] - Cosmos-Tokenizer
 * Arithmetic coding was discussed as a method of compressing data by representing an entire message as a single number between 0 and 1, using symbol probabilities.
