@@ -26,8 +26,8 @@
 	"dependencies": {
 		"@netlify/blobs": "^8.0.1",
 		"@netlify/edge-functions": "^2.5.1",
-		"dotenv": "^16.3.1",
-		"express": "^5.1.0"
+		"dotenv": "^16.3.1"
+		
 	},
 	"devDependencies": {
 		"@types/node": "^20.11.17",
