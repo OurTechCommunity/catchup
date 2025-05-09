@@ -18,11 +18,11 @@ Duration: 2 hrs 52 mins
     ** Recommended reading DOOM’s source to understand clean code practices.
         ** link:https://github.com/id-Software/DOOM[DOOM source code]
 
-*Ramyak Mehra discussed the performance gap in compiled vs interpreted languages:
+* Ramyak Mehra discussed the performance gap in compiled vs interpreted languages:
     ** Cited familiarity as a key reason for being faster in Go/Rust over Python.
     ** Criticized Cython’s branding Python to C compiler as misleading.
 
-*Kanishk Singh raised a question about OS size constraints and their effect on performance.
+* Kanishk Singh raised a question about OS size constraints and their effect on performance.
     ** This Led to sharing of link:https://pages.cs.wisc.edu/~remzi/OSTEP/[Operating Systems: Three Easy Pieces] and discussions on CPU throttling in containerized environments.
     ** Shared post: link:https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/[CPU Throttling in Containerized Go Apps]
 
