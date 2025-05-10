@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "🛠️ Running commitlint..."
+npm run commitlint ${1}

@@ -8,7 +8,8 @@
     "build": "yum install -y ruby && gem install asciidoctor && sh ./util/build.sh",
     "lint:check": "prettier --check .",
     "lint": "prettier --write .",
-    "prepare": "husky || true"
+    "prepare": "husky || true",
+    "commitlint": "commitlint --edit"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,8 @@
     "dotenv": "^16.3.1"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.8.1",
+    "@commitlint/config-conventional": "^19.8.1",
     "@types/node": "^20.11.17",
     "husky": "^9.1.7",
     "nodemon": "^3.0.0",
