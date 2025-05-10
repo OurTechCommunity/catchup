@@ -8,7 +8,7 @@ Duration: 2 hrs 52 mins
 	** Noted how MongoDB similarly uses BSON (Binary JSON) for internal representation.
 	** This sparked a discussion on ORMs and why they are often disliked—primarily due to excessive abstraction.
 		*** link:https://en.wikipedia.org/wiki/Datalog[Datalog^]
-* Pranav Prasanna Dani discussed the Doom's source code's cleanlyness:
+* Pranav Prasanna Dani discussed the Doom's source code's cleanlyness
 	** Highlighted that the DOOM codebase is cleanly separated between hardware and software logic.
 	** Recommended reading DOOM’s source to understand clean code practices.
 		*** link:https://github.com/id-Software/DOOM[DOOM source code^]
