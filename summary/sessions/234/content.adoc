@@ -18,7 +18,7 @@ Duration: 2 hrs 52 mins
 * Kanishk Singh raised a question about OS size constraints and their effect on performance.
 	** This Led to sharing of link:https://pages.cs.wisc.edu/~remzi/OSTEP[Operating Systems: Three Easy Pieces^] and discussions on CPU throttling in containerized environments.
 	** Shared post
-	*** link:https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/[CPU Throttling in Containerized Go Apps^]
+		*** link:https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps[CPU Throttling in Containerized Go Apps^]
 * Dheeraj shared his reading site
 	** link:https://team.shiksha[team.shiksha^]
 * Viranchee mentioned future tools for AI agents discussed at LLamaCon—tools similar to PowerBI or SAP, but optimized for AI agent workflows.
