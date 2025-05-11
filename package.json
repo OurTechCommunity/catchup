@@ -37,6 +37,7 @@
     "husky": "^9.1.7",
     "nodemon": "^3.0.0",
     "prettier": "2.7.1",
+    "prettier-plugin-asciidoc": "^0.0.1-prerelease-1",
     "typescript": "^5.3.3"
   }
 }
