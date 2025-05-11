@@ -1,0 +1,34 @@
+Date: 03-05-2025
+
+Duration: 2 hrs 52 mins
+
+==== Topics Discussed
+
+* Darshan Rander shared how Datalog is a subset of Prolog, and can be used for interfacing directories with databases.
+	** Noted how MongoDB similarly uses BSON (Binary JSON) for internal representation.
+	** This sparked a discussion on ORMs and why they are often disliked—primarily due to excessive abstraction.
+		*** link:https://en.wikipedia.org/wiki/Datalog[Datalog^]
+* Pranav Prasanna Dani discussed the Doom's source code's cleanlyness
+	** Highlighted that the DOOM codebase is cleanly separated between hardware and software logic.
+	** Recommended reading DOOM’s source to understand clean code practices.
+		*** link:https://github.com/id-Software/DOOM[DOOM source code^]
+* Ramyak Mehra discussed the performance gap in compiled vs interpreted languages
+	** Cited familiarity as a key reason for being faster in Go/Rust over Python.
+	** Criticized Cython’s branding Python to C compiler as misleading.
+* Kanishk Singh raised a question about OS size constraints and their effect on performance.
+	** This Led to sharing of link:https://pages.cs.wisc.edu/~remzi/OSTEP[Operating Systems: Three Easy Pieces^] and discussions on CPU throttling in containerized environments.
+	** Shared post
+		*** link:https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps[CPU Throttling in Containerized Go Apps^]
+* Dheeraj shared his reading site
+	** link:https://team.shiksha[team.shiksha^]
+* Viranchee mentioned future tools for AI agents discussed at LLamaCon—tools similar to PowerBI or SAP, but optimized for AI agent workflows.
+* Swapnil Borkar gave resume tips
+	** Use the brand's accent colors in applications for better recognition.
+	** Include company values and use clean, readable fonts.
+	** Emphasized that template customization yields diminishing returns.
+* Shared links
+	** link:https://go.dev/wiki/Mobile[Go Mobile Wiki^]
+	** link:https://explain.dalibo.com[Dalibo EXPLAIN Tool for PostgreSQL^]
+	** link:https://stackoverflow.com/questions/12915209/how-to-understand-an-explain-analyze[EXPLAIN ANALYZE on StackOverflow^]
+	** link:https://github.com/mthipparthi/operating-systems-three-easy-pieces[OSTEP GitHub Repository^]
+
