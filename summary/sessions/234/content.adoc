@@ -32,6 +32,3 @@ Duration: 2 hrs 52 mins
 	** link:https://stackoverflow.com/questions/12915209/how-to-understand-an-explain-analyze[EXPLAIN ANALYZE on StackOverflow^]
 	** link:https://github.com/mthipparthi/operating-systems-three-easy-pieces[OSTEP GitHub Repository^]
 
-
-
-
