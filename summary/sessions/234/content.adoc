@@ -16,7 +16,7 @@ Duration: 2 hrs 52 mins
 	** Cited familiarity as a key reason for being faster in Go/Rust over Python.
 	** Criticized Cython’s branding Python to C compiler as misleading.
 * Kanishk Singh raised a question about OS size constraints and their effect on performance.
-	** This Led to sharing of link:https://pages.cs.wisc.edu/~remzi/OSTEP/[Operating Systems: Three Easy Pieces^] and discussions on CPU throttling in containerized environments.
+	** This Led to sharing of link:https://pages.cs.wisc.edu/~remzi/OSTEP[Operating Systems: Three Easy Pieces^] and discussions on CPU throttling in containerized environments.
 	** Shared post
 	*** link:https://kanishk.io/posts/cpu-throttling-in-containerized-go-apps/[CPU Throttling in Containerized Go Apps^]
 * Dheeraj shared his reading site
