@@ -1,0 +1,24 @@
+Alpesh - spoke about SSL Pinning
+
+SSL (Secure Sockets Layer) pinning is a security technique used to enhance the security of mobile applications by associating a specific SSL certificate or public key with a server's domain. It helps prevent man-in-the-middle (MITM) attacks by ensuring that the app only communicates with servers that have a specific, trusted certificate or public key. 
+Here's a more detailed explanation:
+How it works:
+During application development, the app developer "pins" a specific SSL certificate (or its public key) to the server's domain. 
+During runtime:
+When the app establishes a secure connection with the server, it compares the server's presented certificate against the pinned certificate (or public key). 
+Protection against MITM:
+If the server's certificate doesn't match the pinned one, the app will not establish a secure connection, preventing a potential MITM attacker from intercepting the communication. 
+Benefits:
+SSL pinning significantly strengthens the security of mobile applications by adding an extra layer of verification beyond standard SSL validation, making it harder for attackers to impersonate a legitimate server. 
+Types:
+There are two main types of pinning: certificate pinning (pinning the entire certificate) and public key pinning (pinning only the public key). 
+Best practices:
+It's generally recommended to pin the public key instead of the entire certificate, as it provides a higher level of security and flexibility, according to LinkedIn and Temenos. 
+Praveen - Blockchain roadmap, use cases, and projects 
+
+Dheeraj - Data Intensive applications O'Reilly Reading sessions
+
+Virinchi - power BI and DAX - for customers and internal employees to track expenses etc.
+
+
+
