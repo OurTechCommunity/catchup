@@ -1,43 +1,43 @@
 {
-  "name": "catchup",
-  "version": "1.0.0",
-  "description": "OTC CatchUp back end.",
-  "main": "index.js",
-  "scripts": {
-    "start": "sh util/build.sh && nodemon index.js",
-    "build": "yum install -y ruby && gem install asciidoctor && sh ./util/build.sh",
-    "lint:check": "prettier --check .",
-    "lint": "prettier --write .",
-    "prepare": "husky || true",
-    "commitlint": "commitlint --edit"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/OurTechCommunity/catchup.git"
-  },
-  "keywords": [
-    "OTC",
-    "CatchUp"
-  ],
-  "author": "Harsh Kapadia <harshgkapadia@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/OurTechCommunity/catchup/issues"
-  },
-  "homepage": "https://github.com/OurTechCommunity/catchup#readme",
-  "dependencies": {
-    "@netlify/blobs": "^8.0.1",
-    "@netlify/edge-functions": "^2.5.1",
-    "dotenv": "^16.3.1"
-  },
-  "devDependencies": {
-    "@commitlint/cli": "^19.8.1",
-    "@commitlint/config-conventional": "^19.8.1",
-    "@types/node": "^20.11.17",
-    "husky": "^9.1.7",
-    "nodemon": "^3.0.0",
-    "prettier": "2.7.1",
-    "prettier-plugin-asciidoc": "^0.0.1-prerelease-1",
-    "typescript": "^5.3.3"
-  }
+	"name": "catchup",
+	"version": "1.0.0",
+	"description": "OTC CatchUp back end.",
+	"main": "index.js",
+	"scripts": {
+		"start": "sh util/build.sh && nodemon index.js",
+		"build": "yum install -y ruby && gem install asciidoctor && sh ./util/build.sh",
+		"lint:check": "prettier --check .",
+		"lint": "prettier --write .",
+		"prepare": "husky || true",
+		"commitlint": "commitlint --edit"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/OurTechCommunity/catchup.git"
+	},
+	"keywords": [
+		"OTC",
+		"CatchUp"
+	],
+	"author": "Harsh Kapadia <harshgkapadia@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/OurTechCommunity/catchup/issues"
+	},
+	"homepage": "https://github.com/OurTechCommunity/catchup#readme",
+	"dependencies": {
+		"@netlify/blobs": "^8.0.1",
+		"@netlify/edge-functions": "^2.5.1",
+		"dotenv": "^16.3.1"
+	},
+	"devDependencies": {
+		"@commitlint/cli": "^19.8.1",
+		"@commitlint/config-conventional": "^19.8.1",
+		"@types/node": "^20.11.17",
+		"husky": "^9.1.7",
+		"nodemon": "^3.0.0",
+		"prettier": "2.7.1",
+		"prettier-plugin-asciidoc": "^0.0.1-prerelease-1",
+		"typescript": "^5.3.3"
+	}
 }
