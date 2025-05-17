@@ -1,3 +1,0 @@
-#!/bin/sh
-echo "🛠️ Running lint precommit..."
-npm run lint
