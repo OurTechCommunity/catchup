@@ -1,0 +1,7 @@
+#!/bin/sh
+
+echo "🛠️ Running lint check..."
+npm run lint:check
+
+echo "🛠️ Running commitlint..."
+npm run commitlint ${1}
