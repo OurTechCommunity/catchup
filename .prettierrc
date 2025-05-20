@@ -9,7 +9,6 @@
 	"insertPragma": false,
 	"jsxSingleQuote": false,
 	"overrides": [],
-	"plugins": ["prettier-plugin-asciidoc"],
 	"pluginSearchDirs": [],
 	"printWidth": 80,
 	"proseWrap": "preserve",

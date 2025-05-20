@@ -8,7 +8,7 @@
 		"build": "yum install -y ruby && gem install asciidoctor && sh ./util/build.sh",
 		"lint:check": "prettier --check .",
 		"lint": "prettier --write .",
-		"prepare": "husky || true",
+		"prepare": "node .husky/install.mjs",
 		"commitlint": "commitlint --edit"
 	},
 	"repository": {
