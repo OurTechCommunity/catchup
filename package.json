@@ -6,8 +6,10 @@
 	"scripts": {
 		"start": "sh util/build.sh && nodemon index.js",
 		"build": "yum install -y ruby && gem install asciidoctor && sh ./util/build.sh",
-		"lint:check": "prettier --check .",
-		"lint": "prettier --write ."
+		"lint:check": "prettier --check . --cache",
+		"lint": "prettier --write .",
+		"prepare": "node .husky/install.mjs",
+		"commitlint": "commitlint --edit --verbose"
 	},
 	"repository": {
 		"type": "git",
@@ -29,7 +31,10 @@
 		"dotenv": "^16.3.1"
 	},
 	"devDependencies": {
+		"@commitlint/cli": "^19.8.1",
+		"@commitlint/config-conventional": "^19.8.1",
 		"@types/node": "^20.11.17",
+		"husky": "^9.1.7",
 		"nodemon": "^3.0.0",
 		"prettier": "2.7.1",
 		"typescript": "^5.3.3"

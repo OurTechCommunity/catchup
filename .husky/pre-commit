@@ -1,0 +1,5 @@
+#! /bin/sh
+
+echo "\n\n🛠️  Linting code using Prettier..."
+npm run lint:check
+echo "\n\n"

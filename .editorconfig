@@ -1,0 +1,14 @@
+# https://editorconfig.org
+
+# Top-most EditorConfig file
+root = true
+
+# Affects all files
+[*]
+insert_final_newline = true
+indent_style = tab
+trim_trailing_whitespace = true
+
+# For Python files
+[*.py]
+indent_style = space
