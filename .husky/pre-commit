@@ -1,7 +1,5 @@
-#!/bin/sh
+#! /bin/sh
 
-echo "🛠️ Running lint check..."
+echo "\n\n🛠️  Linting code using Prettier..."
 npm run lint:check
-
-echo "🛠️ Running commitlint..."
-npm run commitlint ${1}
+echo "\n\n"

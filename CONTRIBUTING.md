@@ -52,31 +52,30 @@
     -   Solve one issue per PR, **without any extra changes**.
     -   **Include extra changes in a separate PR.**
 
-## Git hooks & commit conventions
+## Git Hooks and Commit Conventions
 
-This repo uses [husky](https://typicode.github.io/husky/) pre-commit hooks to enforce code quality and commit consistency. These hooks run automatically when you try to commit any changes.
+This repo uses [Husky](https://typicode.github.io/husky) 'pre-commit' and 'commit-msg' hooks to enforce code quality and commit consistency. These hooks run automatically when one tries to create a commit.
 
-### Pre-commit hook
+### Pre-commit Hook
 
-1. Prettier formatting check:
+-   Prettier formatting check
+    -   Runs Prettier to ensure code is properly formatted.
+    -   Blocks the commit if issues are found.
 
-    - Runs `prettier --check .` to ensure code is properly formatted.
-    - Blocks the commit if issues are found.
+### Commit-msg Hook
 
-2. Commit message check:
-    - Ensures your commit message follows the [Conventional Commits](https://www.conventionalcommits.org/) spec.
+-   Commit message check
+    -   Ensures that the commit message follows the [Conventional Commits](https://www.conventionalcommits.org) spec.
 
 ### Running scripts manually
 
-1. Prettier formatting check:
+-   Prettier formatting check
 
 ```bash
-npm run lint:check
-# OR
-prettier --check .
+$ npm run lint:check
 ```
 
-2. Commit message check:
+-   Commit message check
 
 ```bash
 npm run commitlint "<commit message>"
@@ -84,68 +83,53 @@ npm run commitlint "<commit message>"
 commitlint --edit "<commit message>"
 ```
 
-### Commit message format
+### Commit Message Format
 
-Your commit message must follow the following format: `<type>[optional scope]: <description>`
+-   A commit message must follow the following format: `<type>(optional scope): <description>`
 
-Examples of allowed commit messages:
+-   Examples of commit messages
 
-```bash
-git commit -m "feat: add GitHub OAuth login" # correct
-git commit -m "update: revise installation instructions" # correct
-git commit -m "just an unconventional commit message" # incorrect
-```
+    ```bash
+    $ git commit -m "feat: add GitHub OAuth login" # Correct
+    $ git commit -m "update(docs): revise installation instructions" # Correct
+    $ git commit -m "just an unconventional commit message" # Incorrect
+    ```
 
-Allowed type values:
-
--   `build`
--   `chore`
--   `ci`
--   `docs`
--   `feat`
--   `fix`
--   `perf`
--   `refactor`
--   `revert`
--   `style`
--   `test`
--   `update`
-
-> More types can be added by extending `rules['type-enum']` in `commitlint.config.js`
+-   Allowed type values are mentioned in [`commitlint.config.js`](commitlint.config.js)
 
 ### Hooks setup
 
-Hooks are automatically setup when you run:
+-   Hooks are automatically setup when the following command is run
+
+    ```bash
+    $ npm install
+    ```
+
+    -   This is handled by the `prepare` script in `package.json`:
+
+    ```json
+    {
+    	"scripts": {
+    		"prepare": "node .husky/install.mjs"
+    	}
+    }
+    ```
+
+-   To re-install `husky` manually
 
 ```bash
-npm install
+$ npx husky install
 ```
 
-This is handled by the `prepare` script in `package.json`:
+### Skipping Hooks
 
-```json
-{
-	"scripts": {
-		"prepare": "node .husky/install.mjs"
-	}
-}
-```
+To skip all hook (**not recommended**, unless necessary or instructed to do so), use the `--no-verify` flag in the `git commit` command.
 
-If you ever need to re-install `husky` manually:
+NOTE: Only use this if there is a specific reason to do so. Bypassing the hook means formatting or commit message errors may go unnoticed.
 
 ```bash
-npx husky install
+$ git commit --no-verify -m "test: commit_msg_here"
 ```
-
-### Skipping pre-commit hooks
-
-To skip the hook (not recommended unless necessary), use:
-
-```bash
-git commit --no-verify
-```
-
-> Only use this if you have a specific reason. Bypassing the hook means formatting or commit message errors may go unnoticed.
 
 ## Further Help
 

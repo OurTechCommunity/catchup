@@ -1,0 +1,5 @@
+#! /bin/sh
+
+echo "\n\n🛠️  Linting commit message using commitlint..."
+npm run commitlint
+echo "\n\n"

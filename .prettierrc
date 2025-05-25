@@ -9,6 +9,7 @@
 	"insertPragma": false,
 	"jsxSingleQuote": false,
 	"overrides": [],
+	"plugins": [],
 	"pluginSearchDirs": [],
 	"printWidth": 80,
 	"proseWrap": "preserve",
