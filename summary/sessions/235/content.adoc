@@ -1,0 +1,23 @@
+**About OTC CatchUp
+
+Date: 10-05-2025
+
+Duration: 2 hrs 52 mins
+
+==== Topics Discussed
+
+*Alpesh - spoke about SSL Pinning
+*Praveen - Blockchain roadmap, use cases, and projects 
+*Praveen spoke about Blockchain and what the roadmap should be to follow if one wants to pursue a career in blockchain.
+*We spoke about identifying blockchain use cases in supply chain, NFTS etc.
+
+*Dheeraj spoke about Data Intensive applications O'Reilly Reading sessions that improve theoretical knowledge
+
+*Virinchi spoke about his  Power BI and DAX experience - for customers and internal employees to track expenses etc.
+
+*Shared Links
+
+   **link:https://shop.hak5.org/products/wifi-pineapple?srsltid=AfmBOopxg3fem7zElDx-KNNiFmUH2D8Lt96F3aX48iIMuTOA3SM14leA[wifipineapple^]
+   **link:https://www.indusface.com/learning/what-is-ssl-pinning-a-quick-walk-through/[ssl pinning^]
+
+
