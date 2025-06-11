@@ -4,14 +4,14 @@ Duration: 2 hrs 17 mins
 
 ==== Topics Discussed
 
-* Shiddhart shared his work with open source routing options like GraphHopper and Valhalla for his project.
+* Sidharth shared his work with open source routing options like GraphHopper and Valhalla for his project.
   ** Sparked a discussion on how Ola/Uber use Mapbox for real-time traffic-based routing.
     *** link:https://github.com/valhalla/valhalla[Valhalla^]
     *** link:https://github.com/graphhopper/graphhopper[GraphHopper Github^]
     *** link:https://www.graphhopper.com[GraphHopper Site^]
     *** link:https://www.mapbox.com/traffic-data[Mapbox Traffic Data^]
 
-* Shiddhart shared his experience creating a homelab using Proxmox, Tailscale, and Pi-hole.
+* Sidharth shared his experience creating a homelab using Proxmox, Tailscale, and Pi-hole.
     ** Sparked a discussion on how alpesh plans for building a homelab focused on NAS solutions Mentioning tools like Proxmox and Immich an open-source Google Photos alternative.
         *** link:https://pi-hole.net/[Pi-hole^]
         *** link:https://tailscale.com[Tailscale^]
