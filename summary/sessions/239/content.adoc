@@ -46,6 +46,4 @@ Duration: 2 hrs 17 mins
   ** link:https://www.jimangel.io/posts/automate-ubuntu-22-04-lts-bare-metal[Automated Ubuntu Bare Metal Setup^]
   ** link:https://youtu.be/Sd6F2pfKJmk[YouTube: Git Worktrees Explained^]
   ** link:https://youtu.be/YSXXlMrHfOE[YouTube: Talos OS in Practice^]
-
-
-*** link:https://github.com/vitabaks/autobase[Autobase^]
+  ** link:https://github.com/vitabaks/autobase[Autobase^]
