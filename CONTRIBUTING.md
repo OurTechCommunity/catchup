@@ -51,35 +51,33 @@
     -   [Learn how to open a PR](https://github.com/firstcontributions/first-contributions).
     -   Solve one issue per PR, **without any extra changes**.
     -   **Include extra changes in a separate PR.**
-    
 
 ## Contributing to the Summary Site
 
-- Fork and clone the CatchUp repository.
-- Create a new branch in your forked repository locally.
-- Navigate to the **summary/sessions** directory.
-- Create a new folder named after the summary number, then add the following files:
-    - `content.adoc`
-    - `attendees.adoc`
-- In the **/util** directory, follow the instructions in the README.
-- Run the following command to generate the initial attendee handle map (ensure Node.js is installed):
-  ```
-  node create-attendee-handle-map.js
-  ```
-- Copy the attendee names into the `attendees.adoc` file.
-- Next, execute:
-  ```
-  node map-handles-to-catchup-attendees.js <sum_num>
-  ```
-- Review the format used in previous summaries; copy and update it with the latest discussion details.
-- For adding links, use the format (example):
-   ```
-   link:https://www.youtube.com/watch?v=vcp2iFzHmfwd[Profiling^]
-   ```
-- Rename the CatchUp screenshot to the corresponding meeting number and add it to the **/summary/static** folder.
-- Once your changes are complete, stage and push your modifications to your repository.
-- Finally, open a pull request on the OTC CatchUp repository.
-
+-   Fork and clone the CatchUp repository.
+-   Create a new branch in your forked repository locally.
+-   Navigate to the **summary/sessions** directory.
+-   Create a new folder named after the summary number, then add the following files:
+    -   `content.adoc`
+    -   `attendees.adoc`
+-   In the **/util** directory, follow the instructions in the README.
+-   Run the following command to generate the initial attendee handle map (ensure Node.js is installed):
+    ```
+    node create-attendee-handle-map.js
+    ```
+-   Copy the attendee names into the `attendees.adoc` file.
+-   Next, execute:
+    ```
+    node map-handles-to-catchup-attendees.js <sum_num>
+    ```
+-   Review the format used in previous summaries; copy and update it with the latest discussion details.
+-   For adding links, use the format (example):
+    ```
+    link:https://www.youtube.com/watch?v=vcp2iFzHmfwd[Profiling^]
+    ```
+-   Rename the CatchUp screenshot to the corresponding meeting number and add it to the **/summary/static** folder.
+-   Once your changes are complete, stage and push your modifications to your repository.
+-   Finally, open a pull request on the OTC CatchUp repository.
 
 ## Further Help
 

@@ -10,30 +10,23 @@ Duration: 2 hrs 17 mins
     *** link:https://github.com/graphhopper/graphhopper[GraphHopper Github^]
     *** link:https://www.graphhopper.com[GraphHopper Site^]
     *** link:https://www.mapbox.com/traffic-data[Mapbox Traffic Data^]
-
 * Sidharth shared his experience creating a homelab using Proxmox, Tailscale, and Pi-hole.
     ** Sparked a discussion on how alpesh plans for building a homelab focused on NAS solutions Mentioning tools like Proxmox and Immich an open-source Google Photos alternative.
         *** link:https://pi-hole.net/[Pi-hole^]
         *** link:https://tailscale.com[Tailscale^]
         *** link:https://www.proxmox.com[Proxmox^]
         *** link:https://immich.app/[Immich^]
-    
 * Harsh Kapadia shared his blog on using a laptop as a server and the maintenance challenges.
   ** link:https://networking.harshkapadia.me/laptop-server[Laptop as Server – Harsh Kapadia^]
-
 * Talos OS was introduced as a Kubernetes-native OS was shared.
   ** link:https://www.talos.dev/[Talos OS^]
-
 * Autobase was brought up in a discussion about automating database management.
   ** link:https://github.com/vitabaks/autobase[Autobase^]
-
 * An in-depth practical discussion on `git-worktree` took place.
   ** link:https://git-scm.com/docs/git-worktree[Git Worktree Docs^]
-
 * Harsh Kapadia also shared a blog on the OS boot process.
   ** Emphasized understanding how operating systems boot from scratch.
     *** link:https://linux.harshkapadia.me/boot[OS Boot Process Blog^]
-
 * Other relevant resources shared:
   ** link:https://tech.ninadnaik.me/using-redis-as-a-primary-database[Using Redis as a Primary DB^]
   ** link:https://blog.vivekkaushik.com/[Vivek Kaushik's Blog^]
