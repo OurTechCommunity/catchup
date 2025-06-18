@@ -81,6 +81,85 @@
 - Finally, open a pull request on the OTC CatchUp repository.
 
 
+## Git Hooks and Commit Conventions
+
+This repo uses [Husky](https://typicode.github.io/husky) 'pre-commit' and 'commit-msg' hooks to enforce code quality and commit consistency. These hooks run automatically when one tries to create a commit.
+
+### Pre-commit Hook
+
+-   Prettier formatting check
+    -   Runs Prettier to ensure code is properly formatted.
+    -   Blocks the commit if issues are found.
+
+### Commit-msg Hook
+
+-   Commit message check
+    -   Ensures that the commit message follows the [Conventional Commits](https://www.conventionalcommits.org) spec.
+
+### Running scripts manually
+
+-   Prettier formatting check
+
+```bash
+$ npm run lint:check
+```
+
+-   Commit message check
+
+```bash
+npm run commitlint "<commit message>"
+# OR
+commitlint --edit "<commit message>"
+```
+
+### Commit Message Format
+
+-   A commit message must follow the following format: `<type>(optional scope): <description>`
+
+-   Examples of commit messages
+
+    ```bash
+    $ git commit -m "feat: add GitHub OAuth login" # Correct
+    $ git commit -m "update(docs): revise installation instructions" # Correct
+    $ git commit -m "just an unconventional commit message" # Incorrect
+    ```
+
+-   Allowed type values are mentioned in [`commitlint.config.js`](commitlint.config.js)
+
+### Hooks setup
+
+-   Hooks are automatically setup when the following command is run
+
+    ```bash
+    $ npm install
+    ```
+
+    -   This is handled by the `prepare` script in `package.json`:
+
+    ```json
+    {
+    	"scripts": {
+    		"prepare": "node .husky/install.mjs"
+    	}
+    }
+    ```
+
+-   To re-install `husky` manually
+
+```bash
+$ npx husky install
+```
+
+### Skipping Hooks
+
+To skip all hook (**not recommended**, unless necessary or instructed to do so), use the `--no-verify` flag in the `git commit` command.
+
+NOTE: Only use this if there is a specific reason to do so. Bypassing the hook means formatting or commit message errors may go unnoticed.
+
+```bash
+$ git commit --no-verify -m "test: commit_msg_here"
+```
+
 ## Further Help
 
 If any further help is needed, do not hesitate to contact the organiser ([Harsh Kapadia](https://harshkapadia.me)) via [OTC's Telegram](https://t.me/OurTechComm), [Twitter @harshgkapadia](https://twitter.com/harshgkapadia), [LinkedIn](https://www.linkedin.com/in/harshgkapadia) or e-mail ([harsh@ourtech.community](mailto:harsh@ourtech.community)). An [issue](https://github.com/OurTechCommunity/catchup/issues) can be raised as well.
