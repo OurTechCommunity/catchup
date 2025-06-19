@@ -12,7 +12,7 @@ Duration: 4 hrs 15 mins
 * Harsh Kapadia shared multiple Git and development-related resources.
     ** Mentioned the coincidental timing of Git Worktree discussions and related video releases.
         *** link:https://youtu.be/W_PAiB-YBqs[Git Worktree Video^]
-* Virinchi shared about technology companies and their origins.
+* Virinchi talked about technology companies and their origins.
   ** Discussed the story of Xerox, Steve Jobs, and Bill Gates in technology development.
         *** link:https://medium.com/bc-digest/the-xerox-thieves-steve-jobs-bill-gates-6e1b36fc1ec4[Xerox Thieves Article^]
 * Alpesh shared critical ASUS vulnerabilities.
