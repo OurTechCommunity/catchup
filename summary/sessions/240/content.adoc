@@ -19,7 +19,7 @@ Duration: 4 hrs 15 mins
     ** CVE-2025-3462 (CVSS 8.4) and CVE-2025-3463 (CVSS 9.4) affecting ASUS motherboards.
     ** These vulnerabilities allow unauthorized access to ASUS-based systems through driver exploitation.
         *** link:https://www.youtube.com/watch?v=xC8qfXxAhAw[How’d They Let This Happen? Asus's CVE explation^]
-        *** link:https://mrbruh.com/asusdriverhub/[MrBruh's Blog^]
+        *** link:https://mrbruh.com/asusdriverhub[MrBruh's Blog^]
 * Cloudflare service outage discussion occurred.
     ** Analyzed the recent Cloudflare outage and its impact on web services.
         *** link:https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/[Cloudflare Outage Report^]
