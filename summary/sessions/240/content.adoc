@@ -56,7 +56,7 @@ Duration: 4 hrs 15 mins
         *** link:https://libuv.org/[libuv Official Site^]
         *** link:https://youtu.be/LB8KwiiUGy0?si=3mbWTPShgpLLEXKW[Node.js Documentary^]
 * Other relevant resources shared:
-    ** link:https://youtu.be/cNywlNWan9o[5 easy (but critical) memory mistakes ^]
+    ** link:https://youtu.be/cNywlNWan9o[5 easy (but critical) memory mistakes^]
     ** link:https://youtu.be/ZhbIReLe-r8[Garbage Collection Algorithms: Mark Sweep, Generation Hypothesis and JIT code injection^]
     ** link:https://youtu.be/trkYGEGT6_w[Garbage Collection Algorithms: Concurrent Mark Sweep, Fragmentation and Compaction, Lost Writes^]
     ** link:https://catchup.ourtech.community/summary/[OTC Summary Archive^]
