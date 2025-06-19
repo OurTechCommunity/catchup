@@ -28,7 +28,7 @@ Duration: 4 hrs 15 mins
     ** Discussed Rust's ownership model as a replacement for traditional garbage collection.
     ** Clarified misconceptions about Go's garbage collection compared to Rust's approach.
     ** Emphasized Rust's safety features and performance comparable to C/C++.
-        *** link:https://doc.rust-lang.org/book/[Official Rust Book^]
+        *** link:https://doc.rust-lang.org/book[Official Rust Book^]
 * RollingStowwn (Mohan) shared his experience with driver fuzzing and CVE discovery and Network security tools and VPN discussion occurred.
     ** Discussed Zscaler, Netskope, and other enterprise security solutions.
     ** Covered topics including SSO (Single Sign On), RBAC (Role-Based Access Control), and EDR (Endpoint Detection and Response).
