@@ -22,7 +22,7 @@ Duration: 4 hrs 15 mins
         *** link:https://mrbruh.com/asusdriverhub[MrBruh's Blog^]
 * Cloudflare service outage discussion occurred.
     ** Analyzed the recent Cloudflare outage and its impact on web services.
-        *** link:https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025/[Cloudflare Outage Report^]
+        *** link:https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025[Cloudflare Outage Report^]
 * Discussion on Rust programming language sparked by Janvi's question about Rust benefits.
     ** RollingStowwn (Mohan) explained Rust's memory management without garbage collection.
     ** Discussed Rust's ownership model as a replacement for traditional garbage collection.
