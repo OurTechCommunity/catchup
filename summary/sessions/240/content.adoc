@@ -34,7 +34,7 @@ Duration: 4 hrs 15 mins
     ** Covered topics including SSO (Single Sign On), RBAC (Role-Based Access Control), and EDR (Endpoint Detection and Response).
     ** Discussed red team vs blue team concepts in cybersecurity.
     ** Covered concepts of network segmentation and access control.
-        *** link:https://www.zscaler.com/[Zscaler Security Platform^]
+        *** link:https://www.zscaler.com[Zscaler Security Platform^]
     ** Presented his findings on CVE-2024-46455 related to driver vulnerabilities.
     ** Discussed whether BSOD and unexpected behavior in driver fuzzing are expected outcomes.
     ** Shared insights on security research methodologies.
