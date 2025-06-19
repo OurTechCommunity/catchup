@@ -1,0 +1,65 @@
+Date: 14-06-2025
+
+Duration: 4 hrs 15 mins
+
+==== Topics Discussed
+
+* Pranav Prasanna Dani discussed how computers with small ROMs like 64KB used to run games such as DOOM efficiently.
+    ** Shared insights on memory optimization techniques used in classic games.
+    ** Highlighted the engineering prowess required to fit complex games in minimal memory.
+        *** link:https://youtu.be/BXNHHUmVZh8?si=SK6COUO9hjzanQaR[45 Year Old DOS on a New Intel CPU Without Emulation^]
+        *** link:https://youtu.be/kYLJLJkVfLk?si=41lLmkY7JwvthuAO[Making an SNES Game the Way Nintendo Intended^]
+* Harsh Kapadia shared multiple Git and development-related resources.
+    ** Mentioned the coincidental timing of Git Worktree discussions and related video releases.
+        *** link:https://youtu.be/W_PAiB-YBqs[Git Worktree Video^]
+* Virinchi talked about technology companies and their origins.
+  ** Discussed the story of Xerox, Steve Jobs, and Bill Gates in technology development.
+        *** link:https://medium.com/bc-digest/the-xerox-thieves-steve-jobs-bill-gates-6e1b36fc1ec4[Xerox Thieves Article^]
+* Alpesh shared critical ASUS vulnerabilities.
+    ** CVE-2025-3462 (CVSS 8.4) and CVE-2025-3463 (CVSS 9.4) affecting ASUS motherboards.
+    ** These vulnerabilities allow unauthorized access to ASUS-based systems through driver exploitation.
+        *** link:https://www.youtube.com/watch?v=xC8qfXxAhAw[How’d They Let This Happen? Asus's CVE explation^]
+        *** link:https://mrbruh.com/asusdriverhub[MrBruh's Blog^]
+* Cloudflare service outage discussion occurred.
+    ** Analyzed the recent Cloudflare outage and its impact on web services.
+        *** link:https://blog.cloudflare.com/cloudflare-service-outage-june-12-2025[Cloudflare Outage Report^]
+* Discussion on Rust programming language sparked by Janvi's question about Rust benefits.
+    ** RollingStowwn (Mohan) explained Rust's memory management without garbage collection.
+    ** Discussed Rust's ownership model as a replacement for traditional garbage collection.
+    ** Clarified misconceptions about Go's garbage collection compared to Rust's approach.
+    ** Emphasized Rust's safety features and performance comparable to C/C++.
+        *** link:https://doc.rust-lang.org/book[Official Rust Book^]
+* RollingStowwn (Mohan) shared his experience with driver fuzzing and CVE discovery and Network security tools and VPN discussion occurred.
+    ** Discussed Zscaler, Netskope, and other enterprise security solutions.
+    ** Covered topics including SSO (Single Sign On), RBAC (Role-Based Access Control), and EDR (Endpoint Detection and Response).
+    ** Discussed red team vs blue team concepts in cybersecurity.
+    ** Covered concepts of network segmentation and access control.
+        *** link:https://www.zscaler.com[Zscaler Security Platform^]
+    ** Presented his findings on CVE-2024-46455 related to driver vulnerabilities.
+    ** Discussed whether BSOD and unexpected behavior in driver fuzzing are expected outcomes.
+    ** Shared insights on security research methodologies.
+        *** link:https://binarysouljour.me/cve-2024-46455[Driver Fuzzing CVE Blog^]
+        *** link:http://binarysouljour.me[Binary Soul Journey Blog^]
+* Jaden Furtado shared his findings and talks.
+    ** Discussed SQL injection testing and penetration testing methodologies.
+    ** Shared his finding and talks.
+        *** link:https://youtu.be/bsyVbowIqmg?si=ACAXhqZ48YTE4W68[The Curious Case Of The Rogue SOAR By Jaden Furtado & Mukesh Kumar^]
+        *** link:https://youtu.be/Iq5_YN-QwP8?si=AIPkubWEt8Q7FUZK[Hacking Trains By Jaden Furtado^]
+        *** link:https://youtu.be/4HchTam8e2A?si=wGSFGAVyL52XNzH3[Hacking Power Generation Infrastructure - by Karan Sajnani & Jaden Furtado^]
+        *** link:https://darknetdiaries.com/transcript/72/[Darknet Diaries Transcript^]
+        *** link:https://github.com/sqlmapproject/sqlmap[SQLMap Project^]
+        *** link:https://www.linkedin.com/in/jaden-furtado[Jaden's LinkedIn Profile^]
+* Alpesh shared UV  single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more.
+    ** link:https://docs.astral.sh/uv/[UV Package Manager Documentation^]
+* libuv and Node.js architecture discussion.
+    ** Explored the event loop implementation and asynchronous I/O in Node.js.
+        *** link:https://libuv.org/[libuv Official Site^]
+        *** link:https://youtu.be/LB8KwiiUGy0?si=3mbWTPShgpLLEXKW[Node.js Documentary^]
+* Other relevant resources shared:
+    ** link:https://youtu.be/cNywlNWan9o[5 easy (but critical) memory mistakes^]
+    ** link:https://youtu.be/ZhbIReLe-r8[Garbage Collection Algorithms: Mark Sweep, Generation Hypothesis and JIT code injection^]
+    ** link:https://youtu.be/trkYGEGT6_w[Garbage Collection Algorithms: Concurrent Mark Sweep, Fragmentation and Compaction, Lost Writes^]
+    ** link:https://catchup.ourtech.community/summary/[OTC Summary Archive^]
+    ** link:https://youtu.be/4iZPPypUa9w?si=KgHnUw9fLMjtA2g5[Can AMD match NVIDIA in 2025 or 2026?^]
+    ** link:https://youtube.com/@kevinfaang[Kevin Faang YouTube Channel^]
+    ** link:https://youtu.be/SyrgSKEi4Sc[Kernel Level TLS^]
