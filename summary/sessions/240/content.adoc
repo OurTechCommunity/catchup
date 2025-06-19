@@ -39,7 +39,7 @@ Duration: 4 hrs 15 mins
     ** Discussed whether BSOD and unexpected behavior in driver fuzzing are expected outcomes.
     ** Shared insights on security research methodologies.
         *** link:https://binarysouljour.me/cve-2024-46455[Driver Fuzzing CVE Blog^]
-        *** link:http://binarysouljour.me/[Binary Soul Journey Blog^]
+        *** link:http://binarysouljour.me[Binary Soul Journey Blog^]
 * Jaden Furtado shared his findings and talks.
     ** Discussed SQL injection testing and penetration testing methodologies.
     ** Shared his finding and talks.
