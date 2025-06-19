@@ -48,7 +48,7 @@ Duration: 4 hrs 15 mins
         *** link:https://youtu.be/4HchTam8e2A?si=wGSFGAVyL52XNzH3[Hacking Power Generation Infrastructure - by Karan Sajnani & Jaden Furtado^]
         *** link:https://darknetdiaries.com/transcript/72/[Darknet Diaries Transcript^]
         *** link:https://github.com/sqlmapproject/sqlmap[SQLMap Project^]
-        *** link:https://www.linkedin.com/in/jaden-furtado/?originalSubdomain=in[Jaden's LinkedIn Profile^]
+        *** link:https://www.linkedin.com/in/jaden-furtado[Jaden's LinkedIn Profile^]
 * Alpesh shared UV  single tool to replace pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, and more.
     ** link:https://docs.astral.sh/uv/[UV Package Manager Documentation^]
 * libuv and Node.js architecture discussion.
