@@ -58,7 +58,7 @@ Duration: 4 hrs 15 mins
 * Other relevant resources shared:
     ** link:https://youtu.be/cNywlNWan9o[5 easy (but critical) memory mistakes ^]
     ** link:https://youtu.be/ZhbIReLe-r8[Garbage Collection Algorithms: Mark Sweep, Generation Hypothesis and JIT code injection^]
-    ** link:https://youtu.be/trkYGEGT6_w[Garbage Collection Algorithms: Concurrent Mark Sweep, Fragmentation and Compaction, Lost Writes ^]
+    ** link:https://youtu.be/trkYGEGT6_w[Garbage Collection Algorithms: Concurrent Mark Sweep, Fragmentation and Compaction, Lost Writes^]
     ** link:https://catchup.ourtech.community/summary/[OTC Summary Archive^]
     ** link:https://youtu.be/4iZPPypUa9w?si=KgHnUw9fLMjtA2g5[Can AMD match NVIDIA in 2025 or 2026?^]
     ** link:https://youtube.com/@kevinfaang[Kevin Faang YouTube Channel^]
