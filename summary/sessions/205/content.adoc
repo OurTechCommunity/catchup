@@ -4,7 +4,6 @@ Duration: 2 hrs 00 mins
 
 ==== Topics Discussed
 
-
 * Darshit gave two interviews:
     ** DevOps role at a Web3 company.
     ** One with a founder discussing job responsibilities.
