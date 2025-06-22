@@ -4,21 +4,22 @@ Duration: 3 hrs 43 mins
 
 ==== Topics Discussed
 
-* Dheeraj discussed improvements in codebase structure by implementing clear separation of concerns in his project 
+* Dheeraj discussed improvements in codebase structure by implementing clear separation of concerns in his project
     ** API Layer: Handles request and response logic.
     ** Service Layer: Contains business logic.
     ** Repository Layer: Uses dependency injection to interact with the database.
 * Rishit shared some chess-related updates.
-* Discussion on modern Linux graphics stack:
-    ** Wayland vs. X11.
-    ** Window Managers vs. Desktop Managers.
+* Discussion on modern Linux graphics stack
+    ** Wayland vs. X11
+    ** Window Managers vs. Desktop Managers
     ** General overview of display protocols and how they differ.
 * Highlighted a critical unauthenticated RCE flaw in the CUPS printing system.
-    ** Source: Qualys Security Blog.
-* Cicada 3301 mystery and cryptography.
+    ** Source: Qualys Security Blog
+* Cicada 3301 mystery and cryptography
     ** Alpesh contributed to this discussion.
-* L1Tech and Intel Core Ultra:
+* Level1Techs and Intel Core Ultra
     ** Intel plans to remove hyperthreading in upcoming CPU designs.
-* Terminal tooling:
-    ** Tmux and Vim keybindings.
+* Terminal tooling
+    ** Tmux and Vim keybindings
     ** Tips on managing multiple terminal sessions effectively.
+
