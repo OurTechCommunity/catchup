@@ -1,32 +1,21 @@
-**About OTC CatchUp
-
 Date: 10-05-2025
 
 Duration: 2 hrs 52 mins
 
 ==== Topics Discussed
 
-*Alpesh spoke about SSL Pinning and it is used to migitage MiTM attacks
-      
-      ** link:https://www.indusface.com/learning/what-is-ssl-pinning-a-quick-walk-through/[ssl pinning^]
-
-*Praveen shared about how blockchain sparked his interest and how he wants to explore blockchain further by completing projects 
-      
-      ** link:https://consensys.io/blockchain-use-cases[blockchain^]
-
-*Dheeraj spoke about Data Intensive applications O'Reilly Reading sessions that improve theoretical knowledge
-
-      ** link:https://team.shiksha[team.shiksha^]
-
-*Virinchi spoke about his  Power BI and DAX experience  
-      
-      ** link:https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics[dax basics^]
-
-*Shared Links
-
-   ** link:https://shop.hak5.org/products/wifi-pineapple?srsltid=AfmBOopxg3fem7zElDx-KNNiFmUH2D8Lt96F3aX48iIMuTOA3SM14leA[wifipineapple^]
-   ** link:https://www.indusface.com/learning/what-is-ssl-pinning-a-quick-walk-through/[ssl pinning^]
-   ** link:https://consensys.io/blockchain-use-cases[blockchain^]
-   ** link:https://team.shiksha[team.shiksha^]
-   ** link:https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics[dax basics^]
+* Alpesh spoke about SSL Pinning and it is used to migitage MiTM attacks
+    ** link:https://www.indusface.com/learning/what-is-ssl-pinning-a-quick-walk-through/[ssl pinning^]
+* Praveen shared about how blockchain sparked his interest and how he wants to explore blockchain further by completing projects
+    ** link:https://consensys.io/blockchain-use-cases[blockchain^]
+* Dheeraj spoke about Data Intensive applications O'Reilly Reading sessions that improve theoretical knowledge
+    ** link:https://team.shiksha[team.shiksha^]
+* Virinchi spoke about his  Power BI and DAX experience
+    ** link:https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics[dax basics^]
+* Shared Links
+    ** link:https://shop.hak5.org/products/wifi-pineapple?srsltid=AfmBOopxg3fem7zElDx-KNNiFmUH2D8Lt96F3aX48iIMuTOA3SM14leA[wifipineapple^]
+    ** link:https://www.indusface.com/learning/what-is-ssl-pinning-a-quick-walk-through/[SSL Pinning^]
+    ** link:https://consensys.io/blockchain-use-cases[blockchain^]
+    ** link:https://team.shiksha[team.shiksha^]
+    ** link:https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics[dax basics^]
 

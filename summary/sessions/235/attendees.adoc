@@ -1,6 +1,3 @@
-
-
-
 ==== Attendees
 
 . link:https://x.com/Alpastx[Alpesh Bhagwatkar^]
@@ -8,6 +5,7 @@
 . link:https://twitter.com/SirusTweets[Darshan Rander^]
 . link:https://twitter.com/DhiruCodes[Dheeraj Lalwani (Dhiru)^]
 . link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
+. link:https://twitter.com/furtado_jaden[jaden furtado^]
 . link:https://twitter.com/mohit_explores[Mohit Gangwani^]
 . link:http://x.com/naufildotdev[Naufil Asar^]
 . link:https://twitter.com/NinadNaik07[Ninad Naik^]
@@ -15,15 +13,14 @@
 . link:https://twitter.com/mehraramyak[Ramyak Mehra^]
 . link:https://twitter.com/rishit_dagli[Rishit Dagli^]
 . link:https://twitter.com/swpnlbrkr[Swapnil Borkar^]
-. link:https://twitter.com/furtado_jaden[jaden furtado^]
+. link:https://www.linkedin.com/in/uma-iyer-205bb112a[Uma Iyer^]
 . Abhinav Singh
 . Atharva Bot
 . Kanishk Singh
 . Krish Patel
-. LUEE KASAUDHAN
+. LUEE KASAUDHAN (Mohan)
 . Ram Naik
 . Saad Courses
 . Sarthak
 . Virinchi
-. Uma Iyer
 
