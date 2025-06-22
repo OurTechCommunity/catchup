@@ -19,6 +19,7 @@ Duration: 3 hrs 8 mins
         *** Compiles directly to machine code (efficient performance).
 
 ==== Projects Showcased
+
 * Ramyak showcased a project.
     ** Also discussed:
         *** The Zig programming language.
