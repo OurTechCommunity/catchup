@@ -1,0 +1,38 @@
+Date: 12-10-2024
+
+Duration: 2 hrs 00 mins
+
+==== Topics Discussed
+
+* Darshit gave two interviews
+    ** DevOps role at a Web3 company.
+    ** One with a founder discussing job responsibilities.
+* Dheeraj asked Darshit technical questions
+    ** What is Load in Linux?
+    ** Meaning of a process having Load 10.
+    ** How to check system load using `top` / `htop`.
+    ** Troubleshooting Linux DB issue: 'cannot write to disk' – discussed possible causes.
+    ** Questions around Kubernetes.
+    ** Ansible explained
+        *** Automation tool for server configuration.
+        *** Important for DevOps roles.
+* Darshan talked about startup job risks.
+    ** Kartik shared his perspective.
+* Long discussion on spherical coordinates.
+    ** Involved: Kartik Soneji, Jaden, and Rishit.
+
+==== Projects Showcased
+
+* Abhinav (KsrX Duke) is building RC airplane models.
+    ** Asked if anyone has experience in plane-building.
+* Siddharth Mishra showcased a CV project
+    ** Detecting car number plates from images.
+    ** Discussion on YOLO vs. RCNN models.
+    ** Dheeraj suggested
+        *** Hosting the model.
+        *** Integrating it into a live project.
+    ** Kartik mentioned similar projects by Harsh Kapadia and suggested making it interactive.
+* Darshit presented a Harry Potter-themed mini project.
+    ** Kartik Soneji and Darshan Rander added more context.
+* Jaden shared updates on his current project.
+

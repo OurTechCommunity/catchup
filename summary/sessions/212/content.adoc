@@ -1,0 +1,32 @@
+Date: 30-11-2024
+
+Duration: 3 hrs 8 mins
+
+==== Topics Discussed
+
+* Mohammad Sohail Shaikh asked how to get a job in AI/ML.
+    ** Dheeraj advised
+        *** Build projects in the domain.
+        *** Connect and interact with professionals already in the field.
+* Rishit shared insights into
+    ** Research roles in ML.
+    ** How to pursue PhDs and enter the academic/research system.
+* Prakhar Gupta shared an article link:https://www.maxmynter.com/pages/blog/become-mle[become a machine learning engineer in five to seven steps^]
+* Dev Malang shared an article on link:https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f[large language models^]
+* Ayush asked: “Why Go?”
+    ** Dheeraj and Ramyak responded
+        *** Simpler concurrency model.
+        *** Compiles directly to machine code (efficient performance).
+* Dheeraj introduced link:https://adventofcode.com[Advent of Code^]
+
+==== Projects Showcased
+
+* Ramyak showcased a project.
+    ** Also discussed
+        *** The Zig programming language.
+        *** Encoding and decoding fundamentals.
+        *** In-depth explanation of PNG and PPM file formats.
+        *** Compression and decompression techniques.
+* Sahil Bansal showcased a database he's building from scratch.
+    ** Mentioned reference: link:https://build-your-own.org[Build Your Own Database From Scratch^]
+
