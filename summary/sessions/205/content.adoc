@@ -7,7 +7,6 @@ Duration: 2 hrs 00 mins
 * Darshit gave two interviews:
     ** DevOps role at a Web3 company.
     ** One with a founder discussing job responsibilities.
-
 * Dheeraj asked Darshit technical questions:
     ** What is Load in Linux?
     ** Meaning of a process having Load 10.
