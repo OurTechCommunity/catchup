@@ -4,7 +4,6 @@ Duration: 3 hrs 8 mins
 
 ==== Topics Discussed
 
-
 * Mohammad Sohail Shaikh asked how to get a job in AI/ML.
     ** Dheeraj advised:
         *** Build projects in the domain.
