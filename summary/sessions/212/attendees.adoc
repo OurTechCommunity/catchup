@@ -6,5 +6,5 @@
 . link:https://twitter.com/rishit_dagli[Rishit Dagli^]
 . Ayush
 . Sahil Bansal
-. DEV MALANG
+. Dev Malang
 . Prakhar Gupta
