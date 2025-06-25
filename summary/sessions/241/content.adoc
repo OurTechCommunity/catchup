@@ -1,10 +1,10 @@
 Date: 14-06-2025
 
-Duration: 3 hrs 05 mins
+Duration: 3 hrs 5 mins
 
 ==== Topics Discussed
 
-* Ramyak, Kesava, Sidharth and Yash discussed Cloud Infrastructure and its impacts:
+* Ramyak, Kesava, Sidharth and Yash discussed Cloud Infrastructure and its impacts.
     ** Sidharth Rathi talked about cloudflare, Azure, GCP and how a database cannot be scaled down after being scaled up.
     ** link:https://www.fortra.com[Fortra^]
     ** link:https://www.e2enetworks.com[E2E Networks^]
@@ -17,7 +17,7 @@ Duration: 3 hrs 05 mins
     ** link:https://blog.vivekkaushik.com/internet-failover-with-netplan-and-iptables-on-ubuntu-2404[Guide to netplan & iptables^]
     ** link:https://www.cloudflare.com/en-in/application-services/products/waf[Cloudflare WAF^]
     ** link:https://www.tomshardware.com/software/russian-businesses-get-shut-out-from-microsoft-cloud-services-at-the-end-of-this-month-new-eu-sanctions-come-into-effect[Russian Businesses and Microsoft Cloud^]
-* Jaden and Harsh talked about Cybersecurity and Hacking:
+* Jaden and Harsh talked about Cybersecurity and Hacking.
     ** Jaden shared his experience giving the OSWE exam.
     ** link:https://www.offsec.com/courses/web-300[OSWE course^]
     ** link:https://www.offsec.com/metasploit-unleashed/msfvenom[MSFVenom tool^]
@@ -25,7 +25,7 @@ Duration: 3 hrs 05 mins
     ** link:https://en.wikipedia.org/wiki/Access-control_list[ACL reference^]
     ** link:https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system[Zanzibar^]
     ** link:https://www.revshells.com/[Revshells resource^]
-* We discussed GPUs and their availability on various cloud providers:
+* We discussed GPUs and their availability on various cloud providers.
     ** link:https://youtu.be/3cm6gAcoVRI[AMD MI 350 launch event recap^]
     ** link:https://regmedia.co.uk/2024/03/20/nvidia_gb200_nvl72_front.jpg?x=648&y=864&infer_y=1[Nvidia GPU image^]
     ** link:https://www.tomshardware.com/news/nvidia-h200-gpu-announced[Nvidia H200 GPU announcement^]
@@ -33,7 +33,7 @@ Duration: 3 hrs 05 mins
     ** link:https://chatgpt.com/c/6856f452-f7d0-8009-ab7f-4436ac7482fb[ChatGPT discussion^]
     ** link:https://www.livescience.com/technology/artificial-intelligence/meth-is-what-makes-you-able-to-do-your-job-ai-can-push-you-to-relapse-if-youre-struggling-with-addiction-study-finds[Study on AI and job performance^]
 * Mental health and self diagnosis was discussed at the end.
-* Other relevant resources shared:
+* Additional resources and links.
     ** link:https://www.zeuslearning.com/[Zeus Learning^]
     ** link:https://support.apple.com/en-in/111102[Apple Camera Support^]
     ** link:https://freedium.cfd/https://sfaldin.medium.com/what-woody-allens-showing-up-quote-really-means-ee743f0adbbb[Medium article^]
