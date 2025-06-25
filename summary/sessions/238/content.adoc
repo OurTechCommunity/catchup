@@ -1,0 +1,46 @@
+Date: 31-05-2025
+
+Duration: 1 hr 36 mins
+
+==== Topics Discussed
+
+* Harsh discussed CPPCon talk by Matt Godbolt- The Bits between the Bits and What Every Programmer should know how CPUs work at GOTO con
+    ** link:https://www.youtube.com/watch?v=dOfucXtyEsU[CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”^]
+    ** link:https://www.youtube.com/watch?v=-HNpim5x-IE[What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024^]
+* Kartik shared a playlist for DSA by Pavel Marvin and also mentioned that he is a redcoder in  codeforces and his lectures are very indepth and builds intuition from basic
+    ** link:https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=RfhvCM3usBVJjGO_[Algorithm & DS English Course^]
+* Rishit shared Microsoft's render former and and Bolt's AI video call
+    ** link:https://microsoft.github.io/renderformer[Render Former^]
+    ** link:https://hackathon.dev[AI Video call^]
+* Harsh shared writing a compiler with LLVM
+    ** link:https://www.youtube.com/watch?v=vrRXIQDCCEk[Writing a compiler with LLVM - Cailin Smith - NDC Oslo 2022^]
+*Darshan and Harsh shared about Raft-consesnses algorithm while we were discussing about Fault Tolerance and how multiple servers agree on values and The concept of VIP and Paxos
+    ** link:https://raft.github.io[The Raft Consensus Algorithm^]
+    ** link:https://www.keepalived.org[Keep Alived^]
+    ** link:https://github.com/acassen/keepalived[Keep Alived Github^]
+    ** link:https://en.wikipedia.org/wiki/Paxos_(computer_science)[Paxos^]
+    ** link:https://developer.hashicorp.com/consul/docs/concept/consensus[Consensus^]
+    ** link:https://en.wikipedia.org/wiki/Virtual_IP_address[VIP-Virtual IP Address^]
+    ** link:https://infotracer.com/reverse-ip-lookup/virtual-ip-address[Reverse VIP Lookup^]
+    ** link:https://blog.codingconfessions.com/p/seeing-the-matrix[Blog on Compilers^]
+* Darshan mentioned  Aurora db  the selling point of aurora db is that if you write you can read simultaneously that ensures you will always get data as well as the concept of Ditributed databases.
+    ** link:https://www.youtube.com/watch?v=DA5W8tO_7Nw[Arpit Bhayani Distributed  db^]
+    ** link:https://www.youtube.com/watch?v=EaWlpn24eAs[Amazon Aurora^]
+* Shared Links
+    ** link:https://www.youtube.com/watch?v=dOfucXtyEsU[CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”^]
+    ** link:https://www.youtube.com/watch?v=-HNpim5x-IE[What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024^]
+    ** link:https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=RfhvCM3usBVJjGO_[Algorithm & DS English Course^]
+    ** link:https://microsoft.github.io/renderformer[Render Former^]
+    ** link:https://hackathon.dev[AI Video call^]
+    ** link:https://www.youtube.com/watch?v=vrRXIQDCCEk[Writing a compiler with LLVM - Cailin Smith - NDC Oslo 2022^]
+    ** link:https://raft.github.io[The Raft Consensus Algorithm^]
+    ** link:https://www.keepalived.org[Keep Alived^]
+    ** link:https://github.com/acassen/keepalived[Keep Alived Github^]
+    ** link:https://en.wikipedia.org/wiki/Paxos_(computer_science)[Paxos^]
+    ** link:https://developer.hashicorp.com/consul/docs/concept/consensus[Consensus^]
+    ** link:https://en.wikipedia.org/wiki/Virtual_IP_address[VIP-Virtual IP Address^]
+    ** link:https://infotracer.com/reverse-ip-lookup/virtual-ip-address[Reverse VIP Lookup^]
+    ** link:https://blog.codingconfessions.com/p/seeing-the-matrix[Blog on Compilers^]
+    ** link:https://www.youtube.com/watch?v=DA5W8tO_7Nw[Arpit Bhayani Distributed  db^]
+    ** link:https://www.youtube.com/watch?v=EaWlpn24eAs[Amazon Aurora^]
+
