@@ -1,0 +1,38 @@
+Date: 28-06-2025
+
+Duration: 4 hrs 22 mins
+
+==== Topics Discussed
+
+* Prem asked about tech events, hackathons in Pune, and about learning coding in presence of AI as a BTech CSE first-year student.
+* Pranav shared insights on system-level memory management and CPU architecture.
+    ** Explained how IPMI allows out-of-band monitoring independent of the main system.
+    ** Shared how Valgrind helps detect memory leaks, invalid accesses, and pointer-related issues.
+    ** Harsh shared a book to learn about Operating Systems.
+        *** link:https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface[Intelligent Platform Management Interface^]
+        *** link:https://valgrind.org[Valgrind^]
+        *** link:https://cpu.land[CPU Architecture Guide^]
+        *** link:https://archive.org/details/operating-systems-three-easy-pieces[Operating Systems-Three Easy Pieces^]
+* Pranav showcased his Virtual CPU project.
+    ** link:https://en.wikipedia.org/wiki/SystemVerilog[SystemVerilog^]
+    ** link:https://linux.harshkapadia.me/bit-byte-ordering[Harsh's blog about bit-byte ordering^]
+    ** link:https://en.wikipedia.org/wiki/Instruction_set_architecture[Instruction set architecture^]
+* Ankush asked about resources to learn Makefile.
+    ** link:https://makefiletutorial.com[Makefile Tutorial^]
+    ** link:https://dev.harshkapadia.me/resources#build-systems[Harsh's resource on build system^]
+* Rishit shared about Cluely and how police shut down their party.
+    ** Explained how Cluely is used to cheat during interviews.
+        *** link:https://cluely.com/manifesto[Cluely's Manifesto^]
+        *** link:https://techcrunch.com/2025/06/17/police-shut-down-cluelys-party-the-cheat-at-everything-startup[Police shut down Cluely’s party, the ‘cheat at everything’ startup^]
+* Bhavesh showcased his project for Python built on CPython 3.9.
+    ** Shared how he added a new comparison operator ~= for “almost equals.”
+        *** link:https://medium.com/@datasciencejourney100_83560/python-interning-for-each-data-types-397b0ba70986[Python Interning for Each Data Types^] 
+        *** link:https://realpython.com/cpython-source-code-guide[CPython Source Code Guide^]
+        *** link:https://www.jython.org[Jython^]
+        *** link:https://www.codesansar.com/python-programming/integer-interning.htm[Integer Interning in Python^]
+* Additional resources and links.
+    ** link:https://medium.com/design-bootcamp/cognitive-debt-what-i-learned-from-mits-paper-on-ai-and-brain-atrophy-dbb54f7f064a[Cognitive debt: What I learned from MIT’s paper on AI and brain atrophy^]
+    ** link:https://youtu.be/u_Lxkt50xOg[I'm DONE with Google^]
+    ** link:https://github.com/tmux/tmux/wiki[Tmux^]
+    ** link:https://mobaxterm.mobatek.net[MobaXterm^]
+    ** link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^]
