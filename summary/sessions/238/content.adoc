@@ -8,26 +8,25 @@ Duration: 1 hr 36 mins
     ** link:https://www.youtube.com/watch?v=-HNpim5x-IE[What Every Programmer Should Know about How CPUs Work^] (Matt Godbolt)
     ** link:https://www.youtube.com/watch?v=dOfucXtyEsU[CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”^]
 * Kartik shared a playlist for DSA by Pavel Marvin and also mentioned that he is a link:https://www.youtube.com/watch?v=y7169jEvb-Y[Red Coder on Codeforces^] (really good coder) and his lectures are very in-depth and builds intuition from the fundamentals
-    ** link:https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=RfhvCM3usBVJjGO_[Algorithm & DS English Course^]
+    ** link:https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4&si=RfhvCM3usBVJjGO_[Algorithm & DS English Course by Pavel Mavrin^]
 * Rishit shared Microsoft's render former and and Bolt's AI video call
-    ** link:https://microsoft.github.io/renderformer[Render Former^]
-    ** link:https://hackathon.dev[AI Video call^]
+    ** link:https://microsoft.github.io/renderformer[Render Former : Transformer-based Neural Rendering of Triangle Meshes with Global Illumination^]
+    ** link:https://hackathon.dev[Bolt AI's Hackathon^]
 * Harsh shared writing a compiler with LLVM
     ** link:https://www.youtube.com/watch?v=vrRXIQDCCEk[Writing a compiler with LLVM - Cailin Smith - NDC Oslo 2022^]
 * Darshan and Harsh talked about Raft-consensus algorithm while we were discussing about fault tolerance, how multiple servers agree on values and the concepts of VIP addresses and Paxos.
     ** link:https://raft.github.io[The Raft Consensus Algorithm^]
-    ** link:https://www.keepalived.org[Keepalived^]
-    ** link:https://github.com/acassen/keepalived[Keepalived Github^]
+    ** link:https://www.keepalived.org[Keep alived^]
+    ** link:https://github.com/acassen/keepalived[Keep alived Github^]
     ** link:https://en.wikipedia.org/wiki/Paxos_(computer_science)[Paxos^]
     ** link:https://developer.hashicorp.com/consul/docs/concept/consensus[Consensus^]
     ** link:https://en.wikipedia.org/wiki/Virtual_IP_address[VIP-Virtual IP Address^]
     ** link:https://infotracer.com/reverse-ip-lookup/virtual-ip-address[Reverse VIP Lookup^]
     ** link:https://blog.codingconfessions.com/p/seeing-the-matrix[Understanding Computer Organization from First Principles^]
 * Darshan mentioned  Aurora db  the selling point of aurora db is that if you write you can read simultaneously that ensures you will always get data as well as the concept of Ditributed databases.
-    ** link:https://www.youtube.com/watch?v=DA5W8tO_7Nw[Arpit Bhayani Distributed  db^]
-    ** link:https://www.youtube.com/watch?v=DA5W8tO_7Nw[Arpit Bhayani Distributed  db^]
-    ** link:https://www.youtube.com/watch?v=EaWlpn24eAs[Amazon Aurora^]
+    ** link:https://www.youtube.com/watch?v=DA5W8tO_7Nw[What the heck is Storage-Compute Separation? | Aurora Paper Deep Dive - Section 1^]
+    ** link:https://www.youtube.com/watch?v=EaWlpn24eAs[How Amazon Aurora Achieves Durability with Quorum Writes | Aurora Paper Deep Dive - Section 2^]
 * Shared Links
     ** link:https://stackoverflow.com/questions/589834/what-rsa-key-length-should-i-use-for-my-ssl-certificates/589850#589850[what-rsa-key-length-should-i-use-for-my-ssl-certificates^]
     ** link:https://www.youtube.com/watch?v=5ChkQKUzDCs[Big projects are ditching TypeScript… why?^]
-    ** link:https://hackathon.dev[Realistic AI video call on the hackathon.dev website^]
+    
