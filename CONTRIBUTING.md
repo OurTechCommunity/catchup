@@ -79,6 +79,14 @@
 -   Once your changes are complete, stage and push your modifications to your repository.
 -   Finally, open a pull request on the OTC CatchUp repository.
 
+### Session Summaries & Organization Guidelines
+
+- Summaries should capture the essence of the discussion without being overly detailed. If key context is missing, include relevant links at the end.
+- The catchUp sessions follow a round-robin format where different members take turns managing the session and drafting the summary. Responsibilities can be shared if needed.
+- If you know you won’t be available, please inform the team at least 24 hours in advance. Emergencies can be managed as they arise.
+- Maintain a separate document for each catchUp summary so that someone else can easily pick up and complete the work if required.
+- When hosting CatchUp, warmly greet new members and introduce them to OTC by explaining how each part of the community operates. Previously, sessions featured segments for introductions, project showcases, and open tech discussions.
+
 ## Git Hooks and Commit Conventions
 
 This repo uses [Husky](https://typicode.github.io/husky) 'pre-commit' and 'commit-msg' hooks to enforce code quality and commit consistency. These hooks run automatically when one tries to create a commit.
