@@ -1,0 +1,72 @@
+Date: 21-06-2025
+
+Duration: 3 hrs 5 mins
+
+==== Topics Discussed
+
+* Bhavesh Kukreja spoke about his project that combines chess and video calling together.
+    ** link:https://github.com/BhaveshKukreja29/KingsGambit[Project Link^]
+* Mohit Shetty discussed about GrapheneOS 
+    ** Briefly described how the organization goes through the porting release after every Android release
+    ** Explained the work it generally takes to maintain a fork of the Android project
+    ** link:https://grapheneos.org/#about[GrapheneOS official website^]
+* Harsh Kapadia shared a videos of PewDiePie endorsing Linux and GrapheneOS
+    ** link:https://www.youtube.com/watch?v=pVI_smLgTY0[Endorsement of Linux^]
+    ** link:https://www.youtube.com/watch?v=u_Lxkt50xOg[Endorsement of GrapheneOS^]
+* Difference between authentication and authorization had been discussed during the meeting
+    ** link:https://www.okta.com/identity-101/authentication-vs-authorization[Authentication vs Authorization^]
+    ** link:https://www.cncf.io/projects/keycloak[Project Keycloak^]
+* Himanshu Sharma shared about a project be built using Model Context Protocol (MCP) in a hackathon
+    ** link:https://github.com/himanshusharma89/k8s-diagnostics-mcp-server[Project Link^]
+    ** link:https://modelcontextprotocol.io[What is Model Context Protocol^]
+    ** link:https://www.infracloud.io/blogs/build-your-own-mcp-server[How to build your own MCP server^]
+* Himanshu Sharma and others discussed how AI agents were being commonly used by people in hackathons and startups
+    ** link:https://docs.gptscript.ai[GPT Script Documentation^]
+    ** link:https://www.lyzr.ai[Lyzr Official Website^]
+    ** link:https://docs.obot.ai[Obot AI Documentation^]
+    ** link:https://lp.airtribe.live/ai-agents-hackathon[List of AI agents hackathons^]
+* Ngrok was mentioned during the meet for its tunneling and minimal setup for testing
+    ** link:https://ngrok.com[Ngrok^]
+* Harsh Kapadia discussed a logical bug that was found with Linux kernel's security.
+    ** link:https://youtu.be/9CISphpvapI[Reference Video Link^]
+* Harsh Kapadia mentioned a vulnerability present in Call of Duty on Xbox devices allowing remote code execution
+    ** link:https://www.youtube.com/watch?v=2mmBFfSB3qg[Call of Duty's Exploitation Problem^]  
+    ** link:https://youtu.be/ERlHfeVmq6g[This Was Bound To Happen...^]
+* Jaden Furtado mentioned about cryptocurrencies like Stable Coins getting more recognition in United States and how its influence could extend globally over time
+    ** link:https://abcnews.go.com/Business/genius-act-crypto-regulation-bill/story?id=121981442[GENIUS Act^]
+* Everyone discussed how digital products such as games are getting strictly regulated by the EU without any incentives for business to make those changes
+    ** link:https://www.youtube.com/watch?v=b_5WIzkM0r8 
+* Different ways of putting a process in background were discussed
+    ** People shared how they used tmux to put detached processes in background
+    ** link:https://github.com/tmux/tmux/wiki[Tmux Wiki^]
+    ** The difference between nohup command and ‘&’ symbol on any Linux shell was debated
+    ** link:https://www.digitalocean.com/community/tutorials/nohup-command-in-linux[nohup Linux command^]
+* People shared different examples of dotfiles that they commonly use in their projects.
+    ** Harsh mentioned about the dot files he uses to spin up VM for QEMU
+    ** link:https://github.com/HarshKapadia2/dotfiles[Harsh Kapadia Dot Files^]
+    ** link:https://github.com/cdzombak/dotfiles[cdzombak Dot Files^]
+* A project that makes it easier for people to understand React by re-writing it from scratch was discussed
+    ** link:https://pomb.us/build-your-own-react[Build your own React^]
+* Harsh shares his blog post on the boot process
+    ** link:https://linux.harshkapadia.me/boot[The Boot Process^]
+* Pranav Dani explained different aspects of hardware and OS internals while discussing his new project.
+    ** Different companies work on implementing the UEFI standard for the utilities that come along
+        *** link:https://www.ami.com/bios-uefi-utilities[Common BIOS UEFI Utilities^]
+    ** Mentioned that his bootloader and kernel project relies on type 2 hypervisor (QEMU)
+        *** link:https://aws.amazon.com/compare/the-difference-between-type-1-and-type-2-hypervisors[Tyoe 1 vs Type 2 Hypervisor]
+        *** link:https://www.qemu.org[QEMU^]
+        *** link:https://linux.harshkapadia.me/kvm-qemu[KVM vs QEMU^]
+    ** Shared his experience in implementing a solution for a common synchronization problem in OS 
+        *** link:https://www.geeksforgeeks.org/operating-systems/producer-consumer-problem-using-semaphores-set-1[Producer Consumer Problem]
+    ** His previous talk on RAFT was discussed
+        *** link:https://talks.ourtech.community/5[Talk on RAFT^]
+* Additional resources and links.
+    ** link:https://bigthink.com/culture-religion/a-drunk-mind-speaks-a-sober-heart-really[A drunk mind speaks a sober heart^]
+    ** link:https://blog.dynamicslab.ai[Dynamics Lab AI^]
+    ** link:https://www.539kernel.com[539 Kernel^]
+    ** link:https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-2-family[Pico 2 Family^]
+    ** link:https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf[Rasberry PI Pico Python SDK Manual^]
+    ** link:https://www.gnu.org/software/screen[GNU Screen^]
+    ** link:https://www.gnu.org/software/stow[GNU Stow^]
+    ** link:http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html[Using GNU Stow^]
+    ** link:https://youtu.be/iM1NXHQ8YTA[Dissecting AMD Ryzen | CPU Engineering Discussion^]
