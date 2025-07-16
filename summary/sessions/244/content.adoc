@@ -1,0 +1,42 @@
+Date: 12-07-2025
+
+Duration: 3 hrs 58 mins
+
+==== Topics Discussed
+
+* Jaden shared his experience at sea as a cybersecurity researcher
+    ** Shared his concerns about how ships can be directly connected to the internet with limited to no security
+    ** Spoke about how proper protocols for handling credentials are often absent at ship
+    ** The lack of safety precautions that are present while climbing onto the ship
+    ** Shared photos of his overall journey
+* Dheeraj mentioned about his unique experience about giving a 3 hour engaging talk about Git and GitHub to professors of Mumbai University
+    ** link:https://docs.google.com/presentation/d/1PTV15ahtvef1aIcd4CR8qjofQDqGtICPVU-mow90CyA[Slideshow^]
+    ** link:https://docs.google.com/document/d/1hcOOd7eeeIZUJR_LPhwMpwHN05DhPsrfQZ4xd-YFJjw[List of concepts covered^]
+* Dheeraj shared about his experience with learning AWS straight from its documentation
+    ** link:https://docs.aws.amazon.com[Amazon Documentation^]
+* Alpesh shared an agentic AI browser based on deep search and automation
+    ** link:https://fellou.ai[Fellou - Agentic AI Browser^]
+* Ankush Kapoor shared that he is reading a book named "Operating Systems: Three Easy Pieces" to understand OS design.
+    ** link:https://github.com/Areadrill/HaPOS/blob/master/Operating%20Systems%20-%20Three%20Easy%20Pieces.pdf[Operating System - Three Easy Pieces Book^]
+* Bhavesh Kukreja spoke about migrating the application he had previously spoken about in the last catchup from Flask to Django because managing the complexity of the app he was working on was getting harder over time
+* Ankush Kapoor shared his journey from trying to be a part of the army to getting into BTech.
+* Mohit Shetty mentioned about a tool he uses as an alternative to Docker on Mac
+    ** link:https://orbstack.dev   
+* A general discussion on how Docker is implemented in different platforms took place
+    ** link:https://docs.docker.com/get-started/docker-overview[Docker Overview^]
+    ** link:https://en.wikipedia.org/wiki/Linux_namespaces[Linux Namespaces^]
+    ** link:https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/resource_management_guide/ch01[Control Groups in Linux^]
+    ** link:https://medium.com/@noble_frost_lion_664/docker-on-different-operating-systems-linux-and-windows-6498df4234fb[Understanding Docker implementation in different platforms^]
+    ** link:https://www.youtube.com/watch?v=s06VHrb_Fss[Review video an official container enginer by Apple^]
+    ** link:https://labs.play-with-docker.com[A popular website to try out Docker^]
+* Chirag Nayyar shared how he has been working disaster recovery for traditional databases systems
+    ** link:https://cloud.google.com/learn/what-is-disaster-recovery[What is disaster recovery^]
+    ** link:https://www.mysql.com/products/cluster[MySQL Distributed Database^]
+    ** link:https://downloads.mysql.com/events/mysql-summit-2023/Oracle_MySQL_Summit_2023_HA_DR.pdf[MySQL Disaster Recovery^]
+* Mohammed Kaif shared how Swift is being used by Scade, a cross-platform framework
+    ** link:https://www.scade.io[Scade Official Website^]
+* Rishit Dagli shared about different benchmark metrics for large language models
+    ** link:https://www.ibm.com/think/topics/llm-benchmarks[LLM Benchmarking Techniques^]
+* Swapnil Borkar discussed about certain aspects about Material You Expressive edition
+    ** Mentioned how using shapes to indicate states was a bad idea
+    ** Discussed how Material You Expressive theme was implemented on Google with inverted colors for button toggles
