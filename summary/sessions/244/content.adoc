@@ -21,7 +21,7 @@ Duration: 3 hrs 58 mins
 * Bhavesh Kukreja spoke about migrating the application he had previously spoken about in the last catchup from Flask to Django because managing the complexity of the app he was working on was getting harder over time
 * Ankush Kapoor shared his journey from trying to be a part of the army to getting into BTech.
 * Mohit Shetty mentioned about a tool he uses as an alternative to Docker on Mac
-    ** link:https://orbstack.dev   
+    ** link:https://orbstack.dev[OrbStack^]
 * A general discussion on how Docker is implemented in different platforms took place
     ** link:https://docs.docker.com/get-started/docker-overview[Docker Overview^]
     ** link:https://en.wikipedia.org/wiki/Linux_namespaces[Linux Namespaces^]
