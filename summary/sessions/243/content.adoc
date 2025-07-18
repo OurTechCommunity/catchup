@@ -35,7 +35,7 @@ Duration: 2 hrs 48 mins
 * Jaden Furtado mentioned about cryptocurrencies like Stable Coins getting more recognition in United States and how its influence could extend globally over time
     ** link:https://abcnews.go.com/Business/genius-act-crypto-regulation-bill/story?id=121981442[GENIUS Act^]
 * Everyone discussed how digital products such as games are getting strictly regulated by the EU without any incentives for business to make those changes
-    ** link:https://www.youtube.com/watch?v=b_5WIzkM0r8 
+    ** link:https://www.youtube.com/watch?v=b_5WIzkM0r8[Stop Killing Games^]
 * Different ways of putting a process in background were discussed
     ** People shared how they used tmux to put detached processes in background
     ** link:https://github.com/tmux/tmux/wiki[Tmux Wiki^]
