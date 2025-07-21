@@ -1,0 +1,38 @@
+Date: 19-07-2025
+
+Duration: 1 hr 58 mins 
+
+==== Topics Discussed
+
+* Aviraj Khare introduced himself and shared his current explorations.
+    ** He is studying Google's Agent2Agent (A2A) protocol and reading Crafting Interpreters book.
+    ** Shared his GitHub and LinkedIn for others to connect and explore his work.
+        *** link:https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability[Google's A2A Protocol^]
+        *** link:https://craftinginterpreters.com[Crafting Interepreters Book^]
+        *** link:https://github.com/avirajkhare00[Aviraj's GitHub^]
+        *** link:https://linkedin.com/in/avirajkhare00[Aviraj's LinkedIn^]
+* Discussion on free services offered by companies.
+    ** Google's student offers and Airtel perks for SIM users were discussed.
+    ** Some attendees noted that AI pro models felt underwhelming or "dumber" after being accessed through these promotions.
+* Darshan shared his project AntiLang, a custom programming language and online interpreter.
+    ** Explained how he utilizes WebAssembly in the interpreter backend.
+    ** Clarified how his project differs from platforms like Replit.
+        *** link:https://github.com/SirusCodes/AntiLang[AntiLang GitHub repo^]
+        *** link:https://webassembly.org[Web Assembly^]
+* Chetan showcased his ongoing portfolio project built with three.js.
+    ** A brief side discussion took place about a physics simulator that he is integrating.
+        *** link:https://www.overleaf.com/read/hcrmqyvsmrgm#4c3c60[Physics Simulator notes by Rishit Dagli]
+* Hrithik discussed his recent interview experience where the Client-Server Model was a key topic.
+    ** link:https://www.geeksforgeeks.org/system-design/client-server-model[Client-Server Model^]
+* Kaif shared a cautionary story about encountering a scammer on Telegram.
+* Chetan asked for guidance on applying to off-campus jobs.
+    ** A short discussion followed comparing college interns with open-market interns.
+    ** Hrithik added insights from his company’s practice of training college interns.
+        *** link:https://weaviate.io[Weaviate^]
+        *** link:https://clojure.org[Clojure Programming Language^]
+* Rishit shared his ongoing project which has multiple features for 3D models.
+    ** The project includes support for compression, interpolation, and model reconstruction.
+    ** He shared outputs and a link to his project and research paper.
+        *** link:https://squeeze3d.github.io[Squeeze3d Project^] 
+* Additional resources and links.
+    ** link:https://planetscale.com/blog/caching[^]
