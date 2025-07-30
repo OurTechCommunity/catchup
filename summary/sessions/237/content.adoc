@@ -1,0 +1,29 @@
+Date: 14-05-2025
+
+Duration: 1 hr 36 mins
+
+==== Topics Discussed
+
+* Bhavesh shared that JPMC came to their college and he was selected in the Code for Good round.
+* Siddharth asked if Dream11 is considered gambling.
+    ** Viranchee clarified to keep gambling-related discussions off-topic
+        ** Bhavesh joked about creating a “100% win rate” gambling app using “vibe coding”
+* Harsh Kapadia introduced ROCm which is AMD’s open-source platform for GPU computing. It provides a software stack and development tools for running high-performance computing (HPC), machine learning, and GPU-accelerated applications on AMD GPUs.
+     ** link:https://www.amd.com/en/products/software/rocm.html[AMD ROCm™ Software^]
+* Discussion on alternatives to CentOS after its discontinuation occured.
+    ** Few distributions were suggested :
+        *** link:https://almalinux.org[Almalinux^]
+        *** link:https://rockylinux.org[Rockylinux^]
+* Harsh Kapadia shared multiple resources on load balancing and performance.
+    ** link:https://docs.haproxy.org/3.0/intro.html[HAProxy Docs^]
+    ** link:https://youtu.be/9j_UzNtwZHg["Performance Matters" by Emery Berger^]
+* Harsh Kapadia and Siddharth discussed branch prediction, Spectre, and Meltdown.
+    ** link:https://comsec.ethz.ch/research/microarch/branch-privilege-injection[Branch Privilege Injection: Exploiting Branch Predictor Race Conditions^]
+    ** link:https://blog.codingconfessions.com/p/seeing-the-matrix[Understanding Computer Organization from First Principles^]
+* Harsh Kapadia shared powerToys for windows.
+    ** link:https://learn.microsoft.com/en-us/windows/powertoys[Powertoys^]
+* Hritik shared his switch to macOS and smooth experience with Podman, iOS/Android simulators, VS Code, and Chrome.
+    ** Alpesh shared he was spending hours configuring Linux.
+    ** Harsh, Hritik, and Pratik discussed age and performance of laptops
+* Shared link :
+    ** link:https://x.com/hnasr/status/1925914763789312180[Network Routing - A Deep Dive^]

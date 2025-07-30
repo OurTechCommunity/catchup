@@ -1,0 +1,31 @@
+Date: 17-05-2025
+
+Duration: 2 hr 36 mins
+
+==== Topics Discussed
+
+* Viral Soni introduced himself as a Python Developer returning after a while.
+* Darshan Rander brought up stealth startups and explained how they work.
+    ** A stealth startup is a company that operates in secrecy, keeping its product development, operations, and even existence hidden from the public, especially competitors and potential customers.
+* Jaden Furtado shared:
+    ** link:https://github.com/ScanRE/ScanRE[ScanRE project^]
+* Ramyak Mehra and others discussed the legitimacy of past competitions and freelance exploitation.
+* Harsh shared a technical writing meetup:
+    ** link:https://lu.ma/4zlluv62[Technical Writing Meetup - Mumbai (18th May)^]
+* Discussions around Android 16 Dev Preview, Material UI, and Gen-Z aesthetics.
+* Shared links :
+    ** link:https://www.youtube.com/watch?v=1C7P-V05SgQ[What’s in a Server BIOS (AMD)^]
+    ** link:https://www.youtube.com/watch?v=mxj7z6WqK14[How Windows Bootloader Starts the Kernel^]
+    ** link:https://www.jimangel.io/posts/automate-ubuntu-22-04-lts-bare-metal[Automate Bare Metal Ubuntu Installation^]
+    ** link:https://www.linusakesson.net/programming/tty/[The TTY Demystified^]
+    ** link:https://justfuckingusehtml.com/[Just F***ing Use HTML^]
+    ** link:https://www.youtube.com/watch?v=jsraR-el8_o[Google’s AlphaEvolve discovers new math^]
+    ** link:https://www.computernetworkingnotes.com/linux-tutorials/the-etc-hosts-etc-resolv-conf-and-etc-nsswitch-conf-files.html[/etc/hosts, resolv.conf, nsswitch.conf explanation^]
+    ** link:https://serverfault.com/questions/118923/difference-between-etc-hosts-and-etc-resolv-conf[Difference between /etc/hosts and /etc/resolv.conf^]
+    ** link:https://bind9.readthedocs.io[BIND9 Documentation^]
+    ** link:https://networking.harshkapadia.me/ssh[SSH Internals^]
+    ** link:https://linux.die.net/man/1/rsync[rsync Manual^]
+
+    ** link:https://x.com/JimSproch/status/1921897611025396183[Twitter post^]
+    ** link:https://nghiant3223.github.io/2025/04/15/go-scheduler.html[Go Scheduler Internals^]
+    ** link:https://www.amazon.in/Rinsed-Cartels-Crypto-Industry-Deadliest-ebook/dp/B0CPBLXQH6[Rinsed - Cartels & Crypto^]
