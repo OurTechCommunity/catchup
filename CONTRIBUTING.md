@@ -1,30 +1,30 @@
 # Welcome, Contributors! 😄
 
-- Please check the [issues tab](https://github.com/OurTechCommunity/catchup/issues) for things to work on.
-- Please raise an [issue](https://github.com/OurTechCommunity/catchup/issues) for adding a new feature or for reporting a bug, if it has not already been raised.
+-   Please check the [issues tab](https://github.com/OurTechCommunity/catchup/issues) for things to work on.
+-   Please raise an [issue](https://github.com/OurTechCommunity/catchup/issues) for adding a new feature or for reporting a bug, if it has not already been raised.
 
 ## Tech Stack
 
-- Front end: HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet)
-- Back end: Express.js, [Deta Micro](https://docs.deta.sh/docs/home/#deta-micros), [Deta Base](https://docs.deta.sh/docs/home/#deta-base)
+-   Front end: HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet)
+-   Back end: Express.js, [Deta Micro](https://docs.deta.sh/docs/home/#deta-micros), [Deta Base](https://docs.deta.sh/docs/home/#deta-base)
 
 ## Gitpod Setup
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/OurTechCommunity/catchup)
 
-- On clicking on the above 'Open in Gitpod' button, a Gitpod Workspace with all dependencies installed will open up.
-- Start the dev server by running `npm run start` in the root directory.
-  - A browser window with the web app should automatically open up, but if it doesn't, `ctrl+click` the link in the terminal to open up a window.
-  - NOTE: The server will have to be re-started manually to build the summary pages, as builds happen just once on starting the server.
-- A [GitHub integration](https://gitpod.io/integrations) will be required if not already done. Also, make sure to give appropriate permissions to GitHub on the [Integrations page](https://gitpod.io/integrations).
-- To open a PR
-  - Fork this repo. (Top right corner.)
-  - On Gitpod, [add the forked repo as a remote](https://harshkapadia2.github.io/git_basics/#_add_remote_repo_alias_remote_repo_url_git).
-  - [Make a new Git branch](https://harshkapadia2.github.io/git_basics/#_branch_name_2) on Gitpod.
-  - Make the required contribution(s) on Gitpod in the new branch.
-    - Please follow the [commit message format](https://harshkapadia2.github.io/git_basics/#_commit_messagetitle).
-    -   [Push the new branch to the forked repo](https://harshkapadia2.github.io/git_basics/#_command_16).
-    -   [Open a PR as usual](https://github.com/firstcontributions/first-contributions#submit-your-changes-for-review) from the forked repo.
+-   On clicking on the above 'Open in Gitpod' button, a Gitpod Workspace with all dependencies installed will open up.
+-   Start the dev server by running `npm run start` in the root directory.
+    -   A browser window with the web app should automatically open up, but if it doesn't, `ctrl+click` the link in the terminal to open up a window.
+    -   NOTE: The server will have to be re-started manually to build the summary pages, as builds happen just once on starting the server.
+-   A [GitHub integration](https://gitpod.io/integrations) will be required if not already done. Also, make sure to give appropriate permissions to GitHub on the [Integrations page](https://gitpod.io/integrations).
+-   To open a PR
+    -   Fork this repo. (Top right corner.)
+    -   On Gitpod, [add the forked repo as a remote](https://harshkapadia2.github.io/git_basics/#_add_remote_repo_alias_remote_repo_url_git).
+    -   [Make a new Git branch](https://harshkapadia2.github.io/git_basics/#_branch_name_2) on Gitpod.
+    -   Make the required contribution(s) on Gitpod in the new branch.
+        -   Please follow the [commit message format](https://harshkapadia2.github.io/git_basics/#_commit_messagetitle).
+        -   [Push the new branch to the forked repo](https://harshkapadia2.github.io/git_basics/#_command_16).
+        -   [Open a PR as usual](https://github.com/firstcontributions/first-contributions#submit-your-changes-for-review) from the forked repo.
 
 ## Local Setup
 
@@ -81,19 +81,20 @@
 
 ### Session Summaries & Organization Guidelines
 
-- Summaries should capture the essence of the discussion without being overly detailed. If key context is missing, include relevant links at the end.
-- The catchUp sessions follow a round-robin format where different members take turns managing the session and drafting the summary. Responsibilities can be shared if needed.
-- If you know you won’t be available, please inform the team at least 24 hours in advance. Emergencies can be managed as they arise.
-- Maintain a separate document for each catchUp summary so that someone else can easily pick up and complete the work if required.
-- When hosting CatchUp, warmly greet new members and introduce them to OTC by explaining how each part of the community operates. Previously, sessions featured segments for introductions, project showcases, and open tech discussions.
+-   Summaries should capture the essence of the discussion without being overly detailed. If key context is missing, include relevant links at the end.
+-   The catchUp sessions follow a round-robin format where different members take turns managing the session and drafting the summary. Responsibilities can be shared if needed.
+-   If you know you won’t be available, please inform the team at least 24 hours in advance. Emergencies can be managed as they arise.
+-   Maintain a separate document for each catchUp summary so that someone else can easily pick up and complete the work if required.
+-   When hosting CatchUp, warmly greet new members and introduce them to OTC by explaining how each part of the community operates. Previously, sessions featured segments for introductions, project showcases, and open tech discussions.
 
 ## Git Hooks and Commit Conventions
 
-This repo uses [Husky](https://typicode.github.io/husky) 'pre-commit' and 'commit-msg' hooks to enforce code quality and commit consistency. These hooks run automatically when one tries to create a commit.
+This repo uses [Husky](https://typicode.github.io/husky) 'pre-commit' and 'commit-msg' hooks to enforce code quality and commit consistency.
+These hooks run automatically when one tries to create a commit.
 
 ### Pre-commit Hook
 
-- Prettier formatting check
+-   Prettier formatting check
     -   Runs Prettier to ensure code is properly formatted.
     -   Blocks the commit if issues are found.
 
