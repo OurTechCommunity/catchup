@@ -1,0 +1,15 @@
+Date: 25-01-2025
+
+Duration: 3 hrs 8 mins
+
+==== Topics Discussed
+
+* Discussed about HDL (verilog)
+* We talked about Nvidia's new 50 series line up and who would consider getting it.
+* Ramyak Mehra talked about link:https://www.geeksforgeeks.org/introduction-to-trie-data-structure-and-algorithm-tutorials/[Trie alogorithm^] and
+link:https://en.wikipedia.org/wiki/Binary_entropy_function[Binary entropy^]
+* Europe job fire complication
+
+==== Project Showcase
+
+* Jia gave an update on her project - that she hosted the it on Vercel.
