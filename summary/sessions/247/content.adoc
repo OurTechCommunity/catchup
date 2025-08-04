@@ -9,7 +9,7 @@ Duration: 3 hrs 02 mins
     ** link:https://ntpc.co.in[NTPC^]
     ** link:https://ntpctender.ntpc.co.in[NTPC Tender^]
 * Nirmal, a class 10th student, shared his mock CPU projects and his thoughts.
-    ** Talked about how the brain stores data and compared it to weights and biases.
+    ** Talked about his idea of how the brain stores data and drew an analogy to weights and biases.
         *** link:https://youtu.be/xuUM84dvxcY[A New CPU Breakthrough Promising 100x Efficiency^]
 * Discussion on the latest malware targeting Arch Linux.
     ** Talked about server-safe Linux distros and NVIDIA OPEN drivers for Linux.
@@ -19,11 +19,11 @@ Duration: 3 hrs 02 mins
 * Discussed the fastest way to check if a number is odd.
     ** link:https://godbolt.org[GodBolt Compiler^]
 * Browser-related discussion took place.
-    ** Talked about telemetry options, browser engines, and does Google fund Firefox?
+    ** Talked about telemetry options, browser engines, and whether Google funds Firefox.
         *** link:https://zen-browser.app[Zen Browser^]
         *** link:https://windscribe.com/blog/windscribe-expose-mozilla[Does Google Fund Mozilla?^]
         *** link:https://ladybird.org[Ladybird^]
-* CUDA kernels and PyTorch compiled code were discussed.
+* CUDA kernels were compared with PyTorch compiled code.
     ** Shared why CUDA kernels are considered better in some use cases.
         *** link:https://youtu.be/oaOxMdKlJTc[Why GPU Programming Is Chaotic^]
         *** link:https://arunjitha.medium.com/simplifying-cuda-kernels-with-triton-a-pythonic-approach-to-gpu-programming-79bb7121e974[Simplifying CUDA Kernels with Triton^]
@@ -33,11 +33,11 @@ Duration: 3 hrs 02 mins
         *** link:https://radiancefields.com[Radiance Fields^]
 * Chetan asked Rishit about Kubernetes config suggestions for ML models.
     ** link:https://www.kubeflow.org[Kubeflow^]
-* Rishit also shared about QVID, a project that works on Situated AI to interpret real-time audio-visual inputs.
+* Rishit also shared about QVID, a project on Situated AI that interprets real-time audio-visual inputs.
     ** link:https://rishitdagli.com/qivd[QVID^]
 * Chetan asked about ricing tips for Ubuntu VM, especially regarding bloat removal without breaking the system.
     ** Harsh suggested using autoremove and autopurge.
-        ** link:https://jie-fang.github.io/blog/basics-of-ricing[The Basics of Ricing Linux^]
+        *** link:https://jie-fang.github.io/blog/basics-of-ricing[The Basics of Ricing Linux^]
 * Discussion about Safe Superintelligence Inc. (SSI).
     ** Talked about its story, and what superintelligence could mean.
         *** link:https://ssi.inc[Safe Superintelligence Inc.^]
@@ -53,7 +53,7 @@ Duration: 3 hrs 02 mins
     ** link:https://youtu.be/luD4T-IPbxY[We HAD to Redo Our Servers^]
     ** link:https://youtu.be/pW9_uyxN8p4[the tea app situation keeps getting worse^]
     ** link:https://youtu.be/57A09NpQcsE[i cant believe they let this ship...^]
-    ** link:https://youtu.be/4z3-G-A6bzg[https://www.youtube.com/watch?v=4z3-G-A6bzg^]
+    ** link:https://youtu.be/4z3-G-A6bzg[The New Threadripper CPUs are OVER 9000! Linux Review and Benchmarks^]
     ** link:https://www.youtube.com/watch?v=bDK1EKDa5j8[Threadripper 9000! DEEP DIVE -- Productivity and Gaming Benchmarks^]
     ** link:https://youtu.be/IItu46EWaic[AMD Threadripper 9980X 64-Core CPU Review & Benchmarks^]
     ** link:https://www.youtube.com/watch?v=pMhHBbKtWkE[Inside Intel's Lunar Lake^]
@@ -62,5 +62,5 @@ Duration: 3 hrs 02 mins
     ** link:https://www.youtube.com/@TsodingDaily[TsodingDaily YT channel^]
     ** link:https://www.youtube.com/@TheCodingTrain[The Coding Train YT channel^]
     ** link:https://en.wikipedia.org/wiki/Slurm_Workload_Manager[SLURM Workload Manager^]
-    ** link:https://www.nvidia.com/docs/IO/116757/Tegra_4_GPU_Whitepaper_FINALv2.pdf[NVIDIA Tegra 4 FamilyGPU Architecture^]
-    ** link:https://x.com/kakashiii111/status/1950876741179764812[Twiotter post about how to make money as a chip company or cloud company^]
+    ** link:https://www.nvidia.com/docs/IO/116757/Tegra_4_GPU_Whitepaper_FINALv2.pdf[NVIDIA Tegra 4 Family GPU Architecture^]
+    ** link:https://x.com/kakashiii111/status/1950876741179764812[Twitter post about how to make money as a chip company or cloud company^]
