@@ -1,0 +1,66 @@
+Date: 02-08-2025
+
+Duration: 3 hrs 02 mins 
+
+==== Topics Discussed
+
+* Jia shared about her internship experience at ABC Engineers and her work on a CO2 model for data analytics.
+    ** link:https://abengineers.co.in[ABC Engineers^]
+    ** link:https://ntpc.co.in[NTPC^]
+    ** link:https://ntpctender.ntpc.co.in[NTPC Tender^]
+* Nirmal, a class 10th student, shared his mock CPU projects and his thoughts.
+    ** Talked about how the brain stores data and compared it to weights and biases.
+        *** link:https://youtu.be/xuUM84dvxcY[A New CPU Breakthrough Promising 100x Efficiency^]
+* Discussion on the latest malware targeting Arch Linux.
+    ** Talked about server-safe Linux distros and NVIDIA OPEN drivers for Linux.
+        *** link:https://www.youtube.com/watch?v=rUzzBY-P3HE&t=1s[Arch Linux Is Under Attack...^]
+        *** link:https://www.blackarch.org[BlackArch^]
+        *** link:https://wiki.archlinux.org/title/NVIDIA[NVIDIA OPEN Drivers^]
+* Discussed the fastest way to check if a number is odd.
+    ** link:https://godbolt.org[GodBolt Compiler^]
+* Browser-related discussion took place.
+    ** Talked about telemetry options, browser engines, and does Google fund Firefox?
+        *** link:https://zen-browser.app[Zen Browser^]
+        *** link:https://windscribe.com/blog/windscribe-expose-mozilla[Does Google Fund Mozilla?^]
+        *** link:https://ladybird.org[Ladybird^]
+* CUDA kernels and PyTorch compiled code were discussed.
+    ** Shared why CUDA kernels are considered better in some use cases.
+        *** link:https://youtu.be/oaOxMdKlJTc[Why GPU Programming Is Chaotic^]
+        *** link:https://arunjitha.medium.com/simplifying-cuda-kernels-with-triton-a-pythonic-approach-to-gpu-programming-79bb7121e974[Simplifying CUDA Kernels with Triton^]
+* Rishit shared his project Squeeze3D with features like compression, interpolation, and model reconstruction.
+    ** Discussed 3D formats like mesh, point cloud, and radiance field.
+        *** link:https://squeeze3d.github.io[Squeeze3D^]
+        *** link:https://radiancefields.com[Radiance Fields^]
+* Chetan asked Rishit about Kubernetes config suggestions for ML models.
+    ** link:https://www.kubeflow.org[Kubeflow^]
+* Rishit also shared about QVID, a project that works on Situated AI to interpret real-time audio-visual inputs.
+    ** link:https://rishitdagli.com/qivd[QVID^]
+* Chetan asked about ricing tips for Ubuntu VM, especially regarding bloat removal without breaking the system.
+    ** Harsh suggested using autoremove and autopurge.
+        ** link:https://jie-fang.github.io/blog/basics-of-ricing[The Basics of Ricing Linux^]
+* Discussion about Safe Superintelligence Inc. (SSI).
+    ** Talked about its story, and what superintelligence could mean.
+        *** link:https://ssi.inc[Safe Superintelligence Inc.^]
+* Mohit shared his journey to GrapheneOS and how he became an app developer.
+    ** Currently doing PhD and working on projects while contributing to GrapheneOS.
+    ** Chetan asked about installing GrapheneOS on an old phone and whether Ubuntu Touch or GrapheneOS is better for experimentation.
+        *** link:https://grapheneos.org/faq#device-support[GrapheneOS Device Support^]
+* Additional resources and links.
+    ** link:https://www.youtube.com/watch?v=vNlPnruLfjM[AMD Strikes Back: Zen 5 CPU Architecture Changes & Chipset Differences (X870E vs. X870, B850, B840)^]
+    ** link:https://linux.harshkapadia.me/#amd[Harsh's resources about AMD]
+    ** link:https://www.youtube.com/watch?v=4pGDEYApniU[Cache Goes on Top, or Cache Goes on Bottom? The X3D Dilemma^]
+    ** link:https://www.youtube.com/watch?v=-HNpim5x-IE&list=PL2HVqYf7If8euXBctCl0F2D_4zlDBFYDf&index=6[What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024^]
+    ** link:https://youtu.be/luD4T-IPbxY[We HAD to Redo Our Servers^]
+    ** link:https://youtu.be/pW9_uyxN8p4[the tea app situation keeps getting worse^]
+    ** link:https://youtu.be/57A09NpQcsE[i cant believe they let this ship...^]
+    ** link:https://youtu.be/4z3-G-A6bzg[https://www.youtube.com/watch?v=4z3-G-A6bzg^]
+    ** link:https://www.youtube.com/watch?v=bDK1EKDa5j8[Threadripper 9000! DEEP DIVE -- Productivity and Gaming Benchmarks^]
+    ** link:https://youtu.be/IItu46EWaic[AMD Threadripper 9980X 64-Core CPU Review & Benchmarks^]
+    ** link:https://www.youtube.com/watch?v=pMhHBbKtWkE[Inside Intel's Lunar Lake^]
+    ** link:https://www.youtube.com/watch?v=4er6kD-pxZs[HW News - Gigabyte's Motherboard Mess, Linux Gains Market Share, NVIDIA CPU Delay^]
+    ** link:https://www.youtube.com/watch?v=e5g8eYKEhMw[What Happens When a Program Calls Sleeps?^]
+    ** link:https://www.youtube.com/@TsodingDaily[TsodingDaily YT channel^]
+    ** link:https://www.youtube.com/@TheCodingTrain[The Coding Train YT channel^]
+    ** link:https://en.wikipedia.org/wiki/Slurm_Workload_Manager[SLURM Workload Manager^]
+    ** link:https://www.nvidia.com/docs/IO/116757/Tegra_4_GPU_Whitepaper_FINALv2.pdf[NVIDIA Tegra 4 FamilyGPU Architecture^]
+    ** link:https://x.com/kakashiii111/status/1950876741179764812[Twiotter post about how to make money as a chip company or cloud company^]
