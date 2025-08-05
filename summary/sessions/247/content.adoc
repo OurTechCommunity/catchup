@@ -1,6 +1,6 @@
 Date: 02-08-2025
 
-Duration: 3 hrs 02 mins 
+Duration: 3 hrs 2 mins 
 
 ==== Topics Discussed
 
@@ -47,7 +47,7 @@ Duration: 3 hrs 02 mins
         *** link:https://grapheneos.org/faq#device-support[GrapheneOS Device Support^]
 * Additional resources and links.
     ** link:https://www.youtube.com/watch?v=vNlPnruLfjM[AMD Strikes Back: Zen 5 CPU Architecture Changes & Chipset Differences (X870E vs. X870, B850, B840)^]
-    ** link:https://linux.harshkapadia.me/#amd[Harsh's resources about AMD]
+    ** link:https://linux.harshkapadia.me/#amd[Harsh's resources about AMD^]
     ** link:https://www.youtube.com/watch?v=4pGDEYApniU[Cache Goes on Top, or Cache Goes on Bottom? The X3D Dilemma^]
     ** link:https://www.youtube.com/watch?v=-HNpim5x-IE&list=PL2HVqYf7If8euXBctCl0F2D_4zlDBFYDf&index=6[What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024^]
     ** link:https://youtu.be/luD4T-IPbxY[We HAD to Redo Our Servers^]
