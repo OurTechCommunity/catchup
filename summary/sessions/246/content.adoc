@@ -26,4 +26,4 @@ Duration: 1 hr 31 mins
     ** link:https://meshery.io/[Meshery - The Cloud Native Manager^]
     ** link:https://mpstme.pics[MPSTME Pics^]
     ** link:https://catchup.ourtech.community/showcase[Our Tech Community Showcase^]
-    ** link:https://www.cncf.io/[Cloud Native Computing Foundation^]
+    ** link:https://www.cncf.io[Cloud Native Computing Foundation^]
