@@ -10,7 +10,7 @@ Duration: 1 hr 31 mins
     ** Bhavesh, currently in his 3rd year at TSEC, codes mostly in Python and C. He is currently exploring Python internals, working on a B+ Tree for his DBMS project, and also working on Django and React.js for his personal project.
 * Harsh Jain asked about FFIs for using Rust code (backend) without using a C bridge.
     ** Darshan suggested using DLL.
-        *** link:https://github.com/SeanPesce/DLL_Wrapper_Generator[Darshan’s resources for DLL^]
+        *** link:https://github.com/SeanPesce/DLL_Wrapper_Generator[DLL Wrapper Generator GitHub repo^]
 * Mohit shared about his initial journey, to-dos for his PhD, and about explainable AI. He is going to build a model for DRDO.
     ** Mohit also shared his opinion on BITS Pilani.
 * Kartik Jain showcased his project: Art Gallery One.
