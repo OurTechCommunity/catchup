@@ -24,6 +24,6 @@ Duration: 1 hr 31 mins
     ** link:https://semaphore.io/blog/what-is-canary-deploymen[What is Canary Deployment? - Semaphore^]
     ** link:https://backstage.io[Backstage - An open platform for building developer portals^]
     ** link:https://meshery.io/[Meshery - The Cloud Native Manager^]
-    ** link:https://mpstme.pics/[MPSTME Pics^]
+    ** link:https://mpstme.pics[MPSTME Pics^]
     ** link:https://catchup.ourtech.community/showcas[Our Tech Community Showcase^]
     ** link:https://www.cncf.io/[Cloud Native Computing Foundation^]
