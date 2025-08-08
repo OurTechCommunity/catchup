@@ -1,12 +1,23 @@
 ==== Attendees
 
-. === Attendees
-. . link:https://twitter.com/PranavDani3[Pranav Prasanna Dani^]
-. . Atharva
-. . Ayush More
-. . Hritik Jaiswal
-. . Janvi Matani
-. . Kartik Jain
-. . LUEE KASAUDHAN
-. . Mohit Shetty
-. . balikabakra
+. link:https://x.com/ankushhKapoor[Ankush Kapoor^]
+. link:https://twitter.com/bhavesh878789[Bhavesh Kukreja^]
+. link:https://twitter.com/SirusTweets[Darshan Rander^]
+. link:https://twitter.com/DhiruCodes[Dheeraj Lalwani (Dhiru)^]
+. link:https://twitter.com/imhritik_dj[Hritik Jaiswal^]
+. link:https://twitter.com/JiaHarisinghani[Jia Harisinghani^]
+. link:https://www.linkedin.com/in/mhshetty[Mohit Shetty^]
+. link:http://x.com/naufildotdev[Naufil Asar^]
+. link:https://twitter.com/PranavDani3[Pranav Prasanna Dani^]
+. link:https://twitter.com/mehraramyak[Ramyak Mehra^]
+. link:https://twitter.com/rishit_dagli[Rishit Dagli^]
+. link:https://www.linkedin.com/in/uma-iyer-205bb112a[Uma Iyer^]
+. Atharva
+. Ayush More
+. balikabakra
+. gon
+. Harsh Jain
+. Harsh Sinyal
+. Janvi Matani
+. Kartik Jain
+. LUEE KASAUDHAN
