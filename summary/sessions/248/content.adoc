@@ -1,0 +1,38 @@
+Date: 09-08-2025
+
+Duration: 4 hrs 00 mins
+
+==== Topics Discussed
+
+* Nirmal shared details about his previous projects and pitched an idea for a new low-level hardware project.
+    ** He plans to build two CPUs using ICs and enable wireless data transfer between them using the Coherer effect.
+        *** link:https://youtu.be/VMkdnj698-0?si=N61vhxoQRIewwAoY[Wireless Communication with a Cup of Balls, Coherer Effect^]
+        *** link:https://ethw.org/Coherer[Coherer Effect^]
+* Nirmal asked Jaden (cybersecurity expert) about firewalls.
+    ** Jaden explained concepts like data packet transfer, cyclic redundancy check (CRC), encryption, and more.
+        *** link:https://en.wikipedia.org/wiki/OSI_mode[ODI Model^]
+        *** link:https://en.wikipedia.org/wiki/Cyclic_redundancy_check[Cyclic Redundancy Check^]
+* Jaden shared a project where he discovered a critical vulnerability in a ship's system.
+    ** Explained about Modbus, the communication protocol used in ships, and the vulnerability he identified.
+    ** Described how he wrote a malware to demonstrate the flaw to authorities and raise awareness among the ship’s crew.
+    ** Discussed the challenges of writing malware in a very limited memory environment (due to outdated ship computers), including writing in C++ and invoking the code via Java.
+    ** Highlighted that Java has features (via the Unsafe class) that allow bypassing the JVM to perform arbitrary operations, even accessing the UEFI.
+        *** link:https://blogs.oracle.com/javamagazine/post/the-unsafe-class-unsafe-at-any-speed[The Unsafe Class: Unsafe at Any Speed^]
+* Nirmal also asked for learning resources on Networking and Cybersecurity.
+    ** link:https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Computer%20Networks.pdf[Computer Networks book^]
+    ** link:https://www.mbit.edu.in/wp-content/uploads/2020/05/Operating_System_Concepts_8th_EditionA4.pdf[Operating System Concepts book^]
+    ** link:https://almuhammadi.com/sultan/books_2020/Forouzan.pdf[Introduction to Cryptography and Network Security book^]
+* Harsh shared his recent work.
+    ** He investigated an issue with a company’s RAM (DIMM) failing under certain tasks due to narrow operational margins and worked on debugging and finding solutions.
+* Jia showed her project Algorific, a tool for visualizing Data Structures and Algorithms.
+    ** link:https://github.com/Jia2005/Algorific[Algorific^]
+* Jia also showcased her online Python code editor and runner project.
+    ** Demonstrated features like chatbot assistant, step-by-step code explanation, and more.
+    ** Shared her codebase with Darshan for suggestions and improvements.
+* Bhavesh demonstrated his project King’s Gambit, an online multiplayer chess platform with an integrated video call feature.
+    ** Showcased deployment progress and shared the codebase with Darshan for feedback.
+* Additional resources and links.
+    ** link:https://youtu.be/8tx2viHpgA8[GPT-5 is here... Can it win back programmers?^]
+    ** link:https://youtu.be/jS6SNaVY29k[We Keep Falling For This...^]
+    ** link:https://youtu.be/BTjj1ILCwRs[This Goes Deeper Than Your Operating System…^]
+    ** link:https://www.youtube.com/watch?v=g2hiVp6oPZc[Writing a Text Editor - Computerphile^]
