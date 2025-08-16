@@ -18,7 +18,6 @@ Duration: 1 hr 31 mins
     ** Mohit Shetty suggested to him how he can use AI in his project for face recognition.
 * Atharva talked about his cybersecurity project.
     ** He talked about how he built a monitoring system using AI to monitor the server.
-
 * Additional links:
     ** link:https://en.wikipedia.org/wiki/Foreign_function_interface[Foreign function interface - Wikipedia^]
     ** link:https://semaphore.io/blog/what-is-canary-deploymen[What is Canary Deployment? - Semaphore^]
