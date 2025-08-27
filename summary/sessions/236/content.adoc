@@ -1,16 +1,15 @@
 Date: 17-05-2025
 
-Duration: 2 hr 36 mins
+Duration: 1 hr 36 mins
 
 ==== Topics Discussed
-
-* Viral Soni introduced himself as a Python Developer returning after a while.
+ 
 * Darshan Rander brought up stealth startups and explained how they work.
     ** A stealth startup is a company that operates in secrecy, keeping its product development, operations, and even existence hidden from the public, especially competitors and potential customers.
 * Jaden Furtado shared:
     ** link:https://github.com/ScanRE/ScanRE[ScanRE project^]
-* Ramyak Mehra and others discussed the legitimacy of past competitions and freelance exploitation.
-* Harsh shared a technical writing meetup:
+* There were discussions around the legitimacy of past competitions and concerns about freelance exploitation.
+* Harsh highlighted an upcoming technical writing meetup:
     ** link:https://lu.ma/4zlluv62[Technical Writing Meetup - Mumbai (18th May)^]
 * Discussions around Android 16 Dev Preview, Material UI, and Gen-Z aesthetics.
 * Shared links :

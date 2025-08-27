@@ -1,11 +1,11 @@
-Date: 14-05-2025
+Date: 24-05-2025
 
 Duration: 1 hr 36 mins
 
 ==== Topics Discussed
 
-* Bhavesh shared that JPMC came to their college and he was selected in the Code for Good round.
-* Siddharth asked if Dream11 is considered gambling.
+* Bhavesh shared he was selected for Code-For-Good Competition by JPMC.
+* Siddharth shared his thoughts on applications such as Dream11 are considered as gambling.
     ** Viranchee clarified to keep gambling-related discussions off-topic
         ** Bhavesh joked about creating a “100% win rate” gambling app using “vibe coding”
 * Harsh Kapadia introduced ROCm which is AMD’s open-source platform for GPU computing. It provides a software stack and development tools for running high-performance computing (HPC), machine learning, and GPU-accelerated applications on AMD GPUs.
@@ -25,5 +25,5 @@ Duration: 1 hr 36 mins
 * Hritik shared his switch to macOS and smooth experience with Podman, iOS/Android simulators, VS Code, and Chrome.
     ** Alpesh shared he was spending hours configuring Linux.
     ** Harsh, Hritik, and Pratik discussed age and performance of laptops
-* Shared link :
+* Useful links :
     ** link:https://x.com/hnasr/status/1925914763789312180[Network Routing - A Deep Dive^]
