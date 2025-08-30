@@ -1,5 +1,6 @@
 ==== Attendees
 
+. link:https://x.com/ankushhKapoor[Ankush Kapoor^]
 . link:https://x.com/Alpastx[Alpesh Bhagwatkar^]
 . link:https://twitter.com/bhavesh878789[Bhavesh Kukreja^]
 . link:https://www.linkedin.com/in/chetandoesdev[CHETAN JANGIR^]
@@ -14,7 +15,10 @@
 . link:https://twitter.com/furtado_jaden[Jaden Furtado^]
 . Ayush More
 . Darryl Mathias
+. Manan Gandhi
+. Sarthak
 . Mohammad Kaif
 . Ram Naik
+. Sarthak
 . Shlok Bagwe
 . Wahid Khan
