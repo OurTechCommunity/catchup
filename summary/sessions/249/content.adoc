@@ -4,8 +4,9 @@ Duration: 4 hrs 33 mins
 
 ==== Topics Discussed
 
-* Pranav shared a video explaining how arrays and linked lists can have the same speed in older machines
-    ** link:https://youtu.be/DyG9S9nAlUM?si=CoFpLw_rpbT7HY-k[Arrays vs Linked Lists - Computerphile (Youtube Video)^]
+* Pranav initiated a discussion on whether operations on arrays or linked lists are faster.  
+    ** He also shared a video explaining that both had the same speed on older machines.  
+        *** link:https://youtu.be/DyG9S9nAlUM?si=CoFpLw_rpbT7HY-k[Arrays vs Linked Lists – Computerphile^]
 
 * Rishit shared several updates, from his NVIDIA highlight to issues companies face in the context of research ethics
     ** His AI project was featured in NVIDIA’s keynote conference  
@@ -46,7 +47,7 @@ Duration: 4 hrs 33 mins
     ** link:https://modal.com[Modal Platform^]
 
 * Manan spoke about his web dev projects, including a Leetcode-like platform and an online chess game web app
-    ** link:https://code.manangandhi.tech/[Coding Platform App^]  
+    ** link:https://code.manangandhi.tech[Code – DSA Practice Platform^]  
     ** link:https://github.com/MananGandhi1810/online-ide[GitHub Repository - Online IDE^]  
     ** link:https://github.com/MananGandhi1810/online-chess[GitHub Repository - Chess^]
 
@@ -54,7 +55,7 @@ Duration: 4 hrs 33 mins
     ** link:https://github.com/BhaveshKukreja29/KingsGambit[GitHub Repository^]
 
 * Harsh Kapadia spoke about how Preboot Execution Environment (PXE) is used to load network OS
-    ** link:https://en.wikipedia.org/wiki/Preboot_Execution_Environment[Wikipedia^]
+    ** link:https://en.wikipedia.org/wiki/Preboot_Execution_Environment[Preboot Execution Environment^]
 
 * Wilfred Almedia shared insights on infrastructure and API tooling
     ** Recommended HAProxy for rate limiting over directly using Django, or FastAPI as middleware
@@ -73,16 +74,16 @@ Duration: 4 hrs 33 mins
 
 * Harsh Kapadia shared resources about provisioning and cluster management tools
     ** link:https://github.com/canonical/packer-maas[GitHub - Packer MAAS^]  
-    ** link:https://www.youtube.com/watch?v=uHm6FEb2Re4[YouTube^]  
+    ** link:https://www.youtube.com/watch?v=uHm6FEb2Re4[DuckDB in 100 Seconds^]  
     ** link:https://en.wikipedia.org/wiki/IBM_Spectrum_LSF[Wikipedia - IBM Spectrum LSF^]  
-    ** link:https://developer.hashicorp.com/nomad[Nomad Docs^]
+    ** link:https://developer.hashicorp.com/nomad[Nomad^]
 
 * Other interesting links were shared during the meet
-    ** link:https://youtu.be/7J7X7aZvMXQ[How DRAM works^]  
-    ** link:https://www.youtube.com/watch?v=m6WXrC9Mxzo[Signals in an OS^]  
-    ** link:https://youtu.be/H5r_Sg87ivM[WinRAR hacked^]  
-    ** link:https://youtu.be/VtHlMTc8lR4[Valgrind issues^]  
-    ** link:https://youtu.be/hGX7bzWMAd0[Hardware news for the week^]  
-    ** link:https://www.youtube.com/watch?v=aolI_Rz0ZqY[So You Think You Know Git^]  
-    ** link:https://www.youtube.com/watch?v=Md44rcw13k4[So You Think You Know Git (Part 2)^]  
-    ** link:https://youtu.be/sDxkous2Ua4[AMD AM5 DDR5 timings^]
+    ** link:https://youtu.be/7J7X7aZvMXQ[How does Computer Memory Work? 💻🛠^]  
+    ** link:https://www.youtube.com/watch?v=m6WXrC9Mxzo[Signals: Make Ctrl+C Do Anything You Want^]  
+    ** link:https://youtu.be/H5r_Sg87ivM[So that’s why it’s free.. (WinRAR hacked)^]  
+    ** link:https://youtu.be/VtHlMTc8lR4[Kernel mode anti-cheat issues in games^]  
+    ** link:https://youtu.be/hGX7bzWMAd0[HW News - Arrests Over GPUs, Silicon Tariffs, 9950X3DX2 Rumor, Windows XP, & Dell Vulnerability^]  
+    ** link:https://www.youtube.com/watch?v=aolI_Rz0ZqY[So You Think You Know Git - FOSDEM 2024^]  
+    ** link:https://www.youtube.com/watch?v=Md44rcw13k4[So You Think You Know Git Part 2 - DevWorld 2024^]  
+    ** link:https://youtu.be/sDxkous2Ua4[Explaining ALL the AMD Ryzen AM5 DDR5 timings^]
