@@ -1,7 +1,5 @@
 #!/bin/sh
 
-set -x;
-
 set -eu;
 
 script_dir=$(dirname "${0}");
