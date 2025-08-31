@@ -95,7 +95,11 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 
 	# Generate author information
 	committers=$(git shortlog -s -n -e "${path}" | cut -f 2);
-	co_committers=$(git log --format="%B" "${path}" | (grep -Po "(?<=Co-authored-by: ).*" || test $? = 1));
+	co_committers=$(
+		git log --format="%B" "${path}" |\
+		(grep "Co-authored-by:" || test $? = 1) |\
+		cut -d " " -f 2-
+	);
 
 	_IFS="${IFS}";
 	# Command substitution strips trailing newlines
@@ -104,7 +108,10 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 	authors="";
 	for contributor in $(printf "%s\n%s" "${committers}" "${co_committers}"); do
 		author_name="${contributor% <*>}";
-		author_email="$(printf "%s" "${contributor}" | grep -Po "(?<=<).*?(?=>)")";
+		# Remove `{name} <`
+		author_email="${contributor##* <}";
+		# Remove trailing `>`
+		author_email="${author_email%>}";
 
 		# Canonicalize author entries
 		author_entry="";
