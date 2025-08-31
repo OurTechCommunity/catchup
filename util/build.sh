@@ -92,10 +92,9 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 	fi;
 
 	# Generate author information
-	committers=$(git shortlog -s -n -e "${path}" | cut -f 2);
-	co_committers=$(
-		git log --format="%B" "${path}" |\
-		(grep "Co-authored-by:" || test $? = 1) |\
+	committers=$(
+		git log --format="Author: %an <%ae>%n%B" "${path}" |\
+		(grep "^Author:\|^Co-authored-by:" || test $? = 1) |\
 		cut -d " " -f 2-
 	);
 
@@ -104,7 +103,7 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 	IFS="$(printf "\nx")";
 	IFS="${IFS%x}";
 	authors="";
-	for contributor in $(printf "%s\n%s" "${committers}" "${co_committers}"); do
+	for contributor in ${committers}; do
 		author_name="${contributor% <*>}";
 		# Remove `{name} <`
 		author_email="${contributor##* <}";
