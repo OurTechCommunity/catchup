@@ -213,7 +213,7 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 done;
 
 # Save built catchup numbers to netlify functions folder
-printf "export default [%s\n];\n" "${built_catchup_numbers}" \
+printf "export default [%b\n];\n" "${built_catchup_numbers}" \
 	> "${base_dir}/netlify/edge-functions/common/built-catchup-numbers.ts";
 
 # Build combined summary site
