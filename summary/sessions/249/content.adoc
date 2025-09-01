@@ -22,23 +22,22 @@ Duration: 4 hrs 33 mins
     ** link:https://www.maritime-cybersecurity.com[Intro to Marine Cybersecurity^]
 * Alpesh shared multiple updates ranging from serious security vulnerabilities to learning about different Microsoft technologies
     ** He is actively learning about Active Directory in Azure
-        *** link:https://www.microsoft.com/en-in/security/business/identity-access/microsoft-entra-id[Microsoft Entra ID - Introduction^]  
-        *** link:https://redteamleaders.coursestack.com/courses/998adff7-947b-479f-a375-40d9e86ff66e[Free Course on Active Directory^]  
+        *** link:https://www.microsoft.com/en-in/security/business/identity-access/microsoft-entra-id[Microsoft Entra ID^]  
+        *** link:https://redteamleaders.coursestack.com/courses/998adff7-947b-479f-a375-40d9e86ff66e[Purple Team - Active Directory and AzureAD v1 - Free Course^]  
     ** He discovered that Windows NTLM is still used to store passwords in modern versions of Windows  
-        *** link:https://learn.microsoft.com/en-us/windows-server/security/kerberos/ntlm-overview[Microsoft Docs ON NTLM^]  
+        *** link:https://learn.microsoft.com/en-us/windows-server/security/kerberos/ntlm-overview[NTLM overview^]  
     ** He spoke about a loophole in GPL licenses which allows closed-source usage of open source code licensed with GPL
-        *** link:https://www.revenera.com/blog/software-composition-analysis/understanding-the-saas-loophole-in-gpl[Blog Article^]  
+        *** link:https://www.revenera.com/blog/software-composition-analysis/understanding-the-saas-loophole-in-gpl[Understanding the SaaS Loophole in GPL^]  
     ** He highlighted a serious Next.js vulnerability where adding a header could bypass authorization  
-        *** link:https://projectdiscovery.io/blog/nextjs-middleware-authorization-bypass[Project Discovery Blog^]  
-    ** He mentioned about Nuclei - a security tool  
-        *** link:https://docs.projectdiscovery.io/tools/nuclei/overview[Nuclei Documentation^]  
-    ** Also shared about the parent project of Nuclei - ProjectDiscovery  
+        *** link:https://projectdiscovery.io/blog/nextjs-middleware-authorization-bypass[CVE-2025-29927: Next.js Middleware Authorization Bypass - Technical Analysis^]  
+    ** He mentioned Nuclei - a security tool and its parent project ProjectDiscovery  
+        *** link:https://docs.projectdiscovery.io/tools/nuclei/overview[Nuclei^]  
         *** link:https://github.com/projectdiscovery[ProjectDiscovery - GitHub^]
 * Jaden and Rishit had a discussion on whether transformer models could simulate AGI in the future
-    ** link:https://nikitanikolen.medium.com/the-transformer-agi-illusion-from-big-claims-to-real-limitations-36d575ab6905[Medium Article^]
+    ** link:https://nikitanikolen.medium.com/the-transformer-agi-illusion-from-big-claims-to-real-limitations-36d575ab6905[The “Transformer AGI” Illusion: From Big Claims to Real Limitations - Article^]
 * Mohammed Kaif shared about a project he’s privately developing around music generation
-    ** link:https://ace-step.github.io[Reference Paper^]  
-    ** link:https://modal.com[Modal Platform^]
+    ** link:https://ace-step.github.io[ACE-Step: A Step Towards Music Generation Foundation Model - Reference Paper^]  
+    ** link:https://modal.com[Modal^]
 * Manan spoke about his web dev projects, including a Leetcode-like platform and an online chess game web app
     ** link:https://code.manangandhi.tech[Code – DSA Practice Platform^]  
     ** link:https://github.com/MananGandhi1810/online-ide[GitHub Repository - Online IDE^]  
@@ -65,7 +64,7 @@ Duration: 4 hrs 33 mins
     ** link:https://www.youtube.com/watch?v=uHm6FEb2Re4[DuckDB in 100 Seconds^]  
     ** link:https://en.wikipedia.org/wiki/IBM_Spectrum_LSF[Wikipedia - IBM Spectrum LSF^]  
     ** link:https://developer.hashicorp.com/nomad[Nomad^]
-* Other interesting links were shared during the meet
+* Additional resources and links
     ** link:https://youtu.be/7J7X7aZvMXQ[How does Computer Memory Work? 💻🛠^]  
     ** link:https://www.youtube.com/watch?v=m6WXrC9Mxzo[Signals: Make Ctrl+C Do Anything You Want^]  
     ** link:https://youtu.be/H5r_Sg87ivM[So that’s why it’s free.. (WinRAR hacked)^]  
