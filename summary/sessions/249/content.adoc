@@ -11,13 +11,13 @@ Duration: 4 hrs 33 mins
     ** His AI project was featured in NVIDIA’s keynote conference  
         *** link:https://youtu.be/rFcmv2pXR0w?t=2827[NVIDIA Keynote Video^]  
     ** Shared a video explaining Level 4 vs Level 7 load balancing  
-        *** link:https://www.youtube.com/watch?v=aKMLgFVxZYk[Youtube Video^]  
+        *** link:https://www.youtube.com/watch?v=aKMLgFVxZYk[Load balancing in Layer 4 vs Layer 7 with HAPROXY Examples^]  
     ** Spoke about an intern at Bytedance who won a top award but was later sacked for malpractice  
-        *** link:https://www.bbc.com/news/articles/c7v62gg49zro[BBC News Article^]  
+        *** link:https://www.bbc.com/news/articles/c7v62gg49zro[TikTok owner sacks intern for sabotaging AI project^]  
         *** link:https://news.ycombinator.com/item?id=41900402[Hacker News^]  
         *** link:https://www.reddit.com/r/MachineLearning/comments/1hctf36/d_the_winner_of_the_neurips_2024_best_paper_award[Reddit Thread^]
 * Chetan Jangir presented his ML project that predicts optimal compiler parameters for GCC
-    ** link:https://github.com/ChetanFTW/ML-FlagOptNet[GitHub Project^]
+    ** link:https://github.com/ChetanFTW/ML-FlagOptNet[ML-FlagOptNet - GitHub^]
 * Jaden mentioned that he’s working on maritime cybersecurity
     ** link:https://www.maritime-cybersecurity.com[Intro to Marine Cybersecurity^]
 * Alpesh shared multiple updates ranging from serious security vulnerabilities to learning about different Microsoft technologies
