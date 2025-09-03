@@ -24,7 +24,6 @@ Duration: 1 hr 36 mins
     ** link:https://bind9.readthedocs.io[BIND9 Documentation^]
     ** link:https://networking.harshkapadia.me/ssh[SSH Internals^]
     ** link:https://linux.die.net/man/1/rsync[rsync Manual^]
-
     ** link:https://x.com/JimSproch/status/1921897611025396183[Twitter post^]
     ** link:https://nghiant3223.github.io/2025/04/15/go-scheduler.html[Go Scheduler Internals^]
     ** link:https://www.amazon.in/Rinsed-Cartels-Crypto-Industry-Deadliest-ebook/dp/B0CPBLXQH6[Rinsed - Cartels & Crypto^]
