@@ -1,0 +1,39 @@
+Date: 06-09-2025
+
+Duration: 1 hr 38 mins
+
+==== Topics Discussed
+
+* Manan and Ankush discussed the increasing generalization of hackathons and how most problem statements are now heavily AI-focused.
+    ** Manan shared that he is organizing a hackathon at NMIMS Mumbai with the support of his college’s GDG and other organizations.
+    ** Alpesh shared details of an upcoming hackathon:
+        *** link:https://luma.com/o2kymmz2?fbclid=PAdGRjcAMoON9leHRuA2FlbQIxMQABp2bdNyo0Xi_Q5ubdw6yjoEu-ugws-05kBLcBki-zcKauYHTXtCDCPRz_sDq4_aem_m4lRAkyTAKk8enCAdXcokw[MumbAI Hack Day^] 
+* Manan shared a strange experience where `sudo apt install npm` initially showed a 1-hour ETA but installed quickly through a different method.
+    ** Alpesh explained this could be due to APT mirrors frequently going down.
+    ** He also shared reflector which can be used to refresh mirrors for Pacman (Arch linux).
+        *** link:https://wiki.archlinux.org/title/Reflector[Reflector^]
+* Alpesh shared that he is currently exploring Windows User Account Control (UAC).
+    ** link:http://learn.microsoft.com/en-us/windows/security/application-security/application-control/user-account-control/how-it-works[How User Account Control works^]
+    ** link:https://github.com/hfiref0x/UACME[UACMe - GitHub^]
+* Manan discussed the Smart India Hackathon (SIH) problem statements he plans to work on, receiving feedback from Alpesh.
+* Manan shared that he reported a security vulnerability to a company, but they are silently fixing it without acknowledging his email.
+    ** Jaden advised either letting it go or making it public, recommending the former approach.
+* Chetan shared his exploration of open source, Linux Foundation (LFX), and CNCF projects.
+    ** He explained CNCF’s structure, highlighted its project landscape, and discussed his contributions to the Meshery project, which is currently in its application phase on LFX.
+            *** link:https://www.cncf.io[CNCF^]
+            *** link:https://lfx.linuxfoundation.org[LFX^]
+            *** link:https://landscape.cncf.io[CNCF landscape^]
+            *** link:https://argoproj.github.io[Argo^]
+            *** link:https://ngrok.com[ngrok^]
+* Chetan asked Alpesh and Jaden about ongoing campus placements in Mumbai colleges and shared his internship experience.
+    ** Jaden provided placement statistics from when he graduated.
+* Chetan asked Jaden about update on his work which he showed during last catchup session.
+    ** Jaden provided updates, explaining a newly discovered vulnerability in V-OS and demonstrating how it could be exploited using Frida scripting.
+        *** link:https://github.com/frida/frida[Frida^]
+        *** link:https://patentimages.storage.googleapis.com/32/d2/9f/394077d8ff42e3/US9054865.pdf[V-Key Patent details^]
+        *** link:https://www.appviewx.com/education-center/hypervisor[Hypervisor^]
+        *** link:https://www.v-key.com/products/v-os-virtual-secure-element[V-OS Virtual Secure Element^]
+* Chetan presented his personal portfolio, and Jaden showcased a fun project built using Three.js.
+    ** link:https://chetandoes.dev[Chetans portfolio^]
+    ** link:https://adrianotiger.github.io/desktopPet[Desktop Pet^]
+    ** link:https://jadenfurtado.github.io/Blossom[Blossom - Jaden's fun project^]
