@@ -8,7 +8,7 @@ Duration: 1 hr 38 mins
     ** Manan shared that he is organizing a hackathon at NMIMS Mumbai with the support of his college’s GDG and other organizations.
     ** Alpesh shared details of an upcoming hackathon:
         *** link:https://luma.com/o2kymmz2?fbclid=PAdGRjcAMoON9leHRuA2FlbQIxMQABp2bdNyo0Xi_Q5ubdw6yjoEu-ugws-05kBLcBki-zcKauYHTXtCDCPRz_sDq4_aem_m4lRAkyTAKk8enCAdXcokw[MumbAI Hack Day^] 
-* Manan shared a strange experience where `sudo apt install npm` initially showed a 1-hour ETA but installed quickly through a different method.
+* Manan shared a strange experience where `sudo apt install npm` initially shown ETA of an hour but installed quickly through a different method.
     ** Alpesh explained this could be due to APT mirrors frequently going down.
     ** He also shared reflector which can be used to refresh mirrors for Pacman (Arch linux).
         *** link:https://wiki.archlinux.org/title/Reflector[Reflector^]
