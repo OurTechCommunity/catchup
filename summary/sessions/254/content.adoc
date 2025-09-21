@@ -1,0 +1,24 @@
+Date: 21-09-2025
+
+Duration: 2 hrs 40 mins
+
+==== Topics Discussed
+
+* Swapnil Borkar talked about his work as a Product Manager and an analytics manager.
+* Computer Networking
+	** Harsh Kapadia talked about link:https://www.youtube.com/watch?v=dh406O2v_1c[What happens when you type google.com into your browser and press enter?^]
+	** link:https://www.whatismyip.com/public-vs-private-ip-address[Public vs Private IP addresses^]
+		*** Bhavesh Kukreja shared link:https://www.linkedin.com/posts/arpitbhayani_why-the-private-network-addresses-192168-activity-7370441291693940736-WKvA[why the private network addresses `192.168.\*.\*`?^]
+	** We talked about link:https://tailscale.com/blog/how-nat-traversal-works[How NAT Traversal Works^]
+		*** SNAT, DNAT, STUN and TERN servers, etc.
+	** Harsh explained his link:https://dnsmasq.org/doc.html[dnsmasq^] and link:https://www.isc.org/bind[BIND^] set up for him to work with a DHCP server and a DNS server respectively.
+	** Harsh mentioned link:https://talks.harshkapadia.me/mac-and-ip-routing/content[MAC and IP Routing^].
+	** Jaden Furtado mentioned CSMA/CD and link:https://en.wikipedia.org/wiki/Orthogonal_frequency-division_multiplexing[OFDM^] for Wi-Fi communication.
+		*** link:https://blog.ansi.org/ansi/ieee-802-11-collision-avoidance-wireless-networks[Collision Avoidance in Wireless Networks^]
+	** Harsh also showcased the `dig`, `traceroute` and `iptables` commands.
+* Amazing article that explains how Ubuntu is installed on one's system: link:https://www.jimangel.io/posts/automate-ubuntu-22-04-lts-bare-metal[How to automate a bare metal Ubuntu 22.04 LTS installation^]
+* Bhavesh Kukreja shared his article link:https://dev.to/bhavesh_kukreja/how-do-lists-really-work-in-python-4cmn[What Python Lists Really Are^]
+* npm had multiple supply chain/peer dependency security attacks: link:https://youtu.be/QVqIx-Y8s-s[The largest supply-chain attack ever…^]
+* link:https://gfw.report/blog/geedge_and_mesa_leak/en[The Great Firewall's Largest Document Leak^]
+* Jaden Furtado showed off his link:https://remarkable.com[reMarkable^] tablet (and his incredible drawings on the tablet).
+* Rishit Dagli talked about his article link:https://rishit-dagli.github.io/2025/09/18/simulation.html[Hopefully the Most Gentle Introduction to Simulation^]
