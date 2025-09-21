@@ -1,0 +1,64 @@
+Here's your summary for CatchUp #251 (August 29th), formatted exactly like the reference summary you provided!
+
+### CatchUp #251 Summary
+
+Date: 29-08-2025
+
+Duration: Yet to be confirmed
+
+==== Topics Discussed
+
+* Ayush kicked off a discussion on **probability and algorithms**, specifically diving into **entropy encoders** like Huffman, Arithmetic, rANS, and tANS.
+    ** He broke down concepts like `Log2(number of symbols)` and `2^n` in coding.
+    ** He also explained **arithmetic coding**, highlighting its efficiency from `O(2^n)` to `O(n)`, and touched on cumulative frequency and probability functions.
+        *** link:[https://stanforddatacompressionclass.github.io/Fall22/lectures/](https://stanforddatacompressionclass.github.io/Fall22/lectures/)[Stanford Data Compression Lectures^]
+* Lucky Mee, who's returning to tech after some time, asked for advice.
+    ** Harsh strongly suggested focusing on **system designs**.
+    ** He also emphasized the importance of planning thoroughly before execution.
+* Abhigyan showcased his project on **stock analysis using AI agents**.
+    ** He shared a research report he generated from the agents.
+    ** He demonstrated how these reports provided structured outputs, detailing weaknesses, strengths, conclusions, graphs, and metrics.
+        *** link:[https://www.deeplearning.ai/the-batch/](https://www.deeplearning.ai/the-batch/)[DeepLearning.AI The Batch^]
+        *** link:[https://platform.openai.com/docs/guides/structured-outputs](https://platform.openai.com/docs/guides/structured-outputs)[OpenAI's Structured Outputs Guide^]
+* Chetan Jahangir shared some insights about **Builder AI**.
+    ** He mentioned how the company allegedly scammed Microsoft.
+    ** This sparked a conversation about how we should approach data derived from AI and LLMs.
+* Ayush provided an update on his **SIH project**.
+    ** He's concentrating on smart system design for hardware.
+    ** He's currently learning about the **STM32 microprocessor**.
+        *** link:[https://en.wikipedia.org/wiki/STM32](https://en.wikipedia.org/wiki/STM32)[STM32 Wikipedia^]
+        *** link:[https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html](https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html)[STM32 Nucleo Boards^]
+* Harsh questioned how **MCP (Multiple Connected Models)** relates to agentic AI.
+    ** Abhigyan and Chetan clarified that it's essentially multiple models linked to a central one.
+    ** They illustrated this with an example: a request for a weather update goes to the MCP, which then routes it to various models, with the configuration depending on the user.
+* Chetan Jahangir sought advice on getting started with **research papers**.
+    ** He asked for tips on how to begin and how to connect with people who write research papers to get involved and share knowledge.
+    ** Rishit suggested reaching out to seniors and their professors.
+        *** link:[https://icml.cc/Conferences/2022/BestPractices](https://icml.cc/Conferences/2022/BestPractices)[ICML 2022 Best Practices^]
+* Swapnil Borkar discussed **AI and its impact on jobs**.
+    ** He shared concerns about how AI could threaten junior roles if not utilized effectively.
+* Jaden Furtado talked about **UPI, UPI Lite, and UPI Lite X**.
+    ** link:[https://www.npci.org.in/what-we-do/upi-lite/product-overview](https://www.npci.org.in/what-we-do/upi-lite/product-overview)[UPI Lite Product Overview^]
+    ** link:[https://www.npci.org.in/what-we-do/upi-lite/upi-lite-x/product-overview](https://www.npci.org.in/what-we-do/upi-lite/upi-lite-x/product-overview)[UPI Lite X Product Overview^]
+* **Additional Resources and Links**
+    ** link:[https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf&ved=2ahUKEwis_P6ph7OPAxU4-jgGHUYDAisQFnoECBkQAQ&usg=AOvVaw1VCVoCuO8X0GVoGNNkRcPb](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf&ved=2ahUKEwis_P6ph7OPAxU4-jgGHUYDAisQFnoECBkQAQ&usg=AOvVaw1VCVoCuO8X0GVoGNNkRcPb)[Shannon Information Theory PDF^]
+    ** link:[https://stanforddatacompressionclass.github.io/Fall22/](https://stanforddatacompressionclass.github.io/Fall22/)[Stanford Data Compression Course Home^]
+    ** link:[https://youtu.be/BiuknvAYDPs](https://youtu.be/BiuknvAYDPs)[Data Compression Concepts Part 1^]
+    ** link:[https://youtu.be/8_GgeASwHwQ](https://youtu.be/8_GgeASwHwQ)[Data Compression Concepts Part 2^]
+    ** link:[https://youtu.be/QgVR1dxy6zk](https://youtu.be/QgVR1dxy6zk)[Data Compression Concepts Part 3^]
+    ** link:[https://youtu.be/fpkCNu_dzcM](https://youtu.be/fpkCNu_dzcM)[Data Compression Concepts Part 4^]
+    ** link:[https://youtu.be/tnPAhVxsPHE](https://youtu.be/tnPAhVxsPHE)[Data Compression Concepts Part 5^]
+    ** link:[https://youtu.be/D4hNLgJmshg](https://youtu.be/D4hNLgJmshg)[Data Compression Concepts Part 6^]
+    ** link:[https://youtu.be/O9QD9an-0jU](https://youtu.be/O9QD9an-0jU)[Data Compression Concepts Part 7^]
+    ** link:[https://youtu.be/pOF11EDprxc](https://youtu.be/pOF11EDprxc)[Data Compression Concepts Part 8^]
+    ** link:[https://youtu.be/rcBVqcoQkuA](https://youtu.be/rcBVqcoQkuA)[Data Compression Concepts Part 9^]
+    ** link:[https://youtu.be/q7kqrGC_sXE](https://youtu.be/q7kqrGC_sXE)[Data Compression Concepts Part 10^]
+    ** link:[https://youtu.be/_bbuRFT2l-Q](https://youtu.be/_bbuRFT2l-Q)[Data Compression Concepts Part 11^]
+    ** link:[https://youtu.be/2JzOe1Hs26Q](https://youtu.be/2JzOe1Hs26Q)[Data Compression Concepts Part 12^]
+    ** link:[https://youtu.be/fzlflyw7X2I](https://youtu.be/fzlflyw7X2I)[Data Compression Concepts Part 13^]
+    ** link:[https://youtu.be/55MwAlcpvK4](https://youtu.be/55MwAlcpvK4)[Data Compression Concepts Part 14^]
+    ** link:[https://ai.pydantic.dev/agents](https://ai.pydantic.dev/agents)[Pydantic AI Agents^]
+    ** link:[https://youtu.be/PhCrlpUwEhU?si=i6CuMYassZm8Phh](https://youtu.be/PhCrlpUwEhU?si=i6CuMYassZm8Phh)_[Open-source Agentic RAG Video^]
+    ** link:[https://medium.com/@thomas_78526/builder-ai-was-a-scam-d1f8fdd16c3f](https://medium.com/@thomas_78526/builder-ai-was-a-scam-d1f8fdd16c3f)[Builder AI Scam Article^]
+    ** link:[https://github.com/TecharoHQ/anubis](https://github.com/TecharoHQ/anubis)[Anubis GitHub Project^]
+    ** link:[https://www.beatflow.art](https://www.beatflow.art)[Beatflow Art Platform^]
