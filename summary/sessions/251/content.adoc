@@ -1,46 +1,41 @@
-Date: 29-08-2025
+Date: 30-08-2025
 
 Duration: 3 hours,4 minutes
 
 ==== Topics Discussed
 
-* Ayush kicked off a discussion on **probability and algorithms**, specifically diving into **entropy encoders** like Huffman, Arithmetic, rANS, and tANS.
+* Ayush kicked off a discussion on probability and algorithms, specifically diving into entropy encoders like Huffman, Arithmetic, rANS, and tANS.
     ** He broke down concepts like `Log2(number of symbols)` and `2^n` in coding.
-    ** He also explained **arithmetic coding**, highlighting its efficiency from `O(2^n)` to `O(n)`, and touched on cumulative frequency and probability functions.
+    ** He also explained arithmetic coding, highlighting its efficiency from `O(2^n)` to `O(n)`, and touched on cumulative frequency and probability functions.
         *** link:https://stanforddatacompressionclass.github.io/Fall22/lectures[Stanford Data Compression Class Lectures^]
 * Lucky Mee, who's returning to tech after some time, asked for advice.
-    ** Harsh strongly suggested focusing on **system designs**.
-    ** He also emphasized the importance of planning thoroughly before execution.
-* Abhigyan showcased his project on **stock analysis using AI agents**.
-    ** He shared a research report he generated from the agents.
-    ** He demonstrated how these reports provided structured outputs, detailing weaknesses, strengths, conclusions, graphs, and metrics.
+    ** Harsh strongly suggested focusing on system designs and also emphasized the importance of planning thoroughly before execution.
+* Abhigyan showcased his project on stock analysis using AI agents.
+    ** He shared a research report he generated from the agents and demonstrated how these reports provided structured outputs, detailing weaknesses, strengths, conclusions, graphs, and metrics.
         *** link:https://www.deeplearning.ai/the-batch[DeepLearning.AI The Batch Newsletter^]
         *** link:https://platform.openai.com/docs/guides/structured-outputs[OpenAI Guides: Structured Outputs^]
-* Chetan Jahangir shared some insights about **Builder AI**.
+* Chetan Jahangir shared some insights about Builder AI.
     ** He mentioned how the company allegedly scammed Microsoft.
     ** This sparked a conversation about how we should approach data derived from AI and LLMs.
-* Ayush provided an update on his **SIH project**.
+* Ayush provided an update on his SIH project.
     ** He's concentrating on smart system design for hardware.
-    ** He's currently learning about the **STM32 microprocessor**.
+    ** He's currently learning about the STM32 microprocessor.
         *** link:https://en.wikipedia.org/wiki/STM32[STM32 Wikipedia^]
         *** link:https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html[STM32 Nucleo Boards - STMicroelectronics^]
-* Harsh questioned how **MCP (Multiple Connected Models)** relates to agentic AI.
+* Harsh questioned how MCP (Multiple Connected Models) relates to agentic AI.
     ** Abhigyan and Chetan clarified that it's essentially multiple models linked to a central one.
     ** They illustrated this with an example: a request for a weather update goes to the MCP, which then routes it to various models, with the configuration depending on the user.
-* Chetan Jahangir sought advice on getting started with **research papers**.
+* Chetan Jahangir sought advice on getting started with research papers.
     ** He asked for tips on how to begin and how to connect with people who write research papers to get involved and share knowledge.
     ** Rishit suggested reaching out to seniors and their professors.
         *** link:https://icml.cc/Conferences/2022/BestPractices[ICML 2022 Best Practices for Research^]
-* Swapnil Borkar discussed **AI and its impact on jobs**.
+* Swapnil Borkar discussed AI and its impact on jobs.
     ** He shared concerns about how AI could threaten junior roles if not utilized effectively.
-* Jaden Furtado talked about **UPI, UPI Lite, and UPI Lite X**.
+* Jaden Furtado talked about UPI, UPI Lite, and UPI Lite X.
     ** link:https://www.npci.org.in/what-we-do/upi-lite/product-overview[UPI Lite Product Overview - NPCI^]
-    ** link:https://www.npci.org.in/what-we-do/upi-lite/upi-lite-x/product-overvie[UPI Lite X Product Overview - NPCI^]
-
----
-
-* **Additional Resources and Links**
-    ** link:https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf[A Mathematical Theory of Communication by C. E. Shannon^]
+    ** link:https://www.npci.org.in/what-we-do/upi-lite/upi-lite-x/product-overview[UPI Lite X Product Overview - NPCI^]
+* Additional resources and links
+	** link:https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf[A Mathematical Theory of Communication by C. E. Shannon^]
     ** link:https://stanforddatacompressionclass.github.io/Fall22[Stanford Data Compression Course Home^]
     ** link:https://youtu.be/BiuknvAYDPs[OTC Talks #7: The Browser Backstage - Peek-in-Perf by @VivekGalatage^]
     ** link:https://youtu.be/8_GgeASwHwQ[Google’s nano banana just killed Photoshop... let’s run it - Fireship^]
