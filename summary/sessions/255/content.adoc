@@ -1,0 +1,34 @@
+Date: 27-09-2025
+
+Duration: 2 hrs 18 mins
+
+==== Topics Discussed
+
+* Harsh Kapadia shared
+	** link:https://www.youtube.com/watch?v=maH6KZ0YkXU[How AMD is re-thinking Chiplet Design^]
+	** link:https://www.youtube.com/watch?v=93M8G9keWZU[Is One Socket Enough? Intel's Flagship 128-core Xeon in the Supermicro SYS-212HA-TN vs ZEN 5!^]
+	** link:https://www.youtube.com/watch?v=L2OJFqs8bUk[what if humans forgot how to make CPUs?^]
+	** link:https://www.youtube.com/watch?v=gOIBUe1fjX0[SHA2 Fatal Flaw? (Hash Length Extension Attack)^]
+	** link:https://www.youtube.com/watch?v=DC2p3kFjcK0[There's a new Linux distro in town for developers...^] (Omarchy)
+	** link:https://www.youtube.com/watch?v=OYvlznJ4IZQ[20 AI Concepts Explained in 40 Minutes^]
+	** link:https://www.youtube.com/watch?v=n_Lv_mw6m6c[help, Im going through a midlife crisis...^] (Minimalism)
+	** The balance of building vs networking: link:https://x.com/vaibhaw_vipul/status/1971962843592614343[1^] and link:https://x.com/abhi9u/status/1971967824286699773[2^]
+	** link:https://github.com/HarshKapadia2/dotfiles[github.com/HarshKapadia2/dotfiles^]
+	** How link:https://www.youtube.com/watch?v=6E1AiZEtV5c[Touch Typing^] helped him be more productive.
+	** His learnings with his current project at work
+		*** Web Dev: React.js, TypeScript, Nx, Node.js, MSSQL Server
+		*** DevOps: Bash scripting, Canonical's MAAS, PXE, computer networking basics (gateways, DNS, DHCP, etc.), OS installation internals (high level)
+		*** High Availability: Patroni, Keepalived (VIPs: Virtual IP Addresses), etcd, HAProxy, BIND
+		*** SDLC: GitHub workflow (PR-based development, develop/staging/release branches, etc.), sprint planning, spring retros
+* Bhavesh Kukreja shared link:https://www.youtube.com/watch?v=K9V8UA-oJBE[Fart Button in JavaScript (Full Course)^] by the amazing Tsoding.
+* Darshan Rander shared and talked about the following
+	** Darshan liked the experience of using link:https://gsap.com[GreenSock Animation Platform (GSAP)^].
+	** Darshan and Siddharth Bhatia talked about various Python package managers like link:https://pip.pypa.io/en/stable[pip^], link:https://docs.astral.sh/uv[uv^] and link:https://python-poetry.org[Poetry^].
+	** Darshan talked about his new Mac. (Another one bites the dust.)
+	** Darshan explained the architecture of the Amazon RDS startup that he is building with Kartik Soneji and Pratik Thakare.
+* Siddharth Bhatia shared
+	** link:https://calendartosheets.com[Calendar to Sheets^]
+	** Funding for FOSS projects
+		*** link:https://fundingjson.org[funding.json^]
+		*** link:https://floss.fund[FLOSS/fund^]
+	** link:https://nadh.in/blog[Kailash Nadh's blog^]
