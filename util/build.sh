@@ -92,98 +92,14 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 	fi;
 
 	# Generate author information
-	committers=$(
-		git log --format="Author: %an <%ae>%n%B" "${path}" |\
-		(grep "^Author:\|^Co-authored-by:" || test $? = 1) |\
-		cut -d " " -f 2-
-	);
-
-	_IFS="${IFS}";
-	# Command substitution strips trailing newlines
-	IFS="$(printf "\nx")";
-	IFS="${IFS%x}";
-	authors="";
-	for contributor in ${committers}; do
-		author_name="${contributor% <*>}";
-		# Remove `{name} <`
-		author_email="${contributor##* <}";
-		# Remove trailing `>`
-		author_email="${author_email%>}";
-
-		# Canonicalize author entries
-		author_entry="";
-		case "${author_email}" in
-			# skip dependabot
-			"49699333+dependabot[bot]@users.noreply.github.com")
-				continue;
-			;;
-
-			"alpeshbhagwatkar45@gmail.com")
-				author_name="Alpesh Bhagwatkar";
-			;;
-
-			"83116240+anxkhn@users.noreply.github.com")
-				author_email="anxkhn@duck.com";
-			;;
-
-			"darshandrander@gmail.com")
-				author_name="Darshan Rander";
-				author_email="hey@darshanrander.com";
-			;;
-
-			"lalwanidheeraj1234@gmail.com")
-				author_name="Dheeraj Lalwani";
-			;;
-
-			"harshgkapadia@gmail.com")
-				author_email="contact@harshkapadia.me";
-			;;
-
-			"shettymohitn@gmail.com"|"41548808+MHShetty@users.noreply.github.com")
-				author_name="Mohit Shetty";
-				author_email="shettymohitn@gmail.com";
-			;;
-
-			"52333791+mohitgangwani@users.noreply.github.com")
-				author_email="mohit25032003@gmail.com";
-			;;
-
-			"42460270+SRKVRM@users.noreply.github.com")
-				author_email="srthkvrm@gmail.com";
-			;;
-
-			"umaiyer@Umas-MacBook-Air.local"|"36669054+umaiyer1997@users.noreply.github.com")
-				author_name="Uma Iyer";
-				author_email="umahiyer@gmail.com";
-			;;
-		esac
-
-		if [ -z "${author_entry}" ]; then
-			author_entry="mailto:${author_email}[${author_name}]";
-		fi
-
-		case "${authors}" in
-			"")
-				authors="${author_entry}";
-			;;
-
-			# duplicate entry
-			*"${author_entry}"*)
-			;;
-
-			*)
-				authors="${authors} &#xB7; ${author_entry}";
-			;;
-		esac
-	done
-	IFS="${_IFS}";
+	catchup_authors_line=$(node "${base_dir}/util/get-catchup-authors.js" "${path}");
 
 	# Add template to combined summary page
 	{
 		echo ":catchup_number:          ${catchup_number}";
 		echo ":catchup_display_number:  ${catchup_display_number}";
 		echo ":catchup_image_extension: ${catchup_image_extension}";
-		echo ":catchup_authors:         ${authors}";
+		echo ":catchup_authors_line:    ${catchup_authors_line}";
 		if [ -n "${catchup_no_image}" ]; then
 			echo ":catchup_no_image:        ${catchup_no_image}";
 		else
@@ -198,7 +114,7 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 		-a "catchup_number=${catchup_number}" \
 		-a "catchup_display_number=${catchup_display_number}" \
 		-a "catchup_image_extension=${catchup_image_extension}" \
-		-a "catchup_authors=${authors}" \
+		-a "catchup_authors_line=${catchup_authors_line}" \
 		${catchup_no_image:+-a "catchup_no_image=1"} \
 		-a "summary_file=${summary_template}" \
 		-o "${out_dir}/summary/${catchup_display_number}.html" \

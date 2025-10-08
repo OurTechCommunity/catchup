@@ -1,6 +1,6 @@
 [#{catchup_display_number}]
 === link:/summary/{catchup_display_number}[OTC CatchUp #{catchup_display_number}]
-Authors: {catchup_authors}
+{catchup_authors_line}
 
 Nice! 😉
 

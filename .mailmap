@@ -1,0 +1,22 @@
+# https://git-scm.com/docs/gitmailmap
+
+# use an email of <skip> to skip author while crediting authors in summaries
+
+# skip dependabot
+<skip> <49699333+dependabot[bot]@users.noreply.github.com>
+
+# correct name		correct email				commit email
+Alpesh Bhagwatkar								<alpeshbhagwatkar45@gmail.com>
+					<anxkhn@duck.com> 			<83116240+anxkhn@users.noreply.github.com>
+Darshan Rander		<hey@darshanrander.com>		<darshandrander@gmail.com>
+Dheeraj Lalwani									<lalwanidheeraj1234@gmail.com>
+					<contact@harshkapadia.me>	<harshgkapadia@gmail.com>
+Mohit Shetty		<shettymohitn@gmail.com>	<41548808+MHShetty@users.noreply.github.com>
+Mohit Shetty									<shettymohitn@gmail.com>
+					<mohit25032003@gmail.com>	<52333791+mohitgangwani@users.noreply.github.com>
+					<saketthota98@gmail.com>	<65193443+SaketThota@users.noreply.github.com>
+					<srthkvrm@gmail.com>		<sarthak.verma@dltlabs.io>
+Sreekaran Srinath								<ss@sreekaran.com>
+					<srthkvrm@gmail.com>		<42460270+SRKVRM@users.noreply.github.com>
+Uma Iyer			<umahiyer@gmail.com>		<umaiyer@Umas-MacBook-Air.local>
+Uma Iyer			<umahiyer@gmail.com>		<36669054+umaiyer1997@users.noreply.github.com>
