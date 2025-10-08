@@ -35,5 +35,8 @@ jobs:
               with:
                   fetch-depth: 0
 
+            - name: Install node
+              run: apk add nodejs
+
             - name: Build summary pages using Asciidoctor Jet
               run: ./util/build.sh
