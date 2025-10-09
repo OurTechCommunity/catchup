@@ -1,0 +1,13 @@
+Date: 04-10-2025
+
+Duration: 45 mins
+
+==== Topics Discussed
+
+* Bhavesh shared his blogs on Python:
+	** link:https://dev.to/bhavesh_kukreja/how-do-lists-really-work-in-python-4cmn[What Python Lists Really Are^]
+	** link:https://dev.to/bhavesh_kukreja/a-deep-dive-into-python-dictionaries-4758[A Deep Dive Into Python Dictionaries^]
+	** He shared the tools he used and explained his process for writing these blogs.
+		*** link:https://excalidraw.com[Excalidraw^]
+* Ankush discussed Hacktoberfest and asked who is participating this year.
+	** link:https://hacktoberfest.com/[Hacktoberfest^]
