@@ -1,5 +1,6 @@
 [#{catchup_display_number}]
 === link:/summary/{catchup_display_number}[OTC CatchUp #{catchup_display_number}]
+{catchup_authors_line}
 
 include::sessions/{catchup_number}/content.adoc[]
 
@@ -7,6 +8,17 @@ include::sessions/{catchup_number}/attendees.adoc[]
 
 ==== Meet Screenshot
 
+// with image
+ifndef::catchup_no_image[]
 image::{catchup_number}.{catchup_image_extension}[alt="Meet #{catchup_display_number} screenshot", 600, 600]
+endif::[]
+
+// no image
+ifdef::catchup_no_image[]
+Oops, we forgot to take a screenshot this time
+
+video::oops.mp4[alt="Oops, we forgot to take a screenshot for CatchUp #{catchup_display_number}", opts="autoplay,muted,loop"]
+endif::[]
+
 
 '''

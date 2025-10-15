@@ -5,7 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"start": "sh util/build.sh && nodemon index.js",
-		"build": "yum install -y ruby && gem install asciidoctor && sh ./util/build.sh",
+		"build": "sh ./util/build.sh",
+		"build:netlify": "gem install asciidoctor && (git pull --unshallow || true) && sh ./util/build.sh",
 		"lint:check": "prettier --check . --cache",
 		"lint": "prettier --write .",
 		"prepare": "node .husky/install.mjs",
@@ -26,7 +27,7 @@
 	},
 	"homepage": "https://github.com/OurTechCommunity/catchup#readme",
 	"dependencies": {
-		"@netlify/blobs": "^8.0.1",
+		"@netlify/blobs": "^10.0.10",
 		"@netlify/edge-functions": "^2.5.1",
 		"dotenv": "^16.3.1"
 	},
