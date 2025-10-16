@@ -1,0 +1,57 @@
+Date: 14-09-2025
+
+Duration: 3 hr 8 mins
+
+==== Topics Discussed
+
+* Krishna Gadia mentioned how the IT industry in India was more open to hiring more skilled freshers with recent AI advancements than experienced software developers with years of experience.
+
+* Mohit shared about different full-time Software Developer openings at Zeta Hyderabad.
+    ** link:https://www.zeta.tech/in/careers/work-with-us?department=AllDepartments&location=Hyderabad[Zeta Hiring Page (Openings for Hyderabad)^]
+
+* Nirmal Panchal asked how some concepts he learned in school were relevant to the practical tech world.
+    ** link:https://www.reddit.com/r/learnmachinelearning/comments/17wp8h0/matrices_in_real_life_ml[How is matrices relevant in ML - Reddit Thread^]
+    ** link:https://www.cs.bu.edu/fac/snyder/cs132-book/L13ComputerGraphics-Spring2021.html[Linear Algebra in Computer Graphics^]
+
+* Mohit gave an overview the different repositories in GrapheneOS and how contributing doesn't need mean knowing understanding every implementation in the source tree.
+    ** link:https://github.com/GrapheneOS[GrapheneOS GitHub^]
+
+* A brief discussion on how one can modify and rebuild the Android OS to build their own OS was done
+    ** link:https://source.android.com/docs/setup[Official docs for building Android^]
+
+* Krishna Gadia his own experiences and the need of acculturation of giving honest replies to questions one does not have answers to.
+
+* Mohit described differences between Flutter when it was launched and how things had changed since then.
+    ** link:https://medium.com/beyond-the-brackets/10-years-in-the-making-how-flutter-became-the-cornerstone-of-cross-platform-development-06f49a224bc2[Medium article around the same^]
+
+* Folks shared their opinions on the usage of different shapes to repreent different states in Material 3 Expressive.
+    ** link:https://m3.material.io/blog/building-with-m3-expressive[Material 3 Expressive^]
+
+* Jaden highlighted a critical issue with NPCI's offline payment offering of double spending with no network connectivity
+    ** link:https://www.npci.org.in/product/upi/upi-lite[UPI Lite X Official Page^]
+    ** link:https://www.investopedia.com/terms/d/doublespending.asp[Understanding Double Spending in Digital Payments^]
+
+* A discussion around how a simple digital cheque based system analogus to physical cheques could be a better option to support offline payments.
+    ** link:https://en.wikipedia.org/wiki/Public_key_infrastructure[Public Key Infrastructure (PKI)^]
+
+* Krishna Gadia mentioned about legal implication for sender and receiver of a physical cheque when it bounces with reference
+    ** link:https://cleartax.in/s/consequences-cheque-bounce-notice[Laws around cheque bounces^]
+
+* Other relevant links to the above discussions
+    ** link:https://source.android.com/docs/core/display/material[Android's Material You design system overview^]
+    ** link:https://developer.android.com/develop/ui/compose/designsystems/material3[Material Design 3 in Jetpack Compose^]
+    ** link:https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1238[RBI's Vision for Payments and Settlement Systems^]
+    ** link:https://github.com/flutter/flutter/blob/master/docs/README.md[Flutter's official roadmap and future plans^]
+    ** link:https://grapheneos.org/faq[GrapheneOS FAQ - Understanding privacy-focused Android^]
+    ** link:https://onlinecourses.nptel.ac.in/noc21_ma38/preview[Essential Mathematics for Data Science and ML^]
+    ** link:https://opensource.guide/how-to-contribute[How to Contribute to Open Source - GitHub Guide^]
+    ** link:https://www.npci.org.in/what-we-do/upi/product-overview[UPI Product Overview and Technical Details^]
+    ** link:https://source.android.com/docs/core/architecture[Android Platform Architecture Documentation^]
+    ** link:https://martinfowler.com/articles/dont-start-monolith.html[Software Architecture patterns and best practices^]
+    ** link:https://developer.android.com/studio/build[Building and Running Android Apps - Official Guide^]
+    ** link:https://flutter.dev/docs/development/ui/widgets-intro[Flutter Widget Catalog and UI Development^]
+    ** link:https://csrc.nist.gov/publications/detail/fips/186/5/final[Digital Signatures and Cryptography Standards^]
+    ** link:https://github.com/awesome-selfhosted/awesome-selfhosted[Awesome Self-Hosted - Open Source Alternatives^]
+    ** link:https://refactoring.guru/design-patterns[Design Patterns in Software Development^]
+    ** link:https://www.3blue1brown.com/topics/linear-algebra[3Blue1Brown - Visual Linear Algebra Series^]
+    ** link:https://developer.android.com/guide/topics/ui/look-and-feel/themes[Android Theming and Styling Guide^]
