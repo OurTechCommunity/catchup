@@ -4,7 +4,7 @@ Duration: 3 hr 8 mins
 
 ==== Topics Discussed
 
-* Krishna Gadia mentioned how the IT industry in India was more open to hiring more skilled freshers with recent AI advancements than experienced software developers with years of experience.
+* Krishna Gadia mentioned that, with recent AI advancements, the IT industry in India is becoming more inclined to hire skilled freshers rather than experienced developers.
 
 * Mohit shared about different full-time Software Developer openings at Zeta Hyderabad.
     ** link:https://www.zeta.tech/in/careers/work-with-us?department=AllDepartments&location=Hyderabad[Zeta Hiring Page (Openings for Hyderabad)^]
@@ -13,25 +13,25 @@ Duration: 3 hr 8 mins
     ** link:https://www.reddit.com/r/learnmachinelearning/comments/17wp8h0/matrices_in_real_life_ml[How is matrices relevant in ML - Reddit Thread^]
     ** link:https://www.cs.bu.edu/fac/snyder/cs132-book/L13ComputerGraphics-Spring2021.html[Linear Algebra in Computer Graphics^]
 
-* Mohit gave an overview the different repositories in GrapheneOS and how contributing doesn't need mean knowing understanding every implementation in the source tree.
+* Mohit gave an overview the different repositories in GrapheneOS and explained that contributing doesn’t require understanding every part of the codebase.
     ** link:https://github.com/GrapheneOS[GrapheneOS GitHub^]
 
 * A brief discussion on how one can modify and rebuild the Android OS to build their own OS was done
     ** link:https://source.android.com/docs/setup[Official docs for building Android^]
 
-* Krishna Gadia his own experiences and the need of acculturation of giving honest replies to questions one does not have answers to.
+* Krishna Gadia shared his own experiences and the importance of giving honest replies to questions one does not have answers to.
 
 * Mohit described differences between Flutter when it was launched and how things had changed since then.
-    ** link:https://medium.com/beyond-the-brackets/10-years-in-the-making-how-flutter-became-the-cornerstone-of-cross-platform-development-06f49a224bc2[Medium article around the same^]
+    ** link:https://medium.com/beyond-the-brackets/10-years-in-the-making-how-flutter-became-the-cornerstone-of-cross-platform-development-06f49a224bc2[Medium article on Flutter’s evolution and and its cross-platform development capabilities^]
 
-* Folks shared their opinions on the usage of different shapes to repreent different states in Material 3 Expressive.
+* Folks shared their opinions on the usage of different shapes to represent different states in Material 3 Expressive.
     ** link:https://m3.material.io/blog/building-with-m3-expressive[Material 3 Expressive^]
 
 * Jaden highlighted a critical issue with NPCI's offline payment offering of double spending with no network connectivity
     ** link:https://www.npci.org.in/product/upi/upi-lite[UPI Lite X Official Page^]
     ** link:https://www.investopedia.com/terms/d/doublespending.asp[Understanding Double Spending in Digital Payments^]
 
-* A discussion around how a simple digital cheque based system analogus to physical cheques could be a better option to support offline payments.
+* A discussion around how a simple digital cheque based system analogous to physical cheques could be a better option to support offline payments.
     ** link:https://en.wikipedia.org/wiki/Public_key_infrastructure[Public Key Infrastructure (PKI)^]
 
 * Krishna Gadia mentioned about legal implication for sender and receiver of a physical cheque when it bounces with reference
