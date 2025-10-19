@@ -5,7 +5,7 @@ const SKIP_EMAIL = "skip";
 
 // bypass git ownership checks
 // https://stackoverflow.com/a/73488472
-const GIT_BYPASS_OWNERSHIP_CHECK_ARGS = ["-c", "safe.directory='*'"];
+const GIT_BYPASS_OWNERSHIP_CHECK_ARGS = ["-c", "safe.directory=*"];
 
 function main() {
 	const args = process.argv.slice(2);
