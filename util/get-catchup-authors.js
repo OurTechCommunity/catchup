@@ -3,6 +3,10 @@ const { execFileSync } = require("child_process");
 const CO_AUTHOR_PREFIX = "Co-authored-by:";
 const SKIP_EMAIL = "skip";
 
+// bypass git ownership checks
+// https://stackoverflow.com/a/73488472
+const GIT_BYPASS_OWNERSHIP_CHECK_ARGS = ["-c", "safe.directory='*'"];
+
 function main() {
 	const args = process.argv.slice(2);
 
@@ -19,6 +23,7 @@ function main() {
 		"git",
 		[
 			"log",
+			...GIT_BYPASS_OWNERSHIP_CHECK_ARGS,
 			"-z", // separate entries with null instead of newline
 			// author name, author email, commit message
 			"--format=%an%x00%ae%x00%B%x00",
@@ -46,10 +51,14 @@ function main() {
 	}
 
 	// remap entries with git mailmap
-	const remappedAuthors = execFileSync("git", ["check-mailmap", "--stdin"], {
-		input: Array.from(authorSet).join("\n"),
-		encoding: "utf8"
-	});
+	const remappedAuthors = execFileSync(
+		"git",
+		[...GIT_BYPASS_OWNERSHIP_CHECK_ARGS, "check-mailmap", "--stdin"],
+		{
+			input: Array.from(authorSet).join("\n"),
+			encoding: "utf8"
+		}
+	);
 
 	const authorEntrySet = new Set();
 	for (let authorLine of remappedAuthors.split("\n")) {
