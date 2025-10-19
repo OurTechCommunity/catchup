@@ -22,8 +22,8 @@ function main() {
 	const output = execFileSync(
 		"git",
 		[
-			"log",
 			...GIT_BYPASS_OWNERSHIP_CHECK_ARGS,
+			"log",
 			"-z", // separate entries with null instead of newline
 			// author name, author email, commit message
 			"--format=%an%x00%ae%x00%B%x00",
