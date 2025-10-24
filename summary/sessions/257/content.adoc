@@ -1,0 +1,42 @@
+Date: 11-10-2025
+
+Duration: 2 hrs 15 mins
+
+==== Topics Discussed
+
+* Alpesh shared insights from his visit to Delhi and NASSCOM, discussing the current state of various tech niches in India.
+    ** He explained which technology sectors are overpopulated in the Indian market.
+    ** He also highlighted niches that are currently underserved and present opportunities for developers and cybersec enthusiasts.
+    ** The discussion covered market saturation in certain areas and emerging opportunities in cybersec sector.
+* Darshan shared his experience transitioning  to Astro for his portfolio site.
+    ** He explained the reasons behind this migration and the benefits he observed.
+    ** The discussion covered the advantages of using Astro for static site generation.
+        *** Astro takes YAML input and automatically generates HTML output.
+        *** This approach provides better performance and developer experience compared to traditional frameworks.
+* Darshan demonstrated his automated resume generation system using LaTeX and PDF generation.
+    ** He explained how the system picks up specific details from resume data.
+    ** The system automatically generates and updates HTML content based on the input data.
+    ** This automation helps maintain consistency and reduces manual work in resume management.
+* Darshan discussed his SEO optimization strategy for domain consolidation.
+    ** He shared his plan to move from multiple domains to a single domain.
+    ** The goal is to improve site ranking through micro-optimizations for SEO.
+    ** He explained how domain consolidation can help with search engine visibility and authority.
+* The session covered CVE-2025-49844, a recently disclosed security vulnerability.
+    ** Darshan explained the technical details of the use-after-free vulnerability.
+    ** He discussed how this affects C code and Lua scripting environments.
+    ** The vulnerability was analyzed in the context of memory management and pointer handling.
+* Alpesh provided about security vulnerabilities and scoring systems.
+    ** He explained what CVE (Common Vulnerabilities and Exposures) is and how it works.
+    ** He discussed CVSS (Common Vulnerability Scoring System) and how vulnerabilities are rated.
+    ** This helped the community understand the severity and impact of security issues.
+* Darshan shared details about a critical bug affecting Electron-based applications.
+    ** The bug was related to memory overload in Electron apps.
+    ** He explained how this vulnerability could be exploited to crash or compromise Electron applications.
+    ** The discussion covered the broader implications for desktop applications built with web technologies.
+* Additional technical discussions covered modern web development practices.
+    ** The group discussed the benefits of static site generators over dynamic frameworks.
+    ** Performance optimization techniques for web applications were explored.
+* Shared Links : 
+	** link:https://rishit-dagli.github.io/2025/10/05/geometry-of-motion.html[Geometry of Motion^]
+	** link:https://openreview.net/forum?id=aTP1IM6alo[VoMP: Predicting Volumetric Mechanical Property Fields^]
+	** link:https://github.com/electron/electron/actions/runs/18021844112[Geometry of Motion^]
