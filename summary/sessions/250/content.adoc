@@ -4,7 +4,7 @@ Duration: 3 hours, 25 minutes
 
 ==== Topics Discussed
 
-* Vive, a veteran browser engineer with over two decades of experience, delivered an insightful technical talk about modern web browser architecture and internals.
+* Vive, a browser engineer with over two decades of experience, delivered an insightful technical talk about modern web browser architecture and internals.
     ** He has contributed to major projects including Chromium, WebKit, and browsers like Arc and DIA.
     ** Vive explained how browsers have evolved from simple rendering engines into complex, multi-process systems resembling operating environments.
 * Vive discussed the multiprocess architecture that modern browsers use for enhanced stability and security.
@@ -47,3 +47,8 @@ Duration: 3 hours, 25 minutes
     ** Participants praised Vive's ability to make complex browser internals understandable.
     ** The talk was acknowledged as one of the most enlightening technical sessions in recent times.
     ** Community members expressed gratitude for the rare, behind-the-scenes look into browser architecture.
+* Shared links :
+    ** link:https://spectreattack.com[Spectre and Meltdown Vulnerabilities^]
+    ** link:https://developer.chrome.com/docs/devtools[Chrome DevTools Documentation^]
+    ** link:https://chromium.googlesource.com/chromium/src/+/HEAD/mojo/README.md[Chromium Mojo Framework^]
+    ** link:https://perfetto.dev[Perfetto Performance Analysis Tool^]
