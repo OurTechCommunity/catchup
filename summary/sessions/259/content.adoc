@@ -1,0 +1,23 @@
+Date: 26-10-25
+
+Duration: 2 hrs 17 mins
+
+==== Topics Discussed
+
+* Abhinav inquired about pursuing a Master's in Computer Science at the National University of Singapore (NUS).
+    ** This led to a discussion with Chirag about life in Singapore, including the experience of pursuing a master's degree and the environment for businesses.
+* Chirag asked Ankush about his GenAI project.
+    ** Ankush explained the LangGraph and LangChain frameworks he utilized in his project.
+        *** link:https://github.com/ankushhKapoor/Advanced-Research-AI-Agent[Advanced-Research-AI-Agent - GitHub^]
+* Chirag Nayyar discussed the lifestyle and culture in Singapore.
+    ** He specifically covered topics such as taxation and daily living expenses.
+     *** link:https://www.disg.gov.sg/enterprise-compute-initiative[Enterprise Compute Initiative - Singapore^]
+* Ayush inquired about visa requirements and other details for tourists.
+    ** Chirag and Abhinav advised on using travel agents and explained the associated fees and processes.
+* Abhinav asked for recommendations for Machine Learning courses.
+    ** Rishit Dagli suggested the following programs:
+        *** link:https://www.matsprogram.org[MATS Program^]
+        *** link:https://mlcollective.org/[ML Collective^]
+* Additional resources and links.
+     ** link:https://539kernel.com[539kernel.com^]
+     **link:https://youtu.be/oUil9YXXWZY[The AI supercycle is starting^]
