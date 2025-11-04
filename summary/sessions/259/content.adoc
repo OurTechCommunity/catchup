@@ -20,4 +20,4 @@ Duration: 2 hrs 17 mins
         *** link:https://mlcollective.org[ML Collective^]
 * Additional resources and links.
      ** link:https://539kernel.com[539kernel.com^]
-     **link:https://youtu.be/oUil9YXXWZY[The AI supercycle is starting^]
+     ** link:https://youtu.be/oUil9YXXWZY[The AI supercycle is starting^]
