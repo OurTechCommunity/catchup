@@ -6,8 +6,8 @@ Duration: 2 hrs 17 mins
 
 * Abhinav inquired about pursuing a Master's in Computer Science at the National University of Singapore (NUS).
     ** This led to a discussion with Chirag about life in Singapore, including the experience of pursuing a master's degree and the environment for businesses.
-* Chirag asked Ankush about his GenAI project.
-    ** Ankush explained the LangGraph and LangChain frameworks he utilized in his project.
+* Chirag asked Ankush about his AI research project.
+    ** Ankush explained the difference between LangChain and LangGraph, and mentioned that his project uses LangGraph.
         *** link:https://github.com/ankushhKapoor/Advanced-Research-AI-Agent[Advanced-Research-AI-Agent - GitHub^]
 * Chirag Nayyar discussed the lifestyle and culture in Singapore.
     ** He specifically covered topics such as taxation and daily living expenses.
