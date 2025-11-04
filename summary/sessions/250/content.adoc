@@ -51,3 +51,10 @@ Duration: Duration: 3 hrs 25 mins
     ** link:https://developer.chrome.com/docs/devtools[Chrome DevTools Documentation^]
     ** link:https://chromium.googlesource.com/chromium/src/+/HEAD/mojo/README.md[Chromium Mojo Framework^]
     ** link:https://perfetto.dev[Perfetto Performance Analysis Tool^]
+*Relevant Links from the talk
+    **link:https://youtu.be/BiuknvAYDPs[Talk Recording^]
+    **link:https://drive.google.com/file/d/1f4_WKrJINYOAzQpe62DmK8oqDVFP93Vx/view[Talk Slides^]
+    **link:https://x.com/vivekgalatage/status/1875468178509517206[Vivek Galatage on Chromium's Multi-Process Architecture^]
+    **link:https://x.com/vivekgalatage/status/1881537398124724224[Vivek Galatage on Key Data Structures in RenderingNG^]
+    **link:https://x.com/vivekgalatage/status/1947647032056799289[Vivek Galatage on the Spectre Vulnerability (CppCon Talk)^]
+    **link:https://x.com/vivekgalatage/status/1947562726513164693[Vivek Galatage on Browser Mitigations for Spectre^]
