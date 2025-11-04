@@ -17,7 +17,7 @@ Duration: 2 hrs 17 mins
 * Abhinav asked for recommendations for Machine Learning courses.
     ** Rishit Dagli suggested the following programs:
         *** link:https://www.matsprogram.org[MATS Program^]
-        *** link:https://mlcollective.org/[ML Collective^]
+        *** link:https://mlcollective.org[ML Collective^]
 * Additional resources and links.
      ** link:https://539kernel.com[539kernel.com^]
      **link:https://youtu.be/oUil9YXXWZY[The AI supercycle is starting^]
