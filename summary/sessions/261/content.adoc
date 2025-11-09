@@ -1,0 +1,15 @@
+Date: 08-11-2025
+
+Duration: 1 hrs 21 mins
+
+==== Topics Discussed
+
+* Soham asked if it's possible to create a C++ app for Android without JNI.
+    ** Darshan explained it's not possible as you would require a thin layer of Java/Kotlin code to glue up everything.
+* Hritik shared an incident about leaking API keys
+* Pranav talked about Android XR and how it felt when he tried, which sparked a discussion on how does it looks in social environment.
+    ** Pranav also mentioned that it was pretty comfortable in his 1-2hrs of trial.
+    ** Darshan said it will take time to get social acceptance.
+* We talked about how Apple's OS has the same base layer and has skin on for all the devices.
+* Hritik and Darshan talked about how they are using GitHub Copilot.
+    ** They both prefer to use it as an assistant to help them with completions and not using it to make full features.
