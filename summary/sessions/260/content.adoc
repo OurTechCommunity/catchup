@@ -1,0 +1,21 @@
+Date: 01-11-2025
+
+Duration: 2 hrs 35 mins
+
+==== Topics Discussed
+
+* Soham talked about Gentoo and why he is using it.
+	** His primary reason was link:https://wiki.gentoo.org/wiki/Portage[Portage (Gentoo's Package Manager)^] with a stable Linux environment and a smaller system size.
+    ** He also showcased Portage's main feature that you can pick and choose what you need to install from flags which are defined mostly by the Portage community.
+* Soham taked about SDL vs OpenGL vs Vulkan as he as was learning about 3D rendering.
+* Nirmal asked why Rust hasn't taken over the world and why not all the critical software is written in Rust.
+    ** Darshan and Soham explained that while Rust has it's merits over C/C++ but migrating any codebase is not an easy feat to acheive.
+* Soham talked about link:https://www.yoctoproject.org[Yocto Project^] which helps developers create custom Linux-based systems regardless of the hardware architecture.
+* Nirmal asked how to make servers faster, which led us down the rabbit hole where we discussed about Application layer optimizations and Hardware layer optimizations.
+	** Choosing right stack can significantly boost you application.
+	** Soham talked about link:https://www.baeldung.com/cs/flynns-taxonomy-architecture-categories[Flynn’s Taxonomy^].
+* Darshan talked about link:https://www.swift.org/blog/nightly-swift-sdk-for-android[Swift on Android^]
+	** Swift SDK for Android works by leveraging Swift's Java interop which is possible because both languages exposes their C ABIs
+* Darshan talked about link:https://openbao.org[OpenBao^] a secrets manager.
+	** Secret stores are used to store secrets like passwords, token, etc with multiple layers of encryptions and also provides ways to authenticate to DBs and establish SSH connections without users needing to manage multiple keys.
+* Darshan showcased his link:darshanrander.com[portfolio^] site and how he is generating resume using YAML files.
