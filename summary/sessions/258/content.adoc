@@ -1,0 +1,16 @@
+Date: 18-10-2025
+
+Duration: 1 hr 40 mins
+
+==== Topics Discussed
+
+* Kartik Soneji and Darshan Rander shared their project OwnDB, which securely provisions, manages, backs up, and patches databases on any compute provider with just an SSH connection.
+    ** OwnDB is platform agnostic with BYOC (Bring Your Own Compute) and SSH support for containers, IoT, VMs, and bare-metal servers.
+    ** The system ensures data sovereignty without sacrificing the speed and convenience of a managed dashboard, providing complete control over infrastructure and data, detailed auditable activity logs, and seamless cross-platform management from one intuitive dashboard.
+    ** The implementation of using a private key to access the server using SSH sparked a debate on why to use a private key rather than password-based authentication.
+* Alpesh Bhagwatkar shared his VPS instance for a live demo of the project to test its functionality.
+    ** Kartik Soneji, Jaden Furtado, and Darshan Rander helped Alpesh set up a new user and SSH keys for that user to share the private key.
+    ** This raised questions about the difficulty of sharing an SSH private key and how password-based authentication would be much easier in comparison.
+
+* Shared Links : 
+	** link:https://owndb.vercel.app[OwnDB^]
