@@ -11,6 +11,3 @@ Duration: 1 hr 40 mins
 * Alpesh Bhagwatkar shared his VPS instance for a live demo of the project to test its functionality.
     ** Kartik Soneji, Jaden Furtado, and Darshan Rander helped Alpesh set up a new user and SSH keys for that user to share the private key.
     ** This raised questions about the difficulty of sharing an SSH private key and how password-based authentication would be much easier in comparison.
-
-* Shared Links : 
-	** link:https://owndb.vercel.app[OwnDB^]
