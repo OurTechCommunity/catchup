@@ -6,7 +6,7 @@ Duration: 2 hrs 25 mins
 
 * OTC 8th Talk took place, followed by the weekly catch-up session.
     ** link:https://talks.ourtech.community/8[How To Simulate the World?^]
-    ** link:<Youtube video link>[^]
+    ** link:https://youtu.be/4GfnB6ObN6k[Talk Recording^]
 * Harsh and Rishit discussed about Gemini 3 and the changes/improvements it brings.
 * Harsh asked Rishit what he thinks about the AI bubble.
     ** link:https://www.youtube.com/watch?v=h3JfOxx6Hh4[WTF Is Going On?^]
