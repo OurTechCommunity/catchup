@@ -18,7 +18,7 @@ Duration: 2 hrs 48 mins
     ** He shared error logs regarding `qemu-img` and `guestmount` failures.
     ** Leon N tried to debug the issue, suggesting tools like `R-Photo` and specific `libguestfs` commands.
         *** link:https://www.r-undelete.com[R-Photo Undelete^]
-        *** link:https://www.reddit.com/r/sysadmin/comments/9jw1if/repair_of_vhdx_file/[Reddit: Repair of VHDX file^]
+        *** link:https://www.reddit.com/r/sysadmin/comments/9jw1if/repair_of_vhdx_file[Reddit: Repair of VHDX file^]
         *** link:https://rwmj.wordpress.com/2013/05/10/using-libguestfs-to-read-hyper-v-vhdx-disk-images/[Using libguestfs to read Hyper-V VHDX^]
         *** link:https://learn.microsoft.com/en-us/windows-server/administration/performance-tuning/role/hyper-v-server/storage-io-performance[Hyper-V Storage I/O Performance^]
 * Alpesh Bhagwatkar shared his Linux setup journey.
