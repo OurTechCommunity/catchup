@@ -1,0 +1,29 @@
+Date: 29-11-2025
+
+Duration: 2 hrs 48 mins
+
+==== Topics Discussed
+
+* Hritik Jaiswal discussed his team project regarding sending notifications to users.
+    ** He drew comparisons to the infrastructure used by companies like Krafton and features in Clash of Clans.
+    ** He also touched upon major cloud providers like Cloudflare experiencing outages and the resulting load spikes on their systems.
+* Krishna Gadia explained the analytics tools he uses in his day-to-day work.
+    ** He detailed the differences between OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing). 
+    ** He reviewed Pratik Thakare and Darshan Rander's project OwnDB, providing constructive feedback and highlighting potential setbacks.
+* Rudraksh Mehta, a 3rd-year AI/ML student, shared his learning journey.
+    ** He is currently focusing on learning FastAPI.
+* Ayush asked about Service Mesh.
+    ** Leon N explained what a Service Mesh is and its role in microservices communication. 
+* Kartik Soneji faced a critical issue with a corrupted VHDX disk, Hyper-V, and NFS setup (exposed over iSCSI).
+    ** He shared error logs regarding `qemu-img` and `guestmount` failures.
+    ** Leon N tried to debug the issue, suggesting tools like `R-Photo (R-Undelete)` and specific `libguestfs` commands.
+        *** link:https://www.r-undelete.com/free_photo_recovery[R-Photo (R-Undelete)^]
+        *** link:https://www.reddit.com/r/sysadmin/comments/9jw1if/repair_of_vhdx_file[Reddit: Repair of VHDX file^]
+        *** link:https://rwmj.wordpress.com/2013/05/10/using-libguestfs-to-read-hyper-v-vhdx-disk-images[Using libguestfs to read Hyper-V VHDX^]
+        *** link:https://learn.microsoft.com/en-us/windows-server/administration/performance-tuning/role/hyper-v-server/storage-io-performance[Hyper-V Storage I/O Performance^]
+* Alpesh Bhagwatkar shared his Linux setup journey.
+    ** He discussed his transition from an initial setup to his current Hyprland configuration.
+    ** He emphasized understanding exactly what goes wrong during configuration and shared plugins for better customization.
+    ** He also raised a discussion on security, specifically regarding SSH keys, `sudo` privileges, and preventing privilege escalation.
+* The group had a broader discussion on the Linux experience.
+    ** Topics included customization, system smoothness, RMA management, and comparisons with Windows.
