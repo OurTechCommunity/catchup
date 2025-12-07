@@ -1,0 +1,24 @@
+Date: 06-12-2025
+
+Duration: 1 hrs 40 mins
+
+==== Topics Discussed
+
+* The group helped Parth, Kartik, and another participant decide on a project idea for the Prisma Hackathon.
+    ** The project idea was to build a DB schema visualizer and a Prisma schema generator that converts diagrams into Prisma schema using AI.
+* Sahil Bansal showcased his project Runbox, a lightweight Linux sandboxing system built in C.
+    ** link:https://github.com/sahilb315/runbox[Runbox (GitHub)^]
+    ** link:https://stackoverflow.com/questions/68667003/whats-the-difference-between-chroot-and-pivot-root[What's the difference between chroot and pivot_root? (StackOverflow)^]
+* Ayush Shukla shared about F-Rep (Functional Representation) and how it is used in solving complex problems in CAD.
+    ** link:https://openscad.org[OpenSCAD^]
+    ** link:https://en.wikipedia.org/wiki/Function_representation[Function representation^]
+    ** link:https://en.wikipedia.org/wiki/Boundary_representation[Boundary representation^]
+    ** link:https://en.wikipedia.org/wiki/Geometric_modeling_kernel[Geometric modeling kernel^]
+* Nabeel talked about his experience running his own service-based company and shared practical tips for starting and scaling a services business.
+* Kartik gave a high-level overview of his link:https://owndb.vercel.app[OwnDB^] project.
+    ** Kartik and Nabeel discussed reviews and perspectives around the project.
+    ** They talked about why companies pay cloud providers to manage infrastructure, and Nabeel shared his thoughts, feedback, interests, and advice regarding the project.
+        *** link:https://peerlist.io/sirus/project/owndb[OwnDB (Peerlist)^]
+        *** link:https://docs.google.com/presentation/d/1ZtQ2tn6MReWNqqeeaarZ3ObUhf8ANKQXoNJ746oqrhE/edit?slide=id.gcb9a0b074_1_0#slide=id.gcb9a0b074_1_0[OwnDB Pitch Deck^]
+* Additional resources and links.
+    ** link:https://www.youtube.com/watch?v=hZeZuW4FlS0[Why Flipkart moved its databases to Kubernetes — lessons from building DBaaS at scale^]
