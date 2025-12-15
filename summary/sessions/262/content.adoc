@@ -1,0 +1,42 @@
+Date: 16-11-2025
+
+Duration: 2 hrs 30 mins
+
+==== Topics Discussed
+
+* Round of introductions.
+	** Suyash Purwar introduced himself. He graduated from LPU this year and is currently working at HackerRank. He shared his experience at LPU, mentioning that the hacker culture wasn't great there and he couldn't find many geeks to gel with. He got his internship after his 5th semester and has been working since.
+	** Janvi Matani asked for advice on finding internships as a 2nd year IT student.
+		*** Suyash and others suggested targeting small startups and reaching out directly to founders on LinkedIn rather than relying on job portals like Internshala.
+* Rehan Shaikh talked about his work as a junior penetration tester at TCS in the BFSI (Banking, Financial Services and Insurance) vertical.
+	** He mentioned TCS recently lost the Marks and Spencer contract.
+	** Discussed the freedom in his team checking in, checking out, and working independently on pen testing projects.
+* Alpesh Bhagwatkar mentioned the new Android PixNapping vulnerability (CVE-2025-48561).
+	** It's a hardware-based vulnerability where malicious apps can steal OAuth keys without user interaction by layering intents.
+	** Google decided not to fix it until 2026.
+	** link:https://www.malwarebytes.com/blog/news/2025/10/pixel-stealing-pixnapping-attack-targets-android-devices[PixNapping Attack Blog^]
+* Discussion about NSO's Pegasus spyware and the incredible techniques used.
+	** Rehan shared the Google Project Zero article about how Pegasus exploited iMessage using Turing machine principles to create a virtual machine inside iMessage.
+	** link:https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html[Google Project Zero: NSO Zero-Click Deep Dive^]
+* Discussion about vibe coding with brain waves.
+	** A new technology that reads alpha/gamma brain waves through a headset and uses LLM to generate code based on what you're thinking.
+	** link:https://www.youtube.com/watch?v=4bQ2qhfJUjA[Coding with Brain Waves Video^]
+* Rehan shared about the Operating System series by Adhokshaj Mishra.
+	** Back to basics lectures covering OS fundamentals, focusing on understanding why certain designs were chosen rather than just definitions.
+	** Adhokshaj has built his own OS and created a programming language in Sanskrit.
+	** link:https://breachforce.net/series/os-intro[OS Introduction Series^]
+	** link:https://www.linkedin.com/in/adhokshajmishra/[Adhokshaj Mishra's LinkedIn^]
+* Jaden explained what eBPF is.
+	** It's like an API for running code at the kernel level, allowing operations that would normally require kernel drivers.
+	** Useful for network packet filtering and kernel-level operations without the overhead of traditional syscalls.
+* Discussion about the difference between syscall wrappers (glibc) and actual syscalls.
+	** Glibc wrappers like `open()` use variadic arguments (the `...` syntax in C) to provide flexibility.
+	** The wrapper handles default parameters and then calls the actual syscall.
+* Chirag joined and discussed his work.
+	** Talked about the difference between product companies and consulting firms for sales engineers.
+	** His daily work involves gathering customer requirements for cloud migration and designing proposals.
+* Shared resources:
+	** link:https://lwn.net/Kernel/Index/[LWN Kernel Index^]
+	** link:https://livegrep.com/search/linux[Live Grep Linux Kernel Search^]
+	** link:https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist[HTB CPTS Certification^]
+	** link:https://www.youtube.com/watch?v=BM62xi4FE3c[ELF Parsing by Harsh Kapadia^]
