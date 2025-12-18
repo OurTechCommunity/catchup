@@ -19,7 +19,7 @@ Duration: 2 hrs 15 mins
     ** He explained database caching layers, how read and write operations work, and why Merkle Trees are used.
     ** link:https://medium.com/geekculture/understanding-merkle-trees-f48732772199[Understanding Merkle Trees^]
 * The group discussed the value of Tech Meetups.
-    ** They debated why people attend and discussed various niche communities like CNCF Thane, AWS User Group, BreachForce, and FOSS.
+    ** They explored why people attend such events and talked about various niche communities, including CNCF Thane, AWS User Group, BreachForce, and FOSS.
 * Hritik explained how to setup a bare metal cloud on Ubuntu.
     ** link:https://linux.harshkapadia.me/kvm-qemu[KVM QEMU Guide by Harsh Kapadia^]
 * Ayush Shukla gave a short introduction to NixOS.
