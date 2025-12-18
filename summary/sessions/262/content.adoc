@@ -4,10 +4,9 @@ Duration: 2 hrs 30 mins
 
 ==== Topics Discussed
 
-* Round of introductions.
-	** Suyash Purwar introduced himself mentioning he works at HackerRank as he was promoted to a full time employee after his internship which he got in 5th sem.
-	** Janvi Matani asked for advice on finding internships as a 2nd year IT student.
-		*** Suyash and others suggested targeting small startups and reaching out directly to founders on LinkedIn rather than relying on job portals like Internshala.
+
+* Janvi Matani asked for advice on finding internships as a 2nd year IT student.
+	** Suyash and others suggested targeting small startups and reaching out directly to founders on LinkedIn rather than relying on job portals like Internshala.
 * Rehan Shaikh talked about his work as a junior penetration tester at TCS in the BFSI (Banking, Financial Services and Insurance) vertical.
 	** Discussed the freedom in his team checking in, checking out, and working independently on pen testing projects.
 * Alpesh Bhagwatkar mentioned the new Android PixNapping vulnerability (CVE-2025-48561).
