@@ -4,7 +4,6 @@ Duration: 2 hrs 30 mins
 
 ==== Topics Discussed
 
-
 * Janvi Matani asked for advice on finding internships as a 2nd year IT student.
 	** Suyash and others suggested targeting small startups and reaching out directly to founders on LinkedIn rather than relying on job portals like Internshala.
 * Rehan Shaikh talked about his work as a junior penetration tester at TCS in the BFSI (Banking, Financial Services and Insurance) vertical.
@@ -34,7 +33,7 @@ Duration: 2 hrs 30 mins
 	** Talked about the difference between product companies and consulting firms for sales engineers.
 	** His daily work involves gathering customer requirements for cloud migration and designing proposals.
 * Shared resources:
-	** link:https://lwn.net/Kernel/Index/[LWN Kernel Index^]
+	** link:https://lwn.net/Kernel/Index[LWN Kernel Index^]
 	** link:https://livegrep.com/search/linux[Live Grep Linux Kernel Search^]
 	** link:https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist[HTB CPTS Certification^]
 	** link:https://www.youtube.com/watch?v=BM62xi4FE3c[ELF Parsing by Harsh Kapadia^]
