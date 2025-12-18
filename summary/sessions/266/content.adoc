@@ -4,8 +4,8 @@ Duration: 2 hrs 15 mins
 
 ==== Topics Discussed
 
-* Nirmal Panchal discussed his project on CPU and Architecture (GPPCU).
-    ** He explained how serial tasks are executed at the hardware level.
+* Nirmal Panchal shared his ongoing research on CPU architecture (GPPCU).
+    ** He discussed his ideas and insights on executing traditionally serial tasks in parallel at the hardware level.
 * Hritik Jaiswal shared his experience using GitHub Copilot for troubleshooting.
     ** He encountered an issue where a button was removed unconditionally.
     ** Copilot suggested using commands like git stash and git log via the Git MCP server to resolve it.
