@@ -1,0 +1,13 @@
+Date: 27-12-2025
+
+Duration: 3 hrs 00 mins
+
+==== Topics Discussed
+
+* Kartik discussed his questions with Harsh around MaaS and high-availability systems, seeking clarity on design and reliability aspects.
+* Bhavesh showcased his fun login page project.
+    ** link:https://www.bakwaslogin.app[Login Page Project^]
+* Srinath shared a package he published on npm.
+    ** link:https://www.npmjs.com/package/react-native-simple-ota?activeTab=readme[react-native-simple-ota^]
+* Additional resources and links.
+    ** link:https://www.loom.com/share/aa07839f77ae4fda8adeea46e5569e50[Standardizing Vulnerability Reporting and help with report triage^]
