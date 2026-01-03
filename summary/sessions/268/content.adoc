@@ -12,5 +12,6 @@ Duration: 3 hrs 00 mins
     ** link:https://www.bakwaslogin.app[Login Page Project^]
 * Srinath shared a package he published on npm.
     ** link:https://www.npmjs.com/package/react-native-simple-ota?activeTab=readme[react-native-simple-ota^]
+    ** Kartik suggested adding code signing so that even if the server is compromised, user devices remain protected from remote code execution (RCE).
 * Additional resources and links.
     ** link:https://www.loom.com/share/aa07839f77ae4fda8adeea46e5569e50[Standardizing Vulnerability Reporting and help with report triage^]
