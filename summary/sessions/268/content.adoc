@@ -1,0 +1,17 @@
+Date: 27-12-2025
+
+Duration: 3 hrs 00 mins
+
+==== Topics Discussed
+
+* OTC 9th Talk took place, followed by the weekly catch-up session.
+    ** link:https://talks.ourtech.community/9[Implementing High Availability for MAAS-based Automated OS Installs^]
+    ** link:https://www.youtube.com/watch?v=ATBTyvPrOx8[Talk Recording^]
+* Kartik discussed his questions with Harsh around MaaS and high-availability systems, seeking clarity on design and reliability aspects.
+* Bhavesh showcased his fun login page project.
+    ** link:https://www.bakwaslogin.app[Login Page Project^]
+* Srinath shared a package he published on npm.
+    ** link:https://www.npmjs.com/package/react-native-simple-ota?activeTab=readme[react-native-simple-ota^]
+    ** Kartik suggested adding code signing so that even if the server is compromised, user devices remain protected from remote code execution (RCE).
+* Additional resources and links.
+    ** link:https://www.loom.com/share/aa07839f77ae4fda8adeea46e5569e50[Standardizing Vulnerability Reporting and help with report triage^]
