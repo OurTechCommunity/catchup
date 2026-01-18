@@ -1,0 +1,33 @@
+Date: 18-01-2026
+
+Duration: 2 hrs 34 mins
+
+==== Topics Discussed
+
+* Bhavesh Kukreja shared the video link:https://www.youtube.com/watch?v=C4xHfHG2j7o[I tried coding with the oldest version of Python^] and the repository link:https://github.com/smontanaro/python-0.9.1[github.com/smontanaro/python-0.9.1^].
+* Harsh Kapadia shared
+	** link:https://www.youtube.com/watch?v=tBApLbmAZ6Y[You should read Open Source code^]
+	** Consumer Electronics Show (CES) 2026 keynote highlights
+		*** link:https://www.youtube.com/watch?v=ZAKTc4FwqR8[Highlights From AMD's CES 2026 Keynote: Everything That Happened in 14 Minutes^]
+		*** link:https://www.youtube.com/watch?v=uDNXjnOqJ-A[Nvidia's CES Keynote: Everything Announced in 9 Minutes^]
+		*** link:https://www.youtube.com/watch?v=VdmqffZKV-4[Everything Intel Announced at its CES Event in 9 Minutes^]
+	** link:https://www.youtube.com/watch?v=TcRGBeOENLg[Creating a 48GB NVIDIA RTX 4090 GPU | Brother Zhang's Repair Shop (ft. 张哥)^]
+* Kunal Singh shared
+	** link:https://singhkunal2050.dev/about[His portfolio site^]
+	** link:https://www.mailglider.com[MailGlider^]
+		*** Product that he built - 'essentially Canva for e-mail' is how he introduced it
+	** link:https://metatags.io[Meta Tags Toolkit^]
+		*** Darshan Rander shared link:https://www.opengraph.xyz[OpenGraph^] in the same vein.
+
+==== Projects Showcased
+
+* Darshan Rander showed us the start of his new project that aims to provide an easy and quick way for a user to navigate to their frequently visited websites by typing `goto/<website_abbreviation>` (e.g. `goto/yt` to visit YouTube) in the browser's address bar.
+	** Although he has a PoC ready, he is searching for easier ways to accomplish the task. He is mainly struggling to find an easy and replicable way to run the redirection server at port 80 (so that the user doesn't have to specify a port in the URL like `goto:5000/yt` and can directly use `goto/yt` to navigate to YouTube) without the server requiring root privileges. Darshan, Kartik, Kunal and Harsh discussed various options including using `setcap` to give the server binary the required capabilities, using `authbind`, and using a reverse proxy like Nginx or Caddy to forward requests from port 80 to the server running at a higher port.
+		*** Kartik Soneji shared
+			**** link:https://apple.stackexchange.com/questions/37418/how-can-i-open-port-80-so-a-non-root-process-can-bind-to-it[How can I open port 80 so a non-root process can bind to it?^]
+			**** link:https://superuser.com/questions/710253/allow-non-root-process-to-bind-to-port-80-and-443[Allow non-root process to bind to port 80 and 443?^]
+		*** Kunal Singh shared link:https://www.youtube.com/watch?v=_DnNzRaBWUU[i made my own search engine (kind of)^]
+	** As an aside, the browser recognizes that `goto` is his server as he is running the `goto` server at `127.0.0.2` and has mentioned that name to IP address translation in the `hosts` file in his OS that is checked by the browser before sending a request to a DNS server.
+* Jaden Furtado showcased a big overall update to his ship simulation project. The UI is much more fleshed out with many more features that he added, including an interface that provides access to a Linux terminal that's running on the ship and that can be used to simulate what can happen to a ship if a hacker gains access to the ship's systems.
+	** Jaden's talk at NULLCON Goa 2026: link:https://nullcon.net/goa-2026/speaker-Cruise-Control-goa26[Cruise Control: The time we took control of a few dozen ships^]
+	** link:https://shiplab.github.io/vesseljs[Vessel.js^]
