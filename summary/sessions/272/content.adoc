@@ -1,0 +1,18 @@
+Date: 24-01-2026
+
+Duration: 2 hrs 30 mins
+
+==== Topics Discussed
+
+* OTC Talks #10 took place, followed by the weekly catch-up session.
+    ** link:https://talks.ourtech.community/10[EC2 Instance Connect as a Backdoor: Silent Persistence in AWS^]
+* Discussion  place on `curl` will ending their bug bounty program, citing the overwhelming number of AI-generated and low-quality vulnerability reports, many of which focused on availability issues without meaningful security impact.
+	** The discussion highlighted broader concerns around the sustainability of bug bounty programs in open-source projects when reporting standards are unclear or abused.
+	** This also led to a conversation on the importance of link:https://www.loom.com/share/aa07839f77ae4fda8adeea46e5569e50[standardizing vulnerability reporting and help with report triage^] processes to reduce false positives.
+		*** link:https://github.com/curl/curl/blob/f868b09d78d0125d03fa92612a9c6e8741c90006/docs/BUG-BOUNTY.md[`curl` bug bounty notice^]
+		*** link:https://tildes.net/~comp/1s85/curl_will_end_its_bug_bounty_program_by_the_end_of_january_due_to_excessive_ai_generated_reports[`curl` bug bounty discussion on Tildes^]
+		*** link:https://lists.haxx.se/pipermail/daniel/2026-January/000143.html[Daniel Stenberg’s thread on bug bounty concerns^]
+		*** link:https://www.cvedetails.com/vulnerabilities-by-types.php[Vulnerabilities By Types/Categories^]
+* Additional resources and links.
+	** link:https://github.com/kawre/leetcode.nvim[leetcode.nvim^]
+	** link:https://en.wikipedia.org/wiki/Valgrind[Valgrind^]
