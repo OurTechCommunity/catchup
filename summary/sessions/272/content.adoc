@@ -4,7 +4,7 @@ Duration: 2 hrs 30 mins
 
 ==== Topics Discussed
 
-* OTC 10th Talk took place, followed by the weekly catch-up session.
+* OTC Talks #10 took place, followed by the weekly catch-up session.
     ** link:https://talks.ourtech.community/10[EC2 Instance Connect as a Backdoor: Silent Persistence in AWS^]
 * Discussion  place on `curl` will ending their bug bounty program, citing the overwhelming number of AI-generated and low-quality vulnerability reports, many of which focused on availability issues without meaningful security impact.
 	** The discussion highlighted broader concerns around the sustainability of bug bounty programs in open-source projects when reporting standards are unclear or abused.
