@@ -1,0 +1,24 @@
+Date: 20-12-2025
+
+Duration: 2 hrs 15 mins
+
+==== Topics Discussed
+
+* Rehan S. and Kartik Soneji discussed various web security vulnerabilities and attack vectors.
+    ** They talked about reflected XSS (Cross-Site Scripting) vulnerabilities and how attackers can inject scripts through reflected parameters.
+    ** The discussion covered cookie injection attacks and how vulnerabilities can be exploited through reflected access points.
+    ** They explored scenarios where companies might dismiss bug bounty reports, claiming vulnerabilities are outdated or not exploitable, even when they can be demonstrated.
+* Kartik shared experiences with SQL injection attacks and Denial of Service (DoS) scenarios.
+    ** He mentioned testing SQL injection vulnerabilities and how injecting payloads could cause sites to freeze or crash.
+    ** Kartik discussed an incident where cookie injection led to their EngineX server going down, though it recovered within a couple of minutes.
+    ** The group discussed how some companies respond to security reports, sometimes dismissing them as false positives or claiming they're not exploitable.
+* Alpesh Bhagwatkar shared his experience with responsible disclosure and company responses to security vulnerabilities.
+    ** He discussed an incident involving a large real estate company where he discovered and dumped their entire database.
+    ** After reporting the vulnerability, the company responded with legal threats instead of acknowledging the security issue.
+    ** Alpesh noted that the vulnerability still exists, highlighting challenges in responsible disclosure when companies respond defensively rather than addressing security concerns.
+* The group discussed the challenges and frustrations of bug bounty programs.
+    ** They talked about how companies sometimes dismiss valid security findings or respond with legal threats instead of fixing vulnerabilities.
+    ** The conversation touched on the importance of proper vulnerability reporting and the need for companies to take security reports seriously.
+* Discussion about an upcoming tech event at Nesco, Mumbai.
+    ** The group discussed whether the event was worth attending, with some members noting it was scheduled for a weekend.
+    ** Alpesh mentioned sharing an Amazon link in the OTC group related to the event.
