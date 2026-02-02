@@ -1,0 +1,25 @@
+Date: 03-01-2026
+
+Duration: 2 hrs 15 mins
+
+==== Topics Discussed
+
+* Chintan Gurjar shared insights about cybersecurity certifications and their role in the industry.
+    ** He discussed the difference between certifications in coding versus cybersecurity, noting that unlike coding fields like Java where there aren't world-wide recognized certifications, cybersecurity has established certification programs.
+    ** Chintan explained why certifications matter in cybersecurity, especially for consulting companies.
+        *** He shared his personal experience: during his first 5 years, he didn't believe in certifications and didn't have any.
+        *** When he landed his 3rd job at KPMG New Zealand, his boss explained the value of certifications from a business perspective.
+    ** Chintan explained how certifications are used in project proposals and client acquisition.
+        *** When competing for projects, consulting firms (including Big 4 companies) showcase their team's credentials.
+        *** Companies highlight how many OSCP-certified or CEH-certified professionals they have to demonstrate expertise to potential clients.
+        *** This portfolio of certifications helps firms win projects, which is why companies are often willing to pay for employee certifications.
+    ** The discussion covered differences in interview processes between coding and cybersecurity roles.
+        *** For coding positions, companies typically give coding tasks (like LeetCode problems) where they can observe thought process, methodology, and coding skills directly.
+        *** In cybersecurity, the interview process is more complex due to multiple sub-domains (VAPT, GRC, Threat Detection Engineering, etc.).
+        *** For VAPT roles, setting up vulnerable infrastructure for technical interviews requires significant maintenance and management overhead.
+        *** For GRC roles, there's often no technical component to assess, making it harder to evaluate candidates.
+        *** For specialized roles like Threat Detection Engineering, setting up interview infrastructure would be prohibitively expensive and complex.
+    ** Chintan emphasized that certifications should be viewed as a tiebreaker, not the primary hiring criterion.
+        *** The hiring process should start with resume-based analysis of 6-7 candidates, followed by interviews.
+        *** If multiple candidates perform equally well, certifications can serve as a differentiator.
+    ** Key takeaway: The main goal should be to learn cybersecurity; certifications should act as proof of knowledge, not the primary learning objective.
