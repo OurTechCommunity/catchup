@@ -41,7 +41,7 @@
 . Janvi Matani
 . Mohammad Kaif
 . Mohammad Sohail Shaikh
-. link:https://www.linkedin.com/in/mridun-gupta/[Mridun Gupta^]
+. link:https://www.linkedin.com/in/mridun-gupta[Mridun Gupta^]
 . Rehan S.
 . Sahil Hussain
 . Uma Iyer
