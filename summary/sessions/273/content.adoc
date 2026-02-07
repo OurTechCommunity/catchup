@@ -1,0 +1,38 @@
+Date: 31-01-2026
+
+Duration: 1 hr 33 mins
+
+==== Topics Discussed
+
+* Janavi sought advice on choosing a laptop, specifically comparing HP vs. Asus with identical specifications.
+    ** Ankush and Yash recommended going with Asus due to better build quality and company reputation for the same specs.
+* Yash shared technical insights on the current state of processors.
+    ** He compared Intel Core chips versus the new Intel Ultra chips and discussed the impact of recent price hikes.
+* Janvi provided updates on her current technical work.
+    ** She is working on multithreading and synchronization in threads.
+    ** She is also contributing to open-source projects like OSP26 and link:https://nexfellow.com/explore/osconnect[OSS Connect^].
+* Krupal shared his experience working as a full-stack engineer.
+    ** He is currently working at an EdTech startup that builds custom solutions for clients.
+* Urmil, a 12th-grade student, asked for views on the CS50 course.
+    ** The group advised him to focus on his 12th-grade exams and entrance tests first.
+    ** They suggested starting with the link:https://missing.csail.mit.edu[Missing Semester^] (MIT) video series on YouTube before diving into deep CS courses like link:https://cs50.harvard.edu/x/[CS50^].
+* Rishit shared details about his latest research paper.
+    ** The work involves 3D geometry, and for 4D image/video generation, it utilizes NeRF (Neural Radiance Fields). Bhavesh also shared a related link:https://arxiv.org/abs/2512.24601[research paper on RLM^].
+* Urmil questioned the necessity of joining a top-tier college if connections can be built online.
+    ** The group emphasized that while skills matter, a good college tag helps bypass "auto-reject" filters at many companies.
+    ** They noted that better colleges also offer more flexibility for extracurricular activities.
+* Rishit and Ayush Shukla discussed the path to research internships.
+    ** They specifically covered how Rishit secured his research internship at Nvidia.
+    ** The discussion touched on tools like link:https://developer.nvidia.com/newton-physics[Newton Physics^] and link:https://isaac-sim.github.io/IsaacLab/main/index.html[Isaac Lab^].
+* The group shared their current reading lists.
+    ** Rishit is currently on Chapter 2 of the *Neo4j* book.
+    ** Darshan is reading *Clean Code*.
+* The session concluded with a discussion on AI automation and internet theories.
+    ** They discussed Clawdbot and link:https://moltbot.io[Moltbot^], covering their use cases and limitations.
+    ** This led to a conversation about the link:https://en.wikipedia.org/wiki/Dead_Internet_theory[Dead Internet Theory^] and the rise of AI-to-AI interactions.
+
+* Additional resources and links.
+    ** link:https://www.tle-eliminators.com/cp-sheet[CP Sheet by TLE Eliminators^]
+    ** link:https://huggingface.co/blog/reachy-mini[Reachy Mini (Open Source Robot)^]
+    ** link:https://youtu.be/tQziqSx-F80?si=ZZpHOUzzQA6BV0ok[Robotics Demo Video^]
+    ** link:https://www.business-standard.com/technology/tech-news/what-is-moltbook-reddit-like-social-media-platform-where-ai-talks-to-ai-126013100460_1.html[Moltbot News Article^]
