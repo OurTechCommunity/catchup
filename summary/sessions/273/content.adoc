@@ -23,7 +23,7 @@ Duration: 1 hr 33 mins
     ** The group emphasized that while skills matter, a good college tag helps bypass "auto-reject" filters at many companies.
     ** They noted that better colleges also offer more flexibility for extracurricular activities.
 * Rishit and Ayush Shukla discussed the path to research internships.
-    ** They specifically covered how Rishit secured his research internship at Nvidia.
+    ** They covered how Rishit secured his research internship at NVIDIA.
     ** The discussion touched on tools like link:https://developer.nvidia.com/newton-physics[Newton Physics^] and link:https://isaac-sim.github.io/IsaacLab/main/index.html[Isaac Lab^].
 * Participants shared their current technical reading, including Neo4j and Clean Code.
 * The session concluded with a discussion on AI automation and internet theories.
