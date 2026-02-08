@@ -34,4 +34,4 @@ Duration: 1 hr 33 mins
     ** link:https://www.tle-eliminators.com/cp-sheet[CP Sheet by TLE Eliminators^]
     ** link:https://huggingface.co/blog/reachy-mini[Reachy Mini (Open Source Robot)^]
     ** link:https://youtu.be/tQziqSx-F80?si=ZZpHOUzzQA6BV0ok[Robotics Demo Video^]
-    ** link:https://www.business-standard.com/technology/tech-news/what-is-moltbook-reddit-like-social-media-platform-where-ai-talks-to-ai-126013100460_1.html[Moltbot News Article^]
+    ** link:https://www.business-standard.com/technology/tech-news/what-is-moltbook-reddit-like-social-media-platform-where-ai-talks-to-ai-126013100460_1.html[Moltbook News Article^]
