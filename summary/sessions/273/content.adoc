@@ -17,7 +17,8 @@ Duration: 1 hr 33 mins
     ** The group advised him to focus on his 12th-grade exams and entrance tests first.
     ** They suggested starting with the link:https://missing.csail.mit.edu[Missing Semester^] (MIT) video series on YouTube before diving into deep CS courses like link:https://cs50.harvard.edu/x/[CS50^].
 * Rishit shared details about his latest research paper.
-    ** The work involves 3D geometry, and for 4D image/video generation, it utilizes NeRF (Neural Radiance Fields). Bhavesh also shared a related link:https://arxiv.org/abs/2512.24601[research paper on RLM^].
+    ** The work involves 3D geometry, and for 4D image/video generation, it utilizes NeRF (Neural Radiance Fields). 
+        *** Bhavesh shared a related link:https://arxiv.org/abs/2512.24601[Research Paper on Recursive Language Models (RLM)^].
 * Urmil questioned the necessity of joining a top-tier college if connections can be built online.
     ** The group emphasized that while skills matter, a good college tag helps bypass "auto-reject" filters at many companies.
     ** They noted that better colleges also offer more flexibility for extracurricular activities.
