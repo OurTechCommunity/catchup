@@ -4,8 +4,8 @@ Duration: 1 hr 33 mins
 
 ==== Topics Discussed
 
-* Janavi sought advice on choosing a laptop, specifically comparing HP vs. Asus with identical specifications.
-    ** Ankush and Yash recommended going with Asus due to better build quality and company reputation for the same specs.
+* Janvi sought advice on choosing a laptop, comparing HP vs. Asus with identical specifications.
+    ** Ankush and Yash recommended going with Asus due to better pricing for same specifications.
 * Yash shared technical insights on the current state of processors.
     ** He compared Intel Core chips versus the new Intel Ultra chips and discussed the impact of recent price hikes.
 * Janvi provided updates on her current technical work.
