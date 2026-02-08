@@ -24,9 +24,7 @@ Duration: 1 hr 33 mins
 * Rishit and Ayush Shukla discussed the path to research internships.
     ** They specifically covered how Rishit secured his research internship at Nvidia.
     ** The discussion touched on tools like link:https://developer.nvidia.com/newton-physics[Newton Physics^] and link:https://isaac-sim.github.io/IsaacLab/main/index.html[Isaac Lab^].
-* The group shared their current reading lists.
-    ** Rishit is currently on Chapter 2 of the *Neo4j* book.
-    ** Darshan is reading *Clean Code*.
+* Participants shared their current technical reading, including Neo4j and Clean Code.
 * The session concluded with a discussion on AI automation and internet theories.
     ** They discussed Clawdbot and link:https://moltbot.io[Moltbot^], covering their use cases and limitations.
     ** This led to a conversation about the link:https://en.wikipedia.org/wiki/Dead_Internet_theory[Dead Internet Theory^] and the rise of AI-to-AI interactions.
