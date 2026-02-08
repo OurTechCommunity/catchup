@@ -29,7 +29,6 @@ Duration: 1 hr 33 mins
 * The session concluded with a discussion on AI automation and internet theories.
     ** They discussed Clawdbot and link:https://moltbot.io[Moltbot^], covering their use cases and limitations.
     ** This led to a conversation about the link:https://en.wikipedia.org/wiki/Dead_Internet_theory[Dead Internet Theory^] and the rise of AI-to-AI interactions.
-
 * Additional resources and links.
     ** link:https://www.tle-eliminators.com/cp-sheet[CP Sheet by TLE Eliminators^]
     ** link:https://huggingface.co/blog/reachy-mini[Reachy Mini (Open Source Robot)^]
