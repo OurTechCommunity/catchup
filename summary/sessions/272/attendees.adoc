@@ -10,6 +10,7 @@
 . link:https://twitter.com/furtado_jaden[Jaden Furtado^]
 . link:https://twitter.com/KartikSoneji_[Kartik Soneji^]
 . link:https://www.linkedin.com/in/kaustubhkhavnekar[Kaustubh Khavnekar^]
+. link:https://www.linkedin.com/in/mridun-gupta[Mridun Gupta^]
 . link:https://twitter.com/PranavDani3[Pranav Prasanna Dani^]
 . link:https://twitter.com/rishit\_dagli[Rishit Dagli^]
 . link:https://twitter.com/tusharnankanii[Tushar Nankani^]
@@ -28,7 +29,6 @@
 . Janvi Matani
 . Mohammad Kaif
 . Mohammad Sohail Shaikh
-. link:https://www.linkedin.com/in/mridun-gupta[Mridun Gupta^]
 . Rehan S.
 . Sahil Hussain
 . Uma Iyer
