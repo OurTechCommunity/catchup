@@ -11,7 +11,7 @@ Duration: 1 hr 04 mins
 	** Discussion on cache invalidation strategies when source documents are updated.
 	** Frontend was generated using OpenAI Codex.
 * Discussion on various LinkedIn scrapers and the ethics of scraping.
-	** link:https://blog.hubspot.com/sales/linkedin-scraper[17 LinkedIn Scrapers That Don't Suck^]
+	** link:https://community.hubspot.com/t5/Sales-Integrations/Pulling-LinkedIn-information-into-Sales-CRM-one-way-interface/m-p/195991[Pulling LinkedIn information into Sales CRM - one way interface into HubSpot^]
 * Bhavesh Kukreja discussed two project ideas he's considering.
 	** Building a local RAG system with SLMs (Small Language Models) using Ollama for web search capabilities without relying on paid APIs.
 	** A shopkeeper simulation game inspired by "Good Pizza, Great Pizza" with a plot about an unplaced engineer opening a general store.
