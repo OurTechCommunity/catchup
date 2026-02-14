@@ -1,0 +1,31 @@
+Date: 07-02-2026
+
+Duration: 1 hr 04 mins
+
+==== Topics Discussed
+
+* Round of introductions took place with participants sharing their backgrounds and current work.
+* Darshan Rander showcased his portfolio AI chatbot project that uses RAG (Retrieval-Augmented Generation) to answer questions about himself.
+	** The project scrapes data from his resume, blogs, and portfolio site to provide contextual responses.
+	** He implemented a custom caching mechanism where AI responses are vectorized and stored, allowing for cache hits on similar queries (80% similarity threshold).
+	** Discussion on cache invalidation strategies when source documents are updated.
+	** Frontend was generated using OpenAI Codex.
+* Discussion on various LinkedIn scrapers and the ethics of scraping.
+	** link:https://blog.hubspot.com/sales/linkedin-scraper[17 LinkedIn Scrapers That Don't Suck^]
+* Bhavesh Kukreja discussed two project ideas he's considering.
+	** Building a local RAG system with SLMs (Small Language Models) using Ollama for web search capabilities without relying on paid APIs.
+	** A shopkeeper simulation game inspired by "Good Pizza, Great Pizza" with a plot about an unplaced engineer opening a general store.
+* Discussion on AI coding tools comparing OpenAI Codex, Claude with Copilot extension, and others.
+	** Participants agreed that Claude's Copilot extension provides the best code quality with minimal tokens.
+* Alpesh Bhagwatkar shared updates on his activities.
+	** His startup Identity Shield won an award at Sandbox Innovation in Pune.
+	** Won a CTF competition at RAIT University.
+	** Currently studying for CJPT and CPTS (Certified Penetration Testing Specialist) certifications from Hack The Box.
+
+==== Additional Resources
+
+* link:https://read.ai[Read.AI^] - AI meeting assistant plugin
+* link:https://ollama.com[Ollama^] - Run LLMs locally
+* link:https://weekday.works[Weekday.works^]
+* link:https://web.archive.org/web/*/weekday.works/*[Weekday.works on Web Archive^]
+
