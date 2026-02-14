@@ -24,8 +24,8 @@ Duration: 1 hr 04 mins
 
 ==== Additional Resources
 
-* link:https://read.ai[Read.AI^] - AI meeting assistant plugin
-* link:https://ollama.com[Ollama^] - Run LLMs locally
+* link:https://read.ai[Read.AI - AI meeting assistant plugin^]
+* link:https://ollama.com[Ollama - Run LLMs locally^]
 * link:https://weekday.works[Weekday.works^]
 * link:https://web.archive.org/web/*/weekday.works/*[Weekday.works on Web Archive^]
 
