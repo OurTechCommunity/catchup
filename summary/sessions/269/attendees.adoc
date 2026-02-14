@@ -1,14 +1,14 @@
 ==== Attendees
 
-. link:https://twitter.com/KartikSoneji_[Kartik Soneji^]
 . link:https://x.com/Alpastx[Alpesh Bhagwatkar^]
-. Chintan Gurjar
-. link:https://twitter.com/chiragnayyar[Chirag Nayyar^]
-. link:https://twitter.com/furtado_jaden[Jaden Furtado^]
-. link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
-. link:https://twitter.com/SirusTweets[Darshan Rander^]
 . link:https://twitter.com/bhavesh878789[Bhavesh Kukreja^]
+. link:https://twitter.com/chiragnayyar[Chirag Nayyar^]
+. link:https://twitter.com/SirusTweets[Darshan Rander^]
+. link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
+. link:https://twitter.com/furtado_jaden[Jaden Furtado^]
+. link:https://twitter.com/KartikSoneji_[Kartik Soneji^]
 . Ayush Shukla
+. Chintan Gurjar
 . Janvi Matani
 . Rehan S.
 . Shlok Bagwe
