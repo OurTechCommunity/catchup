@@ -6,8 +6,8 @@ Duration: 2 hrs 15 mins
 
 * Chintan Gurjar shared insights about cybersecurity certifications and their role in the industry.
     ** He discussed the difference between certifications in coding versus cybersecurity, noting that unlike coding fields like Java where there aren't world-wide recognized certifications, cybersecurity has established certification programs.
-    ** Chintan explained why certifications matter in cybersecurity, especially for consulting companies.
-    ** Chintan explained how certifications are used in project proposals and client acquisition.
+    ** He explained why certifications matter in cybersecurity, especially for consulting companies.
+    ** He explained how certifications are used in project proposals and client acquisition.
         *** When competing for projects, consulting firms (including Big 4 companies) showcase their team's credentials.
         *** Companies highlight how many OSCP-certified or CEH-certified professionals they have to demonstrate expertise to potential clients.
         *** This portfolio of certifications helps firms win projects, which is why companies are often willing to pay for employee certifications.
