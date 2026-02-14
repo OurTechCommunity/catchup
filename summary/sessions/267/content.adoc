@@ -8,9 +8,9 @@ Duration: 2 hrs 15 mins
     ** They talked about reflected XSS (Cross-Site Scripting) vulnerabilities and how attackers can inject scripts through reflected parameters.
     ** The discussion covered cookie injection attacks and how vulnerabilities can be exploited through reflected access points.
     ** They explored scenarios where companies might dismiss bug bounty reports, claiming vulnerabilities are outdated or not exploitable, even when they can be demonstrated.
-* He shared experiences with SQL injection attacks and Denial of Service (DoS) scenarios.
+* Kartik shared experiences with SQL injection attacks and Denial of Service (DoS) scenarios.
     ** He mentioned testing SQL injection vulnerabilities and how injecting payloads could cause sites to freeze or crash.
-    ** Kartik discussed an incident where cookie injection led to their EngineX server going down, though it recovered within a couple of minutes.
+    ** He discussed an incident where cookie injection led to their EngineX server going down, though it recovered within a couple of minutes.
     ** The group discussed how some companies respond to security reports, sometimes dismissing them as false positives or claiming they're not exploitable.
 * Alpesh Bhagwatkar shared his experience with responsible disclosure and company responses to security vulnerabilities.
     ** He discussed an incident involving a large real estate company where he discovered and dumped their entire database.
@@ -26,4 +26,3 @@ Duration: 2 hrs 15 mins
 	** link:https://portswigger.net/web-security/cross-site-scripting[What is cross-site scripting XSS?^]
     ** link:https://portswigger.net/web-security/sql-injection[What is cross-site scripting SQLI?^]
     ** link:https://aws.amazon.com/events/summits/mumbai[AWS Summit Mumbai^]
-	·
