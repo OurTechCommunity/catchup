@@ -29,4 +29,4 @@ Duration: 1 hr 56 mins
         *** link:https://academy.hackthebox.com[Hack The Box Academy^] - highlighting its structured cybersecurity learning paths.
 * PwnAdventure3 was shared, a security-focused game where players are given access to the client source code and are required to analyze and modify it to exploit server-side vulnerabilities in order to progress through levels.
     ** link:https://github.com/LiveOverflow/PwnAdventure3[PwnAdventure3 (GitHub)^]
-    ** link:https://www.pwnadventure.com/[Official Website^]
+    ** link:https://www.pwnadventure.com[Official Website^]
