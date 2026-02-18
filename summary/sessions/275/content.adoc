@@ -1,0 +1,32 @@
+Date: 14-02-2026
+
+Duration: 1 hr 56 mins
+
+==== Topics Discussed
+
+* Ankush shared his plan to conduct a 2-day workshop titled "Git: Inside Out".
+    ** Day 1 will cover Git and GitHub fundamentals and day 2 will focus on Git internals.
+    ** He mentioned referring to link:https://git.harshkapadia.me[Git Internals by Harsh Kapadia^].
+    ** Bhavesh suggested including link:https://ohmygit.org[Oh My Git!^] - an interactive game to learn Git internals.
+    ** Mridun shared GitHub Education teaching resources:
+        *** link:https://education.github.com/git-cheat-sheet-education.pdf[GitHub Education Cheat Sheet^]
+        *** link:https://github.com/github-education-resources[GitHub Education Resources^]
+        *** link:https://github.com/github-education-resources/teacher-toolbox/blob/main/professional-development/CheatSheet_09-14-23%20(1).pdf[Teacher Toolbox – Git Cheat Sheet^]
+        *** link:https://learn.github.com/skills[GitHub Skills^]
+* Ankush discussed about Discord’s age verification system and how it can currently be bypassed.
+    ** link:https://news.ycombinator.com/item?id=46982421[Discussion on age verification bypass (Hacker News)^]
+    ** link:https://age-verifier.kibty.town[Age Verification Bypass Page^]
+* Anuj asked for advice on learning web development and how to approach hackathons - whether to master topics first or learn through participation.
+    ** Bhavesh suggested building strong fundamentals, creating simple projects, and then participating in hackathons.
+    ** He also mentioned that hackathons are valuable for building connections and having fun.
+* Ankush asked about strategies for applying to internships.
+    ** Bhavesh shared link:https://internshala.com[Internshala^].
+* Ayush discussed kernel bypass techniques and their use in High-Frequency Trading (HFT) systems.
+    ** He explained that HFT systems require ultra-low latency, often achieved by bypassing the kernel networking stack and interacting directly with the Network Interface Card (NIC).
+* A discussion took place around cheating in competitive coding and ranking platforms.
+    ** Alpesh mentioned that similar malpractice exists in cybersecurity exams, including the use of Telegram groups and remote assistance services.
+    ** He also shared:
+        *** link:https://academy.hackthebox.com[Hack The Box Academy^] - highlighting its structured cybersecurity learning paths.
+* PwnAdventure3 was shared, a security-focused game where players are given access to the client source code and are required to analyze and modify it to exploit server-side vulnerabilities in order to progress through levels.
+    ** link:https://github.com/LiveOverflow/PwnAdventure3[PwnAdventure3 (GitHub)^]
+    ** link:https://www.pwnadventure.com[Official Website^]
