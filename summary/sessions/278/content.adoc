@@ -5,7 +5,7 @@ Duration: 1 hr 10 mins
 ==== Topics Discussed
 
 * Discussion took place around the current engineering curriculum.
-* Differences between diploma students and regular engineering students were discussed, focusing on variations in curriculum exposure and practical experience.
+	** Differences between diploma students and regular engineering students were discussed, focusing on variations in curriculum exposure and practical experience.
 * Alpesh shared concerns around the use of AI in cybersecurity, particularly tools like Claude Code, and the potential impact on cybersecurity jobs.
     ** He demonstrated how AI can now solve CTF challenges.
     ** He shared his experiment of building a skill using the CTFd API that fetches challenges, solves them using AI, and automatically submits the answers.
