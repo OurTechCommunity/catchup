@@ -1,0 +1,21 @@
+Date: 07-03-2026
+
+Duration: 1 hr 10 mins
+
+==== Topics Discussed
+
+* Discussion took place around the current engineering curriculum.
+	** Differences between diploma students and regular engineering students were discussed, focusing on variations in curriculum exposure and practical experience.
+* Alpesh shared concerns around the use of AI in cybersecurity, particularly tools like Claude Code, and the potential impact on cybersecurity jobs.
+    ** He demonstrated how AI can now solve CTF challenges.
+    ** He shared his experiment of building a skill using the CTFd API that fetches challenges, solves them using AI, and automatically submits the answers.
+        *** link:https://agentskills.io[Agent Skills^]
+    ** This raised concerns about the credibility of CTF competitions if challenges can be solved automatically by AI.
+* The group discussed possible ways to mitigate AI-assisted cheating in CTF platforms.
+    ** One idea mentioned was the use of honeypot-style challenges to detect automated solvers.
+        *** link:https://www.geeksforgeeks.org/blogs/what-is-honeypot[What is Honeypot?^]
+* link:https://www.thegitcity.com[The Git City^], a recently popular project, was discussed as an example of a "vibe-coded" website.
+
+==== Additional Resources
+
+* link:https://docs.aws.amazon.com/transcribe/latest/dg/pii-redaction.html[PII Redaction (AWS Transcribe)^]
