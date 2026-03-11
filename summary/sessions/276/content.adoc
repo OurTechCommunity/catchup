@@ -13,4 +13,3 @@ Duration: 1 hr 43 mins
     ** Ayush recommended that she start by exploring and contributing to link:https://www.cncf.io/projects[CNCF (Cloud Native Computing Foundation) projects^].
 * Bhavesh shared his roadmap and preparation strategy for Google Summer of Code (GSoC) 2026.
     ** He discussed how he is getting back into the rhythm of contributing to specific projects to build his profile for the program.
-
