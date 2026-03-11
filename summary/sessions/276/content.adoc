@@ -10,7 +10,7 @@ Duration: 1 hr 43 mins
     ** He is currently involved with 2-3 companies, including an AI-based startup out of Paris and another based in Pune.
 * Anuj Gupta shared some updates about his life at engineering college.
     ** He also asked the group for recommendations on good video tutorials to start learning backend development as a beginner.
-* Janavi Matani asked for advice on how to take her first steps into open-source contributions.
+* Janvi Matani asked for advice on how to take her first steps into open-source contributions.
     ** Ayush recommended that she start by exploring and contributing to link:https://www.cncf.io/projects[CNCF (Cloud Native Computing Foundation) projects^].
 * Bhavesh shared his roadmap and preparation strategy for Google Summer of Code (GSoC) 2026.
     ** He discussed how he is getting back into the rhythm of contributing to specific projects to build his profile for the program.
