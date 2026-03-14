@@ -2,6 +2,7 @@
 
 . link:https://twitter.com/bhavesh878789[Bhavesh Kukreja^]
 . link:https://twitter.com/SirusTweets[Darshan Rander^]
+. link:https://www.linkedin.com/in/mridun-gupta[Mridun Gupta^]
 . link:https://twitter.com/NinadNaik07[Ninad Naik^]
 . link:https://twitter.com/rishit_dagli[Rishit Dagli^]
 . Ankush Kapoor
@@ -12,5 +13,4 @@
 . Janvi Matani
 . Krupal
 . Madhura
-. Mridhun Gupta
 . Yash Bandiwadekar (Maverick)
