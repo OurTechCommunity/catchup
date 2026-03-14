@@ -12,4 +12,5 @@
 . Janvi Matani
 . Krupal
 . Madhura
+. Mridhun Gupta
 . Yash Bandiwadekar (Maverick)
