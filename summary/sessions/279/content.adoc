@@ -15,6 +15,7 @@ Duration: 2 hrs 15 mins
     ** link:https://www.cloudflare.com/learning/security/api/what-is-api-gateway[Cloudflare: What is an API Gateway?^]
 * Ramyak Mehra shared insights about the current hiring landscape at Cloudflare.
     ** He noted that the company is actively looking for candidates to fill very specific, tool-based roles rather than generalist positions.
+    ** link:https://careers.cloudflare.com[Cloudflare Careers^]
 * Jaden Furtado discussed his recent explorations into hardware technology.
     ** He is diving into radios, chip-level manipulation, and hardware dumping.
 
