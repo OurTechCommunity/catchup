@@ -12,6 +12,7 @@ Duration: 2 hrs 15 mins
     ** He is now rebuilding it from scratch himself because he felt the AI-assisted approach wasn't helping his actual skill development.
 * Chirag asked for a breakdown of APIs and API Gateways, including how to integrate them.
     ** Darshan explained the concepts, practical uses, and provided examples of how API Gateways function as a single entry point for routing client requests. 
+    ** link:https://www.cloudflare.com/learning/security/api/what-is-api-gateway[Cloudflare: What is an API Gateway?^]
 * Ramyak Mehra shared insights about the current hiring landscape at Cloudflare.
     ** He noted that the company is actively looking for candidates to fill very specific, tool-based roles rather than generalist positions.
 * Jaden Furtado discussed his recent explorations into hardware technology.
