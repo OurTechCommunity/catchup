@@ -5,7 +5,8 @@ Duration: 2 hrs 15 mins
 ==== Topics Discussed
 
 * Darshan discussed the reasons behind shutting down his project/startup, link:https://owndb.vercel.app[OwnDB^].
-    ** He explained that there were no major users for it. Startups and mid-to-large companies generally prefer established solutions like link:https://aws.amazon.com/rds/[AWS RDS^] and are unlikely to invest in a new, unproven database service.
+    ** He explained that there were no major users for it.
+    ** Startups and mid-to-large companies generally prefer established solutions like link:https://aws.amazon.com/rds[AWS RDS^] and are unlikely to invest in a new, unproven database service.
 * Chirag shared that he is currently focusing on link:https://en.wikipedia.org/wiki/End-user_computing[EUC (End-User Computing)^] for a multibillion-dollar enterprise customer.
 * Bhavesh talked about a project he had previously "vibecoded" (built heavily using AI generation).
     ** He is now rebuilding it from scratch himself because he felt the AI-assisted approach wasn't helping his actual skill development.
