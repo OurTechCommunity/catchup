@@ -1,0 +1,12 @@
+Date: 28-02-2026
+
+Duration: 1 hr 57 mins
+
+==== Topics Discussed
+
+* OTC Talks #11 took place, followed by the weekly catch-up session.
+    ** link:https://talks.ourtech.community/11[Understanding Boot Process and Developing UEFI Applications^]
+* Alpesh demonstrated how HackTheBox (HTB) serves as an interactive and hands-on platform for learning cybersecurity concepts.
+* Ayush talked about the complexity of modern bootloaders and contextualized the one he implemented as a fairly basic version compared to what exists in the real world today.
+    ** He briefly walked through how UEFI and Secure Boot have made the bootloader landscape significantly more involved compared to legacy BIOS days.
+    ** There was a quick tangent about whether understanding bootloaders is still a relevant skill or mostly niche territory for embedded and kernel folks.
