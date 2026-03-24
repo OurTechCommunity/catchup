@@ -1,0 +1,24 @@
+Date: 21-03-2026
+
+Duration: 1 hr 40 mins
+
+==== Topics Discussed
+
+* OTC Talks #12 took place, followed by the weekly catch-up session.
+    ** link:https://talks.ourtech.community/12[When Your Package Manager Became a Weapon: Anatomy of the First Self-Replicating Supply Chain Worm^]
+* Darshan shared his ongoing project of building a 9x9 Tic Tac Toe game.
+    ** The discussion focused on the complexity of handling multiple game states and state transitions.
+* A discussion took place around recent updates in the Android ecosystem regarding stricter developer verification and app installation policies.
+    ** link:https://news.ycombinator.com/item?id=47442690[Hacker News Discussion^]
+    ** link:https://android-developers.googleblog.com/2026/03/android-developer-verification.html?m=1[Android Developer Verification Update^]
+    ** The changes aim to restrict installation of apps from unverified developers and improve platform security.
+* Kartik shared ideas about reflashing old phones and reusing them, similar to concepts like modular or repairable systems (e.g., Framework).
+    ** The discussion explored feasibility, usability, and potential profitability of such an approach.
+* Alpesh shared an experience where a setup using automated tooling (e.g., OpenClaw-like systems) was able to solve challenges, generate reports, and successfully clear a company’s hiring process.
+* Alpesh also shared his cybersecurity cheat sheet called Pensieve (inspired by the concept from Harry Potter), aimed at organizing and retaining security knowledge.
+
+==== Additional Resources
+
+* link:https://en.wikipedia.org/wiki/Rice%27s_theorem[Rice's Theorem^]
+* link:https://nats.io[NATS^]
+* link:https://www.cisa.gov/news-events/alerts/2025/09/23/widespread-supply-chain-compromise-impacting-npm-ecosystem[Widespread Supply Chain Compromise Impacting npm Ecosystem^]
