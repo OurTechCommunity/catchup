@@ -1,6 +1,6 @@
 Date: 28-03-2026
 
-Duration: *[Add Duration]*
+Duration: 1 hr 55 mins
 
 ==== Topics Discussed
 
