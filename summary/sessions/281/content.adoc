@@ -1,0 +1,24 @@
+Date: 28-03-2026
+
+Duration: 1 hr 55 mins
+
+==== Topics Discussed
+
+* Nabeel emphasized the importance of having long-term goals over operating day-to-day, sharing insights from his experience.
+* Aniket shared his professional experience working in Android development.
+* Nabeel discussed his workflow with AI-assisted development and how he leverages AI tools for coding while still considering himself an engineer.
+    ** He emphasized that strong fundamentals (logic, system design, and language understanding) are essential when using AI, and that this should not be confused with “vibe coding.”
+    ** He shared insights comparing AI coding tools (e.g., Codex vs Opus).
+    ** He suggested avoiding assumptions in prompts and instead providing clear system requirements, architecture, and constraints.
+    ** He emphasized using AI as an assistant while maintaining a deep understanding of systems and code.
+    ** A related discussion highlighted the importance of thinking like an engineer rather than just a developer, focusing on system-level and business-level understanding.
+* A discussion took place on large vs small pull requests, covering trade-offs between single large PRs and multiple smaller PRs, along with different team practices.
+* Bhavesh highlighted the importance of knowing when to rely on AI for coding and when to write code manually.
+* Nabeel discussed how memory leaks can still occur in garbage-collected languages, noting that while harder to detect and fix, they are not impossible.
+* A discussion on Python internals covered its compilation and interpretation model.
+    ** It was emphasized that understanding how programming languages work internally helps in becoming a better programmer.
+
+==== Additional Resources
+
+* link:https://www.youtube.com/playlist?list=PLmYgTJf49hZaHc8H-WpexEvuNUC80zGDL[James Powell's Python Talks^]
+* link:https://dev.to/bhavesh_kukreja/how-do-lists-really-work-in-python-4cmn[What Python Lists Really Are^]
