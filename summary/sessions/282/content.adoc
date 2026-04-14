@@ -1,0 +1,18 @@
+Date: 04-04-2026
+
+Duration: 1 hr 55 mins
+
+==== Topics Discussed
+
+
+* The group reviewed leaked Claude Code source and discussed practical internals instead of leak drama, especially around output quality, context retention, and failure modes.
+    ** The discussion covered turn-level `CLAUDE.md` reinjection, skeptical memory (verify-before-act), shared prefix prompt-cache behavior across sub-agents, and context-compaction heuristics under long sessions.
+    ** It was noted that cache invalidation vectors (mode toggles, model switches, and context mutations) can reduce cache reuse and increase effective token burn.
+    ** The group also discussed benchmark/harness claims (including Terminal Bench deltas) and references to Open Code-style behavior in implementation details.
+    ** Practical ideas inspired by the review included proactive-message budget caps, semantic memory merging with a local LLM, regex-based frustration detection, prompt-cache hit-rate telemetry, and adversarial verification as a separate agent phase.
+* Darshan and Siddhesh discussed input systems in UI frameworks, including hit testing, cursor/touch coordinate handling, and how applications map low-level signals to higher-level UI actions.
+    ** The conversation covered press/down/up event flows, long-press timing thresholds, drag detection, and multi-touch interpretation based on distance and movement.
+* Rudraksh and Darshan discussed claims around leaked Claude Code internals, including prompt-denial patterns, user-acceptance/permission flows, and how the assistant may infer intent from prior interactions and file/context clues.
+* The group discussed AI memory and context architecture, token usage trade-offs, and how tool calls (including OCR/image extraction and document parsing) can affect total token cost.
+* Rudraksh shared his workflow of using Gemini for brainstorming and parts of frontend work, Opus for planning, and Sonnet for backend implementation.
+
