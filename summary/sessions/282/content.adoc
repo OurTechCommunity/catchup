@@ -4,7 +4,6 @@ Duration: 1 hr 55 mins
 
 ==== Topics Discussed
 
-
 * The group reviewed leaked Claude Code source and discussed practical internals instead of leak drama, especially around output quality, context retention, and failure modes.
     ** The discussion covered turn-level `CLAUDE.md` reinjection, skeptical memory (verify-before-act), shared prefix prompt-cache behavior across sub-agents, and context-compaction heuristics under long sessions.
     ** It was noted that cache invalidation vectors (mode toggles, model switches, and context mutations) can reduce cache reuse and increase effective token burn.
