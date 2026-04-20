@@ -6,8 +6,7 @@ Duration: 1 hr 24 mins
 
 * Alpesh shared some huge updates about his startup, CyberUnbound, including getting selected for link:https://www.startupschool.org[Y Combinator's Startup School^].
     ** Sushrut shared some insights about the experience at link:https://www.draperuniversity.com[Draper University / Draper House^].
-* Urvil walked the group through his recent journey wrapping up his 12th boards and CET exams.
-    ** He is now diving into web development (HTML and CSS) and showed off some of the projects he has built so far to get his hands dirty.
+* Urvil shared he is diving into web development (HTML and CSS) and showed off some of the projects he has built so far .
 * Alpesh also laid out his master plan for upskilling, breaking down the specific cybersecurity certifications he is targeting next, including forensics and some of the more premium security certs.
 * Siddharth did a deep dive into the startup he has been building, sparking a really solid technical and business discussion around that space.
 * Ayush and Urvil had an extensive chat covering the realities of hardware, navigating college fees and exams, the massive value of jumping into open-source early, and general career trajectory advice.
