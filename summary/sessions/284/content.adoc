@@ -1,0 +1,10 @@
+Date: 18-04-2026
+
+Duration: 1 hr 10 mins
+
+==== Topics Discussed
+
+* GAMILTRON shared that he is exploring multiple things before choosing a specific sub domain in CS.
+    ** He asked about colleges and about placements in it.
+    ** He asked about link:https://www.coursera.org/degrees/bachelor-of-science-computer-science-bits[online CS degree^] by Bits college and coursera.
+* Ankush shared his link:https://ankushhkapoor.vercel.app[portfolio^] (currently under development).
