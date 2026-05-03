@@ -1,0 +1,25 @@
+Date: 25-04-2026
+
+Duration: 1 hr 40 mins
+
+==== Topics Discussed
+
+* Alpesh walked through his hiring startup work under Cyber Unbound.
+    ** The team avoids LinkedIn APIs and scraping (policy and legal risk for a production company) and instead they enrich roles using third-party people-data providers combined with AI for JD parsing and matching.
+    ** He described a workflow similar to chat for sourcing: paste a job description, get back matched profiles from many active sources, with a long-term store (internally called “Pensive,” a Harry Potter reference) so profiles are not refetched repeatedly.
+    ** Next steps he is tackling include automating first-line outreach and screening interviews (security fundamentals, then GitHub-led project and code-level questions), with later rounds staying with the hiring company; voice UX that feels human was discussed, including hosted realtime stacks such as LiveKit for self-hosted or tuned experiences, and tooling in the ElevenLabs class for natural speech.
+    ** He mentioned active fundraising conversations (including inbound from investors after a CEO post gained traction) and a planned re-launch of the Cyber Unbound product with refreshed positioning around mid-May, alongside ongoing automation of operations (sourcing largely done, interviews largely automated, onboarding/content still the heavier manual piece).
+* Lebyy shared context from a recent Princeton-adjacent hackathon where he met someone from the YC ecosystem interested in LinkedIn-marketing-style automation; he had started experimenting with an agent-oriented stack but paused for exams.
+* Krishna Gadia and Alpesh discussed timelines and trade-offs for graduate study abroad—GRE vs TOEFL/IELTS emphasis, sealed transcripts, diploma lateral-entry implications for transcript years, typical US application windows (e.g. aiming for fall 2027), spring-admit alternatives, and how entrepreneurial track record weighs more for MBA paths than for a CS-focused MS.
+* Krishna and Lebyy compared notes on US university life and travel—Lebyy at Rutgers, Krishna’s recent travel in the northeastern US, and Lebyy’s trip to Penn State Harrisburg for a hackathon (ACM-style event with travel support), including overlap on organisers such as Dr Jeremy Bloom and how satellite campuses feel versus larger hubs.
+* Alpesh demoed a side project: a Monkeytype-style trainer focused on cybersecurity commands and short explanations, aimed at muscle memory for shell and tooling workflows.
+* Siddhesh Varhadi joined briefly and mentioned a hectic stretch around a recent college event.
+* The group reflected on how OTC CatchUp summaries are produced today—starting from meeting notes and doing a smaller refinement pass—contrasted with older workflows where dedicated note-takers and writers spent much longer per session.
+
+==== Additional resources and links
+
+* link:https://livekit.io[LiveKit^]
+* link:https://elevenlabs.io[ElevenLabs^]
+* link:https://www.rutgers.edu[Rutgers University^]
+* link:https://harrisburg.psu.edu[Penn State Harrisburg^]
+* link:https://monkeytype.com[Monkeytype^]
