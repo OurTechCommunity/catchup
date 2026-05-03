@@ -1,0 +1,42 @@
+Date: 02-05-2026
+
+Duration: 2 hr 15 mins
+
+==== Topics Discussed
+
+* The session started with a talk on emergency phone alerts in the US, how simultaneous broadcasts feel in offices, what typical messages contain (vehicle or clothing cues, names, last-seen hints), and anecdotal views on how quickly children are found. 
+    ** Alpesh Bhagwatkar recalled reading rough recovery-rate figures in roughly the 50–60% range, without claiming rigorous statistics. Later in chat Kaustubh shared an Ontario Police–quoted report suggesting very high safe-recovery rates after Amber-style alerts—still jurisdiction-specific and not directly comparable to informal anecdotes.
+* Harsh Kapadia and Alpesh briefly discussed shell prompt customization (`PS1` / “prompt statement”): showing Git branch metadata versus history / exit-status placeholders such as `!` and `?`, which Alpesh said he had not dug into despite seeing them daily. 
+    **Shivang Chheda clarified in chat that in one common convention `+n` counts staged files, `!n` modified-but-unstaged files, and `?n` untracked files—and that “PS” here means the shell prompt, not PowerShell. 
+    ** Bhavesh Kukreja pointed at link:https://github.com/HarshKapadia2/dotfiles/tree/main/customize-ps1[Harsh’s `customize-ps1` notes^] for reference.
+* Alpesh showcased internal tooling at Cyber Unbound (cyber-security-focused recruitment), built after earlier resistance to automation inside the agency.
+* Alpesh’s second demo was a static typing-practice site in the Monkeytype mould but seeded with offensive-security commands and one-line explanations
+* GAMILTRON asked for hackathon-laptop advice on a roughly ₹20–30k budget saved from pocket money, primarily general web/systems development rather than heavy local AI.
+    ** Suggestions spanned stretching toward a used Apple silicon MacBook if finances allow, buying vetted refurbished business-class Windows machines, verifying CPU generation (Windows 11 eligibility versus Linux-first setups), favouring SSDs over HDDs and planning at least ~500 GB for tooling footprints like `node_modules`, and understanding RAM/core trade-offs versus his powerful gift-built desktop (RTX 4070 class, ample RAM) that cannot travel.
+    ** Harsh cautioned against exposing a home PC over the internet for remote hackathon use—carrier-grade NAT (CGNAT) realities in India, tunneling products popular in self-hosted circles, and his own past US experience with dynamic DNS, SSH exposure, and frequent ISP-blocked intrusion attempts even with mitigations—while acknowledging theoretical workarounds Shivang Chheda raised.
+    ** The group disagreed politely on whether selling the desktop to fund one strong portable machine made sense versus keeping both tiers of hardware.
+
+==== Additional resources
+
+* link:https://missing.csail.mit.edu[MIT Missing Semester (OTC chat)^]
+* link:https://www.ctvnews.ca/toronto/article/ontario-police-say-more-than-90-of-amber-alerts-lead-to-safe-recovery-of-children/[Ontario Police on Amber Alert outcomes (CTV News) — Kaustubh^]
+* link:https://github.com/HarshKapadia2/dotfiles/tree/main/customize-ps1[Harsh Kapadia — customize `PS1` (dotfiles)^]
+* link:https://tornews.com/privacy/security/what-is-google-dorking/[What is Google dorking? (Tor News)^]
+* link:https://www.hackthebox.com[Hack The Box^]
+* link:https://news.ycombinator.com/item?id=47788857[Hacker News — IPv8 draft thread — GAMILTRON / Bhavesh^]
+* link:https://www.datacamp.com/blog/faiss-facebook-ai-similarity-search[Datacamp — Faiss overview — Rudraksh^]
+* link:https://arxiv.org/abs/2512.24601[arXiv:2512.24601^]
+* link:https://www.linkedin.com/feed/update/urn:li:activity:7456373930421870592/[Bhavesh — LinkedIn project update (AutoTriage)^]
+* link:https://medium.com/@amritsinghbist/understanding-langchain-what-it-is-why-its-needed-and-how-to-use-it-c482f56fa1b5[Understanding LangChain (Medium)^]
+* link:https://github.com/BhaveshKukreja29/AutoTriage/blob/main/code/router.py#L30[AutoTriage `router.py` (regex excerpt)^]
+* link:https://github.com/BhaveshKukreja29/AutoTriage/blob/main/code/router.py#L58[AutoTriage `router.py` (prompt routing)^]
+* link:https://datatracker.ietf.org/doc/draft-meow-mrrp[IETF Datatracker — draft-meow-mrrp^]
+* link:https://www.rfc-editor.org/rfc/rfc2549[RFC 2549^]
+* link:https://www.reenigne.org/blog/8086-microcode-disassembled/[8086 microcode disassembled (Reenigne)^]
+* link:https://news.ycombinator.com/item?id=46735133[Hacker News — 8086 microcode post^]
+* link:https://www.righto.com/2013/01/inside-alu-of-8085-microprocessor.html[Inside the ALU of the 8085 (Righto)^]
+* link:https://www.cse.iitd.ac.in/~ssen/journals/jacm.pdf[Cache-friendly algorithms — JACM paper (IIT Delhi mirror)^]
+* link:https://gist.github.com/HarshKapadia2/53667760d966cb81a6c1df44f9553c9e[Harsh Kapadia — gist^]
+* link:https://meetup.ourtech.community/5[Caught Up With OTC — Meet #5^]
+* link:https://www.youtube.com/@OnurMutluLectures[Onur Mutlu — lectures^]
+* link:https://www.read.ai/pp[Read.ai privacy policy — meeting bot notice^]
