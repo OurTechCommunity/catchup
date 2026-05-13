@@ -17,7 +17,7 @@ Duration: 2 hr 15 mins
 
 ==== Additional resources
 
-* link:https://missing.csail.mit.edu[MIT Missing Semester (OTC chat)^]
+* link:https://missing.csail.mit.edu[MIT Missing Semester^]
 * link:https://www.ctvnews.ca/toronto/article/ontario-police-say-more-than-90-of-amber-alerts-lead-to-safe-recovery-of-children/[Ontario Police on Amber Alert outcomes (CTV News) — Kaustubh^]
 * link:https://github.com/HarshKapadia2/dotfiles/tree/main/customize-ps1[Harsh Kapadia — customize `PS1` (dotfiles)^]
 * link:https://tornews.com/privacy/security/what-is-google-dorking/[What is Google dorking? (Tor News)^]
