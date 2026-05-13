@@ -35,4 +35,3 @@ Duration: 2 hr 15 mins
 * link:https://gist.github.com/HarshKapadia2/53667760d966cb81a6c1df44f9553c9e[Harsh Kapadia's gist^]
 * link:https://meetup.ourtech.community/5[Caught Up With OTC Meet #5^]
 * link:https://www.youtube.com/@OnurMutluLectures[Onur Mutlu lectures^]
-
