@@ -18,7 +18,6 @@ Duration: 2 hr 15 mins
 ==== Additional resources
 
 * link:https://missing.csail.mit.edu[MIT Missing Semester^]
-* link:https://github.com/HarshKapadia2/dotfiles/tree/main/customize-ps1[Harsh Kapadia — customize `PS1` (dotfiles)^]
 * link:https://tornews.com/privacy/security/what-is-google-dorking/[What is Google dorking? (Tor News)^]
 * link:https://www.hackthebox.com[Hack The Box^]
 * link:https://news.ycombinator.com/item?id=47788857[Hacker News - IPv8^]
