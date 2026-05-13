@@ -1,0 +1,37 @@
+Date: 02-05-2026
+
+Duration: 2 hr 15 mins
+
+==== Topics Discussed
+
+* Brief discussion took place on emergency alert systems and their real-world impact.
+* Harsh Kapadia and Alpesh briefly discussed shell prompt customization (`PS1` / “prompt statement”): showing Git branch metadata versus history / exit-status placeholders such as `!` and `?`
+    ** Shivang Chheda clarified that in one common convention `+n` counts staged files, `!n` modified-but-unstaged files, and `?n` untracked files and that “PS” here means the shell prompt, not PowerShell. 
+    ** Bhavesh Kukreja pointed at link:https://github.com/HarshKapadia2/dotfiles/tree/main/customize-ps1[Harsh’s `customize-ps1` notes^] for reference.
+* Alpesh showcased internal tooling at Cyber Unbound (cyber-security-focused recruitment), built after earlier resistance to automation inside the agency.
+* Alpesh showed a static typing-practice site in the Monkeytype mould but seeded with offensive-security commands and one-line explanations
+* GAMILTRON asked for hackathon-laptop advice on a roughly ₹20–30k budget saved from pocket money, primarily general web/systems development rather than heavy local AI.
+    ** Suggestions spanned stretching toward a used Apple silicon MacBook if finances allow, buying vetted refurbished business-class Windows machines, verifying CPU generation (Windows 11 eligibility versus Linux-first setups), favouring SSDs over HDDs and planning at least ~500 GB for tooling footprints like `node_modules`, and understanding RAM/core trade-offs versus his powerful gift-built desktop (RTX 4070 class, ample RAM) that cannot travel.
+    ** Harsh advised against exposing a personal computer to the internet for hackathons. He explained that due to CGNAT in India it’s not straightforward, and even if you make it work using tunneling or port forwarding, your system can attract hacking attempts. Based on his experience, even with protections, such setups face frequent attacks, so it’s risky unless properly secured.
+    ** The group disagreed politely on whether selling the desktop to fund one strong portable machine made sense versus keeping both tiers of hardware.
+
+==== Additional resources
+
+* link:https://missing.csail.mit.edu[MIT Missing Semester^]
+* link:https://tornews.com/privacy/security/what-is-google-dorking[What is Google dorking?^]
+* link:https://www.hackthebox.com[Hack The Box^]
+* link:https://news.ycombinator.com/item?id=47788857[Hacker News IPv8^]
+* link:https://www.datacamp.com/blog/faiss-facebook-ai-similarity-search[Datacamp Faiss overview^]
+* link:https://arxiv.org/abs/2512.24601[arXiv Recursive Language Models^]
+* link:https://www.linkedin.com/feed/update/urn:li:activity:7456373930421870592[Bhavesh's LinkedIn project update (AutoTriage)^]
+* link:https://medium.com/@amritsinghbist/understanding-langchain-what-it-is-why-its-needed-and-how-to-use-it-c482f56fa1b5[Understanding LangChain (Medium)^]
+* link:https://github.com/BhaveshKukreja29/AutoTriage[AutoTriage GitHub repo^]
+* link:https://datatracker.ietf.org/doc/draft-meow-mrrp[IETF Datatracker draft-meow-mrrp^]
+* link:https://www.rfc-editor.org/rfc/rfc2549[RFC 2549^]
+* link:https://www.reenigne.org/blog/8086-microcode-disassembled[8086 microcode disassembled^]
+* link:https://news.ycombinator.com/item?id=46735133[Hacker News 8086 microcode post^]
+* link:https://www.righto.com/2013/01/inside-alu-of-8085-microprocessor.html[Inside the ALU of the 8085^]
+* link:https://www.cse.iitd.ac.in/~ssen/journals/jacm.pdf[Cache-friendly algorithms JACM paper (IIT Delhi mirror)^]
+* link:https://gist.github.com/HarshKapadia2/53667760d966cb81a6c1df44f9553c9e[Harsh Kapadia's gist^]
+* link:https://meetup.ourtech.community/5[Caught Up With OTC Meet #5^]
+* link:https://www.youtube.com/@OnurMutluLectures[Onur Mutlu lectures^]
