@@ -12,7 +12,7 @@ Duration: 2 hr 15 mins
 * Alpesh showed a static typing-practice site in the Monkeytype mould but seeded with offensive-security commands and one-line explanations
 * GAMILTRON asked for hackathon-laptop advice on a roughly ₹20–30k budget saved from pocket money, primarily general web/systems development rather than heavy local AI.
     ** Suggestions spanned stretching toward a used Apple silicon MacBook if finances allow, buying vetted refurbished business-class Windows machines, verifying CPU generation (Windows 11 eligibility versus Linux-first setups), favouring SSDs over HDDs and planning at least ~500 GB for tooling footprints like `node_modules`, and understanding RAM/core trade-offs versus his powerful gift-built desktop (RTX 4070 class, ample RAM) that cannot travel.
-    ** Harsh cautioned against exposing a home PC over the internet for remote hackathon use—carrier-grade NAT (CGNAT) realities in India, tunneling products popular in self-hosted circles, and his own past US experience with dynamic DNS, SSH exposure, and frequent ISP-blocked intrusion attempts even with mitigations—while acknowledging theoretical workarounds Shivang Chheda raised.
+    ** Harsh advised against exposing a personal computer to the internet for hackathons. He explained that due to CGNAT in India it’s not straightforward, and even if you make it work using tunneling or port forwarding, your system can attract hacking attempts. Based on his experience, even with protections, such setups face frequent attacks, so it’s risky unless properly secured.
     ** The group disagreed politely on whether selling the desktop to fund one strong portable machine made sense versus keeping both tiers of hardware.
 
 ==== Additional resources
