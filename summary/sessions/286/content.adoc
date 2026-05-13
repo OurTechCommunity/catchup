@@ -22,7 +22,7 @@ Duration: 2 hr 15 mins
 * link:https://github.com/HarshKapadia2/dotfiles/tree/main/customize-ps1[Harsh Kapadia — customize `PS1` (dotfiles)^]
 * link:https://tornews.com/privacy/security/what-is-google-dorking/[What is Google dorking? (Tor News)^]
 * link:https://www.hackthebox.com[Hack The Box^]
-* link:https://news.ycombinator.com/item?id=47788857[Hacker News — IPv8 draft thread — GAMILTRON / Bhavesh^]
+* link:https://news.ycombinator.com/item?id=47788857[Hacker News - IPv8^]
 * link:https://www.datacamp.com/blog/faiss-facebook-ai-similarity-search[Datacamp — Faiss overview — Rudraksh^]
 * link:https://arxiv.org/abs/2512.24601[arXiv:2512.24601^]
 * link:https://www.linkedin.com/feed/update/urn:li:activity:7456373930421870592/[Bhavesh — LinkedIn project update (AutoTriage)^]
