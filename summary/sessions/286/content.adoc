@@ -22,7 +22,7 @@ Duration: 2 hr 15 mins
 * link:https://www.hackthebox.com[Hack The Box^]
 * link:https://news.ycombinator.com/item?id=47788857[Hacker News - IPv8^]
 * link:https://www.datacamp.com/blog/faiss-facebook-ai-similarity-search[Datacamp - Faiss overview^]
-* link:https://arxiv.org/abs/2512.24601[arXiv:2512.24601^]
+* link:https://arxiv.org/abs/2512.24601[arXiv: Recursive Language Models^]
 * link:https://www.linkedin.com/feed/update/urn:li:activity:7456373930421870592/[Bhavesh — LinkedIn project update (AutoTriage)^]
 * link:https://medium.com/@amritsinghbist/understanding-langchain-what-it-is-why-its-needed-and-how-to-use-it-c482f56fa1b5[Understanding LangChain (Medium)^]
 * link:https://github.com/BhaveshKukreja29/AutoTriage/blob/main/code/router.py#L30[AutoTriage `router.py` (regex excerpt)^]
