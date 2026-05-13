@@ -4,8 +4,7 @@ Duration: 2 hr 15 mins
 
 ==== Topics Discussed
 
-* The session started with a talk on emergency phone alerts in the US, how simultaneous broadcasts feel in offices, what typical messages contain (vehicle or clothing cues, names, last-seen hints), and anecdotal views on how quickly children are found. 
-    ** Alpesh Bhagwatkar recalled reading rough recovery-rate figures in roughly the 50–60% range, without claiming rigorous statistics. Later in chat Kaustubh shared an Ontario Police–quoted report suggesting very high safe-recovery rates after Amber-style alerts—still jurisdiction-specific and not directly comparable to informal anecdotes.
+* Brief discussion took place on emergency alert systems and their real-world impact.
 * Harsh Kapadia and Alpesh briefly discussed shell prompt customization (`PS1` / “prompt statement”): showing Git branch metadata versus history / exit-status placeholders such as `!` and `?`, which Alpesh said he had not dug into despite seeing them daily. 
     **Shivang Chheda clarified in chat that in one common convention `+n` counts staged files, `!n` modified-but-unstaged files, and `?n` untracked files—and that “PS” here means the shell prompt, not PowerShell. 
     ** Bhavesh Kukreja pointed at link:https://github.com/HarshKapadia2/dotfiles/tree/main/customize-ps1[Harsh’s `customize-ps1` notes^] for reference.
