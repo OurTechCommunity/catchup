@@ -5,7 +5,7 @@ Duration: 2 hr 15 mins
 ==== Topics Discussed
 
 * Brief discussion took place on emergency alert systems and their real-world impact.
-* Harsh Kapadia and Alpesh briefly discussed shell prompt customization (`PS1` / “prompt statement”): showing Git branch metadata versus history / exit-status placeholders such as `!` and `?`, which Alpesh said he had not dug into despite seeing them daily. 
+* Harsh Kapadia and Alpesh briefly discussed shell prompt customization (`PS1` / “prompt statement”): showing Git branch metadata versus history / exit-status placeholders such as `!` and `?`
     **Shivang Chheda clarified in chat that in one common convention `+n` counts staged files, `!n` modified-but-unstaged files, and `?n` untracked files—and that “PS” here means the shell prompt, not PowerShell. 
     ** Bhavesh Kukreja pointed at link:https://github.com/HarshKapadia2/dotfiles/tree/main/customize-ps1[Harsh’s `customize-ps1` notes^] for reference.
 * Alpesh showcased internal tooling at Cyber Unbound (cyber-security-focused recruitment), built after earlier resistance to automation inside the agency.
