@@ -28,7 +28,7 @@ Duration: 2 hr 15 mins
 * link:https://github.com/BhaveshKukreja29/AutoTriage[AutoTriage GitHub repo^]
 * link:https://datatracker.ietf.org/doc/draft-meow-mrrp[IETF Datatracker draft-meow-mrrp^]
 * link:https://www.rfc-editor.org/rfc/rfc2549[RFC 2549^]
-* link:https://www.reenigne.org/blog/8086-microcode-disassembled/[8086 microcode disassembled^]
+* link:https://www.reenigne.org/blog/8086-microcode-disassembled[8086 microcode disassembled^]
 * link:https://news.ycombinator.com/item?id=46735133[Hacker News 8086 microcode post^]
 * link:https://www.righto.com/2013/01/inside-alu-of-8085-microprocessor.html[Inside the ALU of the 8085^]
 * link:https://www.cse.iitd.ac.in/~ssen/journals/jacm.pdf[Cache-friendly algorithms JACM paper (IIT Delhi mirror)^]
