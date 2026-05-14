@@ -15,4 +15,3 @@ Duration: 1 hr 40 mins
 
 * link:https://www.rutgers.edu[Rutgers University^]
 * link:https://harrisburg.psu.edu[Penn State Harrisburg^]
-* link:https://monkeytype.com[Monkeytype^]
