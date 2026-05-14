@@ -10,10 +10,3 @@ Duration: 1 hr 40 mins
 * Lebyy shared his experience from a recent hackathon near Princeton, where he met someone from the YC ecosystem working on LinkedIn-style automation tools. He had started experimenting with an agent-based system for this but paused due to exams.
 * Brief discussion took place on study-abroad pathways for tech degrees, including exams, application timelines, and evaluation criteria.
 * Alpesh demoed a side project which is a Monkeytype trainer focused on cybersecurity commands and short explanations, aimed at muscle memory for shell and tooling workflows.
-
-==== Additional resources and links
-
-* link:https://www.rutgers.edu[Rutgers University^]
-* link:https://harrisburg.psu.edu[Penn State Harrisburg^]
-* link:https://livekit.com[livekit^]
-* link:https://elevenlabs.io/[ElevenLabs^]
