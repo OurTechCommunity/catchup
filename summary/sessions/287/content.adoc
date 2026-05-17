@@ -1,0 +1,18 @@
+Date: 09-05-2026
+
+Duration: 2 hr 07 mins
+
+==== Topics Discussed
+
+* Nirmal asked for suggestions on buying domains.
+* Vijay shared about link:https://www.airwave.us[Airwave^], the smart glasses company where he works.
+    ** He explained how the smart glasses support video recording and automatically generate reports using AI agents.
+* Vijay shared his startup link:https://play.google.com/store/apps/details?id=com.factoryfeed.factoryfeedapp[Factory Feed^], a platform similar to Instagram Reels focused on B2B networking.
+* Vijay also shared insights on an AI-powered YouTube extension which he is developing to answer questions directly from YouTube videos.
+
+==== Additional resources
+
+* link:https://youtu.be/lkifbWtxxlk[732 bytes of Python just borked every Linux machine on earth…^]
+* link:https://news.ycombinator.com/item?id=47952181[Copy Fail - Hacker News^]
+* link:https://youtu.be/GmSCZdc1iYA[Level1Linux - Linux Weekly 6^]
+* link:https://youtu.be/7ySErnrYvGs[Level1Linux - Linux Weekly 7^]
