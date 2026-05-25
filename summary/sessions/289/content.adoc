@@ -1,0 +1,16 @@
+Date: 23-05-2026
+
+Duration: 2 hrs 31 mins
+
+==== Topics Discussed
+
+* Jaden shared link:https://nomesma.com[No Mesma^], where he works as a cybersecurity consultant.
+    ** The company develops infrastructure for Central Bank Digital Currency (CBDC) and digital payment systems, including support for offline payments, and accountable double-spend detection.
+* A discussion took place on the impact of AI on jobs and how the job market is evolving with increased AI adoption.
+    ** Job preparation strategies, valuable skills in an AI-assisted world, and ways to stay competitive were discussed.
+        *** link:https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fyou-wont-lose-your-job-to-ai-but-to-v0-maoxn011dp8f1.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Df3eacec4d42fbe83aa18d7679f461509054e343c["You won't lose your job to AI..." discussion image^]
+* Recent cybersecurity incidents and vulnerabilities were discussed, including Linux vulnerabilities and security issues affecting widely used software and services.
+
+==== Additional resources
+
+* link:https://www.cnbc.com/2026/04/22/meta-tracks-employee-usage-on-google-linkedin-ai-training-project.html[Meta tracks employee usage of AI training tools^]
