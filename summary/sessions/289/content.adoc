@@ -10,6 +10,11 @@ Duration: 2 hrs 31 mins
     ** Job preparation strategies, valuable skills in an AI-assisted world, and ways to stay competitive were discussed.
         *** link:https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fyou-wont-lose-your-job-to-ai-but-to-v0-maoxn011dp8f1.png%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Df3eacec4d42fbe83aa18d7679f461509054e343c["You won't lose your job to AI..." discussion image^]
 * Recent cybersecurity incidents and vulnerabilities were discussed, including Linux vulnerabilities and security issues affecting widely used software and services.
+    ** link:https://youtu.be/m5t08CREHcE[The GitHub situation just got worse...^]
+    ** link:https://youtu.be/vel8YW7eCzE[RCE Bug Found in NGINX (With AI Tools)^]
+    ** link:https://youtu.be/MaFK5AXpXXw[This Exploits LITERALLY Every Linux Distro^]
+    ** link:https://copy.fail[Copy Fail^]
+    ** link:https://youtu.be/8s9jaIPR7PU[they just keep finding more exploits^]
 
 ==== Additional resources
 
