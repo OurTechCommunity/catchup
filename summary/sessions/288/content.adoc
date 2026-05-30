@@ -10,7 +10,7 @@ Duration: 1 hr 39 mins
     ** He shared his experience building a custom libfuse filesystem and utilizing link:https://github.com/libfuse/sshfs[SSHFS Repository^].
 * Nabeel Parker, founder of link:https://hexsis.com[Hexsis^], shared his startup journey and the services his company provides.
     ** This led to a massive discussion between him and Darshan Rander about link:https://grpc.io[gRPC^] and when it should be used.
-* The gRPC talk naturally evolved into a broader group discussion about microservices, debating the architectural trade-offs of why, when, and how to implement them effectively.
+* The discussion evolved to microservices, debating the architectural trade-offs of why, when, and how to implement them effectively.
 * Darshan Rander sparked a conversation around Terraform and infrastructure design, referencing a great article on link:https://terrateam.io/blog/terraform-deployment-with-layered-architecture[Terraform deployment with layered architecture^].
 * Alpesh Bhagwatkar shared his impressive career progression from an intern to COO at his startup, and broke down the architecture of a chatbot he built for their internal operations.
 
