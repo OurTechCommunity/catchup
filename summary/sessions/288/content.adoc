@@ -13,10 +13,3 @@ Duration: 1 hr 39 mins
 * The discussion evolved to microservices, debating the architectural trade-offs of why, when, and how to implement them effectively.
 * Darshan Rander sparked a conversation around Terraform and infrastructure design, referencing a great article on link:https://terrateam.io/blog/terraform-deployment-with-layered-architecture[Terraform deployment with layered architecture^].
 * Alpesh Bhagwatkar shared his impressive career progression from an intern to COO at his startup, and broke down the architecture of a chatbot he built for their internal operations.
-
-==== Additional resources
-
-** link:https://www.gnu.org[The GNU Operating System^]
-** link:https://events.linuxfoundation.org/kubecon-cloudnativecon-india[KubeCon + CloudNativeCon India^]
-** link:https://grpc.io[gRPC Official Documentation^]
-** link:https://github.com/libfuse/sshfs[SSHFS Repository^]
