@@ -1,0 +1,15 @@
+Date: 16-05-2026
+
+Duration: 1 hr 39 mins
+
+==== Topics Discussed
+
+* Ayush More and Ayush S had a discussion about open-source contributions, specifically focusing on the link:https://www.gnu.org[GNU^] project and how to get involved.
+* The group talked about upcoming local tech meetups in Mumbai, including events for Nvidia India, the Claude Mumbai Hackathon, and [KubeCon](link:https://events.linuxfoundation.org/kubecon-cloudnativecon-india[KubeCon + CloudNativeCon India^]).
+* Ayush S did a deep dive into link:https://github.com/libfuse/libfuse[libfuse^] and file systems.
+    ** He shared his experience building a custom libfuse filesystem and utilizing link:https://github.com/libfuse/sshfs[SSHFS Repository^].
+* Nabeel Parker, founder of link:https://hexsis.com[Hexsis^], shared his startup journey and the services his company provides.
+    ** This led to a massive discussion between him and Darshan Rander about link:https://grpc.io[gRPC^] and when it should be used.
+* The discussion evolved to microservices, debating the architectural trade-offs of why, when, and how to implement them effectively.
+* Darshan Rander sparked a conversation around Terraform and infrastructure design, referencing a great article on link:https://terrateam.io/blog/terraform-deployment-with-layered-architecture[Terraform deployment with layered architecture^].
+* Alpesh Bhagwatkar shared his impressive career progression from an intern to COO at his startup, and broke down the architecture of a chatbot he built for their internal operations.
