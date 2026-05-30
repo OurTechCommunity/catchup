@@ -4,7 +4,7 @@ Duration: 1 hr 39 mins
 
 ==== Topics Discussed
 
-* Ayush More and Ayush had a discussion about open-source contributions, specifically focusing on the GNU project and how to get involved.
+* Ayush More and Ayush S had a discussion about open-source contributions, specifically focusing on the link:https://www.gnu.org[GNU^] project and how to get involved.
 * The group talked about upcoming local tech meetups in Mumbai, including events for Nvidia India, Claude Mumbai, the Claude Mumbai Hackathon, and KubeCon India.
 * Ayush (not Ayush More) did a deep dive into link:https://github.com/libfuse/libfuse[libfuse^] and file systems.
     ** He shared his experience building a custom libfuse filesystem and utilizing `sshfs`.
