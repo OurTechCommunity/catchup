@@ -7,7 +7,7 @@ Duration: 1 hr 39 mins
 * Ayush More and Ayush S had a discussion about open-source contributions, specifically focusing on the link:https://www.gnu.org[GNU^] project and how to get involved.
 * The group talked about upcoming local tech meetups in Mumbai, including events for Nvidia India, the Claude Mumbai Hackathon, and [KubeCon](link:https://events.linuxfoundation.org/kubecon-cloudnativecon-india[KubeCon + CloudNativeCon India^]).
 * Ayush S did a deep dive into link:https://github.com/libfuse/libfuse[libfuse^] and file systems.
-    ** He shared his experience building a custom libfuse filesystem and utilizing `sshfs`.
+    ** He shared his experience building a custom libfuse filesystem and utilizing link:https://github.com/libfuse/sshfs[SSHFS Repository^].
 * Nabeel Parker, founder of link:https://hexsis.com[Hexsis^], shared his startup journey and the services his company provides.
     ** This led to a massive discussion between him and Darshan Rander about gRPC—specifically when you should use it and when you absolutely shouldn't.
 * The gRPC talk naturally evolved into a broader group discussion about microservices, debating the architectural trade-offs of why, when, and how to implement them effectively.
