@@ -1,0 +1,14 @@
+Date: 30-05-2026
+
+Duration: 1 hr 36 mins
+
+==== Topics Discussed
+
+* Jay kicked things off by showcasing a game he built from scratch called link:https://where-is-my-cheese.netlify.app[Where is My Cheese^]. He explained his level design and the math behind it, specifically breaking down how he hardcoded the rotation of the doors in Python using 3D sets to make the gates function properly.
+* Mohit Gangwani brought up a great point about the engineering mindset emphasizing how crucial it is to keep exploring and building side projects even after you graduate or land a full-time job.
+    ** He walked us through his current side project: an expense-tracking app. The group had a conversation on the architecture, weighing the pros and cons of fetching bank data via official account aggregators versus the massive security and privacy headaches involved. Mohit pitched SMS parsing as a more practical workaround to avoid those bottlenecks.
+* Vijay shared some hardware and software challenges from his Bay Area startup, which is building smart glasses similar to Ray-Bans. Since his Chinese hardware supplier provides glasses that can only record in limited 1-minute chunks, his engineering team is actively building a an app to stitch those short clips together into a single, continuous video for the end user.
+* The conversation then shifted to discussion about life in the US with Pranav and Vijay. They opened up about navigating master's programs in New York and San Diego, and the intense stress of the visa lotteries. Vijay shared his personal struggles with visa refusals and drive to settle in the Bay Area so he can be directly work with his startup team.
+* Ayush, Pranav, and Harsh had conversation deep into the operating system layer, geeking out over Windows architecture. They unpacked how link:https://learn.microsoft.com/en-us/windows/wsl[WSL (Windows Subsystem for Linux)^] actually operates, the mechanics of link:https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about[Hyper-V^], how hypervisors manage resources, and the specifics of root partitions in a Windows environment.
+* To wrap up, Harsh and Ayush had  discussion about the massive impact of the open-source community. Harsh highlighted Ayush's career growth and his current work handling infrastructure at link:https://sherlocks.ai[Sherlocks.ai^].
+    ** Ayush shared the realities of his open-source journey talking about the early contributions, scoring a link:https://www.cncf.io/[CNCF^] travel scholarship for Europe, and the huge milestone of transitioning from a contributor to an official organization member for the link:https://pipecd.dev/[PipeCD^] project.
