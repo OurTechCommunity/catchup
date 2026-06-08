@@ -47,7 +47,9 @@ function collectUsernames(fileContents, filePath) {
 		if (link && name) {
 			globalMap.set(name, link);
 		} else if (onlyName) {
-			globalMap.set(onlyName, null);
+			if (!globalMap.get(onlyName)) {
+				globalMap.set(onlyName, null);
+			}
 		} else {
 			console.warn(`Error parsing line: ${line}, filePath: ${filePath}`);
 		}
