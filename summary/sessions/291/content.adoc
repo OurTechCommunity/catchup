@@ -1,0 +1,13 @@
+Date: 06-06-2026
+
+Duration: 2 hr 24 mins
+
+==== Topics Discussed
+
+* Darshan Rander showcased link:https://heartry.darshanrander.com[Heartry^]. 
+    ** He also shared a custom UI configuration he built specifically for the Google Pixel Fold.
+* Shivam Vishwakarma shared his latest personal project: an application designed to track user learning progress across various YouTube courses.
+* Saifuddin Saifee demoed a voice-based task recorder he built from scratch. It captures spoken tasks and automatically syncs them to Google Tasks and other to-do lists.
+* Jaden Furtado discussed his experience building custom drones, breaking down the hardware mechanics and his work with brushless motors.
+* Yashika Badaya brought up KubeCon India, which led to discussion on open source opportunities.
+    ** Ayush More explained the process of securing a CNCF scholarship, highlighting the importance of active contributions to the cloud-native ecosystem.
