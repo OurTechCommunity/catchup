@@ -1,0 +1,18 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/ruby",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "asciidoctor.asciidoctor-vscode",
+        "mikestead.dotenv",
+        "redhat.vscode-yaml",
+        "streetsidesoftware.code-spell-checker"
+      ]
+    }
+  },
+  "postCreateCommand": "sh postCreateCommand.sh",
+  "forwardPorts": [5000]
+}
