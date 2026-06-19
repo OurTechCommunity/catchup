@@ -1,7 +1,9 @@
 {
 	"compilerOptions": {
 		"target": "es6",
-		"module": "commonjs",
+		"module": "nodenext",
+		"moduleResolution": "nodenext",
+		"types": ["node"],
 		"strict": true,
 		"declaration": false,
 		"allowImportingTsExtensions": true
