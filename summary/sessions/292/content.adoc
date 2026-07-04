@@ -1,0 +1,18 @@
+Date: 20-06-2026
+
+Duration: 1 hr 24 mins
+
+==== Topics Discussed
+
+* We talked about locally hosted Large Language Models (LLMs), how link:https://ollama.com[Ollama^] works behind the scenes, and the REST API layer around local models.
+    ** link:https://github.com/lemonade-sdk/lemonade[Lemonade SDK^] was shared during this discussion.
+    ** Rehan S. shared an article about Chrome silently installing a local LLM, and Alpesh clarified that the discussion was about local hosting and Ollama-style model serving.
+        *** link:https://www.theregister.com/ai-and-ml/2026/05/07/chrome-silently-installs-a-4-gb-local-llm-on-your-computer/5230893[Chrome silently installs a 4 GB local LLM on your computer - The Register^]
+* AI video generation tools were shared.
+    ** link:https://seedance2.ai[Seedance 2^]
+    ** link:https://higgsfield.ai[Higgsfield^]
+* Kaustubh Kumar recommended _Hands-On Large Language Models_ by Jay Alammar.
+* The group discussed loans, credit scores and how banks evaluate borrowers in India.
+    ** The discussion touched on collateral, gold loans, CIBIL checks, salaried accounts, self-employed borrowers and how too many loans can affect loan eligibility.
+* Bhavesh Kukreja shared the OTC CatchUp pull request for adding more session information.
+    ** link:https://github.com/OurTechCommunity/catchup/pull/75[OurTechCommunity/catchup pull request #75^]
