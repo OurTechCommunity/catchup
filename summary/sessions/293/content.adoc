@@ -21,4 +21,4 @@ Duration: 1 hr 48 mins
 * The group had a deep discussion around open-source ecosystems.
     ** They shared actionable tips on how to step up as a maintainer, efficiently manage projects, and make high-impact contributions.
 * The conversation then shifted to advanced AI development and tooling.
-    ** The discussion covered the use of `agents.md`, context layers in mapping, and leveraging specific link:https://claude.ai/[Claude^] skills for building better agents.
+    ** The discussion covered the use of `agents.md`, context layers in mapping, and leveraging specific link:https://claude.ai[Claude^] skills for building better agents.
