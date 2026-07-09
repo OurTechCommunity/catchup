@@ -5,7 +5,7 @@ Duration: 1 hr 48 mins
 ==== Topics Discussed
 
 * Janvi showcased a vibe-coded agent designed to help newcomers navigate production systems.
-    ** She utilized link:https://www.langchain.com/[LangChain^], a link:https://www.trychroma.com/[Chroma^] vector database, and RAG to simplify the onboarding process and make complex codebases more understandable without needing to read the whole codebase.
+    ** She utilized link:https://www.langchain.com[LangChain^], a link:https://www.trychroma.com[Chroma^] vector database, and RAG to simplify the onboarding process and make complex codebases more understandable without needing to read the whole codebase.
 * Bhavesh shared his learning journey and a hilarious new side project.
     ** For learning AI fundamentals, he highly recommended checking out courses on Udemy, as well as Stanford and Harvard-based learning materials.
     ** He also demoed a joke side project: a to-do list for a to-do app, complete with a purposely frustrating ragebait login page.
