@@ -1,0 +1,24 @@
+Date: 20-06-2026
+
+Duration: 1 hr 48 mins
+
+==== Topics Discussed
+
+* Janvi showcased a vibe-coded agent designed to help newcomers navigate production systems.
+    ** She utilized link:https://www.langchain.com[LangChain^], a link:https://www.trychroma.com[Chroma^] vector database, and RAG to simplify the onboarding process and make complex codebases more understandable without needing to read the whole codebase.
+* Bhavesh shared his learning journey and a hilarious new side project.
+    ** For learning AI fundamentals, he highly recommended checking out courses on Udemy, as well as Stanford and Harvard-based learning materials.
+    ** He also demoed a joke side project: a to-do list for a to-do app, complete with a purposely frustrating ragebait login page.
+* Urmil (Gamiltron) discussed his backend learning journey.
+    ** He shared a sign-in/sign-out system he built for a to-do app as a learning project.
+    ** He asked the group for advice on whether his first major project should be complex and hardcoded or something smaller, which sparked a great group discussion on learning paths, effort, and career progression.
+* Alpesh shared his recent experiences from Draper Startup House in Bangalore.
+    ** He highlighted his key learnings and the interesting founders he networked with during his stay.
+* Siddhesh discussed his ongoing project of building a custom Python interpreter.
+    ** He shared and referenced specific books related to interpreter design and mechanics in Python.
+* Ayush gave an overview of his work at link:https://sherlocks.ai[Sherlocks.ai^].
+    ** He explained his role and answered questions from the group about whether the Sherlocks platform autonomously resolves incidents.
+* The group had a deep discussion around open-source ecosystems.
+    ** They shared actionable tips on how to step up as a maintainer, efficiently manage projects, and make high-impact contributions.
+* The conversation then shifted to advanced AI development and tooling.
+    ** The discussion covered the use of `agents.md`, context layers in mapping, and leveraging specific link:https://claude.ai[Claude^] skills for building better agents.
