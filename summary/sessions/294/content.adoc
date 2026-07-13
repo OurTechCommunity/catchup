@@ -7,7 +7,7 @@ Duration: 1 hr 51 mins
 * OTC Talks #13 took place, followed by the weekly catch-up session.
     ** link:https://talks.ourtech.community/13[Prompting, Fine-Tuning, or Knowledge Grounding? Building Smarter Copilot Apps^]
 * Ishan Sharma showcased his startup, Cardboard. 
-    ** He shared the behind-the-scenes story and his journey of getting accepted into link:https://www.ycombinator.com[Y Combinator (YC)^].
+    ** He shared his story of building the startup and the journey of getting accepted into link:https://www.ycombinator.com[Y Combinator (YC)^].
     ** He also dove into WhisperFlow, breaking down its core features, insights, and the benefits it brings to users.
 * Himanshu Sharma shared his experiences about the Bangalore tech lifestyle.
     ** The conversation covered what it's actually like living, working, and navigating the startup ecosystem in the city.
