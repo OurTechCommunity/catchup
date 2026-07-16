@@ -18,8 +18,6 @@ Duration: 2 hr 16 mins
     ** He described Hyper-V as a Type 1 hypervisor that boots before guest OSes and virtualizes CPU core state.
     ** SNP/TDX encrypt and isolate guest memory so the host or other guests cannot freely read it, and they matter mainly in virtualization rather than bare-metal single-OS setups.
     ** The discussion covered multi-level page tables, machine pages, 4 KB base pages, pinned pages, STLB/TLB behavior, shadow paging, and `CR3` as the page-table base.
-    ** Some details around exact encryption key handling stayed uncertain.
-    ** Pranav committed to giving a technical talk on this in September.
 * Jatin Lachhani asked how to grow as a back-end engineer while staying with Java.
     ** The group recommended project-based learning, studying systems topics, and trying languages such as Go or C for deeper understanding.
     ** Advice included focusing on strong engineering fundamentals and building more complex systems, rather than chasing a single shortcut to keep up with AI.
