@@ -79,6 +79,27 @@
 -   Once your changes are complete, stage and push your modifications to your repository.
 -   Finally, open a pull request on the OTC CatchUp repository.
 
+### Writing session summaries using `Agents.md`
+
+[`summary/AGENTS.md`](summary/AGENTS.md) is the canonical guide for writing `content.adoc` files. Follow it whether you write the summary yourself or use an AI coding agent.
+
+It covers:
+
+-   file shape (`Date`, `Duration`, section headings)
+-   bullet nesting and how to group discussion threads
+-   voice, tone, and level of detail
+-   speaker attribution and AsciiDoc link syntax
+-   `Projects Showcased` / `Additional Resources` sections
+-   hard rules (no invented facts, no Markdown links, skip non-technical chat, do not edit `attendees.adoc` unless asked)
+
+**Steps for using an AI agent**
+
+1. Point the agent at [`summary/AGENTS.md`](summary/AGENTS.md) (for example `@summary/AGENTS.md` in Cursor, or paste/open that file in the agent context).
+2. Provide the session transcript and chat history, plus the target path such as `summary/sessions/<number>/content.adoc`.
+3. Ask the agent to create or update **only** `content.adoc` using that guide.
+4. Review the draft for missing speakers, wrong links, invented details, and tone before opening a PR.
+5. Keep attendee work separate: generate `attendees.adoc` with the util scripts above unless you explicitly ask the agent to help with attendees.
+
 ### Session Summaries & Organization Guidelines
 
 -   Summaries should capture the essence of the discussion without being overly detailed. If key context is missing, include relevant links at the end.
