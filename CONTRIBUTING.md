@@ -92,15 +92,6 @@ It covers:
 -   `Projects Showcased` / `Additional Resources` sections
 -   hard rules (no invented facts, no Markdown links, skip non-technical chat, do not edit `attendees.adoc` unless asked)
 
-**Writing by hand**
-
-1. Read recent `summary/sessions/<number>/content.adoc` files as examples.
-2. Draft the new session’s `content.adoc` against the rules in [`summary/AGENTS.md`](summary/AGENTS.md).
-3. Prefer AsciiDoc links with a trailing `^` on the label, for example:
-    ```
-    link:https://www.youtube.com/watch?v=vcp2iFzHmfwd[Profiling^]
-    ```
-
 **Steps for using an AI agent**
 
 1. Point the agent at [`summary/AGENTS.md`](summary/AGENTS.md) (for example `@summary/AGENTS.md` in Cursor, or paste/open that file in the agent context).
