@@ -12,5 +12,3 @@ Duration: 1 hr 24 mins
     ** link:https://seedance2.ai[Seedance 2^]
     ** link:https://higgsfield.ai[Higgsfield^]
 * Kaustubh Kumar recommended _Hands-On Large Language Models_ by Jay Alammar.
-* Bhavesh Kukreja shared the OTC CatchUp pull request for adding more session information.
-    ** link:https://github.com/OurTechCommunity/catchup/pull/75[OurTechCommunity/catchup pull request #75^]
