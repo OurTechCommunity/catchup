@@ -16,15 +16,15 @@ Each `content.adoc` file is a concise AsciiDoc record of one OTC CatchUp session
 
 The writing style is:
 
-- factual and compact
-- short, crisp, and easy to understand
-- written in simple English with common words
-- speaker-led when the speaker is known
-- community-meeting oriented, not corporate
-- lightly conversational, but not chatty
-- technical when the discussion was technical
-- link-rich when links were shared
-- written for someone who missed the session and wants the useful context
+-   factual and compact
+-   short, crisp, and easy to understand
+-   written in simple English with common words
+-   speaker-led when the speaker is known
+-   community-meeting oriented, not corporate
+-   lightly conversational, but not chatty
+-   technical when the discussion was technical
+-   link-rich when links were shared
+-   written for someone who missed the session and wants the useful context
 
 Do not turn a summary into an article, narrative, transcript, minutes with timestamps, or polished marketing recap.
 
@@ -46,10 +46,10 @@ Duration: N hr(s) N min(s)
 
 Keep blank lines exactly like the examples:
 
-- one blank line after `Date`
-- one blank line after `Duration`
-- one blank line after every `====` heading
-- usually no introductory paragraph before the first bullet
+-   one blank line after `Date`
+-   one blank line after `Duration`
+-   one blank line after every `====` heading
+-   usually no introductory paragraph before the first bullet
 
 Use the date format already used in the folder:
 
@@ -104,10 +104,10 @@ Use unordered AsciiDoc bullets.
 
 The existing files use both spaces and tabs for indentation. For new summaries, use spaces consistently:
 
-- `*` for main discussion threads
-- `    **` for supporting details
-- `        ***` for lists/resources inside a detail
-- `            ****` only when the source truly has a fourth level
+-   `*` for main discussion threads
+-   `    **` for supporting details
+-   `        ***` for lists/resources inside a detail
+-   `            ****` only when the source truly has a fourth level
 
 Do not over-nest. Most summaries need only `*` and `**`.
 
@@ -127,12 +127,12 @@ Good top-level bullets:
 
 Use nested bullets for:
 
-- explanations
-- links/resources attached to the topic
-- responses from other people
-- lists of technologies, books, talks, courses, or tools
-- project features and implementation details
-- pros/cons or trade-offs
+-   explanations
+-   links/resources attached to the topic
+-   responses from other people
+-   lists of technologies, books, talks, courses, or tools
+-   project features and implementation details
+-   pros/cons or trade-offs
 
 When a topic is only a list of links someone shared, make the top-level bullet the speaker/action and nest the links:
 
@@ -158,24 +158,24 @@ Write short sentences. Prefer easy words over complex words. If a sentence becom
 
 Prefer wording like:
 
-- `talked about`
-- `shared`
-- `asked`
-- `explained`
-- `discussed`
-- `showcased`
-- `demonstrated`
-- `suggested`
-- `recommended`
-- `pointed out`
-- `clarified`
-- `mentioned`
-- `gave an update on`
-- `walked through`
-- `asked for help with`
-- `asked for suggestions on`
-- `the group discussed`
-- `we talked about`
+-   `talked about`
+-   `shared`
+-   `asked`
+-   `explained`
+-   `discussed`
+-   `showcased`
+-   `demonstrated`
+-   `suggested`
+-   `recommended`
+-   `pointed out`
+-   `clarified`
+-   `mentioned`
+-   `gave an update on`
+-   `walked through`
+-   `asked for help with`
+-   `asked for suggestions on`
+-   `the group discussed`
+-   `we talked about`
 
 Examples in the target style:
 
@@ -192,16 +192,16 @@ Examples in the target style:
 
 Avoid:
 
-- generic AI openings like `The meeting covered a wide range of topics`
-- corporate phrases like `leveraged`, `robust ecosystem`, `deep dive`, `cutting-edge`, `synergies`
-- difficult words when a simple word works
-- long paragraphs or long multi-clause bullets
-- em dashes
-- hype unless the source itself is hype or the existing community tone calls for it
-- moralizing or adding your own opinion
-- summary conclusions not present in the transcript
-- transcript-like play-by-play
-- rewriting casual community notes as formal board minutes
+-   generic AI openings like `The meeting covered a wide range of topics`
+-   corporate phrases like `leveraged`, `robust ecosystem`, `deep dive`, `cutting-edge`, `synergies`
+-   difficult words when a simple word works
+-   long paragraphs or long multi-clause bullets
+-   em dashes
+-   hype unless the source itself is hype or the existing community tone calls for it
+-   moralizing or adding your own opinion
+-   summary conclusions not present in the transcript
+-   transcript-like play-by-play
+-   rewriting casual community notes as formal board minutes
 
 ## Level Of Detail
 
@@ -209,26 +209,26 @@ The summaries are compact, but they do not remove useful technical context. Pres
 
 Include:
 
-- the speaker, when known
-- the topic, tool, technology, project, article, talk, book, or course
-- short explanations of technical terms when the session explained them
-- resource links that were shared
-- trade-offs and conclusions when the group reached them
-- notable warnings, gotchas, or caveats
-- project features, stack, links, and feedback
-- meaningful disagreements, if they shaped the discussion
+-   the speaker, when known
+-   the topic, tool, technology, project, article, talk, book, or course
+-   short explanations of technical terms when the session explained them
+-   resource links that were shared
+-   trade-offs and conclusions when the group reached them
+-   notable warnings, gotchas, or caveats
+-   project features, stack, links, and feedback
+-   meaningful disagreements, if they shaped the discussion
 
 Omit:
 
-- non-technical conversation unless it is needed to understand a technical, community, event, or career point
-- filler banter
-- repeated acknowledgements
-- greetings beyond `General introductions.` when appropriate
-- every small conversational turn
-- uncertain guesses
-- private/sensitive details not meant for a public summary
-- attendee metadata
-- timestamps
+-   non-technical conversation unless it is needed to understand a technical, community, event, or career point
+-   filler banter
+-   repeated acknowledgements
+-   greetings beyond `General introductions.` when appropriate
+-   every small conversational turn
+-   uncertain guesses
+-   private/sensitive details not meant for a public summary
+-   attendee metadata
+-   timestamps
 
 When source material repeats itself, merge repeated turns into one clear bullet.
 
@@ -311,9 +311,9 @@ Acceptable when the raw domain is the product:
 
 Place links where they belong:
 
-- inline when the link is part of a sentence
-- nested under the topic when it supports that topic
-- under `==== Additional Resources` when it was shared without much discussion
+-   inline when the link is part of a sentence
+-   nested under the topic when it supports that topic
+-   under `==== Additional Resources` when it was shared without much discussion
 
 Do not duplicate the same link in both the topic and `Additional Resources`.
 
@@ -343,12 +343,12 @@ Preserve exact technical names, capitalization, command names, filenames, protoc
 
 Use backticks for:
 
-- commands: `pm2 restart <application name>`
-- config keys: `PS1`
-- symbols: `bind()`
-- filenames: `manifest.json`
-- shell literals: `!`, `?`, `+n`
-- code snippets: `while(1)`, `sleep()`
+-   commands: `pm2 restart <application name>`
+-   config keys: `PS1`
+-   symbols: `bind()`
+-   filenames: `manifest.json`
+-   shell literals: `!`, `?`, `+n`
+-   code snippets: `while(1)`, `sleep()`
 
 Use AsciiDoc escaping where needed:
 
@@ -424,11 +424,11 @@ Preserve the rough flow of the session, but prioritize clarity. It is fine to gr
 
 Use these grouping patterns:
 
-- one topic with multiple related resources
-- one speaker sharing several links
-- one concept explained with nested details
-- one project with its stack and links
-- one broad discussion with several sub-opinions
+-   one topic with multiple related resources
+-   one speaker sharing several links
+-   one concept explained with nested details
+-   one project with its stack and links
+-   one broad discussion with several sub-opinions
 
 Do not split one coherent topic into five separate bullets just because five messages were sent.
 
@@ -492,15 +492,15 @@ The finished summary should feel like it belongs beside the existing `content.ad
 
 ## Hard Rules
 
-- Do not touch `attendees.adoc` files.
-- Do not invent facts, names, links, dates, durations, or conclusions.
-- Do not include attendee lists in `content.adoc`.
-- Do not expose private details unless clearly intended for the public summary.
-- Do not use Markdown link syntax in new summaries; use AsciiDoc link syntax.
-- Do not add a generic overview paragraph.
-- Do not over-polish the community voice into corporate prose.
-- Do not leave raw transcript fragments when they can be summarized clearly.
-- Do not include non-technical conversation.
-- Do not use em dashes.
-- Do not write the name of the person who shared a link when the point is only that a link was shared.
-- Do not keep unnecessary trailing slashes in links.
+-   Do not touch `attendees.adoc` files.
+-   Do not invent facts, names, links, dates, durations, or conclusions.
+-   Do not include attendee lists in `content.adoc`.
+-   Do not expose private details unless clearly intended for the public summary.
+-   Do not use Markdown link syntax in new summaries; use AsciiDoc link syntax.
+-   Do not add a generic overview paragraph.
+-   Do not over-polish the community voice into corporate prose.
+-   Do not leave raw transcript fragments when they can be summarized clearly.
+-   Do not include non-technical conversation.
+-   Do not use em dashes.
+-   Do not write the name of the person who shared a link when the point is only that a link was shared.
+-   Do not keep unnecessary trailing slashes in links.
