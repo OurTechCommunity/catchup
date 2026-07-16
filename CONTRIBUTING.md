@@ -101,7 +101,7 @@ It covers:
     link:https://www.youtube.com/watch?v=vcp2iFzHmfwd[Profiling^]
     ```
 
-**Using an AI agent**
+**Steps for using an AI agent**
 
 1. Point the agent at [`summary/AGENTS.md`](summary/AGENTS.md) (for example `@summary/AGENTS.md` in Cursor, or paste/open that file in the agent context).
 2. Provide the session transcript and chat history, plus the target path such as `summary/sessions/<number>/content.adoc`.
