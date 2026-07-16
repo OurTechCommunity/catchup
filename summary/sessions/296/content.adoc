@@ -1,0 +1,40 @@
+Date: 11-07-2026
+
+Duration: 2 hr 16 mins
+
+==== Topics Discussed
+
+* Harsh Kapadia shared progress on CPU benchmarking.
+    ** He finished baseline cache benchmarks (pointer chasing and stride tests) and published results on GitHub.
+    ** He is moving on to core-to-core latency measurements across CPU core complexes, using ping-pong style approaches and existing Rust tools as references before writing custom code.
+    ** He is also continuing with Onur Mutlu's lectures.
+* Aryakumar Jaiswal explained link:https://www.langchain.com[LangChain^] concepts from his work building AI systems for fund managers.
+    ** He described LangChain as a framework for LLM-based apps with pipelines over text, image, or audio inputs, commonly using models such as Gemini or OpenAI.
+    ** He noted that these apps are usually packaged and deployed on cloud platforms such as GCP or AWS.
+* Harsh summarized the Lang ecosystem while Darshan walked through his demo.
+    ** link:https://www.langchain.com[LangChain^] as the base framework, link:https://www.langchain.com/langgraph[LangGraph^] for stateful workflows, link:https://www.langchain.com/langsmith[LangSmith^] for tracing and debugging, and link:https://www.langflow.org[LangFlow^] as a visual builder.
+    ** Darshan noted that LangSmith is hard to self-host and that he used it for debugging and model access.
+* Pranav Dani walked through Hyper-V internals and compared AMD SNP (Secure Nested Paging) with Intel TDX.
+    ** He described Hyper-V as a Type 1 hypervisor that boots before guest OSes and virtualizes CPU core state.
+    ** SNP/TDX encrypt and isolate guest memory so the host or other guests cannot freely read it, and they matter mainly in virtualization rather than bare-metal single-OS setups.
+    ** The discussion covered multi-level page tables, machine pages, 4 KB base pages, pinned pages, STLB/TLB behavior, shadow paging, and `CR3` as the page-table base.
+    ** Some details around exact encryption key handling stayed uncertain.
+    ** Pranav committed to giving a technical talk on this in September.
+* Jatin Lachhani asked how to grow as a back-end engineer while staying with Java.
+    ** The group recommended project-based learning, studying systems topics, and trying languages such as Go or C for deeper understanding.
+    ** Advice included focusing on strong engineering fundamentals and building more complex systems, rather than chasing a single shortcut to keep up with AI.
+    ** Jaden Furtado suggested longer internships in Java/Spring to compare skills against industry expectations.
+    ** Harsh said he would post recommended back-end learning links in the chat.
+    ** The group also cautioned against overusing AI while learning, and treated it as a guide rather than a substitute for understanding.
+* Alpesh Bhagwatkar talked about certification plans after CPTS.
+    ** He expects to finish CPTS in September and is considering OSWE or OSAI instead of OSCP.
+    ** Suggested prep paths included PentesterLab and practice on open-source projects.
+
+==== Projects Showcased
+
+* Darshan Rander showcased a LangChain demo hosted on his portfolio.
+    ** The frontend is a static site on link:https://pages.cloudflare.com[Cloudflare Pages^], calling a link:https://fastapi.tiangolo.com[FastAPI^] backend on link:https://railway.app[Railway^].
+    ** The ingestion pipeline chunks blogs, PDFs, and websites, embeds them, stores vectors in link:https://www.trychroma.com[Chroma^], and uses link:https://neon.tech[Neon^] (serverless Postgres) for chat and relational storage.
+    ** He described a harness that defines the model's world and exposes planning and execution tools (including read/write access).
+    ** The group discussed similarity search over embeddings (natural-language style matching, not keyword-only search).
+    ** Alternatives such as link:https://www.pinecone.io[Pinecone^] and link:https://lancedb.com[LanceDB^] came up; Darshan chose Chroma for developer experience.
