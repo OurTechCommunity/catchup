@@ -79,7 +79,7 @@
 -   Once your changes are complete, stage and push your modifications to your repository.
 -   Finally, open a pull request on the OTC CatchUp repository.
 
-### Writing session summaries
+### Writing session summaries using `Agents.md`
 
 [`summary/AGENTS.md`](summary/AGENTS.md) is the canonical guide for writing `content.adoc` files. Follow it whether you write the summary yourself or use an AI coding agent.
 
