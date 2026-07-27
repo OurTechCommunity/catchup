@@ -1,0 +1,31 @@
+Date: 25-07-2026
+
+Duration: 2 hrs 19 mins
+
+==== Topics Discussed
+
+* Janvi discussed her latest project: a search engine and database designed to help developers and researchers track and find the latest AI/ML models and research papers.
+* Abhi, a Java backend developer, shared his journey of transitioning into the AI/ML space. 
+    ** He broke down his current tech stack (Spring Boot, Kafka, AWS, Prometheus, Grafana) and the group shared advice on learning paths and frameworks.
+* Kartik explained the history and mechanics of link:https://en.wikipedia.org/wiki/Just-in-time_compilation[Just-in-Time (JIT) compilation^], tracing its conceptual roots back to Toyota's manufacturing supply chain optimization.
+* Nirmal showcased link:https://aimlse.org[AIMLSE^], a framework he is working on to reduce boilerplate code for AI/ML developers. 
+    ** This sparked a massive debate between Kartik, Alpesh, and Nafi about trusting AI-generated code in production, vulnerability testing, and whether human reviews are strictly necessary for enterprise code.
+* Siddharth brought an amazing blast from the past: the original author of the link:https://www.sandroid.org/TurboC[Turbo C to GCC porting project^] replied to his email after two full years! 
+    ** The group geeked out over C macros, GCC data types, and the deep complexities of making legacy C code compile on modern Linux systems.
+* Rishit shared his deep-dive research into world models and AI physics simulators.
+    ** He shared examples of models (like link:https://mira-wm.com[MIRA^]) playing Rocket League by generating video frames purely from input data, completely bypassing traditional physics engines.
+* The group had a heated debate on the future of self-driving cars. 
+    ** Kartik argued that we should modify road infrastructure (like embedding RFID chips) to make autonomous driving safer and easier. 
+    ** Nafi and Rishit defended the generalist AI approach (like Waymo and Tesla FSD), arguing that changing global infrastructure is economically impossible.
+* The conversation shifted to space tech, with Harsh highlighting India's historic Vikram-1 rocket launch by Skyroot Aerospace—the country's first privately designed orbital rocket.
+* Harsh and Nafi debated the growing industry trend of "Rewriting it in Rust."
+    ** They specifically discussed Ubuntu replacing decades of battle-tested GNU Core Utils (written in C) with Rust alternatives, and the trade-offs between memory safety and introducing fresh bugs into stable systems.
+* Ayush highlighted a new Anthropic program offering free access to their agentic models specifically for open-source contributors (link:https://claude.com/contact-sales/claude-for-oss[Claude for OSS^]).
+* Nafi shared how his startup, Nebula, built their CLI wrapper in Go, while Ayush recommended DevOps learning resources, pointing toward creators like Nana and Shubham Londe.
+
+==== Additional Links
+* link:https://worldmodels.github.io[World Models Research^]
+* link:https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained[MIRA: Multiplayer Interactive World Models (Reddit Discussion)^]
+* link:https://www.thonking.ai/p/strangely-matrix-multiplications[Strangely Matrix Multiplications (Blog on optimizing code on GPUs)^]
+* link:https://youtu.be/eNtADpJ2EC4?is=dh0whlymfZaeTdga[Shared YouTube Video 1^]
+* link:https://youtu.be/CXSvKcLovAk?is=Q2vCY4heglFRhfHN[Shared YouTube Video 2^]
