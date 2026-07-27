@@ -14,7 +14,7 @@ Duration: 2 hrs 19 mins
     ** The group geeked out over C macros, GCC data types, and the deep complexities of making legacy C code compile on modern Linux systems.
 * Rishit shared his deep-dive research into world models and AI physics simulators.
     ** He shared examples of models (like link:https://mira-wm.com[MIRA^]) playing Rocket League by generating video frames purely from input data, completely bypassing traditional physics engines.
-* The group had a heated debate on the future of self-driving cars. 
+* The group had a discussion on the future of self-driving cars. 
     ** Kartik argued that we should modify road infrastructure (like embedding RFID chips) to make autonomous driving safer and easier. 
     ** Nafi and Rishit defended the generalist AI approach (like Waymo and Tesla FSD), arguing that changing global infrastructure is economically impossible.
 * The conversation shifted to space tech, with Harsh highlighting India's historic Vikram-1 rocket launch by Skyroot Aerospace—the country's first privately designed orbital rocket.
