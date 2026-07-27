@@ -15,7 +15,7 @@ Duration: 2 hrs 19 mins
 * Rishit shared his deep-dive research into world models and AI physics simulators.
     ** He shared examples of models (like link:https://mira-wm.com[MIRA^]) playing Rocket League by generating video frames purely from input data, completely bypassing traditional physics engines.
 * The group had a discussion on the future of self-driving cars. 
-    ** Kartik argued that we should modify road infrastructure (like embedding RFID chips) to make autonomous driving safer and easier. 
+    ** Kartik expressed that we should modify road infrastructure (like embedding RFID chips) to make autonomous driving safer and easier. 
     ** Nafi and Rishit defended the generalist AI approach (like Waymo and Tesla FSD), arguing that changing global infrastructure is economically impossible.
 * The conversation shifted to space tech, with Harsh highlighting India's historic Vikram-1 rocket launch by Skyroot Aerospace—the country's first privately designed orbital rocket.
 * Harsh and Nafi debated the growing industry trend of "Rewriting it in Rust."
