@@ -27,5 +27,5 @@ Duration: 2 hrs 19 mins
 * link:https://worldmodels.github.io[World Models Research^]
 * link:https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained[MIRA: Multiplayer Interactive World Models (Reddit Discussion)^]
 * link:https://www.thonking.ai/p/strangely-matrix-multiplications[Strangely Matrix Multiplications (Blog on optimizing code on GPUs)^]
-* link:https://youtu.be/eNtADpJ2EC4?is=dh0whlymfZaeTdga[Shared YouTube Video 1^]
+* link:https://youtu.be/eNtADpJ2EC4?is=dh0whlymfZaeTdga[The Most Ambiguous Concept in Computer Science (by Core Dumped)^]
 * link:https://youtu.be/CXSvKcLovAk?is=Q2vCY4heglFRhfHN[Shared YouTube Video 2^]
