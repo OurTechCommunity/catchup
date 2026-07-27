@@ -9,7 +9,7 @@ Duration: 2 hrs 19 mins
     ** He broke down his current tech stack (Spring Boot, Kafka, AWS, Prometheus, Grafana) and the group shared advice on learning paths and frameworks.
 * Kartik explained the history and mechanics of link:https://en.wikipedia.org/wiki/Just-in-time_compilation[Just-in-Time (JIT) compilation^], tracing its conceptual roots back to Toyota's manufacturing supply chain optimization.
 * Nirmal showcased link:https://aimlse.org[AIMLSE^], a framework he is working on to reduce boilerplate code for AI/ML developers. 
-    ** This sparked a massive debate between Kartik, Alpesh, and Nafi about trusting AI-generated code in production, vulnerability testing, and whether human reviews are strictly necessary for enterprise code.
+    ** This sparked a debate between Kartik, Alpesh, and Nafi about trusting AI-generated code in production, vulnerability testing, and whether human reviews are strictly necessary for enterprise code.
 * Siddharth brought an amazing blast from the past: the original author of the link:https://www.sandroid.org/TurboC[Turbo C to GCC porting project^] replied to his email after two full years! 
     ** The group geeked out over C macros, GCC data types, and the deep complexities of making legacy C code compile on modern Linux systems.
 * Rishit shared his deep-dive research into world models and AI physics simulators.
