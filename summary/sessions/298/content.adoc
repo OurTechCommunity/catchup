@@ -1,0 +1,10 @@
+Date: 25-07-2026
+
+Duration: 1 hr 16 mins
+
+==== Topics Discussed
+
+* Farhan Irani shared updates about his startup and talked about his decision to leave his previous role at a bank to focus on new opportunities.
+* Farhan also shared details of a freelance project involving the development of a website.
+* Ankush and Ayush Shukla discussed Hyper-V, covering its use cases and virtualization capabilities.
+* Ayush shared some useful C++ libraries and discussed language features such as templates that simplify writing generic and reusable code.
