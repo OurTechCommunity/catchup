@@ -91,7 +91,7 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 			echo "please set 'catchup_config_noimage=1' or 'catchup_config_noone_attended=1' in ${catchup_config_file} if no image exists";
 			exit 1;
 		# set catchup_noone_attended
-		elif [ -n "${catchup_config_noimage:-}" ]; then
+		elif [ -n "${catchup_config_noone_attended:-}" ]; then
 			catchup_noone_attended="1";
 		# else, set catchup_no_image=1
 		else
