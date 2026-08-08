@@ -9,7 +9,7 @@ include::sessions/{catchup_number}/attendees.adoc[]
 ==== Meet Screenshot
 
 // with image
-ifndef::catchup_no_image[]
+ifndef::catchup_no_image,catchup_noone_attended[]
 image::{catchup_number}.{catchup_image_extension}[alt="Meet #{catchup_display_number} screenshot", 600, 600]
 endif::[]
 
@@ -21,7 +21,7 @@ video::oops.mp4[alt="Oops, we forgot to take a screenshot for CatchUp #{catchup_
 endif::[]
 
 // no one attended
-ifdef::catchup_no_image[]
+ifdef::catchup_noone_attended[]
 image::noone-joined.jpg[alt="When no one shows up to your google meet...\nJust paint happy little trees", 600, 600]
 endif::[]
 
