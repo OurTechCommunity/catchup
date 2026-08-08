@@ -59,6 +59,7 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 
 	# Use the first image named `${catchup_number}.*`
 	catchup_no_image="";
+	catchup_noone_attended="";
 	catchup_image_folder="${summary_dir}/static/img";
 	catchup_image_extension="";
 	for image in "${catchup_image_folder}/${catchup_number}."*; do
@@ -128,8 +129,8 @@ for path in ${BUILD_SUMMARY_DIRS}; do
 		-a "catchup_display_number=${catchup_display_number}" \
 		-a "catchup_image_extension=${catchup_image_extension}" \
 		-a "catchup_authors_line=${catchup_authors_line}" \
-		${catchup_no_image:+-a "catchup_no_image=1"} \
-		${catchup_noone_attended:+-a "catchup_noone_attended=1"} \
+		${catchup_no_image:+-a "catchup_no_image=${catchup_no_image}"} \
+		${catchup_noone_attended:+-a "catchup_noone_attended=${catchup_noone_attended}"} \
 		-a "summary_file=${summary_template}" \
 		-o "${out_dir}/summary/${catchup_display_number}.html" \
 		"${summary_dir}/individual-summary.adoc";
