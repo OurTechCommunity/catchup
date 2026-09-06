@@ -1,0 +1,51 @@
+Date: 29-08-2026
+
+Duration: 3 hrs 14 mins
+
+==== Topics Discussed
+
+* The group discussed different approaches to learning Agentic AI.
+    ** They talked about learning through projects and research instead of depending entirely on AI-generated code.
+    ** Topics such as RAG, guardrails, testing, security, prompting, and multi-agent systems were also discussed.
+* An Agentic AI course from Educative was discussed.
+    ** The course covers building and productionizing LLM-based applications.
+    ** The discussion also touched on the challenges involved in taking AI systems from prototypes to production.
+* The group discussed Azure infrastructure and cloud cost optimization.
+    ** They talked about Azure Static Web Apps, Blob Storage, CDN, and App Service.
+    ** The discussion focused on choosing the right services and avoiding unnecessary infrastructure costs.
+* Cloud over-provisioning was discussed in detail.
+    ** Running multiple replicas of services with very low traffic can result in significant unnecessary costs.
+    ** The group also discussed how identifying actual resource usage can help optimize cloud infrastructure.
+* Database performance was discussed as another potential bottleneck.
+    ** Inefficient queries and poor data modelling can have a major impact on application performance.
+    ** The group also discussed how database architecture should be considered when optimizing an application.
+* The group discussed Hyper-V and virtualization.
+    ** They covered the role of a hypervisor and how virtual machines operate on a host system.
+    ** Hardware virtualization support from modern CPU manufacturers was also discussed.
+* Security research and responsible vulnerability disclosure were discussed.
+    ** The group talked about finding vulnerabilities and the importance of reporting them responsibly.
+    ** The discussion also covered the ethical and professional considerations involved in security research.
+* The group discussed preparation for CTFs and cybersecurity challenges.
+    ** Python and Bash were highlighted as useful skills for solving challenges.
+    ** Effective searching and using available resources were also discussed as important parts of CTF problem solving.
+* The group discussed the impact of excessive AI-assisted coding on programming fundamentals.
+    ** They shared experiences where relying heavily on AI can make basic programming concepts and syntax easier to forget.
+    ** The group emphasized balancing AI usage with independent coding and problem solving.
+* A linked list was implemented and debugged in C.
+    ** The discussion covered insertion, traversal, and reversing a linked list.
+    ** The implementation was worked through manually to understand the underlying logic rather than simply using AI-generated code.
+* Distributed systems and consensus algorithms were discussed.
+    ** The group talked about Raft, Paxos, fault tolerance, and replicated state machines.
+    ** CPU cache coherence and concepts such as MESI were also discussed in relation to distributed and concurrent systems.
+* The group discussed internships, placements, and college education.
+    ** They talked about CGPA requirements and the importance of maintaining good academic performance.
+    ** Building practical projects and developing strong technical fundamentals were highlighted as important for career opportunities.
+* Different AI engineering career paths were discussed.
+    ** The group discussed how AI engineering involves more than just training models.
+    ** Data pipelines, application development, deployment, and integrating AI systems into products were also highlighted.
+
+==== Additional Links
+
+* link:https://www.educative.io[Educative^]
+* link:https://raft.github.io[Raft^]
+* link:https://www.manim.community[MANIM - Python library for Mathematical Animations^]
