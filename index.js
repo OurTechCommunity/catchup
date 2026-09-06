@@ -24,6 +24,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/admin", (req, res) => {
+	if (!auth(req, res)) return;
 	res.sendFile(__dirname + "/public/html/admin.html");
 });
 
