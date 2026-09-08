@@ -1,0 +1,41 @@
+Date: 05-09-2026
+
+Duration: 6 hrs 41 mins
+
+==== Topics Discussed
+
+* We talked about how we've lost the joy of programming and figuring out issues due to AI. Everyone collectively also expressed that they feel dumber with AI, even though it is supposed to make one more productive and bring all information just one prompt away.
+	** Jaden Furtado and Harsh Kapadia mentioned how they're doing some personal projects with no AI or using AI just as a guide, rather than something that writes code.
+* Jaden Furtado showcased a video that he made using the library link:https://www.manim.community[Manim^] that was about how an injection poisons a neural network.
+	** He was inspired to undertake this creative venture to take a break from the endless cyber sercurity issues that AI is exposing.
+	** He was also inspired by beautiful animations from various YouTube channels like the following:
+		*** link:https://www.youtube.com/@Kurzgesagt[Kurzgesagt - In a Nutshell^]
+		*** link:https://www.youtube.com/@3blue1brown[3Blue1Brown^]
+		*** link:https://www.youtube.com/@CoreDumpped[Core Dumped^]
+		*** link:https://www.youtube.com/@BranchEducation[Branch Education^]
+		*** link:https://www.youtube.com/@LiveOverflow[LiveOverflow^]
+* Siddharth Bhatia talked about a Nintendo event that he attended in Mumbai, India and his love for link:https://en.wikipedia.org/wiki/Homebrew_(video_games)[homebrew (modded) software^].
+* We talked about mega corporations not honoring their warranty and repair policies.
+	** link:https://sonybravia.com[The Sony Bravia TV situation where a person was denied a TV replacement^]
+	** link:https://youtu.be/OTJvDOJgUA8?si=W-oEj017Tp5JXTLi&t=548[Micron robbin customers of memory (RAM) replacements^]
+	** link:https://www.youtube.com/@rossmanngroup[Louis Rossmann^]
+	** link:https://www.youtube.com/watch?v=j5v8D-alAKE[This is why we can't have nice things^]
+* Divya Shivdasani asked for tips on getting more done and using time better.
+	** Prioritization and making use of extra time was discussed.
+	** Not compromising on sleep was mentioned as well.
+	** We also stressed the importance of some college classes like algorithms.
+
+==== Additional Links
+
+* link:https://www.youtube.com/watch?v=3MKRjt59hh4[Why did AMD just buy this REALLY WEIRD chip company?^]
+* link:https://www.youtube.com/watch?v=9pUN3-e8exQ[The Reason My Phone is Ringing Daily: Etched^]
+* link:https://www.youtube.com/watch?v=4oT7OEkAwnY[How Intel's New CPU Finally Makes Sense^]
+* link:https://www.youtube.com/watch?v=WtlGB-YVLOg[What Happens When a CPU Receives an Unknown Instruction?^]
+* link:https://www.youtube.com/watch?v=xs5iOwkX9fU[Why CPU Time ≠ Wall Clock Time! - Computerphile^]
+* link:https://www.youtube.com/watch?v=9kM3mnxrMMM[How do microSD Cards Store 2 TB in such a TINY space?^]
+* link:https://www.youtube.com/watch?v=EU_nQh8wg5A[Benchmarking - It's About Time - Matt Godbolt - C++Now 2026^]
+* link:https://www.youtube.com/watch?v=BVVNtG5dgks[Matt Godbolt: Advanced Skylake Deep Dive^]
+* link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^]
+* link:https://www.youtube.com/watch?v=-HNpim5x-IE[What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024^]
+* link:https://www.youtube.com/@Tariq10x[Tariq10x^]
+* link:https://godbolt.org[Compiler Explorer^]
