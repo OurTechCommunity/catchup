@@ -29,7 +29,9 @@
 	"dependencies": {
 		"@netlify/blobs": "^10.7.9",
 		"@netlify/edge-functions": "^3.0.8",
-		"dotenv": "^17.4.2"
+		"csrf": "^3.1.0",
+		"dotenv": "^17.4.2",
+		"express-rate-limit": "^7.4.1"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^21.0.2",
