@@ -76,7 +76,7 @@ jobs:
 
             - name: Send reminder Tweet
               if: ${{ env.MESSAGE_TEMPLATE == 'reminder' }}
-              uses: Eomm/why-don-t-you-tweet@v1
+              uses: Eomm/why-don-t-you-tweet@v2
               with:
                   tweet-message: |
                       Reminder! 🚨
@@ -116,7 +116,7 @@ jobs:
 
             - name: Send joining Tweet
               if: ${{ env.MESSAGE_TEMPLATE == 'joining' }}
-              uses: Eomm/why-don-t-you-tweet@v1
+              uses: Eomm/why-don-t-you-tweet@v2
               with:
                   tweet-message: |
                       Going live in 30 mins!
