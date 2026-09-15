@@ -1,6 +1,8 @@
 const os = require("os");
 const fs = require("fs");
 const express = require("express");
+const rateLimit = require("express-rate-limit");
+const Tokens = require("csrf");
 const { Deta } = require("deta");
 
 require("dotenv").config();
@@ -10,6 +12,19 @@ const port = process.env.PORT || 8080;
 
 const deta = Deta();
 const db = deta.Base(process.env.DATABASE_NAME);
+
+const csrfTokens = new Tokens();
+const csrfSecret = csrfTokens.secretSync();
+
+// Rate limiting - protects API endpoints from high-volume request attacks
+app.use(
+	rateLimit({
+		windowMs: 15 * 60 * 1000, // 15 minutes
+		max: 100, // limit each IP to 100 requests per window
+		standardHeaders: true,
+		legacyHeaders: false
+	})
+);
 
 // Static files
 app.use("/public", express.static(__dirname + "/public"));
@@ -24,7 +39,9 @@ app.get("/", (req, res) => {
 });
 
 app.get("/admin", (req, res) => {
-	res.sendFile(__dirname + "/public/html/admin.html");
+	const token = csrfTokens.create(csrfSecret);
+	const html = fs.readFileSync(__dirname + "/public/html/admin.html", "utf8");
+	res.type("html").send(html.replace("{{csrfToken}}", token));
 });
 
 app.get("/robots.txt", (req, res) => {
@@ -65,13 +82,16 @@ app.get("/summary/:catchupNumber", (req, res) => {
 	let parsedCatchupNumber = parseInt(catchupNumber).toString();
 	let normalizedCatchupNumber = parsedCatchupNumber.padStart(3, "0");
 
-	const path =
-		__dirname + `/public/html/summary/${normalizedCatchupNumber}.html`;
-	if (fs.existsSync(path)) {
+	if (fs.existsSync(__dirname + `/public/html/summary/${normalizedCatchupNumber}.html`)) {
 		// if entered path is not canonical, redirect to the canonical path
 		if (catchupNumber !== parsedCatchupNumber)
 			res.redirect(`/summary/${parsedCatchupNumber}`);
-		else res.sendFile(path);
+		else
+			res.type("html").send(
+				fs.readFileSync(
+					__dirname + `/public/html/summary/${normalizedCatchupNumber}.html`
+				)
+			);
 	} else res.status(404).sendFile(__dirname + "/public/html/404.html");
 });
 
@@ -122,6 +142,11 @@ function auth(req, res) {
 app.post("/api/catchUpLink", async (req, res) => {
 	if (!auth(req, res)) return;
 
+	if (!csrfTokens.verify(csrfSecret, req.body._csrf)) {
+		res.status(403).send("Invalid or missing CSRF token.");
+		return;
+	}
+
 	const link = req.body.catchUpLink;
 
 	try {
@@ -139,7 +164,7 @@ app.post("/api/catchUpLink", async (req, res) => {
 
 	await db.put(config, process.env.DATABASE_OBJ_KEY);
 
-	res.send(`Meet link changed to ${link}.`);
+	res.type("text/plain").send(`Meet link changed to ${link}.`);
 });
 
 app.get("/attend", async (req, res) => {

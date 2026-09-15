@@ -134,6 +134,7 @@
 		<h1>OTC CatchUp Admin Portal</h1>
 
 		<form action="/api/catchUpLink" method="POST">
+			<input type="hidden" name="_csrf" value="{{csrfToken}}" />
 			<label for="url">OTC CatchUp Meet URL</label>
 			<input
 				id="url"
