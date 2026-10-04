@@ -1,0 +1,26 @@
+Date: 03-10-2026
+
+Duration: 3 hrs 9 mins
+
+==== Topics Discussed
+
+* Nabeel Parker, Harsh Kapadia and Pranav Dani talked about AI prompting and programming.
+	** Nabeel mentioned that he really likes Matt Pocock's Wayfinder AI skill (link:https://www.youtube.com/watch?v=F3lL98Pj90o[/wayfinder: Nothing is too big to plan anymore^]).
+	** We talked about how coding for work has become more of an code architecture and business logic code review job.
+	** Pranav mentioned how some senior engineers that he knows are using various AI agents in a orchestrator and role-based setup to solve problems and churn out code faster.
+	** Pranav shared link:https://www.youtube.com/watch?v=D8PikZ1KhUo[If you have a Claude sub, watch this^]
+* Rishit Dagli talked about his conundrum of whether to keep working on link:https://en.wikipedia.org/wiki/World_model_(artificial_intelligence)[world models^] or to switch to working on LLMs, because he believes that LLMs are becoming extremely powerful really quickly and even though world models are, as per him, a superset of LLMs, they will take longer to become as good due to the relative lack of available video and physics simulation data in comparison to text for LLMs.
+	** He wrote a blog about this as well: link:https://rishit-dagli.github.io/lm-limits[A thought experiment on the limits of Language Modeling^]
+	** Rishit, Harsh and Pranav also talked about how AI is solving Math problems
+		*** link:https://openai.com/index/navier-stokes-solution[On the Navier-Stokes Millennium Prize Problem^]
+		*** Harsh shared link:https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture[How I Vibed a Proof of Conway's Conjecture^]
+		*** Pranav shared link:https://www.youtube.com/watch?v=Nbwv5wHQoj0[The last IMO problem AI could not solve^]
+* Apart from this, we talked about tech companies acquiring other companies and the AI financing bubble.
+	** link:https://newsroom.amd.com/news/amd-acquire-world-labs[AMD to Acquire World Labs to Advance the Future of AI Compute^]
+
+==== Additional Links
+
+* link:https://en.wikipedia.org/wiki/Interleaved_memory[Interleaved Memory^]
+* link:https://lwn.net/Articles/255364[Temporal and Non-Temporal Memory Access^]
+	** link:https://stackoverflow.com/questions/37070/what-is-the-meaning-of-non-temporal-memory-accesses-in-x86[What is the meaning of "non temporal" memory accesses in x86^]
+	** link:https://lwn.net/Articles/255364[Bypassing the Cache^]
