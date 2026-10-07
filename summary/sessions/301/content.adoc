@@ -1,0 +1,110 @@
+Date: 15-08-2026
+
+Duration: 3 hrs 36 mins
+
+==== Topics Discussed
+
+* General introductions. Devesh Patil joined for the first time and shared that he works as a front end engineer on a B2B SaaS platform for FMCG manufacturers, building new modules in React 19.
+* Janvi Matani said she has started learning link:https://spring.io/projects/spring-boot[Spring Boot^] because she is oriented towards Java, alongside her MERN and PostgreSQL work.
+    ** She also mentioned that she keeps getting filtered out at the aptitude round (OA), which is the entry point for most companies she has applied to.
+* Abhi Singh talked about his two years of backend work with Java and Spring Boot 3.3.2, and explained the parts of the ecosystem he has used.
+    ** link:https://spring.io/projects/spring-security[Spring Security^] provides built in authentication and makes it easier to integrate providers like Google or link:https://www.keycloak.org[Keycloak^].
+    ** link:https://spring.io/projects/spring-cloud[Spring Cloud^] is an extension of the Spring Boot framework for managing distributed systems and microservices. It ships ready to use patterns for service discovery, load balancing and centralised configuration management. It is not a hosting platform or a cloud provider wrapper.
+* Abhi explained why a team moves from a monolith to microservices, using domain driven design.
+    ** In a monolith you define module boundaries but everything runs on one server, usually against one database.
+    ** In microservices you split by domain boundary so that a service can scale on its own. His example was an e-commerce app where the catalog service takes far more traffic than payments or notifications, because most visitors browse without buying.
+    ** Each microservice gets its own database and its own deployment. Services talk over HTTP, REST clients or gRPC, and often asynchronously through a message broker or queue.
+    ** Services do not know each other by IP because IPs change, so they resolve each other by service name.
+    ** This is where Spring Cloud comes in. Services register themselves with a discovery server such as link:https://github.com/Netflix/eureka[Netflix Eureka^] and send it a heartbeat, a periodic signal saying the instance is alive, so the registry always knows which services are up before another service tries to call them.
+* Harsh Kapadia pointed out to Janvi that this is how you learn from someone with hands on experience: ask people what they built with a technology and what they liked or disliked about it, even if you have barely used it yourself.
+* Pranav Dani said the Pixel 11 launched and that Google raised the price while cutting the RAM and the battery size, and removed the temperature sensor that had been on the back since the Pixel 8, replacing it with a light that glows in Gemini's colours.
+    ** Abhi argued that reducing RAM is the wrong move now that more AI compute is moving to the client side, and said 16 GB was already not enough for him when running a backend and frontend dev server while screen sharing.
+    ** Pranav's counterpoint was that the real problem is that software is not optimised any more, and that everything is a web app loading the same libraries again and again just because it can.
+* Harsh recommended Hussein Nasser's new video on Postgres internals, and liked that he has switched to a whiteboarding format that feels more human than drawing on a digital surface.
+* Harsh also shared three videos on CPU and concurrency performance.
+    ** link:https://youtu.be/9lpbN7FXfy8[Profit or Poverty: False Sharing^] on cache lines and false sharing.
+    ** link:https://youtu.be/tND-wBBZ8RY[The Cost of Concurrency Coordination with Jon Gjengset^] on the different types of locks and mutexes.
+    ** link:https://youtu.be/BVVNtG5dgks[Matt Godbolt: Advanced Skylake Deep Dive^] on instruction pipelining and how people benchmark a CPU to work out its architecture.
+* Jaden Furtado shared that his paper got selected for the inaugural Black Hat India and that he will be presenting in Bengaluru on the 29th and 30th of October.
+    ** link:https://www.blackhat-india.com/briefings-schedule?day=friday#hiding-a-working-backdoor-in-136-kb-of-weights-architectural-backdoors-on-a-deployed-cybersecurity-llm-50022[Hiding a Working Backdoor in 136 KB of Weights: Architectural Backdoors on a Deployed Cybersecurity LLM^]
+    ** The research is about backdooring an AI model. It targets sequence models in general, so it covers feed forward neural networks, CNNs, RNNs and LSTMs, not just sequence to sequence models.
+    ** He has built up the maths behind why it works, and his claim is that if the backdoor is inserted carefully, it is mathematically impossible to tell from the model alone whether it has been backdoored.
+    ** He tied this to embedded neural networks in connected medical equipment, using ventilators as an example, where the model has to detect when the patient is breathing in and breathing out to assist the lungs correctly.
+    ** His co-author is now in the cybersecurity program at Carnegie Mellon, and Black Hat is sponsoring his travel.
+* Jaden then walked through a second, unpublished paper on monitoring the hidden states of AI models for domain detection.
+    ** The current approach to LLM safety is a guard model such as Llama Guard placed in front of the target model, which decides whether a prompt is safe before passing it on. His objection is that the guard is still an LLM, so it can be prompt injected itself, and that you are now running two models and scaling hardware requirements along with the target model.
+    ** His analogy was a polygraph. Instead of putting a guard in front, look at what the model is doing internally. Every layer of an AI model passes vectors between the layers, so you can watch those hidden state vectors and detect when the model goes off the rails, then drop the request like a firewall rule.
+    ** Training a classifier on the hidden states of roughly 100 to 160 malicious prompts was enough to separate safe from unsafe and get close to a perfect detection rate, against the tens of thousands of malicious prompts used to train Llama Guard.
+    ** He ran ablations across Qwen, Gemma and Llama, and across a mixture of experts model, whose architecture differs from a normal LLM. He also tested across domains including Amazon QA, coding, farming and insurance, and reported F1 scores, confusion matrices and comparisons against naive distance based baselines.
+    ** He compared pooling strategies: a single token, an average across all tokens, and only the last output token. False positives were near zero in most configurations, and the remaining trade off is where you set the threshold. Ambiguous prompts are the hard case, for example asking which knife is good for cutting, where the model cannot tell whether the target is a vegetable or a person.
+    ** The same alignment model also worked, preliminarily, on a CNN, an audio transformer and a vision transformer.
+    ** He formalised how to select the contrast set using stratified sampling, so that a chosen domain gets maximum coverage and anything unrelated falls outside it. The goal he described is that a QA bot for one company should not be answering unrelated questions such as how to write Python code.
+    ** He was careful to keep the training and testing sets from overlapping, and said he could not reproduce the results of an existing framework called Siren when he implemented it himself.
+    ** Rishit Dagli pointed him at link:https://scholar.google.com/citations?user=8a9YOF4AAAAJ&hl=en[Samuel Simko's work^], which covers training classifiers on LLM activations to do safe versus unsafe classification, as a set of references. Rishit has co-authored a paper with him.
+    ** Rishit's main question was how far the result depends on the size of the good and bad prompt data sets.
+* Saifuddin Saifee talked about deliberately moving away from vibe coding after his employer gave him access to Cursor in January.
+    ** He said prototyping got very fast without a product designer, but it has since hurt the speed and the way he delivers work, and he is now going back to basics, including revisiting TypeScript fundamentals.
+    ** He described the loop honestly: the UI changing in front of him gave him a dopamine hit like scrolling reels, he would fire a prompt and open his phone, and it felt bad to click keep on a diff he had not written.
+    ** Harsh said he uses AI heavily on the web development side of his job, but on the learning side he uses it as a guide, asking it what concept he is missing rather than for the answer, and then going back and forth until it clicks.
+    ** Bhavesh Kukreja's advice was to use AI for things you already know to save time, since the real risk is becoming reliant on it, and Harsh suggested using it as a reviewer.
+    ** Rishit added a short term argument against vibe coding: humans are cheaper than AI right now.
+* Saifuddin also mentioned a location based to-do app he built, which detects when he arrives at his shop or a supermarket and triggers the list of things he is meant to do there. He noted link:https://tasks.org[Tasks.org^] already does this.
+* Saifuddin asked how to start with DSA, since he is planning a switch and was never asked a DSA question in his current interview, and wanted to know whether the paid courses are worth it.
+    ** Viranchee L said that for SWE roles, link:https://neetcode.io[NeetCode^] 150 is enough and there is no need to pay or to go into competitive programming. Work through the roadmap section by section, arrays to backtracking, doing easy and medium problems first and coming back for the hard ones after graphs.
+    ** He also suggested mock interviews on link:https://www.pramp.com[Pramp^] and link:https://www.tryexponent.com[Exponent^], both of which give a few free sessions.
+    ** Abhi disagreed on the timeline. DSA is a slow process of one or two problems a day, and while a topic like binary search or sliding window has a fixed set of patterns, dynamic programming mutates with the constraints and can be applied to strings, arrays and graphs. Rushing it means memorising solutions and failing on a new problem.
+    ** Harsh pushed back hard on "I am not in a hurry", saying that if you are not decided you will not do it. Either commit with a realistic deadline or do not start, but do not sit in limbo. Saifuddin noted the hiring season starts around December and January.
+    ** link:https://takeuforward.org[takeuforward (TUF)^] and its A2Z sheet also came up as a starting point.
+* Viranchee shared that he is back to interviewing after a year long break and is targeting compiler roles.
+    ** He described his previous employer as a client side engineering company that takes on core engineering work for larger companies, covering compilers, machine learning acceleration and ML compilers, and graphics acceleration, and named MulticoreWare as an example of that model.
+    ** His reasoning for going that route was that the interviews are easier and the time to first employment is shorter than applying directly to an AMD or an Nvidia, and he had recently failed an AMD round on recalling concepts accurately.
+* Janvi asked how to start with cybersecurity from scratch, given her development background.
+    ** Jaden said there is nothing special about it. The knowledge is the same, only the question changes: instead of asking how to build something, you ask how to break it, and which assumptions the developer made that the code does not actually hold.
+    ** His examples were checking whether a non admin user can reach admin data, which is broken access control, and whether you can inject your own queries into the database, which is SQL injection.
+    ** He recommended starting with link:https://portswigger.net/web-security[PortSwigger's Web Security Academy^], since her background is MERN and Spring, and said the mindset transfers to networks and Wi-Fi once you have it.
+    ** He also said cybersecurity is practised more than read, and that the reading time is better spent on operating systems, computer networks, automata theory and compilers.
+* The group talked about reading reference texts rather than exam guides.
+    ** Pranav recommended Andrew Tanenbaum's _Modern Operating Systems_, which Anil Harwani had told him to read on his daily train commute instead of wasting the time.
+    ** His broader point was to pull the reference texts listed in the official syllabus for each course, because the bar for candidate quality is low enough that just following those puts you ahead.
+    ** Jaden's caveat was to keep your pointer above the cutoff and spend the rest of the effort on practical knowledge, since nobody looks at the pointer for a job unless you are applying for a master's.
+* Pranav walked through the interviews that got him onto the Hyper-V team at Microsoft, which is the base of WSL and Azure.
+    ** The first round was operating systems fundamentals: physical versus virtual memory, `malloc`, `free`, syscalls and interrupts. He went into programmable interrupt controllers, how a keypress raises a pin that routes the CPU into a routine and then returns to the interrupted process, and was also asked to explain his work to a non technical person.
+    ** The coding questions were not DSA. One was a multi threaded queueing system for an airport boarding gate, admitting passengers by arrival time and by class priority.
+    ** Another was to implement `malloc` in C.
+    ** Another was to build a spin lock with atomics and then write a program using it that is thread safe and free of race conditions.
+    ** The last was to write firmware for an SSD that spreads out writes, since blocks degrade when written to repeatedly, and then to scale that answer to ten thousand simultaneous writes using a cache, multiple microcontrollers, and banks of blocks each controlled by its own core.
+    ** He also talked about the RISC-V CPU he built in SystemVerilog during his master's, and how caching, the memory controller talking to DRAM and branch prediction are all effectively complicated state machines, which connects back to automata theory.
+    ** His takeaway was that interviewing and having the knowledge are two separate skills, and that mentioning a project on your resume only helps if you can back it up.
+* Hardik Raheja added that, having taken interviews himself, the interviewer actually wants you to get selected and is rooting for you.
+* The group discussed honesty on resumes and in interviews.
+    ** Jaden said he reads every resume himself rather than putting an automated filter in between, because if a person is going to be rejected he would want a human to have made that call.
+    ** He said AI written resumes are easy to spot because around ninety out of a hundred use the same framing, and that he would rather read original text with spelling and grammar mistakes. His tells are em dashes and the "it is not X, it is Y" construction, including in speech.
+    ** Pranav's view was that faking a resume backfires the moment you have to defend what is written on it.
+* Abhi shared his experience at TCS across two client projects.
+    ** On the Google project he worked on production debugging for Looker Studio dashboards, mostly SQL, with BigQuery behind the pipelines. It was a good, data intensive project, but juniors only had read access, so they could analyse code and find the root cause without being able to ship the fix.
+    ** On the government marketplace project he had write access and built REST APIs on a team of eight developers.
+    ** Ratings were measured on tickets: bugs come in with a priority from P0 to P4, each with an SLA, and you are measured on the time spent per ticket and the number of tickets closed.
+
+==== Projects Showcased
+
+* GAMILTRON showcased an ordering web app he built for a local momo restaurant that was writing orders down in a notepad.
+    ** A QR code sits on each table. Scanning it opens the order page, where the customer picks items, enters a name and table number, and chooses to pay by UPI or at the counter. After ordering they get a status screen with an estimated waiting time.
+    ** The chef has a separate view listing incoming orders, with accept and complete actions that push the status back to the customer's screen.
+    ** It also has stock control for marking items out of stock, and an admin screen for the owner to add items, set prices and edit existing ones, which came out of asking the client what he needed.
+    ** The stack is HTML, CSS and JavaScript on the front end with a Node.js server, hosted on link:https://render.com[Render^]. Live updates between the vendor and customer views go over a WebSocket.
+    ** There is no database yet, so all state is in memory. Bhavesh Kukreja pointed out that this means a crash loses everything and suggested link:https://www.sqlite.org[SQLite^], since the app does not need a large database. GAMILTRON estimated the hosting cost at around 500 rupees a month, or free.
+    ** GAMILTRON was upfront that he vibe coded parts of it, mainly the JavaScript and the Node.js endpoints, and wrote the front end himself. Bhavesh suggested building the parts he is adding next by hand.
+    ** Harsh's feedback was to deploy it in the actual restaurant and food van, because the real requirements only show up in use: customers coming back to the page five minutes later to check status, multiple orders on the same table when people arrive late, and what happens when someone does not fill in the table number.
+    ** The group also debated QR code ordering itself. Bhavesh said he prefers ordering from a person and asking what the speciality is, because the interaction is part of the experience. Harsh's read was that restaurants are not avoiding human interaction, they are optimising for cost, and the lost interaction is a real trade off. GAMILTRON's case for it was the food van, where one person takes every order in a queue and customers have no time estimate.
+
+* Jaden demoed the maritime ship simulator he built, which was presented at DEF CON in Las Vegas.
+    ** It came out of a series of critical vulnerabilities he and his team reported in 2020 that would have let anyone take over a ship. Demonstrating that live is piracy, so the simulator exists to show that the findings are dangerous without breaking the law.
+    ** The ship model is built in Blender and exported as GLB, and the sea, sky, sunlight and reflections are all Three.js. The camera is controllable with the WASD keys, which is how the trailer was recorded.
+    ** The bridge screens are real systems: ballast and fuel tank levels with pressure gauges, an inert gas monitoring system for flooding oil holds with argon so the fumes do not ignite, a hull stress readout that shows when the ship is close to breaking in half, and the power management system.
+    ** The whole thing is containerised with Docker with actual protocol packets flowing over the network as they would on a real ship, so any simulated system can be swapped out for a real ship system and it still works.
+    ** He loaded it onto an Oculus in the office and walked around the ship in VR while making it misbehave. Saifuddin Saifee asked how it gets monetised, and the answer was training, which is what the first person VR experience is for.
+
+==== Additional Resources
+
+* link:https://www.youtube.com/watch?v=q9jixKv4h2I[you won't forget how postgres works after this (by Hussein Nasser)^]
+* link:https://www.youtube.com/watch?v=KGtko3y2RXQ[Claude is definitely not conscious… (by Fireship)^]
