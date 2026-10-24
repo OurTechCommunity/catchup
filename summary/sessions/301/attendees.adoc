@@ -1,8 +1,8 @@
 ==== Attendees
 
+. link:https://x.com/smilearthur_07[Abhinav Singh^]
 . link:https://twitter.com/bhavesh878789[Bhavesh Kukreja^]
 . link:https://twitter.com/DhiruCodes[Dheeraj Lalwani^]
-. link:https://x.com/urmilsaini[GAMILTRON^]
 . link:https://twitter.com/hardikraheja[Hardik Raheja^]
 . link:https://twitter.com/harshgkapadia[Harsh Kapadia^]
 . link:https://twitter.com/furtado_jaden[Jaden Furtado^]
@@ -15,3 +15,5 @@
 . Ayush More
 . Devesh Patil
 . Janvi Matani
+. Kunal Sawant
+. Utkarsh Shukla
