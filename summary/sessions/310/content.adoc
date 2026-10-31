@@ -1,0 +1,22 @@
+Date: 17-10-2026
+
+Duration: 2 hrs 30 mins
+
+==== Topics Discussed
+
+* Urmil shared that she is exploring cybersecurity, starting with defensive work and networking.
+    ** The group suggested exploring the wider field instead of choosing a specific role too early.
+* We talked about learning computer systems from the lower levels up, including filesystems, PCIe, interrupts, and how hardware handles data.
+    ** Harsh recommended trying hands-on exercises such as building a gate, Git or Redis with link:https://codecrafters.io[CodeCrafters^], and writing an HTTP server in C.
+    ** Resources shared included link:https://www.youtube.com/@hnasr[Hussain Nasser's YouTube channel^] and link:https://www.udemy.com/course-dashboard-redirect/?course_id=4953660[his backend course^], plus Arpit Bhayani's link:https://www.youtube.com/watch?v=h30k7YixrMo[Redis from scratch video^] and the link:https://www.youtube.com/@TsodingDaily[TsodingDaily^], link:https://www.youtube.com/@Computerphile[Computerphile^], link:https://www.youtube.com/@CoreDumpped[Core Dumped^], and link:https://www.youtube.com/@arjay_the_dev[Arjay the Dev^] channels.
+    ** The group discussed how interrupt controllers signal the CPU, how interrupt handlers return to the interrupted process, and how this differs from polling.
+    ** Pranav explained flip-flop and combinational circuits using a pipe analogy.
+    ** Harsh shared his link:https://github.com/HarshKapadia2/compilation-examples[compilation examples^] and recommended link:https://godbolt.org[Godbolt (Compiler Explorer)^] and talks by its creator, Matt Godbolt.
+    ** Other resources shared included link:https://youtu.be/A9WLYbE0p-I[a video on hardware^], link:https://blog.darshanrander.com/posts/tech/owndb/[Darshan's post on building a database^], and Bhavesh's posts on link:https://dev.to/bhavesh_kukreja/how-do-lists-really-work-in-python-4cmn[Python lists^] and link:https://dev.to/bhavesh_kukreja/a-deep-dive-into-python-dictionaries-4758[Python dictionaries^].
+    ** Bhavesh and Harsh also shared articles on link:https://blog.codingconfessions.com/p/why-do-we-need-virtual-memory[virtual memory^] and link:https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram[how Unix spell ran in 64 KB of RAM^].
+* Darshan described an idea for a Docker MCP server that would connect to the Docker daemon rather than just wrap Docker CLI commands.
+    ** He also explained how Linux control groups (cgroups) limit a process's CPU and memory use. The group discussed CPU pinning and its possible performance trade-offs.
+* Bhavesh mentioned writing about how Firefox's `Ctrl+F` works and exploring how `printf` works. Harsh encouraged him to give a short talk about the topic.
+* Bhavesh said he wanted to build a useful product but was unsure what to make.
+    ** Darshan suggested building a tool that helps people understand lower-level computer science concepts, inspired by link:https://cpu.land[CPU.land^].
+    ** Darshan also shared an idea to read the HashiCorp Vault source code and record an explanation of it.
