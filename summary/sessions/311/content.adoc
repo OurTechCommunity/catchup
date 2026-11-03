@@ -1,0 +1,22 @@
+Date: 24-10-2026
+
+Duration: 2 hrs 58 mins
+
+==== Topics Discussed
+
+* Janvi Matani talked about _CyberWatch AI_, a college mini project that uses a Kaggle network traffic dataset to separate normal traffic from attacks, since normal traffic clusters together when plotted.
+* Alpesh Bhagwatkar talked about the recent eMudhra incident and the likely causes of weak key generation, like type truncation, a malformed seed or bad entropy sourcing, when OpenSSL makes generating random numbers easy.
+    ** He also showcased his portfolio site with his link:https://www.hackthebox.com[Hack The Box^] certifications, which he called the LeetCode equivalent for cybersecurity.
+* Pranav Dani explained his work on Hyper-V at Microsoft.
+    ** Hyper-V is Microsoft's hypervisor product, the way ESX is VMware's. Virtual machines on Windows go through it and Azure runs on it. His work is implementing features and debugging low level OS handling.
+* Raghav Rathi talked about his job on a core Python microservices team with LLM integration, where he works end to end across backend, QA and deployment.
+    ** He asked how to justify his skills in interviews after 1.5 years of mostly AI-assisted work, since the market for the 2025 batch has fallen. The group suggested side projects and sticking with a company where the work is good.
+* The group debated personal branding on LinkedIn and exaggerated resumes, and whether "fake it till you make it" works when hiring rarely verifies the work.
+* Janvi asked whether first years should still learn syntax when AI writes most of the code.
+    ** Raghav said to focus on architecture and building projects. Pranav disagreed and said time spent writing and understanding code yourself pays off later.
+* Urmil Saini shared that he is following link:https://missing.csail.mit.edu[The Missing Semester of Your CS Education^], and that seeing what OTC members do was both exciting and demotivating.
+* Chirag Nayyar, who completes 10 years in his career in November, gave career advice.
+    ** Do not compare yourself with others, pick one path, and remember that fundamentals like IP subnetting still matter. MLOps is the new name for the deployment work DevOps already did.
+    ** Most of his job switches came through referrals, not applications, and keeping the customer happy matters more than internal politics, which he learned from Amazon's leadership principles.
+    ** C{pp} and legacy systems like Sun Solaris and SPARC still pay well in telcos and government companies.
+* Raghav shared that he uses Claude Pro and finds Opus the best model for development, research and documentation.
