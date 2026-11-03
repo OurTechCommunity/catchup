@@ -4,27 +4,23 @@ Duration: 3 hrs 36 mins
 
 ==== Topics Discussed
 
-* General introductions. Devesh Patil joined for the first time and shared that he works as a front end engineer on a B2B SaaS platform for FMCG manufacturers, building new modules in React 19.
+* Devesh Patil shared that he works as a front end engineer on a B2B SaaS platform for FMCG manufacturers, building new modules in React 19.
 * Janvi Matani said she has started learning link:https://spring.io/projects/spring-boot[Spring Boot^] because she is oriented towards Java, alongside her MERN and PostgreSQL work.
     ** She also mentioned that she keeps getting filtered out at the aptitude round (OA), which is the entry point for most companies she has applied to.
-* Abhi Singh talked about his two years of backend work with Java and Spring Boot 3.3.2, and explained the parts of the ecosystem he has used.
-    ** link:https://spring.io/projects/spring-security[Spring Security^] provides built in authentication and makes it easier to integrate providers like Google or link:https://www.keycloak.org[Keycloak^].
-    ** link:https://spring.io/projects/spring-cloud[Spring Cloud^] is an extension of the Spring Boot framework for managing distributed systems and microservices. It ships ready to use patterns for service discovery, load balancing and centralised configuration management. It is not a hosting platform or a cloud provider wrapper.
-* Abhi explained why a team moves from a monolith to microservices, using domain driven design.
-    ** In a monolith you define module boundaries but everything runs on one server, usually against one database.
-    ** In microservices you split by domain boundary so that a service can scale on its own. His example was an e-commerce app where the catalog service takes far more traffic than payments or notifications, because most visitors browse without buying.
-    ** Each microservice gets its own database and its own deployment. Services talk over HTTP, REST clients or gRPC, and often asynchronously through a message broker or queue.
-    ** Services do not know each other by IP because IPs change, so they resolve each other by service name.
-    ** This is where Spring Cloud comes in. Services register themselves with a discovery server such as link:https://github.com/Netflix/eureka[Netflix Eureka^] and send it a heartbeat, a periodic signal saying the instance is alive, so the registry always knows which services are up before another service tries to call them.
-* Harsh Kapadia pointed out to Janvi that this is how you learn from someone with hands on experience: ask people what they built with a technology and what they liked or disliked about it, even if you have barely used it yourself.
+    ** Abhi Singh talked about his two years of backend work with Java and Spring Boot 3.3.2, and explained the parts of the ecosystem he has used.
+        *** link:https://spring.io/projects/spring-security[Spring Security^] provides built in authentication and makes it easier to integrate providers like Google or link:https://www.keycloak.org[Keycloak^].
+        *** link:https://spring.io/projects/spring-cloud[Spring Cloud^] is an extension of the Spring Boot framework for managing distributed systems and microservices. It ships ready to use patterns for service discovery, load balancing and centralised configuration management. It is not a hosting platform or a cloud provider wrapper.
+    ** Abhi explained why a team moves from a monolith to microservices, using domain driven design.
+        *** In a monolith you define module boundaries but everything runs on one server, usually against one database.
+        *** In microservices you split by domain boundary so that a service can scale on its own. His example was an e-commerce app where the catalog service takes far more traffic than payments or notifications, because most visitors browse without buying.
+        *** Each microservice gets its own database and its own deployment. Services talk over HTTP, REST clients or gRPC, and often asynchronously through a message broker or queue.
+        *** Services do not know each other by IP because IPs change, so they resolve each other by service name.
+        *** This is where Spring Cloud comes in. Services register themselves with a discovery server such as link:https://github.com/Netflix/eureka[Netflix Eureka^] and send it a heartbeat, a periodic signal saying the instance is alive, so the registry always knows which services are up before another service tries to call them.
+    ** Harsh Kapadia pointed out to Janvi that this is how you learn from someone with hands on experience: ask people what they built with a technology and what they liked or disliked about it, even if you have barely used it yourself.
 * Pranav Dani said the Pixel 11 launched and that Google raised the price while cutting the RAM and the battery size, and removed the temperature sensor that had been on the back since the Pixel 8, replacing it with a light that glows in Gemini's colours.
     ** Abhi argued that reducing RAM is the wrong move now that more AI compute is moving to the client side, and said 16 GB was already not enough for him when running a backend and frontend dev server while screen sharing.
     ** Pranav's counterpoint was that the real problem is that software is not optimised any more, and that everything is a web app loading the same libraries again and again just because it can.
 * Harsh recommended Hussein Nasser's new video on Postgres internals, and liked that he has switched to a whiteboarding format that feels more human than drawing on a digital surface.
-* Harsh also shared three videos on CPU and concurrency performance.
-    ** link:https://youtu.be/9lpbN7FXfy8[Profit or Poverty: False Sharing^] on cache lines and false sharing.
-    ** link:https://youtu.be/tND-wBBZ8RY[The Cost of Concurrency Coordination with Jon Gjengset^] on the different types of locks and mutexes.
-    ** link:https://youtu.be/BVVNtG5dgks[Matt Godbolt: Advanced Skylake Deep Dive^] on instruction pipelining and how people benchmark a CPU to work out its architecture.
 * Jaden Furtado shared that his paper got selected for the inaugural Black Hat India and that he will be presenting in Bengaluru on the 29th and 30th of October.
     ** link:https://www.blackhat-india.com/briefings-schedule?day=friday#hiding-a-working-backdoor-in-136-kb-of-weights-architectural-backdoors-on-a-deployed-cybersecurity-llm-50022[Hiding a Working Backdoor in 136 KB of Weights: Architectural Backdoors on a Deployed Cybersecurity LLM^]
     ** The research is about backdooring an AI model. It targets sequence models in general, so it covers feed forward neural networks, CNNs, RNNs and LSTMs, not just sequence to sequence models.
@@ -96,7 +92,6 @@ Duration: 3 hrs 36 mins
     ** GAMILTRON was upfront that he vibe coded parts of it, mainly the JavaScript and the Node.js endpoints, and wrote the front end himself. Bhavesh suggested building the parts he is adding next by hand.
     ** Harsh's feedback was to deploy it in the actual restaurant and food van, because the real requirements only show up in use: customers coming back to the page five minutes later to check status, multiple orders on the same table when people arrive late, and what happens when someone does not fill in the table number.
     ** The group also debated QR code ordering itself. Bhavesh said he prefers ordering from a person and asking what the speciality is, because the interaction is part of the experience. Harsh's read was that restaurants are not avoiding human interaction, they are optimising for cost, and the lost interaction is a real trade off. GAMILTRON's case for it was the food van, where one person takes every order in a queue and customers have no time estimate.
-
 * Jaden demoed the maritime ship simulator he built, which was presented at DEF CON in Las Vegas.
     ** It came out of a series of critical vulnerabilities he and his team reported in 2020 that would have let anyone take over a ship. Demonstrating that live is piracy, so the simulator exists to show that the findings are dangerous without breaking the law.
     ** The ship model is built in Blender and exported as GLB, and the sea, sky, sunlight and reflections are all Three.js. The camera is controllable with the WASD keys, which is how the trailer was recorded.
@@ -108,3 +103,7 @@ Duration: 3 hrs 36 mins
 
 * link:https://www.youtube.com/watch?v=q9jixKv4h2I[you won't forget how postgres works after this (by Hussein Nasser)^]
 * link:https://www.youtube.com/watch?v=KGtko3y2RXQ[Claude is definitely not conscious… (by Fireship)^]
+* Harsh shared three videos on CPU and concurrency performance.
+    ** link:https://youtu.be/9lpbN7FXfy8[Profit or Poverty: False Sharing^] on cache lines and false sharing.
+    ** link:https://youtu.be/tND-wBBZ8RY[The Cost of Concurrency Coordination with Jon Gjengset^] on the different types of locks and mutexes.
+    ** link:https://youtu.be/BVVNtG5dgks[Matt Godbolt: Advanced Skylake Deep Dive^] on instruction pipelining and how people benchmark a CPU to work out its architecture.
