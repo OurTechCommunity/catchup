@@ -1,0 +1,19 @@
+Date: 19-09-2026
+
+Duration: 3 hrs 58 mins
+
+==== Topics Discussed
+
+* Urmil Saini shared that he is studying networking for cybersecurity and volunteered at a medical themed hackathon where teams combined hardware and software.
+* Alpesh Bhagwatkar talked about the vulnerabilities he has been reporting, including IDORs that came back after the vendor shipped an update.
+* Kartik Soneji explained that JavaScript's link:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split[`split()`^] adds the text matched by a capturing group to the result array, while a non-capturing group `(?:...)` does not.
+    ** He used it to normalise hand typed names in old FD records, where the separator was `&`, `and` or a comma.
+* Alpesh shared how to start with reverse engineering: reverse a hello world in C or C{pp}, learn how values are stored, add complexity, and follow and take notes from people who do it.
+* Urmil asked about learning paths on link:https://tryhackme.com[TryHackMe^].
+    ** Alpesh recommended the SOC Level 1 and Junior Penetration Tester paths, said to skip detailed notes for now, and pointed to link:https://www.hackthebox.com[Hack The Box^] for more depth.
+* Alpesh explained why Windows has a larger attack surface than Linux, with attacks like pass the hash and link:https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview[Active Directory^] at the core of most organisations.
+* Darshan Rander talked about a slow service at work that turned out to be a database problem, not a .NET one.
+    ** A load test with a day of real queries showed a 40 vCPU database handling only around 180 requests per second, because of `SELECT *` queries filtered in the app and extra round trips that could have been one query.
+* Darshan shared an interview question on what happens when a Redis cache goes down. He suggested an in memory cache, but the expected answer was link:https://redis.io/docs/latest/operate/oss_and_stack/management/replication[Redis replicas^].
+* Darshan and Kartik discussed building consent tools for the link:https://www.meity.gov.in/data-protection-framework[Digital Personal Data Protection (DPDP) Act^], and whether it will be enforced.
+* Darshan is building a small CRM for a friend to track FD maturities, loan EMIs and insurance across clients, generated with AI from an ER diagram he drew.
