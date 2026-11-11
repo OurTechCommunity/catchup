@@ -1,0 +1,16 @@
+Date: 26-09-2026
+
+Duration: 1 hr 10 mins
+
+==== Topics Discussed
+
+* Ayush More and Yashika Badaya talked about open source contributions as a way to get hired, with link:https://appwrite.io[Appwrite^] as an example of a company that hired a contributor.
+    ** Ayush suggested building a proof of work of meaningful merged PRs first, and then reaching out to the founder, engineering manager or HR of that company.
+* Ayush shared that he contributes to link:https://pipecd.dev[PipeCD^], a CNCF GitOps tool, mostly on the documentation and contributing experience side.
+* Bhavesh Kukreja talked about his internship search, campus placements and how a cold mail got him his first internship.
+* The group discussed the fresher job market and AI.
+    ** Bhavesh pointed out that freshers now compete with laid off experienced engineers, and companies prefer hires they do not need to train.
+    ** He mentioned a live stream by link:https://arpitbhayani.me[Arpit Bhayani^] on whether starting a B.Tech right now is worth it.
+* Bhavesh shared how he uses AI at his internship: Claude writes most of the code, he tests the product as a user, runs sub-agents to find security and performance issues, and feeds that report back to Claude.
+* Jaden Furtado mentioned he is currently handling an incident response.
+* Ayush and Bhavesh talked about the wording of the AI generated CatchUp summaries. Bhavesh offered to help improve link:https://github.com/OurTechCommunity/catchup/blob/main/summary/AGENTS.md[`summary/AGENTS.md`^] to avoid common AI writing patterns.
