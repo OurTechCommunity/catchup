@@ -27,13 +27,13 @@
 	},
 	"homepage": "https://github.com/OurTechCommunity/catchup#readme",
 	"dependencies": {
-		"@netlify/blobs": "^10.7.9",
-		"@netlify/edge-functions": "^3.0.8",
-		"dotenv": "^17.4.2"
+		"@netlify/blobs": "^11.1.9",
+		"@netlify/edge-functions": "^4.0.4",
+		"dotenv": "^18.0.1"
 	},
 	"devDependencies": {
-		"@commitlint/cli": "^21.0.2",
-		"@commitlint/config-conventional": "^21.0.2",
+		"@commitlint/cli": "^21.2.4",
+		"@commitlint/config-conventional": "^21.2.4",
 		"@types/node": "^20.19.43",
 		"husky": "^9.1.7",
 		"nodemon": "^3.1.14",
