@@ -1,4 +1,4 @@
-Tasty! 😋
+Tasty π 😋
 
 Date: 14-11-2026
 
@@ -28,7 +28,7 @@ Duration: 5 hrs 12 mins
 * A linked list was implemented and reversed in C without relying on AI-generated code.
     ** The group worked through the logic using current, previous, and next pointers and debugged the implementation together.
 * Distributed systems and consensus algorithms were discussed.
-    ** Pranav explained Raft, Paxos, fault tolerance, and replicated state machines. The discussion also covered CPU cache coherence protocols such as MESI.
+    ** Pranav explained fault tolerance, and replicated state machines. The discussion also covered CPU cache coherence protocols such as MESI.
 * The group discussed Hyper-V and hardware virtualization.
     ** The discussion covered hypervisors, virtual machines, and hardware virtualization support across AMD, Intel, ARM, and Qualcomm platforms.
 * Internships, career opportunities, and the education system were also discussed.
@@ -45,5 +45,3 @@ Duration: 5 hrs 12 mins
 
 * Interaction Models: link:https://thinkingmachines.ai/blog/interaction-models/[Thinking Machines^]
 * link:https://q-ivd.github.io/[Q-VD^]
-* link:https://raft.github.io[Raft^]
-    ** link:https://raft.github.io/raft.pdf[Raft Research Paper^]
