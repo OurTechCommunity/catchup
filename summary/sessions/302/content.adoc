@@ -1,0 +1,58 @@
+Date: 22-08-2026
+
+Duration: 1 hr 59 mins
+
+==== Topics Discussed
+
+* Alpesh Bhagwatkar advised GAMILTRON on what to do after a cybersecurity course.
+    ** He recommended mixing attacker and defender work, including uploading a malicious file and watching the SOC alerts it raises, as a path toward purple teaming.
+    ** He suggested finishing relevant link:https://tryhackme.com[TryHackMe^] paths, then moving to link:https://www.hackthebox.com[Hack The Box^] if budget allows.
+    ** The group noted that HRs often recognize link:https://www.offsec.com/courses/pen-200[OSCP^], OSCE, and CEH, while some startups also look at Hack The Box certs such as CJCA.
+    ** Alpesh said certs help, but they do not guarantee an internship, and some Hack The Box courses are several years old.
+* GAMILTRON asked whether to keep learning full-stack development alongside cybersecurity.
+    ** Alpesh and Kartik Soneji warned that it is easy to burn out, and suggested keeping the load moderate.
+* GAMILTRON described getting stuck on link:https://nodejs.org[Node.js^] backends, especially async functions and promises.
+    ** Alpesh suggested starting with simpler syntax and learning by writing more code.
+    ** Kartik argued that if you do not understand the code you ship, especially with AI, you are guessing at the output. He said you are responsible for what you commit.
+* Alpesh suggested contributing to open-source security tools used on Kali, such as link:https://www.metasploit.com[Metasploit^] and link:https://github.com/projectdiscovery/nuclei[Nuclei^], by fixing issues or submitting scripts that follow each project's contribution guide.
+* Siddharth Kaduskar asked how cybersecurity people profile system behavior, not users.
+    ** He used a link:https://react.dev[React^] to-do app as an example: API calls, UI updates, and what happens when more than one person edits the same list.
+    ** He wanted to infer that behavior from interaction and traces, without having the source or the running internals on a platter.
+    ** Alpesh first answered from a vulnerability-hunting view: map data flow, then look at sinks such as file includes and file reads, and check whether input is sanitized.
+    ** Siddharth clarified he wanted the mechanic or doctor view first: understand how the system works, not jump straight to exploitation.
+* The group discussed fingerprinting a site's technology stack from the outside.
+    ** Alpesh pointed to Web Analyzer-style browser plugins that detect frameworks and versions from JavaScript, HTML, CSS, and asset hashes.
+    ** Kartik noted that a default link:https://vercel.com[Vercel^] favicon can suggest link:https://nextjs.org[Next.js^], and that favicon hashes can even differ by version.
+    ** Darshan Rander said link:https://mui.com[Material UI^] is often obvious from CSS class names, and that a favicon is only one signal. It cannot prove every dependency on its own.
+    ** They also mentioned user fingerprinting via cached favicons and response latency.
+* Siddharth narrowed the profiling question to AI orchestration, not the model itself.
+    ** Examples included Retrieval Augmented Generation (RAG) and cache-augmented generation, plus how a system fetches embeddings from a vector database.
+    ** Jaden distinguished monitoring the model from monitoring the whole system, and treated observability as the starting point.
+    ** Siddharth said a raw KPI such as token count is useless without a baseline. 102k tokens may be normal if the system usually uses 100k, and wrong if it usually uses far less.
+    ** Jaden walked through agent-based log collection with link:https://wazuh.com[Wazuh^], a log ingester, and alert rules. Siddharth compared that to link:https://azure.microsoft.com/products/monitor[Azure Monitor^], log analytics, link:https://opentelemetry.io[OpenTelemetry^], and link:https://www.elastic.co[Elastic^].
+    ** Kartik framed baseline checks as hypothesis testing: how likely is a new sample to belong to the known distribution. He said Bayesian models can lag when load changes unless old readings are dropped.
+* Kartik and Siddharth discussed anomaly detection for non-deterministic AI output.
+    ** Siddharth described a "wobble" band: same input, slightly different output, measured over many runs with a significance threshold.
+    ** He asked for the same idea on ordinary software, not only LLM systems.
+    ** Kartik recommended spectral fault analysis: use test cases, intermediate values, and execution paths to locate the part of the code that is failing.
+    ** Siddharth said this is close to agent-eval frameworks that treat a workflow as a black-box graph.
+* Alpesh and Jaden discussed delayed responses after reporting bugs in open-source software.
+    ** Alpesh reported remote code execution through argument injection, with no input validation, and a privilege-escalation issue that let a developer become an owner if they knew a project ID.
+    ** Jaden described an older server-side request forgery (SSRF) that was not patched correctly, and said he would disclose it if there was still no reply after three months.
+* Alpesh asked whether his custom AI harness for cybersecurity could become a research project or paper.
+    ** The idea is to replay vulnerabilities he has already found, using cheaper abliterated models, and see how many issues the harness can rediscover.
+    ** Jaden is presenting related work at link:https://www.blackhat.com[Black Hat^] in October, including injecting an architectural backdoor into a model.
+    ** For research beyond LLMs, Jaden suggested model guardrails, explainable AI, attacking models on embedded and IoT devices, and hardware security.
+    ** He also said industry talks at Black Hat and link:https://defcon.org[DEF CON^], given often enough, can carry as much weight as papers for some paths.
+* Alpesh gave an update on a hardware security event.
+    ** It includes a hardware CTF, hardware badges for the top three winners, and a student fireside chat with CISOs.
+    ** Challenge work was handed to Rohit of Nexa Craft, who is taking a longer-term CTO-style role for the recurring event.
+* Kartik, Jaden, and Alpesh discussed government-related penetration-test work and empanelment.
+    ** Jaden said many such contracts cap pay, that empanelment often tests process more than technical skill, and that some vendors compete on volume (around 30 tests a month) rather than quality.
+    ** He argued a careful test of even a simple app can take about 15 days. He named Paya2 and Globals as vendors he still considers strong.
+    ** Kartik suggested sending a proposal on their own terms, even at a high price, so the bid still creates introductions and later options.
+* Siddharth and Alpesh talked about master's programs versus a research career.
+    ** Siddharth said a short master's is a weak research path, and that work under a productive professor matters more than the university brand.
+    ** Alpesh said his main goal is a strong university abroad, not necessarily a research career. Siddharth then advised focusing on admissions rather than papers if relocation and a job are the aim.
+    ** Alpesh also described cybersecurity as an aggregation of fields, not a narrow specialty. You often need development knowledge, and topics such as side-channel attacks need hardware and circuit-level understanding.
+* Alpesh mentioned using Twitter to follow people who are shipping work, rather than posting, as a way to stay current on new models and tools.
