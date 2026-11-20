@@ -1,0 +1,44 @@
+Date: 12-09-2026
+
+Duration: 1 hr 9 mins
+
+==== Topics Discussed
+
+* Kushagra Mehta explained a multi-agent setup that sends a prompt to analyzer, verifier or solver, and finalizer roles.
+    ** The analyzer produces an answer plus a confidence score. If confidence is above 0.5, the next agent uses a cheaper or mid-tier model. It only makes small fixes.
+    ** If confidence is lower, the setup sends the request to a stronger, more expensive model.
+    ** The current design uses three tiers:
+        *** a local model
+        *** an intermediate model such as link:https://ollama.com[Ollama^]
+        *** paid models such as link:https://www.anthropic.com/claude[Claude^] and GPT-4
+    ** Jaden Furtado said this is mainly a workflow. He said similar behavior could be specified with much less custom code. Kushagra agreed it is closer to a fine-tuned architecture than a novel idea.
+    ** Kushagra said that a model that scores its own answer is unreliable. The model can hallucinate or overrate the result.
+    ** Alpesh Bhagwatkar asked how routing would work when candidate models are close in quality, such as link:https://www.deepseek.com[DeepSeek^] and GLM. Kushagra said the current tiers are far apart. He said near-equivalent models still need more work.
+    ** He said a conference on cognitive computing and generative AI accepted the paper. He said he would try to bring a demo next time.
+* A discussion on how to report prohibited material found online took place.
+    ** Kartik Soneji said the report depends on the case:
+        *** a DMCA request for copyright
+        *** a report to the people who would be harmed by a leak
+        *** a report to the host or link:https://www.cloudflare.com[Cloudflare^] when Cloudflare serves the site
+    ** He also mentioned an earlier Cloudflare report. The site later went offline. It was unclear whether that one report caused the takedown.
+* Alpesh asked whether to study Windows internals or AI-based testing in more depth.
+    ** He said AI testing looks more open right now. His Windows background is closer to introductory link:https://www.offsec.com/courses/pen-200[OSCP^] Active Directory work. It is not kernel APIs, drivers, or fuzzing.
+    ** He also described his final-year project as a custom AI harness for finding security issues.
+* Janvi Matani asked whether cybersecurity is still a viable field.
+    ** Alpesh said security work will stay necessary. The entry bar is higher because basic web app pentesting is now heavily automated.
+    ** He treated cybersecurity as a broad study of systems, not a narrow specialty. That study includes websites, databases, APIs, and how AI agents tokenize, prompt, and act.
+    ** For college study, he suggested that the syllabus overlap with current needs:
+        *** agentic engineering
+        *** harness development
+        *** context engineering
+        *** loop or graph-based control of API calls
+    ** He named LLM safety tools as a way to stay current on issues such as prompt injection.
+
+==== Projects Showcased
+
+* Janvi Matani described her link:https://www.sih.gov.in[Smart India Hackathon (SIH)^] project on railway block management.
+    ** Maintenance, electricity, and signaling teams currently send separate block requests. This makes it hard to judge criticality. It also makes it hard to keep routes useful for passengers.
+    ** The idea is an AI optimizer in the middle. The optimizer ranks blocks and reduces manual coordination. A human stays in control.
+    ** She also does link:https://spring.io[Spring^] CRUD work for the project. She uses map data, APIs, and scraping, including link:https://www.openstreetmap.org[OpenStreetMap^]. She said Maharashtra alone has about 370 corridors.
+    ** Alpesh suggested that she talk to railway staff instead of relying only on AI-generated data. He offered to connect her with Ankush Kapoor. Ankush Kapoor's father works at CSTM.
+    ** She also mentioned a separate fishermen-safety idea. The idea includes coastal hazard and cyclone alerts. It also includes a way for boats to communicate when a stretch of coast is unsafe.
