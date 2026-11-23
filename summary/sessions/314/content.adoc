@@ -1,0 +1,47 @@
+Tasty π 😋
+
+Date: 14-11-2026
+
+Duration: 5 hrs 12 mins
+
+==== Topics Discussed
+
+* The session began with an online Tech Housie competition hosted by the OTC community where the top 5 winners received tickets to Google DevFest Mumbai.
+* Jaden Furtado presented his research on backdoors in AI models.
+    ** He explained that models are mathematical approximations of functions, meaning LLMs, regression models, and classifiers can all be modified to produce attacker-controlled outputs.
+    ** Backdoors are hidden behaviours that are difficult to detect and can be especially dangerous in systems such as facial recognition, fingerprint scanners, and KYC. He also discussed the time and computational effort involved in training these models, including an example that took around five hours to train.
+    ** An autoencoder can help detect unusual trigger inputs by learning to reconstruct familiar data and struggling with unseen inputs.
+    ** Jaden demonstrated how an additional layer on an LLM's hidden state can allow normal prompts to pass through while changing the response when a trigger is detected. A model that refused a DDoS-related request, for example, complied after the trigger was introduced.
+    ** The discussion covered cryptographic backdoors using matrix inversion, the difficulty of detecting them, and comparing suspicious models with trusted reference versions of the same public LLM.
+* We discussed backdoors, jailbreaks, and abliteration.
+    ** Unlike jailbreaks, which manipulate model behaviour through prompts, backdoors are deliberately implanted into the model. This is particularly relevant to self-hosted and open-weight models, where model integrity and dataset poisoning are important concerns.
+    ** Abliteration removes or modifies refusal-related components, potentially weakening safety behaviour and output quality. The group also discussed how adding a layer to manipulate model responses can function as a backdoor.
+* The group discussed unified email clients and self-hosted email solutions.
+    ** The idea was to have a single inbox supporting multiple accounts and SMTP providers, with the option to self-host.
+    ** link:https://github.com/peltonapp/Pelton[Pelton^] was shared as an open-source desktop email client. Its macOS build is unsigned, so building from source was discussed as a workaround.
+    ** Other alternatives included link:https://0.email[0.email^], link:https://roundcube.net[Roundcube^], and link:https://www.sogo.nu[SOGo^]. Roundcube and SOGo require a mail server to be configured.
+* Broad OAuth permissions requested by hiring platforms were discussed.
+    ** One platform requested access to private GitHub repositories, deploy keys, and write permissions despite seemingly needing only public repository data. This raised concerns about granting unnecessary permissions to third-party applications.
+* The group discussed a command-line tool for spoken time reminders, using text-to-speech with a choice of voices.
+* A DevFest pre-event called the Startup Founders Mixer was mentioned.
+    ** The event details will be shared in the OTC events channel.
+* A linked list was implemented and reversed in C without relying on AI-generated code.
+    ** The group worked through the logic using current, previous, and next pointers and debugged the implementation together.
+* Distributed systems and consensus algorithms were discussed.
+    ** Pranav explained fault tolerance, and replicated state machines. The discussion also covered CPU cache coherence protocols such as MESI.
+* The group discussed Hyper-V and hardware virtualization.
+    ** The discussion covered hypervisors, virtual machines, and hardware virtualization support across AMD, Intel, ARM, and Qualcomm platforms.
+* Internships, career opportunities, and the education system were also discussed.
+    ** Topics included college internship policies, NOCs, placement requirements, CGPA expectations, and the importance of building practical skills and a strong portfolio.
+
+==== Projects Showcased
+
+* Darshan Rander showcased a Vercel-style preview deployment system.
+    ** When a project contains a Dockerfile, the system builds its image and creates a preview deployment.
+    ** Providing a repository URL creates a job in a link:https://kubernetes.io[Kubernetes^] cluster. The job uses link:https://github.com/moby/buildkit[BuildKit^] to build the image and pushes it to a container registry configured within the same cluster.
+    ** The current implementation is still a prototype, and the entire workflow runs locally for now.
+
+==== Additional Links
+
+* Interaction Models: link:https://thinkingmachines.ai/blog/interaction-models/[Thinking Machines^]
+* link:https://q-ivd.github.io/[Q-VD^]
