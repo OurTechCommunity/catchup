@@ -1,0 +1,30 @@
+Date: 22-08-2026
+
+Duration: 1 hr 59 mins
+
+==== Topics Discussed
+
+* GAMILTRON asked what to do after finishing a cybersecurity course.
+    ** Alpesh Bhagwatkar suggested mixing attacker and defender work as a path toward purple teaming, and moving from link:https://tryhackme.com[TryHackMe^] to link:https://www.hackthebox.com[Hack The Box^].
+    ** The group discussed which certs recruiters recognize, such as link:https://www.offsec.com/courses/pen-200[OSCP^] and CEH, and noted that certs alone do not guarantee an internship.
+    ** Alpesh and Kartik Soneji suggested keeping the load moderate when learning full-stack development alongside cybersecurity.
+* GAMILTRON mentioned getting stuck on async functions and promises in link:https://nodejs.org[Node.js^].
+    ** Alpesh suggested learning by writing more code.
+    ** Kartik pointed out that you are responsible for the code you commit, especially when it is written with AI.
+* Alpesh suggested contributing to open source security tools such as link:https://www.metasploit.com[Metasploit^] and link:https://github.com/projectdiscovery/nuclei[Nuclei^] by fixing issues or submitting scripts.
+* Siddharth Kaduskar asked how to understand a system's behavior from the outside, without access to its source.
+    ** Alpesh shared the vulnerability-hunting approach of mapping data flow and checking sinks for unsanitized input.
+* The group discussed fingerprinting a site's technology stack from the outside.
+    ** Examples included browser plugins that detect frameworks, default link:https://vercel.com[Vercel^] favicons hinting at link:https://nextjs.org[Next.js^], and link:https://mui.com[Material UI^] class names.
+* Siddharth asked about monitoring AI orchestration, such as Retrieval Augmented Generation (RAG) pipelines, rather than the model itself.
+    ** Jaden Furtado suggested starting with observability and described log collection and alerting with link:https://wazuh.com[Wazuh^].
+    ** Siddharth compared it with link:https://azure.microsoft.com/products/monitor[Azure Monitor^], link:https://opentelemetry.io[OpenTelemetry^] and link:https://www.elastic.co[Elastic^], and pointed out that metrics like token count need a baseline.
+    ** Kartik described baseline checks as hypothesis testing against a known distribution.
+* Kartik and Siddharth discussed anomaly detection for non-deterministic output, where the same input gives slightly different results.
+    ** Kartik recommended spectral fault analysis to locate failing code from test cases and execution paths.
+* Alpesh and Jaden talked about slow responses from maintainers after reporting security bugs in open source software, and when to disclose publicly.
+* Alpesh asked whether his custom AI harness for cybersecurity could become a research paper, by testing how many known vulnerabilities it can rediscover.
+    ** Jaden mentioned his upcoming link:https://www.blackhat.com[Black Hat^] talk on injecting an architectural backdoor into a model.
+    ** He suggested research areas such as model guardrails, explainable AI, attacks on models on embedded devices, and hardware security.
+* Alpesh gave an update on a hardware security event with a hardware CTF and a student fireside chat with CISOs.
+* The group discussed government penetration testing work, and how empanelment often tests process more than technical skill.
