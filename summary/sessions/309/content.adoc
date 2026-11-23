@@ -1,0 +1,42 @@
+Date: 10-10-2026
+
+Duration: 4 hrs
+
+==== Topics Discussed
+
+* Alpesh Bhagwatkar asked Harsh Khatri how to secure and contain AI agents in an organization.
+    ** Harsh explained that existing API permissions already limit what an agent can do, while Retrieval Augmented Generation (RAG) data needs its own role-based access control.
+    ** For containment, he described a three-layer setup that separates public data, company data and actions, so an agent that has read one layer cannot move to the next.
+    ** Alpesh also asked about data poisoning. Harsh said it is less of a risk for them because the data comes from clients and their agents do not browse the internet.
+* Alpesh talked about his plan to build a harness for security work, and Harsh Khatri mentioned harnesses such as Pi and Hermes as starting points.
+    ** Harsh suggested building and studying side by side, since limits found during implementation show what to study next.
+* Aryan Shah talked about leading the software side of a hardware passkey for second-factor authentication, using Flutter, Rust and Go.
+* Pranav Dani talked about his work on link:https://learn.microsoft.com/windows-server/virtualization/hyper-v/overview[Hyper-V^], which Azure virtual machines run on.
+    ** He described bug triage using logs, dumps and assembly, and writing test cases for AMD Secure Nested Paging (SNP).
+    ** He mentioned that most of the work is in C, with assembly only when needed.
+* The group discussed how to show experience when your current work does not run at scale.
+    ** Suggestions included open source contributions, reaching out to founders and CTOs directly, and writing blogs about problems solved at work.
+* We compared AI tools for coding and security work.
+    ** Harsh Khatri uses link:https://t3.codes[T3 Code^] and recommended Claude Opus 5.5, while Alpesh preferred link:https://grok.com[Grok^] for security and infrastructure tasks.
+    ** Harsh suggested publishing a small benchmark of practical examples to compare models, and Alpesh said he would try it.
+* We talked about customer support agents, and Harsh Khatri pointed out that Anthropic's own guidance says to escalate to a human when the user asks for one.
+* Harsh Kapadia recommended link:https://www.brendangregg.com[Brendan Gregg's^] writing on performance.
+    ** He showed a video of Brendan Gregg using DTrace and Fishworks analytics to show how shouting at disks increases I/O latency through vibration.
+    ** We also watched Bryan Cantrill's YC application video. He is a co-founder of link:https://oxide.computer[Oxide Computer^].
+* Rishit Dagli shared that papers at a conference he reviewed for had hidden prompt injections to catch LLM-written reviews, but newer models detect and ignore them.
+* Rishit talked about AI writing detectors such as link:https://www.pangram.com[Pangram^] and the Wikipedia guide link:https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing[Signs of AI writing^].
+    ** He shared that a friend used reinforcement learning with the Pangram score as the reward to fine-tune an LLM to write in a human way.
+
+==== Projects Showcased
+
+* Kumar Sahani showcased _Prompt Tuner_, a tool for debugging large agent prompts.
+    ** It simulates the agent's output and shows a heat map of which parts of the prompt influenced it, which helps find contradicting instructions.
+    ** Harsh Khatri compared it to agent evals and harness engineering, and Rishit pointed out it is similar in spirit to sparse autoencoders.
+    ** Kumar added burst limits with a paid option for higher usage to handle the traffic.
+* Harsh Kapadia showcased CPU benchmarks he wrote in C to learn how systems work, and plans to give a talk on them in Mumbai in December.
+    ** He showed a core-to-core latency test inspired by link:https://github.com/nviennot/core-to-core-latency[core-to-core-latency - GitHub^], and a random pointer chase that reveals L1, L2 and L3 cache sizes.
+    ** He also walked through link:https://www.cs.virginia.edu/stream[STREAM^], the standard memory bandwidth benchmark, and its copy, scale, add and triad kernels.
+    ** We learned that "kernel" in STREAM just means a small piece of benchmark code, not an OS or GPU kernel.
+* Alpesh showed his portfolio and got feedback on it.
+    ** Harsh Kapadia liked the minimal design and suggested simpler, more direct wording in the about section.
+    ** Alpesh plans to add case studies of his security findings, with the workflow, the fix and what could have been done better.
