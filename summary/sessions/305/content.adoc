@@ -1,0 +1,25 @@
+Date: 12-09-2026
+
+Duration: 1 hr 9 mins
+
+==== Topics Discussed
+
+* Kushagra Mehta explained his multi-agent setup that routes a prompt to a cheaper or stronger model based on a confidence score. A conference on cognitive computing and generative AI accepted his paper on it.
+    ** The tiers range from a local model to paid models such as link:https://www.anthropic.com/claude[Claude^] and GPT-4.
+    ** The group discussed whether it is mostly a workflow, how reliable self-scoring is, and how routing would work between models of similar quality, such as link:https://www.deepseek.com[DeepSeek^] and GLM.
+    ** He said he would try to bring a demo next time.
+* We talked about how to report prohibited material found online.
+    ** Kartik Soneji said it depends on the case: a DMCA request for copyright, a report to the people a leak would harm, or a report to the host or link:https://www.cloudflare.com[Cloudflare^] when Cloudflare serves the site.
+* Alpesh Bhagwatkar asked whether to study Windows internals or AI-based testing in more depth.
+    ** He said AI testing looks more open right now, and his Windows background is closer to introductory link:https://www.offsec.com/courses/pen-200[OSCP^] Active Directory work than kernel or driver work.
+    ** He mentioned his final-year project, a custom AI harness for finding security issues.
+* Janvi Matani asked whether cybersecurity is still a viable field.
+    ** Alpesh said security work will stay necessary, but the entry bar is higher because basic web app pentesting is now heavily automated.
+    ** He suggested also learning agentic engineering, harness development and context engineering, and following LLM safety tools to stay current on issues such as prompt injection.
+
+==== Projects Showcased
+
+* Janvi Matani talked about her link:https://www.sih.gov.in[Smart India Hackathon (SIH)^] project, an AI optimizer that ranks railway block requests from maintenance, electricity and signaling teams, with a human in control.
+    ** She works on the link:https://spring.io[Spring^] CRUD side and uses map data, APIs and scraping, including link:https://www.openstreetmap.org[OpenStreetMap^].
+    ** Alpesh suggested talking to railway staff instead of relying only on AI-generated data.
+    ** She also mentioned a separate idea for fishermen safety, with coastal hazard and cyclone alerts and a way for boats to communicate.
