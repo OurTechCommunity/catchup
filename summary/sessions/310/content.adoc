@@ -4,7 +4,7 @@ Duration: 2 hrs 30 mins
 
 ==== Topics Discussed
 
-* Urmil shared that she is exploring cybersecurity, starting with defensive work and networking.
+* Urmil shared that he is exploring cybersecurity, starting with defensive work and networking.
     ** The group suggested exploring the wider field instead of choosing a specific role too early.
 * We talked about learning computer systems from the lower levels up, including filesystems, PCIe, interrupts, and how hardware handles data.
     ** Harsh recommended trying hands-on exercises such as building a gate, Git or Redis with link:https://codecrafters.io[CodeCrafters^], and writing an HTTP server in C.
