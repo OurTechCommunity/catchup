@@ -1,0 +1,22 @@
+Date: 31-10-2026
+
+Duration: 1 hr 55 mins
+
+==== Topics Discussed
+
+* We talked about Ayush Shukla's presentation on the link:https://en.wikipedia.org/wiki/Digital_Personal_Data_Protection_Act,_2023[Digital Personal Data Protection (DPDP) Act^], which explained the law in a simple way.
+    ** Rehan S. and Alpesh Bhagwatkar discussed why media companies oppose the act, since it limits publishing personal details without consent.
+    ** They pointed out that, unlike privacy laws in other countries, the act has no clear exemption for investigative journalism or whistleblowers.
+    ** Viranchee L said the act does not cover data that leaked before it came into effect.
+* We talked about recent PHP and HTTP/2 patches, and cybersecurity in the finance sector.
+    ** The group discussed how regulatory fines are often smaller than the profit, so some companies treat them as a cost.
+    ** Alpesh said he expects more demand for purple teamers in finance.
+* We talked about triage roles at link:https://www.hackerone.com[HackerOne^], which are office-based in Pune rather than remote.
+* Viranchee gave resume advice.
+    ** He suggested keeping the resume short and clearly listing the technical work done and the technologies the job posting asks for.
+    ** He also suggested adding new projects to the resume as soon as they are done, and applying through link:https://hiring.cafe[HiringCafe^].
+* Viranchee pointed out demand for GPU programming, kernel development and compiler skills, such as working with GCC intermediate representations.
+* The group discussed the trade-offs between startups and large companies, and how startups give a chance to build things from scratch.
+* Kartik Jain shared an idea for a talk on version control for AI coding sessions.
+    ** The idea is to roll back both the code and the rules an agent saves for itself, such as the Markdown memory file used by Claude Code.
+    ** Alpesh suggested keeping the talk practical and researching what companies need.
